@@ -274,7 +274,7 @@ translate russian strings:
     old "Trainer"
     new "Тренер"
     old "Wolf Trainer"
-    new "Тренер Волков"
+    new "Дрессировщик волка"
 # 15.0
     old "Male student"
     new "Студент"
