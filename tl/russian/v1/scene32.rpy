@@ -843,12 +843,12 @@ translate russian v1s32_44f17122:
 translate russian strings:
 
     # game/v1/scene32.rpy:83
-    old "Chris"
-    new "Крис"
+#    old "Chris"
+#    new "Крис"
 
     # game/v1/scene32.rpy:83
-    old "Ryan"
-    new "Райн"
+#    old "Ryan"
+#    new "Райн"
 
     # game/v1/scene32.rpy:134
     old "You're right"
