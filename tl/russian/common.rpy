@@ -1029,7 +1029,7 @@ translate russian strings:
     new "Сохранить"
 
     old "Window"
-    new "Оконный"
+    new "Окно"
 
     old "Full Screen"
     new "Полноэкранный"
