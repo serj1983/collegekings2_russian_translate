@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v2/scene1.rpy:242
 translate russian v2s1_0979a483:
@@ -671,4 +672,152 @@ translate russian strings:
     # game/v2/scene1.rpy:765
     old "It's not fair, no."
     new "Это несправедливо, нет."
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v2/scene1.rpy:313
+translate russian v2s1_79465600:
+
+    # imre "So, the fact that you stood on the side lines looking like a knight in shining armor. That has nothing to do with why they broke up?"
+    imre "Значит, тот факт, что ты стоял в стороне, выглядя как рыцарь в сияющих доспехах, не имеет никакого отношения к тому, почему они расстались?"
+
+# game/v2/scene1.rpy:395
+translate russian v2s1_b74efbbf:
+
+    # imre "I don't like that you're right, but... you are."
+    imre "Мне не нравится, что ты прав, но... Ты прав."
+
+# game/v2/scene1.rpy:407
+translate russian v2s1_79c95ef3:
+
+    # imre "You're lucky I came to talk to you first, man... 'cause I was more than ready to tell him everything I know."
+    imre "Тебе повезло, что я поговорил с тобой первым, чувак... Потому что я был более чем готов рассказать ему всё, что знаю."
+
+# game/v2/scene1.rpy:424
+translate russian v2s1_2f5b741c:
+
+    # u "I know, trust me. It's a delicate situation."
+    u "Я знаю, поверь мне. Это деликатная ситуация."
+
+# game/v2/scene1.rpy:445
+translate russian v2s1_c4cb76d2:
+
+    # imre "My man..."
+    imre "Мой чел..."
+
+# game/v2/scene1.rpy:450
+translate russian v2s1_96771fca:
+
+    # u "I pick up what you're putting down."
+    u "Я улавливаю то, что ты записываешь."
+
+# game/v2/scene1.rpy:467
+translate russian v2s1_42eb0bdf:
+
+    # u "Okay, bud."
+    u "Хорошо, приятель."
+
+# game/v2/scene1.rpy:475
+translate russian v2s1_c087bd3a:
+
+    # imre "I need to talk to someone about Chris and Nora... this is like when Ross and Rachel broke up, dude!"
+    imre "Мне нужно поговорить с кем-нибудь о Крисе и Норе... Это как когда Росс и Рейчел расстались, чувак!"
+
+# game/v2/scene1.rpy:496
+translate russian v2s1_0eeeb6fe:
+
+    # u "Yeah, of course I know."
+    u "Да, конечно, я знаю."
+
+# game/v2/scene1.rpy:501
+translate russian v2s1_632c9c26:
+
+    # imre "Ah, man... my heart is being torn all over again."
+    imre "Ах, мужик... Моё сердце разрывается снова и снова."
+
+# game/v2/scene1.rpy:506
+translate russian v2s1_b446761c:
+
+    # u "I didn't know how important their relationship was to you..."
+    u "Я не знал, насколько важны для тебя их отношения..."
+
+# game/v2/scene1.rpy:518
+translate russian v2s1_61df2c2d:
+
+    # u "A monkey? What?"
+    u "Обезьяна? Что?"
+
+# game/v2/scene1.rpy:523
+translate russian v2s1_2ea66136:
+
+    # imre "You're kidding, right? Man... girls love that shit."
+    imre "Ты шутишь, да? Мужик... Девушки любят это дерьмо."
+
+# game/v2/scene1.rpy:525
+translate russian v2s1_1dcc3d3a:
+
+    # imre "That's the only reason I watch it... so, I have something in common with girls. You know?"
+    imre "Это единственная причина, по которой я это смотрю... Так что, знаешь, у меня есть кое-что общеё с девушками."
+
+# game/v2/scene1.rpy:530
+translate russian v2s1_d4ecdc58:
+
+    # u "Riiight... yeah, uh, I guess I don't watch a lot of television."
+    u "Тооочно... Да, нет. Наверное, я мало смотрю телевизор."
+
+# game/v2/scene1.rpy:573
+translate russian v2s1_5c5670ca:
+
+    # u "Yikes, man... you really gotta start paying more attention around here."
+    u "Блин, чувак... Ты действительно должен уделять больше внимания этому."
+
+# game/v2/scene1.rpy:593
+translate russian v2s1_06e28b31:
+
+    # u "I don't care if she looks like a bitch or acts like one. She has every right to."
+    u "Мне всё равно, выглядит ли она как сучка или ведёт себя как сучка. Она вроде как имеет на это полное право."
+
+# game/v2/scene1.rpy:687
+translate russian v2s1_saynothing_2d38aae1:
+
+    # u "I know. You'll grow up one day."
+    u "Я знаю. Когда-нибудь ты вырастешь."
+
+# game/v2/scene1.rpy:692
+translate russian v2s1_saynothing_c18c8d9e:
+
+    # imre "Eh, not likely."
+    imre "Эх, это вряд ли."
+
+# game/v2/scene1.rpy:697
+translate russian v2s1_saynothing_b814ec38:
+
+    # imre "I'm heading out, then. Thanks for the chat."
+    imre "Тогда я пошёл, спасибо за беседу."
+
+# game/v2/scene1.rpy:800
+translate russian v2s1_PhoneContinueAut_74b1820e:
+
+    # u "(\"Dress to impress your ghoulish empress...\")"
+    u "(\"Оденься, чтобы произвести впечатление на свою злую императрицу...\")"
+
+# game/v2/scene1.rpy:802
+translate russian v2s1_PhoneContinueAut_0b8d9d08:
+
+    # u "(Guess I need to go gift shopping. Maybe Autumn can give me ideas on what Lauren would like?)"
+    u "(Похоже, мне нужно отправляться за подарками... Может быть, Отэм подскажет мне, чего бы захотела Лорен?)"
+
+# game/v2/scene1.rpy:804
+translate russian v2s1_PhoneContinueAut_0dbad9bb:
+
+    # u "(Or I can just get her some kind of gift card, 'cause... she likes books, I think?)"
+    u "(Или я могу просто подарить ей какую-нибудь подарочную карту... Она любит книги, так ведь?)"
+
+# game/v2/scene1.rpy:834
+translate russian v2s1_PhoneContinueAut_dac778a7:
+
+    # u "*Groans* (No time for snoozing today. Need to get up.)"
+    u "*Зевает* (Сегодня нет времени на валяние в постеле... Нужно вставать.)"
 

@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene31a.rpy:22
 translate russian v1s31a_35bf2b5c:
@@ -687,4 +688,62 @@ translate russian strings:
     # game/v1/scene31a.rpy:575
     old "She says what she needs to"
     new "Она говорит то, что ей нужно"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene31a.rpy:37
+translate russian v1s31a_4b0c8e1f:
+
+    # ca "You need to work out, too. You look like a fucking fifth grader."
+    ca "Тебе тоже надо тренироваться, ты выглядишь как долбаный пятиклассник."
+
+# game/v1/scene31a.rpy:105
+translate russian v1s31a_40d23252:
+
+    # ca "Okay, good form. I'll give you that. How are your sit-ups?"
+    ca "Ладно, хорошая форма. Я дам тебе это. Как твои приседания?"
+
+# game/v1/scene31a.rpy:326
+translate russian v1s31a_990bd9b8:
+
+    # ca "And I know her, too. You're basically one in the same."
+    ca "И я тоже её знаю. Вы практически одно целое."
+
+# game/v1/scene31a.rpy:400
+translate russian v1s31a_cab0f53f:
+
+    # ca "You already got a shit ton of beef with Grayson. How would an alliance work if the president doesn't even fuck with you like that?"
+    ca "У тебя и так уже куча проблем с Грейсоном. Как будет работать альянс, если президент даже не будет с тобой возиться?"
+
+# game/v1/scene31a.rpy:423
+translate russian v1s31a_ce183539:
+
+    # u "Tell everyone Chloe is the hotter chick and that the hottest chick should be the Chicks' president."
+    u "Скажите всем, что Хлоя - самая сексуальная цыпочка, и что самая сексуальная цыпочка должна быть президентом Чикс."
+
+# game/v1/scene31a.rpy:481
+translate russian v1s31a_78e20e6f:
+
+    # ca "How did you know I wanted to run for president?"
+    ca "Как ты узнала, что я хочу баллотироваться в президенты?"
+
+# game/v1/scene31a.rpy:592
+translate russian v1s31a_d3548909:
+
+    # u "She knows what she needs to say. She's damn good at it, too."
+    u "Она знает, что ей нужно сказать. И у неё это чертовски хорошо получается."
+
+# game/v1/scene31a.rpy:607
+translate russian v1s31a_69f098ef:
+
+    # u "Do I? Funny, that."
+    u "Правда? Забавно."
+
+# game/v1/scene31a.rpy:654
+translate russian v1s31a_63314d47:
+
+    # u "You do that."
+    u "Ты сделаешь это."
 

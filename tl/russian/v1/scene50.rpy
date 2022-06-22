@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene50.rpy:26
 translate russian v1s50_a9e5331e:
@@ -555,4 +556,164 @@ translate russian strings:
     # game/v1/scene50.rpy:219
     old "Keep listening"
     new "Продолжать слушать"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene50.rpy:57
+translate russian v1s50_fa0c5734:
+
+    # u "Heh, okay, okay."
+    u "Хех, ладно, ладно."
+
+# game/v1/scene50.rpy:74
+translate russian v1s50_afd6ccd1:
+
+    # li "*Whispers* Umm... anal."
+    li "*Шёпотом* Умм... Анал."
+
+# game/v1/scene50.rpy:84
+translate russian v1s50_2ebe8790:
+
+    # li "*Giggles* Shhh! *Whispers* Yes... anal."
+    li "*Хихикает* Тссс! *Шёпотом* Да... Анал."
+
+# game/v1/scene50.rpy:99
+translate russian v1s50_32a69dae:
+
+    # u "*Whispers* Good to know."
+    u "*Шёпотом* Приятно слышать."
+
+# game/v1/scene50.rpy:114
+translate russian v1s50_8fea9195:
+
+    # li "Wait here."
+    li "Жди здесь."
+
+# game/v1/scene50.rpy:133
+translate russian v1s50_33139eb1:
+
+    # li "No, no! No, I am not pregnant. I promise. That's not it. No. No way."
+    li "Нет, нет! Нет, я не беременна. Это точно. Дело не в этом. Нет."
+
+# game/v1/scene50.rpy:140
+translate russian v1s50_04239b1f:
+
+    # li "Can we go up to your room?"
+    li "Мы можем подняться в твою комнату?"
+
+# game/v1/scene50.rpy:167
+translate russian v1s50_ee6e7b1b:
+
+    # u "(I feel like a ninja.)"
+    u "(Чувствую себя ниндзя.)"
+
+# game/v1/scene50.rpy:182
+translate russian v1s50_89db3ebe:
+
+    # au "So... what can I help you with today?"
+    au "Так... Чем я могу тебе помочь сегодня?"
+
+# game/v1/scene50.rpy:184
+translate russian v1s50_5d8dd013:
+
+    # li "Thanks, Aubrey. I feel a little weird about asking, but..."
+    li "Спасибо, Обри. Я чувствую себя немного странно, спрашивая, но..."
+
+# game/v1/scene50.rpy:191
+translate russian v1s50_a4d4f64b:
+
+    # li "I... I was thinking maybe I'd like to try it."
+    li "Я... я подумала, может быть, я хотел бы попробовать."
+
+# game/v1/scene50.rpy:203
+translate russian v1s50_5447e605:
+
+    # au "You have nothing to be embarrassed about. You actually came to the perfect person."
+    au "Тебе нечего стыдиться. Ты пришла к правильному человеку."
+
+# game/v1/scene50.rpy:266
+translate russian v1s50_9db8440f:
+
+    # au "I'd hope not!"
+    au "Я надеюсь, что нет!"
+
+# game/v1/scene50.rpy:271
+translate russian v1s50_be44e44b:
+
+    # li "Yeah, no. Just a few stitches to make it tight again, I guess."
+    li "Да, нет. Думаю, всего несколько швов, чтобы снова затянуть."
+
+# game/v1/scene50.rpy:281
+translate russian v1s50_a6b77811:
+
+    # au "Well, fuck, Linds! That sounds awful! I think that's a very rare occurrence, though."
+    au "Ну, блин, Линдс! Это ужасно! Я думаю, это очень редкий случай."
+
+# game/v1/scene50.rpy:283
+translate russian v1s50_791efb21:
+
+    # li "Yeah... maybe."
+    li "Да, может быть."
+
+# game/v1/scene50.rpy:288
+translate russian v1s50_48fd3def:
+
+    # au "Like I said, just make sure you're with someone you trust, and make sure you use lots of lube as well."
+    au "Как я уже сказала, просто убедитесь, что ты с кем, кому доверяешь, и убедитесь, что вы используете много смазки."
+
+# game/v1/scene50.rpy:334
+translate russian v1s50_47acc908:
+
+    # au "That's a part of the pleasure, I think. It's going to hurt a little. Or a lot!"
+    au "Это часть удовольствия, я думаю. Будет немного больно. Или очень."
+
+# game/v1/scene50.rpy:341
+translate russian v1s50_a8f68bdc:
+
+    # li "Okay gotcha. So that's it, then? Like, it's a rebellious thing?"
+    li "Понятно. Так это все? Типа, это бунтарство?"
+
+# game/v1/scene50.rpy:348
+translate russian v1s50_fc3b08dc:
+
+    # au "But in the end, it just feels good to get fucked in the ass sometimes."
+    au "Но в конце концов, иногда просто приятно, когда тебя трахают в задницу."
+
+# game/v1/scene50.rpy:350
+translate russian v1s50_28fc8082:
+
+    # li "Aubrey!"
+    li "Обри!"
+
+# game/v1/scene50.rpy:372
+translate russian v1s50_82f29d6a:
+
+    # au "Come take a look at my collection."
+    au "Приходи, посмотреть на мою коллекцию."
+
+# game/v1/scene50.rpy:386
+translate russian v1s50_5069bda1:
+
+    # li "This is amazing... thank you."
+    li "Это потрясающе... спасибо."
+
+# game/v1/scene50.rpy:412
+translate russian v1s50_1911853e:
+
+    # au "Definitely not this one, then."
+    au "Тогда уж точно не это."
+
+# game/v1/scene50.rpy:419
+translate russian v1s50_b2f3a891:
+
+    # au "My favorite."
+    au "Моя любимая."
+
+# game/v1/scene50.rpy:429
+translate russian v1s50_bdae7eaa:
+
+    # au "Inches? Pfft. This is well past inches, Linds."
+    au "Сантиметров? Пффт. Это уже далеко за гранью, Линдс."
 

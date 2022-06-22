@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene31.rpy:18
 translate russian v1s31_fcfea652:
@@ -107,4 +108,14 @@ translate russian strings:
     # game/v1/scene31.rpy:92
     old "That's a turn-off"
     new "Это отталкивает"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene31.rpy:23
+translate russian v1s31_de348817:
+
+    # cl "Hey! I just wanted to call and let you know that everyone is on their way to the Apes house for the get-together."
+    cl "Эй! Я просто хотела позвонить и сообщить тебе, что все едут в дом Приматов, чтобы собраться вместе."
 

@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene12.rpy:52
 translate russian v1s12_fcfea652:
@@ -199,4 +200,110 @@ translate russian strings:
     # game/v1/scene12.rpy:225
     old "I'm not sure that you do"
     new "Я не уверен, что ты"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene12.rpy:36
+translate russian v1s12_cebee3cf:
+
+    # ju "Hey, honey! Just calling to check in. Today was the day you got back in town, right?"
+    ju "Привет, дорогой! Просто звоню узнать, как твои дела. Сегодня день твоего возвращения, да?"
+
+# game/v1/scene12.rpy:41
+translate russian v1s12_297dc72c:
+
+    # u "Sure was. I'm headed to my room now."
+    u "Конечно, да. Сейчас направляюсь в свою комнату."
+
+# game/v1/scene12.rpy:51
+translate russian v1s12_a6e0d628:
+
+    # u "Safe or otherwise, I'm happy to be back."
+    u "В безопасности или нет, я счастлив вернуться."
+
+# game/v1/scene12.rpy:56
+translate russian v1s12_34d57209:
+
+    # ju "Oh, hush."
+    ju "Ох, тише."
+
+# game/v1/scene12.rpy:61
+translate russian v1s12_626d4215:
+
+    # u "Joking aside, what's up?"
+    u "Шутки в сторону, в чём дело?"
+
+# game/v1/scene12.rpy:66
+translate russian v1s12_8d1cbec6:
+
+    # ju "Well, honey, I have some unfortunate news to share with you."
+    ju "Что ж, дорогой, я хочу поделиться с тобой печальными новостями."
+
+# game/v1/scene12.rpy:101
+translate russian v1s12_4764d850:
+
+    # u "I'm so curious, what is it that you actually do? Are you going to keep hiding this secret job from me?"
+    u "Мне так любопытно, чем ты на самом деле занимаешься? Ты собираешься и дальше скрывать от меня эту секретную работу?"
+
+# game/v1/scene12.rpy:106
+translate russian v1s12_f73e5ccb:
+
+    # ju "For as long as they make me keep it a secret, yes, I am going to keep it from you."
+    ju "До тех пор, пока они заставляют меня держать это в секрете, да, я буду скрывать это от тебя."
+
+# game/v1/scene12.rpy:116
+translate russian v1s12_178e1895:
+
+    # ju "I'm the \"or something.\""
+    ju "Я - \"или что-то в этом роде\"."
+
+# game/v1/scene12.rpy:121
+translate russian v1s12_99539dd3:
+
+    # u "Ha! Okay. I couldn't picture you in the FBI anyway."
+    u "Ха! Окей. Я всё равно не могу представить тебя в ФБР."
+
+# game/v1/scene12.rpy:126
+translate russian v1s12_3ed97ce2:
+
+    # ju "Bah, why not? I'm smart and in good shape."
+    ju "Ба, почему бы и нет? Я умна и в хорошей форме."
+
+# game/v1/scene12.rpy:136
+translate russian v1s12_5f1bb225:
+
+    # ju "You can keep those thoughts to yourself, young man."
+    ju "Ты можешь оставить эти мысли при себе, молодой человек."
+
+# game/v1/scene12.rpy:141
+translate russian v1s12_5d02055e:
+
+    # u "Will do."
+    u "Будет делано."
+
+# game/v1/scene12.rpy:143
+translate russian v1s12_76e7f675:
+
+    # u "How long do you think you'll be away?"
+    u "Как думаешь, как долго тебя не будет?"
+
+# game/v1/scene12.rpy:153
+translate russian v1s12_e74b15a4:
+
+    # u "Got it. Keep me posted and we'll go from there. Okay?"
+    u "Понял. Держи меня в курсе, и мы будем действовать дальше. Ладно?"
+
+# game/v1/scene12.rpy:158
+translate russian v1s12_fb245e08:
+
+    # ju "I will, honey. Be safe, and please don't hesitate to call if you need me. I love you."
+    ju "Обязательно, дорогой. Будь в безопасности, и, пожалуйста, не стесняйся звонить, если я тебе понадоблюсь. Я люблю тебя."
+
+# game/v1/scene12.rpy:180
+translate russian v1s12_0704aca5:
+
+    # u "(Keeping this job a secret is really suspicious... And having to go to New York of all places is pretty... odd. Oh, well.)"
+    u "(Держать работу в секрете очень подозрительно... И необходимость ехать в Нью-Йорк из всех мест довольно... странно. Ну, ладно.)"
 

@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene16.rpy:22
 translate russian v1s16_2100259d:
@@ -363,4 +364,134 @@ translate russian strings:
     # game/v1/scene16.rpy:172
     old "I don't have the time"
     new "У меня нет времени"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene16.rpy:27
+translate russian v1s16_a290a3d4:
+
+    # u "I'm seeing it. She's definitely serious about this."
+    u "Я смотрю, она определенно серьёзно настроена."
+
+# game/v1/scene16.rpy:55
+translate russian v1s16_47327d48:
+
+    # cl "Ugh. I thought we'd get back and have a chance to get comfortable first, but I literally walked into a pro-Lindsey campus."
+    cl "Ух. Я думала, что когда мы вернемся, я смогу комфортно подготовиться, но я буквально вошла в кампус сторонников Линдси."
+
+# game/v1/scene16.rpy:112
+translate russian v1s16_00dd30ef:
+
+    # cl "I need a lot of help if I'm going to beat her, [name]. It won't be as easy as I thought."
+    cl "Мне нужна большая помощь, если я хочу победить ее, [name]. Это будет не так легко, как я думала."
+
+# game/v1/scene16.rpy:136
+translate russian v1s16_c5e8c2a2:
+
+    # cl "I remember how you said you'd support me before, but..."
+    cl "Я помню, как ты говорил ранее, что поддержишь меня, но..."
+
+# game/v1/scene16.rpy:149
+translate russian v1s16_f04a919f:
+
+    # cl "I can think of a few rewards already."
+    cl "Я уже придумала некоторые вознаграждения."
+
+# game/v1/scene16.rpy:159
+translate russian v1s16_451f7dff:
+
+    # cl "*Whispering* Plus, the president always needs an assistant, and if it's my job to, you know, take care of you, while also running the sorority..."
+    cl "*Шёпотом* Плюс, президенту всегда нужен помощник, и если это моя работа, знаешь, заботиться о тебе, одновременно управляя женским обществом..."
+
+# game/v1/scene16.rpy:170
+translate russian v1s16_433f15dc:
+
+    # cl "So, what's your answer? Will you help me try to win this campaign?"
+    cl "Итак, какой твой ответ? Поможешь мне выиграть эту кампанию?"
+
+# game/v1/scene16.rpy:192
+translate russian v1s16_98c810ef:
+
+    # u "Not only that, but you know I'm always gonna be there for you, supporting you in whatever way you need. Of course I'll help you win."
+    u "И не только это, ты знаешь, что я всегда буду рядом с тобой, поддержу тебя во всём, что тебе нужно. Конечно, я помогу тебе победить."
+
+# game/v1/scene16.rpy:207
+translate russian v1s16_3a294854:
+
+    # u "You're welcome, Chloe."
+    u "Всегда пожалуйста, Хлоя."
+
+# game/v1/scene16.rpy:212
+translate russian v1s16_438f43e9:
+
+    # cl "Meet me in the library after your class. We have lots to discuss!"
+    cl "Встретимся в библиотеке после занятий. Нам нужно многое обсудить!"
+
+# game/v1/scene16.rpy:225
+translate russian v1s16_a7d7a2c9:
+
+    # u "(If her goal was to make me feel sorry enough for her that I would agree to help, she succeeded! Clever girl.)"
+    u "(Если её целью было заставить меня пожалеть настолько, чтобы я согласился помочь, то она преуспела! Умная девочка.)"
+
+# game/v1/scene16.rpy:260
+translate russian v1s16_cff41a11:
+
+    # cl "You can't spare a little time to help me out with any of this?"
+    cl "Ты не можешь уделить немного времени, чтобы помочь мне?"
+
+# game/v1/scene16.rpy:265
+translate russian v1s16_ab79ae5c:
+
+    # u "I'm sorry, Chloe. I'm just really busy now that we're back on campus and things with the-"
+    u "Прости, Хлоя. Я просто очень занят сейчас, когда мы вернулись в кампус и дела с..."
+
+# game/v1/scene16.rpy:271
+translate russian v1s16_a07e7377:
+
+    # cl "What do you mean you don't have time?! You have time to fuck me, but no time to talk?"
+    cl "Что значит, у тебя нет времени?! У тебя есть время трахать меня, но нет времени поговорить?"
+
+# game/v1/scene16.rpy:286
+translate russian v1s16_4b0dae6a:
+
+    # u "It's not that I don't want to, Chloe. I'm kinda busy with my own Greek life, is all. Like, we just got back to campus, and-"
+    u "Не то чтобы я не хотел, Хлоя. Я немного занят своей собственной Греческой жизнью, вот и всё. Мы только что вернулись в кампус, и..."
+
+# game/v1/scene16.rpy:293
+translate russian v1s16_3add9c58:
+
+    # cl "I'll remember how busy you are the next time you want to \"hang out\"."
+    cl "Я буду помнить, как ты занят, когда в следующий раз захочешь \"потусоваться\"."
+
+# game/v1/scene16.rpy:298
+translate russian v1s16_55cba150:
+
+    # u "(Fuck. This is gonna cause some serious issues for us. Honestly kinda surprised she didn't break up with me right there... Chloe's way or no way.)"
+    u "(Блядь. Это вызовет серьёзные проблемы между нами. Честно говоря, удивлен, что она не порвала со мной...)."
+
+# game/v1/scene16.rpy:303
+translate russian v1s16_78d4f143:
+
+    # u "(Well, time for class.)"
+    u "(Что ж, пора на занятия.)"
+
+# game/v1/scene16.rpy:309
+translate russian v1s16_46052a2a:
+
+    # cl "I'm always having to do things on my own."
+    cl "Мне всегда приходится всё делать самой."
+
+# game/v1/scene16.rpy:335
+translate russian v1s16_2be58b38:
+
+    # u "(Gah. I knew she wouldn't take that well. Chloe's way or no way.)"
+    u "(Гх. Я знал, что она не воспримет это хорошо.)"
+
+# game/v1/scene16.rpy:340
+translate russian v1s16_dd724701:
+
+    # u "(Oh well. Time for class.)"
+    u "(Ну что ж. Пора на занятия.)"
 

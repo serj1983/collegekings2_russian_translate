@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene41a.rpy:10
 translate russian v1s41a_e44b82e8:
@@ -475,4 +476,38 @@ translate russian strings:
     # game/v1/scene41a.rpy:344
     old "Not fair to Chloe"
     new "Нечестно по отношению к Хлое"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene41a.rpy:80
+translate russian v1s41a_423b7b6a:
+
+    # ry "Umm... anyway, if you're talking about the race, that means you must've found a way to take Chloe down. Ha!"
+    ry "Ммм... В любом случае, если ты говоришь о выборах, значит, ты нашел способ уничтожить Хлою. Ха!"
+
+# game/v1/scene41a.rpy:110
+translate russian v1s41a_71351872:
+
+    # ry "Yeah, but like... Why are you saying so? You said it yourself: You guys have a rough past."
+    ry "Да, но как... Почему ты так говоришь? Ты сам сказал, что у вас тяжелое прошлое."
+
+# game/v1/scene41a.rpy:115
+translate russian v1s41a_3de6adde:
+
+    # ca "You just told us last week to get ready for some sabotage."
+    ca "Ты только что сказал нам на прошлой неделе, чтобы мы были готовы к саботажу."
+
+# game/v1/scene41a.rpy:120
+translate russian v1s41a_863122e0:
+
+    # gr "Look... going against Chloe here isn't a good look for the Apes."
+    gr "Слушай... Идти против Хлои - не лучший выход для Приматов."
+
+# game/v1/scene41a.rpy:376
+translate russian v1s41a_5a72c861:
+
+    # gr "We don't give a fuck about all that. Feelings don't mean shit, [name]."
+    gr "Нам плевать на все это. Чувства ни хрена не значат, [name]."
 

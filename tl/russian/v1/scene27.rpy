@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene27.rpy:22
 translate russian v1s27_7e035c56:
@@ -101,4 +102,14 @@ translate russian strings:
     # game/v1/scene27.rpy:69
     old "Can't we speak here?"
     new "Мы не можем говорить здесь?"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene27.rpy:54
+translate russian v1s27_ba7af72f:
+
+    # em "I have some pretty major news to share."
+    em "У меня несколько важных новостей, с которыми я хочу поделиться."
 

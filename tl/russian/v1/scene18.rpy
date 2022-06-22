@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene18.rpy:27
 translate russian v1s18_e9f7f52d:
@@ -251,4 +252,68 @@ translate russian v1s18_0947c62f:
 
     # u "(Well, oddly enough, it's time to go help Chloe.)"
     u "(Что ж, как ни странно, пришло время пойти помочь Хлое.)"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene18.rpy:52
+translate russian v1s18_a4e2fad2:
+
+    # u "Seems like you have all the help you need. I don't see much of Chloe anywhere."
+    u "Похоже, у тебя есть вся необходимая помощь. Я нигде не вижу Хлои."
+
+# game/v1/scene18.rpy:82
+translate russian v1s18_c14dae42:
+
+    # li "I still have a shit-ton of campaign planning to do and I can't exactly let just anyone in on that..."
+    li "Мне ещё предстоит проделать чертову уйму работы по планированию кампании, и я не могу допустить к этому кого попало..."
+
+# game/v1/scene18.rpy:112
+translate russian v1s18_78d6928e:
+
+    # li "Honestly, [name]... I need you. I need your help."
+    li "Честно, [name]... Ты мне нужен. Мне нужна твоя помощь."
+
+# game/v1/scene18.rpy:117
+translate russian v1s18_20584b63:
+
+    # li "I'm worried that without your help, I'll have little to no chance of winning."
+    li "Я беспокоюсь, что без твоей помощи у меня практически не будет шансов на победу."
+
+# game/v1/scene18.rpy:144
+translate russian v1s18_20bb20e1:
+
+    # li "I know you're like... Dating her, or whatever you're calling it..."
+    li "Я знаю, что ты... встречаешься с ней, или как ты это называешь..."
+
+# game/v1/scene18.rpy:160
+translate russian v1s18_3b5eb28f:
+
+    # u "Ooh. That's an enticing proposal."
+    u "Оох. Заманчивое предложение."
+
+# game/v1/scene18.rpy:165
+translate russian v1s18_1d3e2686:
+
+    # li "I had a dream the other night, actually..."
+    li "Прошлой ночью мне приснился сон, на самом деле..."
+
+# game/v1/scene18.rpy:225
+translate russian v1s18_772a22a0:
+
+    # li "Well then, partner... Meet me at dawn in the janitor's closet, aka my presidential headquarters."
+    li "Ну что ж, партнер... Встретимся на рассвете в чулане уборщика, он же мой президентский штаб."
+
+# game/v1/scene18.rpy:230
+translate russian v1s18_22a5c99c:
+
+    # u "Ha! Okay. Will do, boss lady."
+    u "Ха! Хорошо. Будет сделано, леди-босс."
+
+# game/v1/scene18.rpy:255
+translate russian v1s18_e7e0c7d3:
+
+    # li "I really don't need you to run through the list of reasons why you can't help me."
+    li "Мне правда не нужно, чтобы ты перечислял причины, по которым ты не можешь помочь мне."
 

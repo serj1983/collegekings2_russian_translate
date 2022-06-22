@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene46a.rpy:16
 translate russian v1s46a_d6debb9f:
@@ -705,4 +706,320 @@ translate russian strings:
     # game/v1/scene46a.rpy:478
     old "Even more"
     new "Даже больше"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene46a.rpy:16
+translate russian v1s46a_a61be53f:
+
+    # la "Hi!"
+    la "Привет!"
+
+# game/v1/scene46a.rpy:21
+translate russian v1s46a_e40e3215:
+
+    # u "Hello, Dr. Lauren. I'm here for my impromptu hypnosis appointment."
+    u "Здравствуйте, доктор Лорен. Я пришёл на импровизированную встречу с гипнозом."
+
+# game/v1/scene46a.rpy:26
+translate russian v1s46a_19e7e59e:
+
+    # la "Come on in, silly."
+    la "Заходи, глупышка."
+
+# game/v1/scene46a.rpy:47
+translate russian v1s46a_235637f2:
+
+    # u "I like where this is going already. Is this an elaborate ruse to get some you-know-what going?"
+    u "Мне уже нравится, к чему всё идет. Может быть, это хитроумная уловка, чтобы нам сделать сама-знаешь-что?"
+
+# game/v1/scene46a.rpy:52
+translate russian v1s46a_991d1d7c:
+
+    # la "Cute, but stop it. You have to focus."
+    la "Это мило, но пока остановись. Ты должен сосредоточиться."
+
+# game/v1/scene46a.rpy:68
+translate russian v1s46a_4f88e75a:
+
+    # u "Okay, so, we're just going straight into it? No chit-chat?"
+    u "Хорошо, значит, мы просто перейдем прямо к делу? Никакого разговора?"
+
+# game/v1/scene46a.rpy:73
+translate russian v1s46a_1f17a174:
+
+    # la "Oh, right. I'm sorry, [name]. I'm just super excited to try this. You know how I get about psych theory."
+    la "Ох, правда. Прости, [name]. Я просто очень хочу попробовать это. Ты же знаешь, как я отношусь к психологии."
+
+# game/v1/scene46a.rpy:101
+translate russian v1s46a_sgb_a6d7ff1f:
+
+    # la "Okay... now, close your eyes."
+    la "Хорошо... теперь закрой глаза."
+
+# game/v1/scene46a.rpy:111
+translate russian v1s46a_sgb_ab741256:
+
+    # la "Breathe in slowly for five seconds... *Inhales*"
+    la "Медленно вдыхай в течение пяти секунд... *Вдыхает*"
+
+# game/v1/scene46a.rpy:121
+translate russian v1s46a_sgb_6f29996c:
+
+    # la "*Softly* Hold it for two seconds..."
+    la "*Тихо* Задержи дыхание на 2 секунды..."
+
+# game/v1/scene46a.rpy:132
+translate russian v1s46a_sgb_2fbbdfac:
+
+    # u "*Coughs* Ah, fuck. Sorry. *Inhales*"
+    u "*Кашель* Ах, чёрт. Извини. *Вдыхает*"
+
+# game/v1/scene46a.rpy:137
+translate russian v1s46a_sgb_048e09fa:
+
+    # la "Stoner much?"
+    la "Глубоко вдохнул?"
+
+# game/v1/scene46a.rpy:167
+translate russian v1s46a_sgb_ddeca30f:
+
+    # la "*Softly* You are now falling into a deep relaxation..."
+    la "*Тихо* Сейчас ты погружаешься в глубокое расслабление..."
+
+# game/v1/scene46a.rpy:184
+translate russian v1s46a_sgb_5928b156:
+
+    # u "If you say so!"
+    u "Как скажешь!"
+
+# game/v1/scene46a.rpy:189
+translate russian v1s46a_sgb_d44a1ab9:
+
+    # la "[name]! Come on... ha, please, please try to take this seriously."
+    la "[name]! Ну же... ха, пожалуйста, пожалуйста постарайся отнестись к этому серьёзно."
+
+# game/v1/scene46a.rpy:194
+translate russian v1s46a_sgb_3243b885:
+
+    # u "Okay... okay. Sorry."
+    u "Ладно... Ладно. Извини."
+
+# game/v1/scene46a.rpy:211
+translate russian v1s46a_sgb_a91af3ca:
+
+    # la "*Softly* You are starting to feel relaxed... you feel safe... and completely comfortable."
+    la "*Тихо* Ты начинаешь чувствовать себя расслабленным... Ты чувствуешь себя в безопасности... И совершенно комфортно."
+
+# game/v1/scene46a.rpy:216
+translate russian v1s46a_sgb_e9fbd13e:
+
+    # la "*Softly* As you drift into a deep state of relaxation, deeper and deeper..."
+    la "*Тихо* По мере того, как ты погружаешься в глубокое и приятное состояние расслабления, всё глубже и глубже..."
+
+# game/v1/scene46a.rpy:217
+translate russian v1s46a_sgb_7216dd33:
+
+    # la "*Softly* Listen and feel the gentle caress of the elements around you."
+    la "*Тихо* Прислушайся и почувствуй нежную ласку окружающих тебя стихий."
+
+# game/v1/scene46a.rpy:222
+translate russian v1s46a_sgb_9da69822:
+
+    # la "*Softly* The longer you listen to my voice, the deeper you sink into pure contentment."
+    la "*Тихо* Чем дольше ты слушаешь мой голос, тем глубже погружаешься в чистое расслабление."
+
+# game/v1/scene46a.rpy:227
+translate russian v1s46a_sgb_c3adf353:
+
+    # u "(Oh, wow... is this shit actually... working? What did I sign up for here?)"
+    u "(О, вау... Это дерьмо на самом деле... работает? На что я повёлся?)"
+
+# game/v1/scene46a.rpy:247
+translate russian v1s46a_sgb_5c465aac:
+
+    # la "*Softly* The sand between your toes is soft to the touch. You're calm... you're relaxed..."
+    la "*Тихо* Песок между пальцами ног мягкий на ощупь. Ты спокоен... ты расслаблен..."
+
+# game/v1/scene46a.rpy:252
+translate russian v1s46a_sgb_e251626d:
+
+    # la "*Softly* You've never felt this unwound before... you're the happiest you've ever been."
+    la "*Тихо* Ты никогда раньше не чувствовал себя таким раскованным... Ты самый счастливый, чем когда-либо был."
+
+# game/v1/scene46a.rpy:283
+translate russian v1s46a_sgb_380b5671:
+
+    # la "She calls you over and asks you to rub lotion on her skin. You can help her."
+    la "Она подзывает тебя и просит втереть лосьон в её кожу. Ты можешь ей помочь."
+
+# game/v1/scene46a.rpy:301
+translate russian v1s46a_sgb_e98de05d:
+
+    # la "*Softly* She's now asking you to massage the lotion across her breasts."
+    la "*Тихо* Теперь она просит тебя помассировать лосьоном её грудь."
+
+# game/v1/scene46a.rpy:314
+translate russian v1s46a_sgb_c48914f6:
+
+    # la "*Softly* Rubbing against her soft skin you can feel her nipples, which are stimulated by your touch."
+    la "*Тихо* Натирая её нежную кожу, ты можешь почувствовать её соски, которые возбуждаются от твоих прикосновений."
+
+# game/v1/scene46a.rpy:364
+translate russian v1s46_nsfwSkipLabel1_0c66800e:
+
+    # la "Oh. My. God. I'm so sorry, I didn't think you'd-"
+    la "О. Мой. Бог. Мне так жаль, я не думала, что ты..."
+
+# game/v1/scene46a.rpy:374
+translate russian v1s46_nsfwSkipLabel1_8e50d4ee:
+
+    # u "What the... what the fuck?!"
+    u "Что за... какого хрена?!"
+
+# game/v1/scene46a.rpy:381
+translate russian v1s46_nsfwSkipLabel1_37a8ddeb:
+
+    # la "I'm so sorry! It was fun, though, right? Did it feel real?"
+    la "Мне так жаль! Но это было весело, правда? Это было по-настоящему?"
+
+# game/v1/scene46a.rpy:391
+translate russian v1s46_nsfwSkipLabel1_64d404d5:
+
+    # la "That's so crazy... anyway, you can just go in the bathroom and clean yourself up."
+    la "Это так безумно... в любом случае, ты можешь пойти в ванную и привести себя в порядок."
+
+# game/v1/scene46a.rpy:455
+translate russian v1s46_nsfwSkipLabel1_ff0dcc1e:
+
+    # la "You were the best participant I could've asked for."
+    la "Вы был лучшим участником, о котором я могла бы попросить."
+
+# game/v1/scene46a.rpy:461
+translate russian v1s46_nsfwSkipLabel1_1a9f1e91:
+
+    # u "Ha. That was such a weird experience. Where did you learn this?"
+    u "Ха. Это был такой странный опыт. Где ты этому научилась?"
+
+# game/v1/scene46a.rpy:466
+translate russian v1s46_nsfwSkipLabel1_74ef0831:
+
+    # la "I think I've, uh, blurred the lines between my classes' lessons and my all-new porn-watching habits."
+    la "Мне кажется, я размыла границу между уроками в классе и моими новыми привычками смотреть порно."
+
+# game/v1/scene46a.rpy:471
+translate russian v1s46_nsfwSkipLabel1_73a73781:
+
+    # u "Wow. I'm going to remember this the next time you ask to test some psych stuff on me."
+    u "Ух ты. Я запомню, когда ты в следующий раз попросишь проверить на мне какие-нибудь психологические штучки."
+
+# game/v1/scene46a.rpy:507
+translate russian v1s46_nsfwSkipLabel1_4e85e700:
+
+    # la "My poor, horny guinea pig."
+    la "Моя бедная, возбужденная морская свинка."
+
+# game/v1/scene46a.rpy:551
+translate russian v1s46_nsfwSkipLabel1_7828686b:
+
+    # la "*Softly* It's the most beautiful day. So sunny and warm. You can feel the light dancing on your skin."
+    la "*Тихо* Сегодня самый прекрасный день. Такой солнечный и тёплый. Ты чувствуешь, как свет танцует на твоей коже."
+
+# game/v1/scene46a.rpy:609
+translate russian v1s46_nsfwSkipLabel1_49fc6aa7:
+
+    # la "*Softly* But he's not stopping there... he's hungry for something else now. Before you know it, he's chewing at your... member."
+    la "*Тихо* Но он не останавливается на достигнутом... теперь он жаждет чего-то большего. Не успеваешь глазом моргнуть, как он уже жуёт твой... член."
+
+# game/v1/scene46a.rpy:634
+translate russian v1s46_nsfwSkipLabel1_64d78e0e:
+
+    # la "*Softly* The horse has his eyes on the prize now... before you know it, he takes one quick bite towards your penis and-"
+    la "*Тихо* Теперь лошадь смотрит на приз... прежде чем ты успеешь опомниться, она делает один быстрый укус в сторону твоего пениса и..."
+
+# game/v1/scene46a.rpy:639
+translate russian v1s46_nsfwSkipLabel1_f5359956:
+
+    # u "Aahhh! Fuck! Oww! M-my balls!"
+    u "А-а-а! Блядь! Оуу! М-мои яйца!"
+
+# game/v1/scene46a.rpy:665
+translate russian v1s46_nsfwSkipLabel1_853c5ecd:
+
+    # la "I'm sorry, [name]! It was too good of an opportunity! I didn't think the horse dream would actually work on anyone... says more about you than me, really..."
+    la "Мне очень жаль, [name]! Это была слишком хорошая возможность! Я не думала, что сон о лошади действительно подействует на кого-то... на самом деле это говорит больше о тебе, чем обо мне..."
+
+# game/v1/scene46a.rpy:675
+translate russian v1s46_nsfwSkipLabel1_6849012f:
+
+    # la "All in the name of psych science, I promise. You should be very proud of yourself. It worked perfectly."
+    la "И всё это во имя психологии, я обещаю. Ты должен очень гордиться собой. Это сработало идеально."
+
+# game/v1/scene46a.rpy:680
+translate russian v1s46_nsfwSkipLabel1_c30e53ab:
+
+    # u "Warped as fuck. You like to take things pretty far at the amateur hour psych evaluations, don't you?"
+    u "Ебанутся. Тебе нравится заходить очень далеко в оценках психологической самодеятельности, не так ли?"
+
+# game/v1/scene46a.rpy:685
+translate russian v1s46_nsfwSkipLabel1_3615b629:
+
+    # la "Hehe, I saw a few tutorials and just wanted to see if it worked."
+    la "Хехе, я видела несколько уроков и просто хотел проверить, сработает ли это."
+
+# game/v1/scene46a.rpy:690
+translate russian v1s46_nsfwSkipLabel1_032b6208:
+
+    # u "That was such a weird experience... my balls... they actually hurt a little. I'm going to remember this."
+    u "Это был странный опыт... мои яйца... они действительно болели. Я запомню это."
+
+# game/v1/scene46a.rpy:695
+translate russian v1s46_nsfwSkipLabel1_4a4198c4:
+
+    # la "Perfect."
+    la "Идеально."
+
+# game/v1/scene46a.rpy:702
+translate russian v1s46_nsfwSkipLabel1_c05a0a9b:
+
+    # la "Now, I've gotta get caught up on homework, so..."
+    la "Мне нужно сделать домашнее задание, так что..."
+
+# game/v1/scene46a.rpy:732
+translate russian v1s46_nsfwSkipLabel1_90622431:
+
+    # la "Thanks for doing that with me. I know I have some pretty out-there interests, but... really, thanks."
+    la "Спасибо, что делаешь это со мной. Я знаю, что у меня довольно необычные интересы, но... правда, спасибо."
+
+# game/v1/scene46a.rpy:742
+translate russian v1s46_nsfwSkipLabel1_6735fd95:
+
+    # la "We'll do something again soon, right?"
+    la "Скоро опять что-нибудь замутим, правда?"
+
+# game/v1/scene46a.rpy:747
+translate russian v1s46_nsfwSkipLabel1_1998d40e:
+
+    # u "Only if it's a different psych experiment. If it's another hypnosis session... maybe I'll send Imre instead."
+    u "Только если это будет другой психологический эксперимент. Если это будет ещё один сеанс гипноза... возможно, я пришлю Имре вместо меня."
+
+# game/v1/scene46a.rpy:752
+translate russian v1s46_nsfwSkipLabel1_ac7beb1c:
+
+    # la "Please don't do that to me."
+    la "Пожалуйста, не надо."
+
+# game/v1/scene46a.rpy:757
+translate russian v1s46_nsfwSkipLabel1_af3d72dd:
+
+    # u "Ha. See ya."
+    u "Ха. Увидимся."
+
+# game/v1/scene46a.rpy:769
+translate russian v1s46_nsfwSkipLabel1_1f79ba0b:
+
+    # u "(What the fuck just happened...)"
+    u "(Хм, ну это было чертовски интересно...)"
 

@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene29.rpy:19
 translate russian v1s29_854192a2:
@@ -83,4 +84,26 @@ translate russian v1s29_b22d51e6:
 
     # u "(This dude's weird.)"
     u "(Этот чувак странный.)"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene29.rpy:48
+translate russian v1s29_568b2a0a:
+
+    # u "Ha, no worries."
+    u "Ха, не беспокойся."
+
+# game/v1/scene29.rpy:98
+translate russian v1s29_94ef93ac:
+
+    # imre "Ah shit... sorry, I just remembered something I gotta do."
+    imre "Вот дерьмо... прости, я просто вспомнил, что мне нужно кое-что сделать."
+
+# game/v1/scene29.rpy:103
+translate russian v1s29_2b89fb70:
+
+    # u "Uhh... O-okay..."
+    u "Охх... О-окей..."
 

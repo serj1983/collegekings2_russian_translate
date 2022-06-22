@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene37.rpy:31
 translate russian v1s37_da0c033f:
@@ -891,4 +892,278 @@ translate russian strings:
     # game/v1/scene37.rpy:484
     old "Focus on us"
     new "Сосредоточьтесь на нас"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene37.rpy:49
+translate russian v1s37_f73531fe:
+
+    # pe "Hi!"
+    pe "Привет!"
+
+# game/v1/scene37.rpy:59
+translate russian v1s37_fc420dc3:
+
+    # pe "Thank you. You too, as always."
+    pe "Спасибо. Тебе тоже, как всегда."
+
+# game/v1/scene37.rpy:64
+translate russian v1s37_3a23368f:
+
+    # u "I thought I'd get here before you and try to get us a table. Didn't think you'd get here so fast."
+    u "Я думал, что приду раньше тебя, чтобы найти для нас столик. Не думал, что ты придешь так скоро."
+
+# game/v1/scene37.rpy:74
+translate russian v1s37_70611477:
+
+    # u "Wait, what? You should've told me you were moving at lightning speed. It's too windy out here for you to be waiting."
+    u "Подожди, что? Ты должна была предупредить меня, что двигаешься со скоростью света. Здесь слишком ветрено для тебя."
+
+# game/v1/scene37.rpy:79
+translate russian v1s37_ffe5ab60:
+
+    # pe "Oh, no worries. I love this weather. You ready?"
+    pe "Ох, не беспокойся. Я люблю такую погоду. Ты готов?"
+
+# game/v1/scene37.rpy:84
+translate russian v1s37_c6e9a2c1:
+
+    # u "You bet."
+    u "Ещё бы."
+
+# game/v1/scene37.rpy:94
+translate russian v1s37_d7daadac:
+
+    # pe "Hehe, that's cute."
+    pe "Хехе, это мило."
+
+# game/v1/scene37.rpy:112
+translate russian v1s37_e7d3aaa4:
+
+    # host "Perfect. Follow me, please."
+    host "Прекрасно. Следуйте за мной, пожалуйста."
+
+# game/v1/scene37.rpy:142
+translate russian v1s37_09f2ed81:
+
+    # host "Got it, and do you two need a minute to look or are you ready to order?"
+    host "Понял, вам, ребята, нужно время, чтобы посмотреть или вы готовы сделать заказ прямо сейчас?"
+
+# game/v1/scene37.rpy:152
+translate russian v1s37_e0658bf0:
+
+    # host "Of course, take your time. I'll be back with water."
+    host "Конечно, не торопитесь. Я вернусь с двумя стаканами воды."
+
+# game/v1/scene37.rpy:167
+translate russian v1s37_9cd928dd:
+
+    # u "Then why'd you suggest coming here?"
+    u "Тогда почему ты предложила приехать сюда?"
+
+# game/v1/scene37.rpy:177
+translate russian v1s37_f489aa31:
+
+    # u "Nah, I won't force you to."
+    u "Нет, не буду тебя заставлять."
+
+# game/v1/scene37.rpy:182
+translate russian v1s37_d0a6f0c3:
+
+    # pe "Phew, good. I'll just leave a big tip for my water."
+    pe "Фу, хорошо. Я просто оставлю большие чаевые за воду."
+
+# game/v1/scene37.rpy:187
+translate russian v1s37_c82c7029:
+
+    # u "Ha! I've never heard anyone say that."
+    u "Ха! Никогда не слышал, чтобы кто-то так говорил."
+
+# game/v1/scene37.rpy:202
+translate russian v1s37_83dc578d:
+
+    # pe "Oh... are you sure?"
+    pe "О... Ты уверен?"
+
+# game/v1/scene37.rpy:222
+translate russian v1s37_50a1961f:
+
+    # host "Here you go."
+    host "Держите."
+
+# game/v1/scene37.rpy:237
+translate russian v1s37_0b424079:
+
+    # pe "We're still deciding if we're even hungry, heh. I hope that's okay."
+    pe "Мы всё ещё решаем, голодные ли мы вообще, хаха, надеюсь, это нормально."
+
+# game/v1/scene37.rpy:242
+translate russian v1s37_df1e9887:
+
+    # host "I know what you mean. You two just enjoy your evening and if you want anything, let me know."
+    host "Знаю, о чём вы. Просто наслаждайтесь вечером, и если вам что-нибудь понадобится, дайте мне знать."
+
+# game/v1/scene37.rpy:272
+translate russian v1s37_7306ba8c:
+
+    # lady "Oh my God, if you gave him all day, he'd take all day. We're ready to order."
+    lady "Боже мой, если бы вы дали ему целый день, он бы потратил на это весь день. Мы готовы сделать заказ."
+
+# game/v1/scene37.rpy:297
+translate russian v1s37_9b2847ea:
+
+    # host "Anything for you, sir?"
+    host "Что-нибудь для вас, сэр?"
+
+# game/v1/scene37.rpy:377
+translate russian v1s37_6a7d0671:
+
+    # u "Ha! I promise I won't."
+    u "Обещаю, что не буду."
+
+# game/v1/scene37.rpy:382
+translate russian v1s37_7e437513:
+
+    # pe "You already are!"
+    pe "Ты уже смеёшься!"
+
+# game/v1/scene37.rpy:387
+translate russian v1s37_b0f0a6a4:
+
+    # u "Okay, okay... heh... phew. I'm ready."
+    u "Ладно, ладно... Фух. Я готов."
+
+# game/v1/scene37.rpy:417
+translate russian v1s37_8294f718:
+
+    # u "Bahahahaha, ooh, ah, I'm sorry... I-"
+    u "Бахахахаха, оох, ах, Прости... Я-"
+
+# game/v1/scene37.rpy:432
+translate russian v1s37_3a26df4b:
+
+    # u "*Coughs* Ahem, excuse me... so, why'd it get cancelled?"
+    u "*Кашель* Кхм, прости... Так почему его отменили?"
+
+# game/v1/scene37.rpy:437
+translate russian v1s37_9cd83818:
+
+    # pe "*Sighs* It was the dean. I swear she's out to get me."
+    pe "*Вздыхает* Это был декан, Клянусь, она хочет меня достать."
+
+# game/v1/scene37.rpy:447
+translate russian v1s37_66bc5eab:
+
+    # pe "Because of the case I had. For some reason, she thinks I'm the devil now. I tried to-"
+    pe "Из-за дела, которое у меня было, она по какой-то причине думает, что я теперь дьявол. Я пыталась..."
+
+# game/v1/scene37.rpy:459
+translate russian v1s37_46ada1c7:
+
+    # gentleman "Can you please not speak to me that way? I'm trying to provide us with a nice evening out."
+    gentleman "Не могла бы ты не разговаривать со мной в таком тоне? Я пытаюсь устроить нам приятный вечер."
+
+# game/v1/scene37.rpy:550
+translate russian v1s37_e398421b:
+
+    # pe "Oh! I'm sorry. Oops."
+    pe "Ох! Мне очень жаль. Упс."
+
+# game/v1/scene37.rpy:555
+translate russian v1s37_c7bb5851:
+
+    # u "No need to apologize. I didn't realize I never really speak about her to anyone."
+    u "Не нужно извиняться. Я не понимал, что никогда не говорил о ней никому"
+
+# game/v1/scene37.rpy:565
+translate russian v1s37_ba79b9f9:
+
+    # u "She's in New York for work and probably won't be back for a while. So with that and school and the frat... yeah, it's a lot."
+    u "Она в Нью-Йорке по работе и, вероятно, не вернётся ещё какое-то время. Так и с этим, и со школой, и с братством... Да, это очень много."
+
+# game/v1/scene37.rpy:590
+translate russian v1s37_6b3d335e:
+
+    # pe "Those girls would eat me alive like a pack of wolves. No pun intended..."
+    pe "Эти девушки съели бы меня живьём, как стая волков. Без каламбура..."
+
+# game/v1/scene37.rpy:595
+translate russian v1s37_24c80712:
+
+    # u "Maybe they'd like you! All they'd want is for you to hack the school and change their grades to at least a passing level."
+    u "Может, ты им понравишься! Всё, чего они хотят, это чтобы ты взломал школу и изменил их оценки хотя бы до проходного уровня"
+
+# game/v1/scene37.rpy:600
+translate russian v1s37_19aad56c:
+
+    # pe "Har-har, not funny."
+    pe "Хар-хар, Не смешно."
+
+# game/v1/scene37.rpy:605
+translate russian v1s37_f7399835:
+
+    # u "Too soon?"
+    u "Слишком?"
+
+# game/v1/scene37.rpy:610
+translate russian v1s37_e768ad11:
+
+    # pe "Nah. It actually was funny, but unexpected. I'm still trying to forget that whole experience, ha."
+    pe "Нет. На самом деле это было забавно и неожиданно. Я всё ещё пытаюсь забыть весь этот опыт, ха."
+
+# game/v1/scene37.rpy:625
+translate russian v1s37_093b11fb:
+
+    # u "Heh."
+    u "Хех."
+
+# game/v1/scene37.rpy:660
+translate russian v1s37_8a3cfab9:
+
+    # pe "Feels a lot like it, too."
+    pe "Мне тоже это очень нравится."
+
+# game/v1/scene37.rpy:675
+translate russian v1s37_18ea75d3:
+
+    # u "You kidding me? That was fun, what are you talking about?"
+    u "Ты издеваешься надо мной? Это было весело, о чём ты говоришь?"
+
+# game/v1/scene37.rpy:680
+translate russian v1s37_3b854053:
+
+    # pe "Fun for you, maybe."
+    pe "Весело для тебя, может быть."
+
+# game/v1/scene37.rpy:726
+translate russian v1s37_c297c16d:
+
+    # lady "And that's also why you can't keep a fucking job. You're a loser!"
+    lady "И именно поэтому ты не можешь найти работу, ты неудачник!"
+
+# game/v1/scene37.rpy:793
+translate russian v1s37_53e72b49:
+
+    # pe "Listen up, princess! I came here to go on a wonderful date, just like you. And I CAN'T DO THAT because YOU won't stop being a BITCH!"
+    pe "Послушай меня, принцесса! Я пришла сюда на чудесное свидание, как и ты. И я не могу им насладиться, потому что ТЫ не перестаешь быть СУКОЙ!"
+
+# game/v1/scene37.rpy:805
+translate russian v1s37_59c1991b:
+
+    # pe "Keep your shitty attitude and miserable life to yourself, okay?"
+    pe "Держи своё дерьмовое отношение и свою жалкую жизнь при себе, хорошо?"
+
+# game/v1/scene37.rpy:806
+translate russian v1s37_dbfedc6c:
+
+    # pe "This world doesn't revolve around you. If I ever see you again and you're speaking to someone like this, I'll have more than just words for you next time."
+    pe "Этот мир не вращается вокруг тебя. Если я когда-нибудь увижу тебя снова, и ты будешь разговаривать с кем-то подобным образом, в следующий раз у меня будет больше, чем просто слова, чтобы сказать."
+
+# game/v1/scene37.rpy:845
+translate russian v1s37_050c4103:
+
+    # u "You all good?"
+    u "Ты в порядке?"
 

@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v2/scene5.rpy:18
 translate russian v2s5_140c5099:
@@ -275,4 +276,74 @@ translate russian strings:
     # game/v2/scene5.rpy:112
     old "Be calm"
     new "Будь спокоен"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v2/scene5.rpy:50
+translate russian v2s5_adb040f9:
+
+    # u "Um, I'm good. How are you?"
+    u "Эм, я в порядке. Как твои?"
+
+# game/v2/scene5.rpy:105
+translate russian v2s5_ee191deb:
+
+    # ro "I'm not sure how long it can stay in your system but... they might detect traces of it, since these tests are sophisticated."
+    ro "Я не уверена, как долго он может оставаться в твоём организме, но... Они могут обнаружить его следы, поскольку тесты будут сложными."
+
+# game/v2/scene5.rpy:123
+translate russian v2s5_5e64b4a1:
+
+    # u "I'll just drink loads of water or something to make sure it's all flushed out of my system."
+    u "Я постараюсь выпить много воды или чего-нибудь ещё, чтобы убедиться, что всё это выведено из моего организма."
+
+# game/v2/scene5.rpy:128
+translate russian v2s5_f2ae4a12:
+
+    # ro "That's my boy..."
+    ro "Мой мальчик..."
+
+# game/v2/scene5.rpy:140
+translate russian v2s5_225d05a2:
+
+    # ro "I thought so, too."
+    ro "Я тоже так думаю."
+
+# game/v2/scene5.rpy:145
+translate russian v2s5_e6930013:
+
+    # u "I... uh, I better go before your class starts showing up."
+    u "Я... эм, мне лучше идти, пока твой класс не появился."
+
+# game/v2/scene5.rpy:150
+translate russian v2s5_f6346c6c:
+
+    # ro "If they ever do..."
+    ro "Если они когда-нибудь появятся..."
+
+# game/v2/scene5.rpy:155
+translate russian v2s5_bcf04164:
+
+    # u "Ha. Later."
+    u "Ха. Увидимся."
+
+# game/v2/scene5.rpy:242
+translate russian v2s5_17fd3732:
+
+    # u "Well, not for me. Even if my body liked it, being drugged wasn't a cool experience, and..."
+    u "Ну, не для меня. Даже если моему телу это нравилось, быть накачанным наркотиками не было крутым опытом, и..."
+
+# game/v2/scene5.rpy:244
+translate russian v2s5_b35f8c31:
+
+    # u "The sex is not worth losing everything I've worked for."
+    u "Секс не стоил того, чтобы потерять всё, ради чего я работал."
+
+# game/v2/scene5.rpy:254
+translate russian v2s5_0993957e:
+
+    # u "How can you make it up to me? Are you going to take the drug test for me? I don't think that'll work."
+    u "Как ты сможешь загладить свою вину передо мной? Ты собираешься пройти тест на наркотики за меня? Не думаю, что это сработает."
 

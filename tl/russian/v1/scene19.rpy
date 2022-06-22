@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene19.rpy:17
 translate russian v1s19_e88d276d:
@@ -131,4 +132,50 @@ translate russian v1s19_continue_51aa3d22:
 
     # cl "Okay, okay, fine."
     cl "Ладно, ладно, хорошо."
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene19.rpy:53
+translate russian v1s19_76622052:
+
+    # u "Ha... No \"hi?\" No \"how was class?\" Blah? Blah? Blah? Nothing?"
+    u "Ха... Не \"привет?\" Не \"как прошёл урок?\" Бла? Бла? Бла? Ничего?"
+
+# game/v1/scene19.rpy:58
+translate russian v1s19_4be3ae55:
+
+    # cl "I'm sorry [name], I'm just really focused and anxious to get started considering the Lindsey parade that's been taking place all day."
+    cl "Извините, [name], я очень сосредоточена начать работу, учитывая парад Линдси, который проходил весь день."
+
+# game/v1/scene19.rpy:63
+translate russian v1s19_521e4635:
+
+    # u "I can understand that... I guess I'll let you off the hook for being a little curt."
+    u "Я могу понять... Полагаю, я прощу тебя за такую поспешность."
+
+# game/v1/scene19.rpy:68
+translate russian v1s19_fd6636a8:
+
+    # cl "Ha, thanks. Should we get started, then?"
+    cl "Ха, спасибо. Тогда может начнем?"
+
+# game/v1/scene19.rpy:83
+translate russian v1s19_3ca0e6d1:
+
+    # cl "The first phase of my campaign is to re-establish old loyalties. The first time I was elected, people loved me, and I need to remind them why."
+    cl "Первый этап кампании - это восстановление старой лояльности. Когда я была избрана в первый раз, люди любили меня, и мне нужно напомнить им, почему."
+
+# game/v1/scene19.rpy:137
+translate russian v1s19_continue_21ceaa9e:
+
+    # cl "Getting the Apes to side with us could take a lot of convincing, but..."
+    cl "Для того, чтобы заставить Приматов встать на нашу сторону, потребуется много усилий, но..."
+
+# game/v1/scene19.rpy:158
+translate russian v1s19_continue_9dff9282:
+
+    # cl "Ewww, that sounds so weird coming from you."
+    cl "Фуууу, это звучит так странно от тебя."
 

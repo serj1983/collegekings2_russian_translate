@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene39.rpy:10
 translate russian v1s39_7e3b92f9:
@@ -357,4 +358,116 @@ translate russian strings:
     # game/v1/scene39.rpy:59
     old "Hell yeah!"
     new "Да, черт возьми!"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene39.rpy:22
+translate russian v1s39_78f0d998:
+
+    # u "Did you consider that it may be something else keeping him around? Something beyond just her?"
+    u "Ты не думала о том, что его может удерживать что-то ещё? Что-то помимо неё?"
+
+# game/v1/scene39.rpy:27
+translate russian v1s39_a5258155:
+
+    # pe "Like what? I can't think of anything that'd be worth putting up with her."
+    pe "Например? Я не могу придумать ничего такого, ради чего стоило бы терпеть её."
+
+# game/v1/scene39.rpy:32
+translate russian v1s39_5ffe086c:
+
+    # u "Kids, maybe? She also said he lost his job, so I assume she's the breadwinner right now."
+    u "Может быть, дети? Она сказала, что он потерял работу, так что я предполагаю, что она сейчас кормилица."
+
+# game/v1/scene39.rpy:52
+translate russian v1s39_69e45114:
+
+    # u "Hey, you're the lady! You need to be the one promising me. I don't think I can be as nice and tame as he was."
+    u "Эй, ты же леди! Ты должна быть той, кто обещает мне. Не думаю, что смогу быть таким же милым и послушным, как он."
+
+# game/v1/scene39.rpy:57
+translate russian v1s39_111d9ca5:
+
+    # pe "Oh? You'd snap back at me in front of everyone?"
+    pe "Ого? Ты огрызаешься на меня при всех?"
+
+# game/v1/scene39.rpy:87
+translate russian v1s39_199ae502:
+
+    # u "Ha! I did not say it like that, I just meant..."
+    u "Ха! Я не так сказал, я просто имел в виду..."
+
+# game/v1/scene39.rpy:92
+translate russian v1s39_3cd6c0e9:
+
+    # pe "Oh, sorry. I thought you meant... well, you know what I thought."
+    pe "О, прости. Я подумала, что ты имела в виду... Ну, ты знаешь, что я подумала."
+
+# game/v1/scene39.rpy:99
+translate russian v1s39_615c9b11:
+
+    # u "Good girl. Discussing, spanking, same thing."
+    u "Хорошая девочка. Обсуждаем, шлёпаем, одно и то же."
+
+# game/v1/scene39.rpy:109
+translate russian v1s39_6a2c966a:
+
+    # u "What'd I do?"
+    u "Что я наделал?"
+
+# game/v1/scene39.rpy:126
+translate russian v1s39_2414fa46:
+
+    # pe "Well, I don't plan to ever push you that far, so... all good."
+    pe "Ну, я не планирую когда-либо подталкивать тебя так далеко..."
+
+# game/v1/scene39.rpy:141
+translate russian v1s39_d3754bc5:
+
+    # u "I can't even imagine you being angry, besides with what just happened..."
+    u "Я даже не могу представить, что ты злишься, кроме того, что только что произошло..."
+
+# game/v1/scene39.rpy:146
+translate russian v1s39_00af7120:
+
+    # pe "It's not pretty."
+    pe "Это некрасиво."
+
+# game/v1/scene39.rpy:156
+translate russian v1s39_fbc871c1:
+
+    # pe "Oh my god... trust me, don't be."
+    pe "О боже... доверься мне, не бойся."
+
+# game/v1/scene39.rpy:224
+translate russian v1s39_cab2a430:
+
+    # u "Oh?"
+    u "Ох?"
+
+# game/v1/scene39.rpy:229
+translate russian v1s39_da43405f:
+
+    # pe "You probably think that's stupid, I'm probably... rushing things. This was our first \"date\" date and here I am trying to-"
+    pe "Ты, наверное, думаешь, что это глупо, что я тороплю события... Это было наше первое \"свидание\"..."
+
+# game/v1/scene39.rpy:244
+translate russian v1s39_6278cf58:
+
+    # u "Are you kidding? I can't wait."
+    u "Ты шутишь? Я не могу дождаться."
+
+# game/v1/scene39.rpy:276
+translate russian v1s39_0292c5d8:
+
+    # u "For sure."
+    u "Несомненно."
+
+# game/v1/scene39.rpy:291
+translate russian v1s39_ec762fc8:
+
+    # pe "It's okay. At least you kept your promise. I'm gonna go."
+    pe "Всё в порядке. По крайней мере, ты сдержал свое обещание. Я пойду."
 

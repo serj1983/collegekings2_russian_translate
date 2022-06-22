@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene43d.rpy:18
 translate russian v1s43d_7a2b2045:
@@ -310,7 +311,7 @@ translate russian v1s43d_99bd25a7:
 translate russian v1s43d_b24cb673:
 
     # ri "Alright, so... We're good for next week then?"
-    ri "Ладно, итак... Значит, на следующей неделе у нас всё хорошо.?"
+    ri "Ладно, итак... Значит, на следующей неделе у нас всё хорошо?"
 
 # game/v1/scene43d.rpy:285
 translate russian v1s43d_87be9757:
@@ -375,4 +376,182 @@ translate russian strings:
     # game/v1/scene43d.rpy:210
     old "I'm submissive"
     new "Я покорный"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene43d.rpy:18
+translate russian v1s43d_5753b9a4:
+
+    # ri "Thank you for pairing with me, by the way."
+    ri "Кстати, спасибо, что составил мне пару."
+
+# game/v1/scene43d.rpy:28
+translate russian v1s43d_2d0305ae:
+
+    # ri "I saw Imre floating around the room and I thought I was gonna have to be with him for a second, but thankfully... you came to the rescue."
+    ri "Я увидела Имре, бегающего по аудитории, и на секунду подумала, что мне придется составить ему пару, но, к счастью... Ты пришёл на помощь."
+
+# game/v1/scene43d.rpy:33
+translate russian v1s43d_c7666659:
+
+    # u "It's no problem. He actually told me what he did and begged me to work with you so that it wasn't awkward for either of you."
+    u "Это не проблема. Он на самом деле рассказал мне, что он сделал, и умолял меня поработать с вами, чтобы вам обоим не было неловко."
+
+# game/v1/scene43d.rpy:63
+translate russian v1s43d_46b6e599:
+
+    # u "Got it."
+    u "Понял."
+
+# game/v1/scene43d.rpy:79
+translate russian v1s43d_e367f220:
+
+    # ri "Yeah, ha. I am now... yeah."
+    ri "Да, ха. Сейчас я... да."
+
+# game/v1/scene43d.rpy:99
+translate russian v1s43d_3fe000b7:
+
+    # ri "*Clears throat* Drumroll, please!"
+    ri "*Прочистила горло* Барабанную дробь, пожалуйста!"
+
+# game/v1/scene43d.rpy:114
+translate russian v1s43d_aadb9ce3:
+
+    # u "Ha, c'mon already, weirdo. I thought you didn't wanna be here long?"
+    u "Ха, давай уже, чудачка. Я думал, ты не хочешь быть здесь долго?"
+
+# game/v1/scene43d.rpy:126
+translate russian v1s43d_62dddef3:
+
+    # u "You mean you wanna wing it? Be lazy and come up with nothing?"
+    u "Ты хочешь сказать, что хочешь сделать это наобум? Лениться и ничего не придумывать?"
+
+# game/v1/scene43d.rpy:131
+translate russian v1s43d_648bc37b:
+
+    # ri "Well... we can come up with a premise."
+    ri "Ну... Мы можем придумать предпосылку."
+
+# game/v1/scene43d.rpy:146
+translate russian v1s43d_875325dc:
+
+    # u "Okay. And how is that?"
+    u "Хорошо. И как это?"
+
+# game/v1/scene43d.rpy:152
+translate russian v1s43d_196ba007:
+
+    # ri "Well, the king thinks that above all, the queen should always be treated."
+    ri "Король считает, что, прежде всего, с королевой всегда нужно обращаться."
+
+# game/v1/scene43d.rpy:162
+translate russian v1s43d_ba734852:
+
+    # ri "Yeah, always."
+    ri "Да, всегда."
+
+# game/v1/scene43d.rpy:172
+translate russian v1s43d_98cddfb4:
+
+    # u "Hmm... okay, I think I understand. (This scene is gonna be hot as fuck...)"
+    u "Хм... Ладно, думаю, я понимаю. (Эта сцена будет горячей, блядь...)"
+
+# game/v1/scene43d.rpy:177
+translate russian v1s43d_a3bf8c92:
+
+    # ri "Mmm, good."
+    ri "Ммм, хорошо."
+
+# game/v1/scene43d.rpy:188
+translate russian v1s43d_a5f9f709:
+
+    # u "Oh, shit... how the hell am I supposed to compete with an A-list actress?"
+    u "Ох, черт... Как, чёрт возьми, я могу конкурировать с актрисой из списка А?"
+
+# game/v1/scene43d.rpy:193
+translate russian v1s43d_03e8f121:
+
+    # ri "Ha!"
+    ri "Ха!"
+
+# game/v1/scene43d.rpy:198
+translate russian v1s43d_f0d69703:
+
+    # ri "I really wanna make the whole class squirm. And Mr. Lee, too, for hitting me with that bomb today."
+    ri "Я очень хочу заставить весь класс корчиться, и мистера Ли тоже, за то, что он сегодня запустил в меня бомбой."
+
+# game/v1/scene43d.rpy:203
+translate russian v1s43d_fe2cf6ac:
+
+    # u "How are you planning to do that?"
+    u "Как ты планируешь это сделать?"
+
+# game/v1/scene43d.rpy:240
+translate russian v1s43d_46a425b3:
+
+    # u "Wellll, umm..."
+    u "Ну ладно, ммм..."
+
+# game/v1/scene43d.rpy:253
+translate russian v1s43d_4b0fc063:
+
+    # ri "That I do..."
+    ri "Это так..."
+
+# game/v1/scene43d.rpy:263
+translate russian v1s43d_a2ec139a:
+
+    # u "Yes, my queen."
+    u "Да, моя королева."
+
+# game/v1/scene43d.rpy:270
+translate russian v1s43d_88ae8f3f:
+
+    # ri "Also, we'll have to include something linked to history so that we don't give Mr. Lee a reason to interrupt."
+    ri "Кроме того, нам придется включить хотя бы что-нибудь об истории, чтобы не испортить сцену, дав мистеру Ли возможность прервать её."
+
+# game/v1/scene43d.rpy:275
+translate russian v1s43d_5e38262e:
+
+    # u "Fair enough."
+    u "Справедливо."
+
+# game/v1/scene43d.rpy:280
+translate russian v1s43d_21bb6518:
+
+    # ri "Alright, so... we're good for next week, then?"
+    ri "Ладно, итак... Значит, на следующей неделе у нас всё хорошо?"
+
+# game/v1/scene43d.rpy:285
+translate russian v1s43d_69cc4711:
+
+    # u "Yep. We're all good."
+    u "Да. У нас всё хорошо."
+
+# game/v1/scene43d.rpy:296
+translate russian v1s43d_61ad5939:
+
+    # u "Don't have too much fun without me."
+    u "Не слишком веселись без меня."
+
+# game/v1/scene43d.rpy:301
+translate russian v1s43d_2b2fb3e7:
+
+    # ri "No promises!"
+    ri "Не обещаю!"
+
+# game/v1/scene43d.rpy:306
+translate russian v1s43d_528e081b:
+
+    # u "(She can't get enough of her Aubs, can she?)"
+    u "(Она не может насытиться Обри, не так ли?)"
+
+# game/v1/scene43d.rpy:323
+translate russian v1s43d_f5cc5138:
+
+    # u "(As long as I get a passing grade, she can have as much fun as she wants with the class.)"
+    u "(Пока я получаю проходной балл, она может развлекаться с классом сколько угодно.)"
 

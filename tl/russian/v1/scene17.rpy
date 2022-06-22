@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene17.rpy:17
 translate russian v1s17_8b37e5e7:
@@ -849,4 +850,296 @@ translate russian strings:
     # game/v1/scene17.rpy:589
     old "Don't ask her"
     new "Не спрашивать"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene17.rpy:27
+translate russian v1s17_ce7fcf65:
+
+    # ro "[name], I sense you're a bit confused about the look of the classroom."
+    ro "[name], Чувствую, что ты немного озадачен внешним видом классной комнаты."
+
+# game/v1/scene17.rpy:32
+translate russian v1s17_ead6a79a:
+
+    # u "Ha, yeah, a bit. I don't think we've ever worked in groups before."
+    u "Ха, да, немного. Не думаю, что мы когда-либо работали в группах раньше."
+
+# game/v1/scene17.rpy:37
+translate russian v1s17_31982eef:
+
+    # ro "You're right, we haven't, but I wanted to give those of you who went on the trip a chance to catch up on the curriculum."
+    ro "Ты прав, мы этого раньше не делали, но я хотела дать возможность, кто ездил с нами, ознакомиться с учебной программой."
+
+# game/v1/scene17.rpy:52
+translate russian v1s17_427e531f:
+
+    # ro "You're going to be with Lauren today. I thought I'd pair my brightest student with the class clown."
+    ro "Сегодня ты будешь с Лорен. Я подумала, что могу объединить моего самого умного ученика с шутом."
+
+# game/v1/scene17.rpy:63
+translate russian v1s17_9a1f5985:
+
+    # ro "You continue to find new ways to make me laugh."
+    ro "Ты находить новые способы заставляя меня смеяться."
+
+# game/v1/scene17.rpy:93
+translate russian v1s17_c69e7923:
+
+    # ro "Ha! Good boy."
+    ro "Ха! Хороший мальчик."
+
+# game/v1/scene17.rpy:98
+translate russian v1s17_f9d07864:
+
+    # u "(Hot damn, I like when she does that sneaky shit.)"
+    u "(Черт возьми, мне нравится, когда она так подло поступает)."
+
+# game/v1/scene17.rpy:109
+translate russian v1s17_b785fab9:
+
+    # ro "See? My point exactly. Now, off you go. She's waiting for you."
+    ro "Видите? Это точно. А теперь иди. Она ждет тебя."
+
+# game/v1/scene17.rpy:152
+translate russian v1s17_6feb61a8:
+
+    # la "I don't know if I should be offended that you think my life revolves around education..."
+    la "Не знаю, стоит ли мне обижаться, что ты думаешь, что моя жизнь вращается вокруг образования..."
+
+# game/v1/scene17.rpy:161
+translate russian v1s17_af3bbc22:
+
+    # u "So, I was right, then? Nothing else to do with your life?"
+    u "Значит, я был прав? Тебе больше нечем заняться в жизни?"
+
+# game/v1/scene17.rpy:166
+translate russian v1s17_f1acbe37:
+
+    # la "You're not funny, [name]. At least, not very."
+    la "Ты не смешной, [name]. По крайней мере, не очень."
+
+# game/v1/scene17.rpy:193
+translate russian v1s17_0fccfdfb:
+
+    # u "Just stating facts."
+    u "Просто констатирую факты."
+
+# game/v1/scene17.rpy:195
+translate russian v1s17_33ebefea:
+
+    # u "And maybe trying to tell you that you should get out more, in the most subtle way possible."
+    u "И, возможно, пытается сказать вам, что вы должны больше выходить в свет, самым тонким образом."
+
+# game/v1/scene17.rpy:200
+translate russian v1s17_ac63021b:
+
+    # la "Ha! I knew the compliment was too good to be true."
+    la "Ха! Я знал, что комплимент был слишком хорош, чтобы быть правдой."
+
+# game/v1/scene17.rpy:205
+translate russian v1s17_b91b106a:
+
+    # u "Only partially."
+    u "Только частично."
+
+# game/v1/scene17.rpy:243
+translate russian v1s17_18303ed8:
+
+    # u "I'm extremely sorry about any and all of the mistakes I've made, I really am."
+    u "Я очень сожалею обо всех ошибках, которые я совершил, правда."
+
+# game/v1/scene17.rpy:248
+translate russian v1s17_1afbacf4:
+
+    # la "Yep..."
+    la "Ага..."
+
+# game/v1/scene17.rpy:250
+translate russian v1s17_181db766:
+
+    # la "I've moved on from it though, so..."
+    la "Я уже отошла, так что..."
+
+# game/v1/scene17.rpy:257
+translate russian v1s17_09df5ecf:
+
+    # u "(Yeah, okay. Sure as hell sounds like you have.)"
+    u "(Да, хорошо. Похоже, что так и есть)."
+
+# game/v1/scene17.rpy:282
+translate russian v1s17_00530538:
+
+    # la "Ooh!"
+    la "Оох!"
+
+# game/v1/scene17.rpy:287
+translate russian v1s17_28ee1799:
+
+    # la "So... according to the notes, we're looking into macro versus micro economics."
+    la "Итак... согласно записям, мы рассматриваем макро- и микроэкономику."
+
+# game/v1/scene17.rpy:292
+translate russian v1s17_96269902:
+
+    # u "Uhhh... okay..."
+    u "Ааа... хорошо..."
+
+# game/v1/scene17.rpy:294
+translate russian v1s17_466d2210:
+
+    # u "(My brain is still in Europe, I think.)"
+    u "(Мой мозг всё ещё в Европе)."
+
+# game/v1/scene17.rpy:311
+translate russian v1s17_304da2e6:
+
+    # u "Easy for you to say! You were basically partnered with me to teach me. You already know all of this stuff."
+    u "Тебе легко говорить! Ты мой партнер, чтобы учить меня. Ты уже знаешь всё это."
+
+# game/v1/scene17.rpy:316
+translate russian v1s17_b8736157:
+
+    # la "That's true, but it's hard to learn when you're not interested or focused. And you, sir, are definitely not interested or focused."
+    la "Это правда, трудно учиться, когда ты не заинтересован или не сосредоточен. А вы, сэр, определенно не заинтересованы и не сосредоточены."
+
+# game/v1/scene17.rpy:321
+translate russian v1s17_0f25d506:
+
+    # la "So, I'm going to send you a copy of the TA notes and you can mull over them in your own time."
+    la "Итак, я собираюсь отправить вам копию заметок TA, и вы сможете обдумать их в свое свободное время."
+
+# game/v1/scene17.rpy:340
+translate russian v1s17_e416bbc3:
+
+    # u "Oooooh. *Coughs* Nerd! *Coughs*"
+    u "Ооооо. *Кашляет* Ботан! *Кашель*"
+
+# game/v1/scene17.rpy:345
+translate russian v1s17_f80f0754:
+
+    # la "Ugh, you are so rude!"
+    la "Фу, ты такой грубый!"
+
+# game/v1/scene17.rpy:350
+translate russian v1s17_8e930bfc:
+
+    # u "Oops, I meant to say \"damn, look at you getting in nice and good with the people on the inside.\""
+    u "Упс, я хотел сказать: \"Чёрт возьми, посмотри, как хорошо ладишь с людьми внутри.\""
+
+# game/v1/scene17.rpy:355
+translate russian v1s17_c5131d83:
+
+    # la "Mm, that's more like it."
+    la "Мм, это больше похоже на правду."
+
+# game/v1/scene17.rpy:363
+translate russian v1s17_c6c9d08d:
+
+    # u "Damn. Well done."
+    u "Чёрт. Отличная работа."
+
+# game/v1/scene17.rpy:368
+translate russian v1s17_e58d48df:
+
+    # la "Thank you!"
+    la "Спасибо!"
+
+# game/v1/scene17.rpy:388
+translate russian v1s17_59ecf543:
+
+    # u "Ooh, about what?"
+    u "Оох, о чём?"
+
+# game/v1/scene17.rpy:443
+translate russian v1s17_ff626990:
+
+    # la "I'm always down for a bake sale, but I'm not trying to get involved in any of this. Did you see all of her flyers?"
+    la "Я всегда за продажу выпечки, но я не хочу участвовать во всём этом. Ты видел её листовки?"
+
+# game/v1/scene17.rpy:463
+translate russian v1s17_cf832f26:
+
+    # la "I also have to admit, though, Lindsey has great leadership potential and tons of new ideas that will greatly benefit not only the Chicks, but all sororities."
+    la "Однако я также должна признать, что у Линдси большой лидерский потенциал и масса новых идей, которые принесут большую пользу не только Чикс, но и всем женским обществам."
+
+# game/v1/scene17.rpy:480
+translate russian v1s17_9a3e0a4a:
+
+    # u "We both know you're a great baker and obviously Lindsey knows it, too, so I think you should help her."
+    u "Мы оба знаем, что ты отличный пекарь, и, очевидно, Линдси тоже это знает, поэтому я думаю, что ты должна ей помочь."
+
+# game/v1/scene17.rpy:490
+translate russian v1s17_4293aa9a:
+
+    # u "I do. Lindsey has been working her ass off since the minute she decided to run for President. She cares about the Chicks."
+    u "Да. Линдси работает над собой с той минуты, как решила баллотироваться в президенты. Она заботится о Чикс."
+
+# game/v1/scene17.rpy:495
+translate russian v1s17_1e4e96f4:
+
+    # u "Plus, she came to you, of all people, for a reason. She trusts you and knows what you're capable of."
+    u "К тому же, она пришла к тебе, не просто так. Она доверяет тебе и знает, на что ты способна."
+
+# game/v1/scene17.rpy:518
+translate russian v1s17_d53af90a:
+
+    # la "Ha, I guess you're right."
+    la "Ха, думаю, ты прав."
+
+# game/v1/scene17.rpy:574
+translate russian v1s17_61f3cae9:
+
+    # la "You're right. Thank you."
+    la "Ты прав. Спасибо."
+
+# game/v1/scene17.rpy:656
+translate russian v1s17_fd1d95a5:
+
+    # u "*Whispers* I know, because you're loyal."
+    u "*Шёпотом* Я знаю, потому что ты преданная."
+
+# game/v1/scene17.rpy:666
+translate russian v1s17_d7e50d0f:
+
+    # u "You're the most loyal soul I've ever met, Lauren. That's why I'm asking you, the one person I trust with anything and everything."
+    u "Ты самая преданная душа, которую я когда-либо встречал, Лорен. Вот почему я спрашиваю тебя, единственного человека, которому я доверяю."
+
+# game/v1/scene17.rpy:688
+translate russian v1s17_051f70ab:
+
+    # la "You really believe this is the right thing to do?"
+    la "Ты действительно веришь, что это правильно?"
+
+# game/v1/scene17.rpy:754
+translate russian v1s17_c3c6dc4e:
+
+    # la "Exactly, the most loyal person you know, and that's why you of all people should also know that I wouldn't do something like that."
+    la "Именно, самый преданный человек, которого ты знаешь, и поэтому ты, как никто другой, должен знать, что я бы не сделала ничего подобного."
+
+# game/v1/scene17.rpy:759
+translate russian v1s17_b8841cbb:
+
+    # u "Yeah, yeah, I realize that. I was just joking."
+    u "Да, да, я понимаю. Я просто пошутил."
+
+# game/v1/scene17.rpy:764
+translate russian v1s17_99fe9c77:
+
+    # la "Sure you were."
+    la "Конечно, да."
+
+# game/v1/scene17.rpy:769
+translate russian v1s17_1744082e:
+
+    # u "I swear! I was..."
+    u "Клянусь! Я бы..."
+
+# game/v1/scene17.rpy:789
+translate russian v1s17_end_0e491dfd:
+
+    # la "Oh perfect, class is over. Be careful about everything you do during this whole... \"mess,\" okay?"
+    la "Отлично, занятия закончились. Будь осторожен во всём, что ты делаешь в течение этого... \"бардака,\" хорошо?"
 

@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene25.rpy:26
 translate russian v1s25_b9258d04:
@@ -1131,4 +1132,278 @@ translate russian strings:
     # game/v1/scene25.rpy:1024
     old "We really shouldn't..."
     new "Мы правда не должны..."
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene25.rpy:135
+translate russian v1s25_4e6e1537:
+
+    # am "There's a weird lady that's been asking people for spare gum around here... She takes it, chews it and then throws it at you."
+    am "Здесь есть странная женщина, которая просит у людей жвачку... Она берет её, жуёт, а потом бросает в тебя."
+
+# game/v1/scene25.rpy:150
+translate russian v1s25_5ce7e418:
+
+    # u "Ha, evil! You're something else."
+    u "Ха, дьяволица! Ты - нечто другое."
+
+# game/v1/scene25.rpy:155
+translate russian v1s25_19fa3401:
+
+    # am "C'mon. Let's go to my room."
+    am "Ладно. Пойдем в мою комнату."
+
+# game/v1/scene25.rpy:193
+translate russian v1s25_f7ea5221:
+
+    # u "Still getting into the swing of things, but I'll be set soon enough. You?"
+    u "Всё ещё погружаюсь в ритм жизни, но скоро привыкну. А ты?"
+
+# game/v1/scene25.rpy:239
+translate russian v1s25_7740c0c9:
+
+    # u "Where'd you get those from, anyway?"
+    u "Откуда они у тебя?"
+
+# game/v1/scene25.rpy:244
+translate russian v1s25_08d64574:
+
+    # am "Heh, I can't remember where I get every single drug that I take."
+    am "Хех, не могу вспомнить, где я беру эти лекарства, которые принимаю."
+
+# game/v1/scene25.rpy:260
+translate russian v1s25_3106855a:
+
+    # am "But good ole Shane just thinks I'm another worthless junkie... ha!"
+    am "Но старый добрый Шейн считает, что я ещё один никчемный наркоман... Ха!"
+
+# game/v1/scene25.rpy:270
+translate russian v1s25_cb0e3022:
+
+    # am "Shane is my friend... er, WAS my friend..."
+    am "Шейн - мой друг... э, БЫЛ моим другом."
+
+# game/v1/scene25.rpy:277
+translate russian v1s25_77a6af07:
+
+    # u "I can tell this is serious for you, Amber... If you wanna talk, we can talk, or we can just leave it be."
+    u "Я вижу, что для тебя это серьёзно, Эмбер... Если ты хочешь поговорить, мы можем поговорить, или мы можем просто оставить всё как есть."
+
+# game/v1/scene25.rpy:282
+translate russian v1s25_70521d7c:
+
+    # am "Why not talk about it, right?"
+    am "Почему бы не поговорить об этом, правда?"
+
+# game/v1/scene25.rpy:303
+translate russian v1s25_2d86fc6c:
+
+    # am "Telling me that he needs to better his life, then blocking me, pretty much said it all."
+    am "Сказав мне, что ему нужно улучшить свою жизнь, а затем заблокировав меня, он практически этим всё сказал."
+
+# game/v1/scene25.rpy:312
+translate russian v1s25_7f24588a:
+
+    # u "I'm sorry you're going through this, you-"
+    u "Мне жаль, что ты проходишь через это, ты..."
+
+# game/v1/scene25.rpy:317
+translate russian v1s25_ae9f28a6:
+
+    # am "Why?"
+    am "Почему?"
+
+# game/v1/scene25.rpy:376
+translate russian v1s25_ef2f1671:
+
+    # u "What?"
+    u "Что?"
+
+# game/v1/scene25.rpy:386
+translate russian v1s25_d46548e9:
+
+    # u "No... Don't give yourself that much credit. Josh was on that shit way before he met you."
+    u "Нет... Не надо себя так накручивать, ха. Джош был на этом дерьме задолго до того, как встретил тебя."
+
+# game/v1/scene25.rpy:391
+translate russian v1s25_c65b5c20:
+
+    # am "Ugh."
+    am "Уф."
+
+# game/v1/scene25.rpy:396
+translate russian v1s25_b4bbc1e4:
+
+    # u "Forgive yourself for what you've done in the past. If things happened outside of your control, then oh well."
+    u "Прости себя за то, что вы сделали в прошлом. Это произошло вне вашего контроля."
+
+# game/v1/scene25.rpy:425
+translate russian v1s25_19608d57:
+
+    # am "If they would've acted how they do now when I was little, I probably wouldn't have been so rebellious."
+    am "Если бы они вели себя так, как сейчас, когда я была маленькой, я бы, наверное, не была такой бунтаркой."
+
+# game/v1/scene25.rpy:430
+translate russian v1s25_10318383:
+
+    # u "Ha, that's understandable."
+    u "Ха, это вполне объяснимо."
+
+# game/v1/scene25.rpy:437
+translate russian v1s25_63df8337:
+
+    # am "I couldn't even sit back or slouch in my chair when I ate food at the dinner table. That's how strict they were."
+    am "Я даже не могла откинуться на стуле или ссутулиться, когда ела за обеденным столом, насколько они были строгими."
+
+# game/v1/scene25.rpy:492
+translate russian v1s25_ce844348:
+
+    # am "It gets to the point where I can't stand being around myself anymore."
+    am "Доходит до того, что я не могу больше находиться рядом с собой."
+
+# game/v1/scene25.rpy:540
+translate russian v1s25_7c314792:
+
+    # u "Even though you haven't forced anyone to do anything, it's true that many people really like you and your company."
+    u "Несмотря на то, что ты никого ни к чему не принуждала, и это правда, многим людям нравишься ты и твоя компания."
+
+# game/v1/scene25.rpy:568
+translate russian v1s25_bb83e267:
+
+    # u "Feel guilty for what choices you've allowed others to see you make."
+    u "Чувствовать вину за то, что ты позволила другим увидеть, как ты делаешь выбор."
+
+# game/v1/scene25.rpy:578
+translate russian v1s25_9f2241e7:
+
+    # am "No, no, I'm not mad..."
+    am "Нет, нет, я не сержусь..."
+
+# game/v1/scene25.rpy:590
+translate russian v1s25_6fe9021a:
+
+    # am "It doesn't make me a good person either, and that's what I want to be..."
+    am "Это тоже не делает меня хорошим человеком, и это то, кем я хочу быть..."
+
+# game/v1/scene25.rpy:607
+translate russian v1s25_eca22709:
+
+    # am "I'm done. Done with all drugs."
+    am "Я завязываю. Заканчиваю с этими наркотиками."
+
+# game/v1/scene25.rpy:661
+translate russian v1s25_8d783560:
+
+    # u "I'm so proud of you."
+    u "Я так горжусь тобой."
+
+# game/v1/scene25.rpy:666
+translate russian v1s25_9f86fc0b:
+
+    # am "Don't start acting all sappy. I'm still the same, snappy Amber."
+    am "Не веди себя как сопля, я всё та же Эмбер."
+
+# game/v1/scene25.rpy:673
+translate russian v1s25_fa4d3624:
+
+    # u "Ha, noted."
+    u "Ха, принято."
+
+# game/v1/scene25.rpy:724
+translate russian v1s25_332c10bb:
+
+    # am "In other news, Lindsey has her bake sale tomorrow and I'm actually looking forward to it."
+    am "К другим новостям, завтра Линдси устраивает распродажу выпечки, и я с нетерпением жду этого."
+
+# game/v1/scene25.rpy:729
+translate russian v1s25_5534803e:
+
+    # u "Why? Do you like baked goods?"
+    u "Почему? Ты тоже любишь выпечку?"
+
+# game/v1/scene25.rpy:734
+translate russian v1s25_f37b7e19:
+
+    # am "Yeah, of course, but that's not why I'm going."
+    am "Да, конечно, но я иду не за этим."
+
+# game/v1/scene25.rpy:739
+translate russian v1s25_2d0fac15:
+
+    # u "Ha, why are you going?"
+    u "Ха, а зачем ты идешь?"
+
+# game/v1/scene25.rpy:780
+translate russian v1s25_dc4efdf0:
+
+    # am "Do you know how to lay in bed with a female without trying to fuck her?"
+    am "Ты знаешь, как лечь в постель с женщиной, не пытаясь её трахнуть?"
+
+# game/v1/scene25.rpy:797
+translate russian v1s25_e4abc76c:
+
+    # am "Then yes, for real."
+    am "Тогда да, серьёзно."
+
+# game/v1/scene25.rpy:842
+translate russian v1s25_8adec5d0:
+
+    # u "I can do that... sure... no problem..."
+    u "Я могу это сделать... конечно... без проблем..."
+
+# game/v1/scene25.rpy:847
+translate russian v1s25_ed44e8c6:
+
+    # am "Ha, good. Goodnight."
+    am "Ха, хорошо. Спокойной ночи."
+
+# game/v1/scene25.rpy:904
+translate russian v1s25_nsfwSkipLabel1_2059273c:
+
+    # u "No one is following you off the bridge if you jump. Sorry, but you don't have quite that much influence."
+    u "Никто не последует за тобой на мост, если ты прыгнешь. Извини, но у тебя не так много влияния."
+
+# game/v1/scene25.rpy:930
+translate russian v1s25_nsfwSkipLabel1_e7b100e1:
+
+    # u "So, be a good person where it counts and have fun while you still can. Yeah?"
+    u "Так что будь хорошим человеком там, где это важно, и веселись, пока можешь. Хорошо?"
+
+# game/v1/scene25.rpy:940
+translate russian v1s25_nsfwSkipLabel1_18724d6d:
+
+    # am "*Gasps* [name]!"
+    am "*Задыхается* [name]!"
+
+# game/v1/scene25.rpy:965
+translate russian v1s25_nsfwSkipLabel1_0c5b88c1:
+
+    # am "We're about to have some fucking fun. Ha!"
+    am "Сейчас мы охрененно повеселимся. Ха!"
+
+# game/v1/scene25.rpy:1059
+translate russian v1s25_nsfwSkipLabel1_b1bf455d:
+
+    # u "Uh-um, sorry, should I leave?"
+    u "Прости, мне уйти?"
+
+# game/v1/scene25.rpy:1064
+translate russian v1s25_nsfwSkipLabel1_65ada91e:
+
+    # am "Do you not remember what I said about the gum lady? You're staying here tonight. Get in the bed."
+    am "Ты не помнишь, что я рассказала о истории с жевательной резинкой? Ты останешься здесь на ночь. Ложись в кровать."
+
+# game/v1/scene25.rpy:1074
+translate russian v1s25_nsfwSkipLabel1_5f13cd7c:
+
+    # am "What? You've seen tits before, haven't you?"
+    am "Что? Ты уже видел мои сиськи, не так ли?"
+
+# game/v1/scene25.rpy:1089
+translate russian v1s25_nsfwSkipLabel1_831dd538:
+
+    # u "Okay... I can do that..."
+    u "Хорошо... Я могу это сделать..."
 

@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene13.rpy:17
 translate russian v1s13_646b1da4:
@@ -136,5 +137,81 @@ translate russian v1s13_fda225e4:
 translate russian v1s13_1eb0edab:
 
     # u "(Jet lag recovery begins in five... four... three... two...-)"
+    u "(Восстановление после полёта начинается через пять... четыре... три... два...)"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene13.rpy:32
+translate russian v1s13_a8178cbb:
+
+    # u "Ha, sorry Seb. I was gonna save that for the morning."
+    u "Ха, извини, Себ. Я собирался приберечь это на утро."
+
+# game/v1/scene13.rpy:37
+translate russian v1s13_9f1a78d4:
+
+    # se "Wolves don't roll like that, my man."
+    se "Волки так не делают, дружище."
+
+# game/v1/scene13.rpy:47
+translate russian v1s13_8430fe0f:
+
+    # u "Alright, sure, yeah... You make it sound like you're dying, though."
+    u "Хорошо, конечно, да... Но ты говоришь так, будто умираешь."
+
+# game/v1/scene13.rpy:57
+translate russian v1s13_d9dd728b:
+
+    # u "Wait... Sebastian, are you...?"
+    u "Подожди... Себастьян, ты...?"
+
+# game/v1/scene13.rpy:77
+translate russian v1s13_7e3dc5a4:
+
+    # se "Friend, you mean. Sounds like a friend is calling. There are no bosses around here, [name]."
+    se "Друг, ты имеешь в виду. Похоже, звонит друг. Здесь нет никаких боссов, [name]."
+
+# game/v1/scene13.rpy:82
+translate russian v1s13_c4bf05e5:
+
+    # se "Didn't you notice how he asked for my help instead of barking out an order?"
+    se "Разве ты не заметил, как он попросил меня о помощи вместо того, чтобы лаять с приказом?"
+
+# game/v1/scene13.rpy:87
+translate russian v1s13_eac8abbc:
+
+    # u "Yeah, man. Whatever you say. But a president is still the boss."
+    u "Да, чувак. Как скажешь. Но президент всё равно босс."
+
+# game/v1/scene13.rpy:92
+translate russian v1s13_ac390f55:
+
+    # se "Different perspectives cause conflict-"
+    se "Различные точки зрения приводят к конфликтам-"
+
+# game/v1/scene13.rpy:107
+translate russian v1s13_3b0d6a92:
+
+    # u "Your friend sounds very patient."
+    u "Твой друг, похоже, очень терпелив."
+
+# game/v1/scene13.rpy:112
+translate russian v1s13_701a6ea0:
+
+    # se "Very funny. I'm glad you're back, man. Really, I kinda missed you guys more than I thought I would."
+    se "Очень смешно. Я рад, что ты вернулся, чувак. Правда, я скучал по тебе больше, чем думал."
+
+# game/v1/scene13.rpy:132
+translate russian v1s13_b851361c:
+
+    # u "(Sure sounded to me like he was being given an order. It may have been a polite one, but it was an order nonetheless. Definitely not a request...)"
+    u "(Мне показалось, что ему отдали приказ. Возможно, это был вежливый приказ, но тем не менее это был приказ. Определенно не просьба...)"
+
+# game/v1/scene13.rpy:147
+translate russian v1s13_cdd8c6ba:
+
+    # u "(Jet lag recovery begins in five... four... three... two...)"
     u "(Восстановление после полёта начинается через пять... четыре... три... два...)"
 

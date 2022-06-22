@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene45a.rpy:10
 translate russian v1s45a_f2770986:
@@ -557,4 +558,230 @@ translate russian strings:
     # game/v1/scene45a.rpy:162
     old "Be supportive"
     new "Оказать поддержку"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene45a.rpy:18
+translate russian v1s45a_cfc34a17:
+
+    # am "I just, uh... I quit my job at Lew's."
+    am "Я только что... Уволилась с работы в Лью."
+
+# game/v1/scene45a.rpy:21
+translate russian v1s45a_246d62d4:
+
+    # am "Guess you can't tease me about it anymore, ha."
+    am "Думаю, ты больше не сможешь дразнить меня по этому поводу, ха."
+
+# game/v1/scene45a.rpy:31
+translate russian v1s45a_39040a22:
+
+    # am "Just tired of it, honestly... it's not fun."
+    am "Просто устала от этого, честно говоря... Это не весело."
+
+# game/v1/scene45a.rpy:38
+translate russian v1s45a_70cbb385:
+
+    # u "(Like, a stripper?)"
+    u "(Как стриптизёрша?)"
+
+# game/v1/scene45a.rpy:56
+translate russian v1s45a_4d1b616e:
+
+    # am "Really? You're cool with it? I mean, I know how it sounds at first, but-"
+    am "Правда? Ты не против? Я имею в виду, знаю, как это звучит сначала, но..."
+
+# game/v1/scene45a.rpy:66
+translate russian v1s45a_fc266f00:
+
+    # am "Wow. Thank you."
+    am "Вау. Спасибо."
+
+# game/v1/scene45a.rpy:85
+translate russian v1s45a_001084ac:
+
+    # am "Ugh... I knew you'd say that. It's not a stripper, it's-"
+    am "Ух... Я знала, что ты так скажешь. Это не стриптиз, это..."
+
+# game/v1/scene45a.rpy:95
+translate russian v1s45a_274ea181:
+
+    # am "Regardless of what you call it, I'm doing it 'cause I want to. I didn't think I needed anyone's permission to do that."
+    am "Независимо от того, как ты это называешь, я делаю что хочу. Не думаю, что мне нужно чьё-то разрешение, чтобы сделать это."
+
+# game/v1/scene45a.rpy:100
+translate russian v1s45a_a540c76e:
+
+    # u "You don't, but... you had a good, solid job and you're throwing it away for this?"
+    u "Ты не можешь... У тебя была хорошая, надёжная работа, и ты бросаешь её ради этого?"
+
+# game/v1/scene45a.rpy:105
+translate russian v1s45a_fd72d02e:
+
+    # am "I wasn't happy at Lew's and this dancing job... it seems like something I'll enjoy."
+    am "Я не была счастлива в Lew's, а эта работа танцора... Похоже, это то, что мне понравится."
+
+# game/v1/scene45a.rpy:120
+translate russian v1s45a_44f47f9a:
+
+    # u "I know."
+    u "Я знаю."
+
+# game/v1/scene45a.rpy:125
+translate russian v1s45a_ba777989:
+
+    # am "Oh, [name]..."
+    am "Ох, [name]..."
+
+# game/v1/scene45a.rpy:148
+translate russian v1s45a_ac1797bc:
+
+    # u "Wait... the same manager that was being a dick to you that one day?"
+    u "Подожди... Тот самый менеджер, который в тот день вёл себя как мудак?"
+
+# game/v1/scene45a.rpy:153
+translate russian v1s45a_e17e4a9a:
+
+    # am "Yeah! That's the one."
+    am "Да! Это он."
+
+# game/v1/scene45a.rpy:155
+translate russian v1s45a_7230f7cd:
+
+    # am "Turns out that he was just seeing how much bullshit I could take. He thinks I could stay with the company long-term. If I wanted to, of course."
+    am "Оказалось, что он просто проверял, сколько дерьма я могу вынести. Он считает, что я могла бы остаться в компании надолго. Если, конечно, захочу."
+
+# game/v1/scene45a.rpy:173
+translate russian v1s45a_922189c6:
+
+    # u "Should I call you ma'am now, when I stop by?"
+    u "Мне теперь называть тебя мэм, когда я снова зайду?"
+
+# game/v1/scene45a.rpy:178
+translate russian v1s45a_e10d976a_1:
+
+    # am "You're an ass, you know that?"
+    am "Ты - задница, ты знаешь это?"
+
+# game/v1/scene45a.rpy:183
+translate russian v1s45a_0bda206e:
+
+    # u "I learned from the best, though."
+    u "Я учился у лучших."
+
+# game/v1/scene45a.rpy:188
+translate russian v1s45a_238da308:
+
+    # am "Okay, dickhead..."
+    am "Ладно, придурок..."
+
+# game/v1/scene45a.rpy:195
+translate russian v1s45a_166c69d0:
+
+    # u "Oh, wow. I'm scared."
+    u "Ух ты. Мне страшно."
+
+# game/v1/scene45a.rpy:213
+translate russian v1s45a_262c3c9c:
+
+    # u "You're really on the right track, I think. At this rate, I'll be asking you for a job at Lew's one day."
+    u "Думаю, ты на правильном пути. Такими темпами, однажды я попрошу тебя о работе в Lew's."
+
+# game/v1/scene45a.rpy:218
+translate russian v1s45a_d6364cb3:
+
+    # am "Ha, thanks."
+    am "Ха, спасибо."
+
+# game/v1/scene45a.rpy:247
+translate russian v1s45a_7595087b:
+
+    # am "You're, like, a blanket."
+    am "Ты как, как одеяло."
+
+# game/v1/scene45a.rpy:252
+translate russian v1s45a_8f7faf82:
+
+    # u "Uh... oh. Well, thank you?"
+    u "Ох... Что ж, спасибо?"
+
+# game/v1/scene45a.rpy:257
+translate russian v1s45a_f5db7690:
+
+    # am "I mean, like... you're nice and warm, like a blanket that wraps me up tight and makes me feel safe."
+    am "Я имею в виду... Ты милый и тёплый, как одеяло, которое плотно укутывает меня и заставляет чувствовать себя в безопасности."
+
+# game/v1/scene45a.rpy:262
+translate russian v1s45a_6357f30b:
+
+    # u "(That's the cutest thing I've ever heard.)"
+    u "(Это самая милая вещь, которую я когда-либо слышал.)"
+
+# game/v1/scene45a.rpy:267
+translate russian v1s45a_913683ef:
+
+    # am "A security blanket... whether I'm fucking it all up or doing things perfectly, at the end of the day you've still got me feeling safe and warm."
+    am "Что-то вроде защитного одеяло... Портишь-ли или делаешь всё идеально, в конце концов, ты всё равно заставляешь меня чувствовать себя в безопасности и тепле."
+
+# game/v1/scene45a.rpy:295
+translate russian v1s45a_d0b98913:
+
+    # am "I do, and... it takes a lot for me to say that, so don't take it lightly."
+    am "Да, и... Мне нужно много усилий, чтобы сказать это, так что не воспринимай это легкомысленно."
+
+# game/v1/scene45a.rpy:300
+translate russian v1s45a_c43a9f09:
+
+    # u "I won't. I promise. Thank you for saying that."
+    u "Не буду. Обещаю. Спасибо тебе за то, что ты это сказала."
+
+# game/v1/scene45a.rpy:330
+translate russian v1s45a_09ccb4ac:
+
+    # u "Sounds perfect."
+    u "Звучит идеально."
+
+# game/v1/scene45a.rpy:370
+translate russian v1s45a_cfea60a3:
+
+    # am "Hell yeah. I'm out of here on a high note."
+    am "Черт возьми, да. Ухожу на высокой ноте."
+
+# game/v1/scene45a.rpy:377
+translate russian v1s45a_4177f1f2:
+
+    # u "Sounds like a plan."
+    u "Хорошо, ага."
+
+# game/v1/scene45a.rpy:464
+translate russian v1s45a_PhoneContinue_c1a53fcb:
+
+    # u "Yeah, yeah... I was just testing you."
+    u "Да, да... Я просто проверял тебя."
+
+# game/v1/scene45a.rpy:466
+translate russian v1s45a_PhoneContinue_e7b40095:
+
+    # u "Call me in five. I'm gonna start heading over..."
+    u "Позвони мне через 5 минут, я собираюсь отправиться туда..."
+
+# game/v1/scene45a.rpy:526
+translate russian v1s45a_PhoneContinue_e3f513b0:
+
+    # u "I was just there, actually."
+    u "Я только что был там."
+
+# game/v1/scene45a.rpy:563
+translate russian v1s45a_PhoneContinue_164fa10c:
+
+    # u "Uh-huh..."
+    u "Угу..."
+
+# game/v1/scene45a.rpy:568
+translate russian v1s45a_PhoneContinue_ce42f6b4:
+
+    # li "See you soon."
+    li "До скорой встречи."
 

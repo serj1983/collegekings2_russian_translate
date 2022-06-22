@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene33.rpy:50
 translate russian v1s33_fcfea652:
@@ -227,4 +228,98 @@ translate russian strings:
     # game/v1/scene33.rpy:122
     old "Get excited"
     new "Прийти в восторг"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene33.rpy:71
+translate russian v1s33_a7af09fa:
+
+    # la "Ha, I wish."
+    la "Ха, я бы хотела."
+
+# game/v1/scene33.rpy:91
+translate russian v1s33_59ca6a00:
+
+    # u "Oh."
+    u "Ох."
+
+# game/v1/scene33.rpy:96
+translate russian v1s33_07206f43:
+
+    # la "I wanted to let you know I was thinking about trying something."
+    la "Я хочу тебе сказать, что подумываю о том, чтобы кое-что попробовать."
+
+# game/v1/scene33.rpy:108
+translate russian v1s33_ca9b99e3:
+
+    # la "I'm in bed, naked... and I'm thinking I should try watching porn. And..."
+    la "Я лёжа в постели, голая... думаю, что надо бы посмотреть порно. И..."
+
+# game/v1/scene33.rpy:110
+translate russian v1s33_5afb99e8:
+
+    # la "I don't know... see what it does for me?"
+    la "Я не знаю, видишь, что это делает со мной?..."
+
+# game/v1/scene33.rpy:118
+translate russian v1s33_4ee711a0:
+
+    # u "Ha, what? You've never watched porn before?"
+    u "Ха, что? Ты никогда не смотрела порно?"
+
+# game/v1/scene33.rpy:125
+translate russian v1s33_5fe162dd:
+
+    # la "And no, I haven't ever felt super comfortable with the idea, but... I've been really curious."
+    la "Нет, я никогда не чувствовала потребности в этом, но... мне очень любопытно."
+
+# game/v1/scene33.rpy:137
+translate russian v1s33_3c9e95b5:
+
+    # la "Kind of embarrassed, honestly."
+    la "Я немного смущена, честно говоря."
+
+# game/v1/scene33.rpy:142
+translate russian v1s33_d2ce622c:
+
+    # u "No need to be embarrassed! Enjoy yourself."
+    u "Не нужно смущаться! Получай удовольствие."
+
+# game/v1/scene33.rpy:166
+translate russian v1s33_nsfwSkipLabelW_19d3f14d:
+
+    # u "(Lauren watching porn for the first time? Wow! I hope she didn't take that the wrong way... but, damn...)"
+    u "(Лорен впервые смотрит порно? Ух ты! Надеюсь, она не восприняла это неправильно... но, чёрт...)"
+
+# game/v1/scene33.rpy:189
+translate russian v1s33_nsfwSkipLabelW_41c470a9:
+
+    # la "I bet you do."
+    la "Не сомневаюсь."
+
+# game/v1/scene33.rpy:191
+translate russian v1s33_nsfwSkipLabelW_226a23dc:
+
+    # la "Wow, I... I can't believe how naughty I feel right now."
+    la "Вау, я... Я не могу поверить, насколько непослушной я себя сейчас чувствую."
+
+# game/v1/scene33.rpy:201
+translate russian v1s33_nsfwSkipLabelW_21bd5513:
+
+    # la "I... I have some ideas."
+    la "Я... У меня появилось некоторые идеи."
+
+# game/v1/scene33.rpy:206
+translate russian v1s33_nsfwSkipLabelW_bf6ce967:
+
+    # u "O-Oh! Well, shit, I guess I'll let you get to it."
+    u "О-о! Ну, чёрт, думаю, я позволю тебе заняться этим."
+
+# game/v1/scene33.rpy:221
+translate russian v1s33_nsfwSkipLabelW_5099f5d8:
+
+    # la "Goodnight!"
+    la "Спокойной ночи!"
 

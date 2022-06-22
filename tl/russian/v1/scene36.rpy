@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene36.rpy:18
 translate russian v1s36_31c55b6c:
@@ -1409,4 +1410,602 @@ translate russian strings:
     # game/v1/scene36.rpy:1344
     old "You watching porn sounds hot"
     new "Ты смотришь порно - звучит заманчиво."
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene36.rpy:33
+translate russian v1s36_316024c0:
+
+    # u "Well, I feel honored to be one of the first people to use it."
+    u "Ну, для меня большая честь быть одним из первых, кто им воспользуются."
+
+# game/v1/scene36.rpy:40
+translate russian v1s36_e8b530ad:
+
+    # jen "Maybe. I thought I would but the water is a little colder than I expected. I will put my feet in, though."
+    jen "Может быть. Вода немного холоднее, чем я ожидала. Но ноги всё же опущу."
+
+# game/v1/scene36.rpy:45
+translate russian v1s36_40f16dc7:
+
+    # u "That's a good idea. Let's start slow."
+    u "Хорошая идея. Давай начнем медленно."
+
+# game/v1/scene36.rpy:60
+translate russian v1s36_f2e342d1:
+
+    # jen "Not too bad, I guess."
+    jen "Думаю, не так уж плохо."
+
+# game/v1/scene36.rpy:65
+translate russian v1s36_c7c09245:
+
+    # u "So, tell me, what made you wanna hang out tonight?"
+    u "Расскажи мне, что заставило тебя захотеть потусоваться сегодня вечером?"
+
+# game/v1/scene36.rpy:78
+translate russian v1s36_f01d9c5d:
+
+    # u "Oh, happy to help... is Penelope busy today?"
+    u "О, рад помочь... Пенелопа сегодня занята?"
+
+# game/v1/scene36.rpy:88
+translate russian v1s36_752ab45f:
+
+    # jen "Ha, you're not. Well... just a bit, maybe."
+    jen "Ха, нет. Ну, может, чуть-чуть."
+
+# game/v1/scene36.rpy:93
+translate russian v1s36_5ca9657d:
+
+    # u "So, I assume Penelope's busy today?"
+    u "Итак, я полагаю, Пенелопа сегодня занята?"
+
+# game/v1/scene36.rpy:116
+translate russian v1s36_70643bc9:
+
+    # u "Yeah. Chloe, who is the current president, and Lindsey are running against each other."
+    u "Да, я пыталась написать ей, но она сказала, что рано ложится спать."
+
+# game/v1/scene36.rpy:118
+translate russian v1s36_dad7adb9:
+
+    # u "It's not as big of a deal to the college as it seems, but in our pocket of friends, everyone's involved."
+    u "Для колледжа это не так важно, как кажется, но в нашем кругу друзей все вовлечены."
+
+# game/v1/scene36.rpy:133
+translate russian v1s36_b9bbbe07:
+
+    # jen "Tall, blonde, and a true badass. We did pageants together when we were kids."
+    jen "Высокая, светловолосая и крутая... Мы вместе участвовали в конкурсах, когда были детьми."
+
+# game/v1/scene36.rpy:138
+translate russian v1s36_78080b84:
+
+    # u "Well, the Chloe I know is definitely a badass, or a bad bitch, depending on who you ask."
+    u "Ну, Хлоя, которую я знаю, точно крутая, или злая сука, в зависимости от того, кого ты спросишь."
+
+# game/v1/scene36.rpy:143
+translate russian v1s36_1d4fb0aa:
+
+    # jen "Ha! Wait, no way... what's her last name?"
+    jen "Ха! Подожди, не может быть... Как её фамилия?"
+
+# game/v1/scene36.rpy:163
+translate russian v1s36_22a70a03:
+
+    # u "Nope. President of the Chicks, Homecoming Queen, and one of my close friends."
+    u "Нет. Президент Чикс, королева выпускного вечера и одна из моих близких друзей."
+
+# game/v1/scene36.rpy:173
+translate russian v1s36_e97ad0a2:
+
+    # u "Small world."
+    u "Мир тесен."
+
+# game/v1/scene36.rpy:178
+translate russian v1s36_81d3c7ff:
+
+    # jen "I haven't seen her in years... what has she been up to?"
+    jen "Я не видела её много лет... Чем она занималась?"
+
+# game/v1/scene36.rpy:188
+translate russian v1s36_eb57450a:
+
+    # jen "Oh, pfft... there's no way she'll lose to someone named Lindsey."
+    jen "Ох, пффт... Она ни за что не проиграет какой-то цыпочке по имени Линдси."
+
+# game/v1/scene36.rpy:208
+translate russian v1s36_f2e10ab8:
+
+    # u "You and everyone else in our circles."
+    u "Ты и все остальные в нашем круге."
+
+# game/v1/scene36.rpy:261
+translate russian v1s36_ecb4fe0c:
+
+    # jen "Well, I'm not some \"Chick\"."
+    jen "Ну, я не какая-нибудь \"цыпочка\""
+
+# game/v1/scene36.rpy:271
+translate russian v1s36_711c110a:
+
+    # u "Not really. I'm more of the reserved type, I guess, because I like to focus on the serious stuff."
+    u "Не совсем. Наверное, я больше отношусь к сдержанному типу людей, потому что мне нравится сосредотачиваться на серьезных вещах."
+
+# game/v1/scene36.rpy:300
+translate russian v1s36_588f51b4:
+
+    # jen "Huh..."
+    jen "Хах..."
+
+# game/v1/scene36.rpy:307
+translate russian v1s36_438c0da4:
+
+    # u "Which is interesting, because I didn't get that vibe from my first impression of you."
+    u "Что интересно, первого впечатления у меня не было от тебя."
+
+# game/v1/scene36.rpy:312
+translate russian v1s36_6ef687c2:
+
+    # jen "It's not something I show all that readily..."
+    jen "Это не то, что я показываю при первом впечатлении..."
+
+# game/v1/scene36.rpy:317
+translate russian v1s36_b663e4a9:
+
+    # u "I see."
+    u "Понимаю."
+
+# game/v1/scene36.rpy:319
+translate russian v1s36_6dabe756:
+
+    # u "I guess there's a lot you can get to know about a person if you see them more than a few times. Weird, huh?"
+    u "Думаю, можно многое узнать о человеке, если видеть его больше, чем нескольких раз... Странно, а?"
+
+# game/v1/scene36.rpy:324
+translate russian v1s36_2e51fd01:
+
+    # jen "How many times have we seen each other now?"
+    jen "Сколько раз мы уже видели друг друга?"
+
+# game/v1/scene36.rpy:374
+translate russian v1s36_dd3fc6c5:
+
+    # u "Oh... oh! That's what you're talking about. Well, that was an accident, though, right?"
+    u "О... о! Вот о чём ты говоришь. Ну, это же был несчастный случай, верно?"
+
+# game/v1/scene36.rpy:379
+translate russian v1s36_1d4052ee:
+
+    # jen "True, yeah... but it wasn't a mistake."
+    jen "Верно, да... но это не было ошибкой."
+
+# game/v1/scene36.rpy:391
+translate russian v1s36_316bcb4a:
+
+    # jen "I'm not mad that it happened, and I don't regret it or anything."
+    jen "Я не злюсь, что это случилось, и я не жалею об этом."
+
+# game/v1/scene36.rpy:401
+translate russian v1s36_06756847:
+
+    # jen "'Cause it's better that it was you rather than some creep. At least it wasn't Imre or... what's his face..."
+    jen "Потому что лучше, чтобы это был ты, а не какой-то гад, хаха. По крайней мере, это был не Имре или... Как его там..."
+
+# game/v1/scene36.rpy:426
+translate russian v1s36_db881e03:
+
+    # u "I mean, I don't blame you, but... why don't you like them?"
+    u "Я не виню тебя, но... Почему они тебе не нравятся?"
+
+# game/v1/scene36.rpy:451
+translate russian v1s36_4c60a5a7:
+
+    # jen "Penelope, of course."
+    jen "Конечно же, от Пенелопы."
+
+# game/v1/scene36.rpy:456
+translate russian v1s36_a415d2c5:
+
+    # u "Penelope isn't in a sorority and chooses to miss out on a lot of those things. So I guess I don't see how she could know everyone so well."
+    u "Пенелопа не состоит в женском обществе и предпочитает пропускать многие из этих вещей. Поэтому я не понимаю, как она могла так хорошо всех знать."
+
+# game/v1/scene36.rpy:461
+translate russian v1s36_3116ccc8:
+
+    # jen "Penelope may be quiet, but she has her ears to all the walls. She's very aware of the things around her."
+    jen "Пенелопа тихая, но её ушки прижаты ко всем стенам. Она прекрасно понимает, что её окружает."
+
+# game/v1/scene36.rpy:471
+translate russian v1s36_ac8ae235:
+
+    # u "Ha, okay. Well, in that case..."
+    u "Ха, хорошо. Ну, в таком случае..."
+
+# game/v1/scene36.rpy:481
+translate russian v1s36_3a36a945:
+
+    # jen "I have. That's how I know that I can trust you and... you know, be myself."
+    jen "Ага. Вот откуда я знаю, что могу доверять тебе и... быть самой собой."
+
+# game/v1/scene36.rpy:534
+translate russian v1s36_ca342e2a:
+
+    # jen "Whatever."
+    jen "Как скажешь."
+
+# game/v1/scene36.rpy:560
+translate russian v1s36_ee79bba6:
+
+    # u "I'm just trying to be a good friend."
+    u "Я просто пытаюсь быть хорошим другом."
+
+# game/v1/scene36.rpy:601
+translate russian v1s36_eaade579:
+
+    # jen "I didn't know you guys were going to be in Europe for that long. I thought it was gonna be like a weekend thing, so..."
+    jen "Я не знала, что вы будете в Европе так долго, я думала, что это будет что-то вроде уикенда, не более..."
+
+# game/v1/scene36.rpy:606
+translate russian v1s36_d5ca789c:
+
+    # jen "I was excited to hang out with you after the Penelope stuff was settled and, well, obviously it didn't happen 'til now."
+    jen "Я очень хотела пообщаться с тобой после того, как всё уладится с Пенелопой, но, очевидно, этого не происходило до сих пор."
+
+# game/v1/scene36.rpy:626
+translate russian v1s36_6e414efc:
+
+    # jen "I didn't really want to. After meeting you and... you being so close with Penelope already... that's all I really need."
+    jen "Я не очень-то и хочу, хаха. После встречи с тобой и... Ты уже так близок с Пенелопой... Это всё, что мне действительно нужно."
+
+# game/v1/scene36.rpy:636
+translate russian v1s36_fdd8e626:
+
+    # u "(Debatable...) Thank you, Jenny, but-"
+    u "(Спорно...) Спасибо, Дженни, но..."
+
+# game/v1/scene36.rpy:716
+translate russian v1s36_sg_36d5f62d:
+
+    # jen "*Whispers* But I'm really glad you are."
+    jen "*Шёпотом* Но я очень рада, что ты здесь."
+
+# game/v1/scene36.rpy:731
+translate russian v1s36_sg_fdd45e84:
+
+    # u "I feel like we've built a real connection tonight. And along with everything we've already been through..."
+    u "Я чувствую, что сегодня мы установили настоящую связь, и вместе со всем, через что мы уже прошли..."
+
+# game/v1/scene36.rpy:738
+translate russian v1s36_sg_14a7fdfd:
+
+    # jen "I'm usually the date first, dessert second, type of girl... but right now I'm feeling... some type of way."
+    jen "Обычно я предпочитаю сначала свидание, потом десерт... но сейчас я чувствую... что-то вроде этого."
+
+# game/v1/scene36.rpy:743
+translate russian v1s36_sg_2e11e504:
+
+    # u "Same."
+    u "Также."
+
+# game/v1/scene36.rpy:793
+translate russian v1s36_sg_41440147:
+
+    # jen "What are you-"
+    jen "Что ты..."
+
+# game/v1/scene36.rpy:834
+translate russian v1s36_sg_ede9c654:
+
+    # jen "Hey! That tickles! S-stop! What-"
+    jen "Эй! Щекотно, хаха! С-стоп! Что-"
+
+# game/v1/scene36.rpy:851
+translate russian v1s36_sg_08a24ea9:
+
+    # jen "Well, well... that was a fancy little trick."
+    jen "Так, так... Это был маленький хитрый трюк."
+
+# game/v1/scene36.rpy:857
+translate russian v1s36_sg_083c1246:
+
+    # u "Ha... want 'em back?"
+    u "Ха... Хочешь их вернуть?"
+
+# game/v1/scene36.rpy:889
+translate russian v1s36_sg_70764ac3:
+
+    # u "Jenny... oh, God, Jenny..."
+    u "Дженни... о, Боже, Дженни..."
+
+# game/v1/scene36.rpy:896
+translate russian v1s36_sg_dc966d0f:
+
+    # u "Don't stop, don't stop..."
+    u "Не останавливайся, не останавливайся..."
+
+# game/v1/scene36.rpy:910
+translate russian v1s36_sg_5a89985f:
+
+    # u "Holy hell."
+    u "Святые угодники."
+
+# game/v1/scene36.rpy:912
+translate russian v1s36_sg_6585fad8:
+
+    # u "You're so good at this, Jenny..."
+    u "У тебя так хорошо получается, Дженни..."
+
+# game/v1/scene36.rpy:939
+translate russian v1s36_sg_3321f2f5:
+
+    # jen "You're so damn big..."
+    jen "У тебя такой чертовски большой..."
+
+# game/v1/scene36.rpy:946
+translate russian v1s36_sg_0433e828:
+
+    # u "You like that?"
+    u "Тебе он нравится?"
+
+# game/v1/scene36.rpy:953
+translate russian v1s36_sg_35601738:
+
+    # jen "So deep inside me... yes, [name]..."
+    jen "Так глубоко во мне... да, [name]..."
+
+# game/v1/scene36.rpy:960
+translate russian v1s36_sg_48ed82f7:
+
+    # u "(These plump, beautiful tits...)"
+    u "(Эти пухлые, красивые сиськи...)"
+
+# game/v1/scene36.rpy:962
+translate russian v1s36_sg_3cf4c253:
+
+    # jen "*Gasps* I'm- I'm cumming..."
+    jen "*Задыхается* Я... я кончаю..."
+
+# game/v1/scene36.rpy:964
+translate russian v1s36_sg_f798eb94:
+
+    # u "Yes, baby..."
+    u "Да, крошка..."
+
+# game/v1/scene36.rpy:966
+translate russian v1s36_sg_ee9e73f0:
+
+    # jen "Ohhh, [name]! *Panting* I needed this..."
+    jen "Оххх, [name]! *Тяжело дышит* Мне было это нужно..."
+
+# game/v1/scene36.rpy:990
+translate russian v1s36_sg_94056529:
+
+    # u "Oh, Jenny... you're... you're gonna make me cum... *Moans*"
+    u "Ох, Дженни... ты... ты заставишь меня кончить... *Стоны*"
+
+# game/v1/scene36.rpy:1004
+translate russian v1s36_sg_50fa039d:
+
+    # u "Yes! Yes, y-you are..."
+    u "Да! Да, ты..."
+
+# game/v1/scene36.rpy:1006
+translate russian v1s36_sg_acfaf6c7:
+
+    # u "*Moans* Oh, I'm so close-"
+    u "*Стонет* Ох, Я так близко..."
+
+# game/v1/scene36.rpy:1015
+translate russian v1s36_sg_6cbdea76:
+
+    # u "Jenny... *Moans* I'm cumming..."
+    u "Дженни... *Стонет* Я кончаю..."
+
+# game/v1/scene36.rpy:1038
+translate russian v1s36_sg_f5882d2f:
+
+    # u "Damn, Jenny."
+    u "Чёрт, Дженни."
+
+# game/v1/scene36.rpy:1044
+translate russian v1s36_sg_a29ed773:
+
+    # u "That was incredible... *Panting*"
+    u "Это было невероятно... *Тяжело дышит*"
+
+# game/v1/scene36.rpy:1069
+translate russian v1s36_sg_ba43c2d2:
+
+    # jen "Good. Just stay loyal to your friends and stay loyal to me, and you'll be kept satisfied at all times."
+    jen "Хорошо. Оставайся верным своим друзьям и оставайся верным мне, и ты всегда будешь доволен."
+
+# game/v1/scene36.rpy:1084
+translate russian v1s36_sg_300e4243:
+
+    # u "Heh, yeah, same."
+    u "Хех, да, также."
+
+# game/v1/scene36.rpy:1104
+translate russian v1s36_nsfwSkipLabel1_10230af8:
+
+    # jen "Thank you again for coming out with me tonight. After all of that, I have a lot on my mind that I need to process."
+    jen "Ещё раз спасибо, что пришёл со мной. После всего этого, у меня много на уме, что мне нужно обработать."
+
+# game/v1/scene36.rpy:1109
+translate russian v1s36_nsfwSkipLabel1_8369ad5e:
+
+    # jen "I wasn't really expecting us to, you know... do it."
+    jen "Я не ожидала, что мы... сделаем это."
+
+# game/v1/scene36.rpy:1114
+translate russian v1s36_nsfwSkipLabel1_42eb6292:
+
+    # u "Ha, yeah... me either."
+    u "Ха, да... я тоже."
+
+# game/v1/scene36.rpy:1124
+translate russian v1s36_nsfwSkipLabel1_5c0fe912:
+
+    # u "You too, Jenny. I'll see you soon?"
+    u "Тебе тоже Дженни, мы скоро увидимся?"
+
+# game/v1/scene36.rpy:1134
+translate russian v1s36_nsfwSkipLabel1_528fb71c:
+
+    # u "(My life is never dull!)"
+    u "(Моя жизнь никогда не бывает скучной!)"
+
+# game/v1/scene36.rpy:1159
+translate russian v1s36_nsfwSkipLabel1_9ec083f4:
+
+    # jen "Um, yeah. I, uh... I guess it is kind of cold."
+    jen "Ммм, да. Я, эээ... Думаю, тут холодновато."
+
+# game/v1/scene36.rpy:1164
+translate russian v1s36_nsfwSkipLabel1_1306e024:
+
+    # jen "Maybe I should've brought more clothes."
+    jen "Возможно, мне следовало взять с собой больше одежды."
+
+# game/v1/scene36.rpy:1184
+translate russian v1s36_nsfwSkipLabel1_ec42ec19:
+
+    # jen "Right, yeah... for sure. Thanks again for coming."
+    jen "Да, да... Конечно. Ещё раз спасибо, что пришёл."
+
+# game/v1/scene36.rpy:1218
+translate russian v1s36_nsfwSkipLabel1_6416507f:
+
+    # jen "I'm so glad you came, [name]. This is a lot better than having to chill by myself."
+    jen "Я так рада, что ты пришел, [name]. Это гораздо лучше, чем прохлаждаться в одиночестве."
+
+# game/v1/scene36.rpy:1223
+translate russian v1s36_nsfwSkipLabel1_527485f2:
+
+    # u "I wouldn't want that. I appreciate the invite."
+    u "Я бы этого не хотел. Я благодарен за приглашение."
+
+# game/v1/scene36.rpy:1233
+translate russian v1s36_nsfwSkipLabel1_bd7a5145:
+
+    # jen "It's starting to get a little cold... maybe I should've brought more clothes."
+    jen "Становится холодновато... Может, мне стоило взять больше одежды."
+
+# game/v1/scene36.rpy:1243
+translate russian v1s36_nsfwSkipLabel1_d7e58f15:
+
+    # jen "Ha, thanks. I should probably head on back anyway."
+    jen "Ха, спасибо. Наверное, мне всё равно пора возвращаться."
+
+# game/v1/scene36.rpy:1253
+translate russian v1s36_nsfwSkipLabel1_a71286d4:
+
+    # jen "A little. Thanks for coming, though."
+    jen "Немного. Спасибо, что пришёл."
+
+# game/v1/scene36.rpy:1309
+translate russian v1s36_nsfwSkipLabel1_1e76285f:
+
+    # la "Well, I've, uh, been watching porn for a bit and I've seen some very... interesting things."
+    la "Ну, я смотрела порно всю ночь напролет и видела очень... интересные вещи."
+
+# game/v1/scene36.rpy:1318
+translate russian v1s36_nsfwSkipLabel1_8d8a1912:
+
+    # u "What kind of things?"
+    u "Какие именно?"
+
+# game/v1/scene36.rpy:1323
+translate russian v1s36_nsfwSkipLabel1_d25aceb3:
+
+    # la "Like, did you know there's, like, hundreds of different sex positions and depending on the position, you can feel different things?"
+    la "Например, знаешь ли ты, что существуют сотни различных поз для секса, и в зависимости от позы ты можешь чувствовать поразному?"
+
+# game/v1/scene36.rpy:1331
+translate russian v1s36_nsfwSkipLabel1_cedbf112:
+
+    # u "You watching porn sounds really hot."
+    u "То, что ты смотришь порно, звучит очень сексуально."
+
+# game/v1/scene36.rpy:1336
+translate russian v1s36_nsfwSkipLabel1_afd1dbfc:
+
+    # la "I know. It... it kind of was. You should've been there."
+    la "Я знаю... Так и есть. Ты должен был быть там."
+
+# game/v1/scene36.rpy:1338
+translate russian v1s36_nsfwSkipLabel1_2f539a00:
+
+    # la "Did you know there are, like, hundreds of different sex positions and depending on the position, you can feel different things?"
+    la "Знаешь ли ты, что существуют сотни различных поз для секса, и в зависимости от позы ты можешь чувствовать поразному?"
+
+# game/v1/scene36.rpy:1349
+translate russian v1s36_nsfwSkipLabel1_e5e7cf3b:
+
+    # la "Some positions make it easier to get pregnant, others make it almost impossible. There's a whole art to it."
+    la "В одних позах забеременеть легче, в других - практически невозможно!"
+
+# game/v1/scene36.rpy:1354
+translate russian v1s36_nsfwSkipLabel1_ae1c2691:
+
+    # la "All these videos... they've, um, awoken something in me... thoughts and feelings..."
+    la "Эти видео... они что-то пробудили во мне... мысли и чувства..."
+
+# game/v1/scene36.rpy:1364
+translate russian v1s36_nsfwSkipLabel1_bfdd12de:
+
+    # la "Really. Maybe, um, you could watch some of these too and, you know..."
+    la "Действительно. Может, ты тоже посмотришь что-нибудь из этого и, знаешь..."
+
+# game/v1/scene36.rpy:1366
+translate russian v1s36_nsfwSkipLabel1_ac818205:
+
+    # la "Get some ideas of what you're comfortable with. What we might be comfortable with. If that'd be okay?"
+    la "Расскажешь некоторые идеи о том, с чем тебе комфортно. Что нас может объединить. Если ты не против?"
+
+# game/v1/scene36.rpy:1371
+translate russian v1s36_nsfwSkipLabel1_c30cfe95:
+
+    # u "Yeah! Okay. Alright."
+    u "Да! Ладно. Хорошо."
+
+# game/v1/scene36.rpy:1376
+translate russian v1s36_nsfwSkipLabel1_6a4e5647:
+
+    # u "I haven't seen you this curious before, but I can't say I'm not enjoying it."
+    u "Никогда раньше не видел тебя такой любопытной, но не могу сказать, что мне это не нравится."
+
+# game/v1/scene36.rpy:1381
+translate russian v1s36_nsfwSkipLabel1_7226be1e:
+
+    # la "Thank Amber for showing me this new world, but I think the want itself was hidden inside of me, deep down. It's kind of hard to admit..."
+    la "Спасибо Эмбер за то, что она показала мне этот новый мир, но я думаю, что это то, что было спрятано внутри меня, глубоко внутри. Возможно, я зависима от секса..."
+
+# game/v1/scene36.rpy:1391
+translate russian v1s36_nsfwSkipLabel1_1fef4a64:
+
+    # la "I'm sure you do... but, I should've gone to bed a long time ago and here I am."
+    la "Уверена, что да... мне давно пора было лечь спать, но я всё ещё здесь."
+
+# game/v1/scene36.rpy:1411
+translate russian v1s36_nsfwSkipLabel1_84d0b53b:
+
+    # la "Very soon. Goodnight, handsome."
+    la "Очень скорого. Спокойной ночи, красавчик."
+
+# game/v1/scene36.rpy:1416
+translate russian v1s36_nsfwSkipLabel1_bb9d3038:
+
+    # u "Goodnight, angel."
+    u "Спокойной ночи, ангел."
+
+# game/v1/scene36.rpy:1421
+translate russian v1s36_nsfwSkipLabel1_e9edbbe5:
+
+    # u "Wow. What a fuckin' night."
+    u "Вау. Что за охренительная ночь."
 

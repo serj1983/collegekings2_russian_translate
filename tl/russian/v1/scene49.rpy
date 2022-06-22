@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene49.rpy:15
 translate russian v1s49_b52502ba:
@@ -175,4 +176,14 @@ translate russian strings:
     # game/v1/scene49.rpy:79
     old "Yeah, sounds great"
     new "Да, звучит здорово."
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene49.rpy:116
+translate russian v1s49Chloe_PhoneContinue_56078fcc:
+
+    # u "Okay, boss lady."
+    u "Хорошо, леди-босс."
 

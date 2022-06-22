@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene42a.rpy:17
 translate russian v1s42a_f27e23f5:
@@ -219,4 +220,62 @@ translate russian strings:
     # game/v1/scene42a.rpy:79
     old "Sex would've been nice"
     new "Секс был бы кстати"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene42a.rpy:17
+translate russian v1s42a_39e40f8a:
+
+    # u "*Yawns* Morning, sunshine. Did you sleep well?"
+    u "Утро доброе, солнышко. Ты хорошо спала?"
+
+# game/v1/scene42a.rpy:37
+translate russian v1s42a_6722e337:
+
+    # u "Glad I could be of service."
+    u "Рад, что был тебе полезен."
+
+# game/v1/scene42a.rpy:42
+translate russian v1s42a_0d42c26b:
+
+    # pe "I wanted to mention that I'm sorry for last night."
+    pe "Я хочу сказать, что прошу прощения за вчерашний вечер."
+
+# game/v1/scene42a.rpy:119
+translate russian v1s42a_9f1911bc:
+
+    # u "Well, yeah, I can't lie. When you came out looking like that... I kinda thought something was gonna end up happening, ha."
+    u "Ну, да, не хочу лгать. Когда ты вышла в таком виде... Я подумал, что что-то должно произойти."
+
+# game/v1/scene42a.rpy:124
+translate russian v1s42a_d6f116bb:
+
+    # pe "Yeah, my bad. Sorry."
+    pe "Да, я виновата. Bзвини."
+
+# game/v1/scene42a.rpy:159
+translate russian v1s42a_9b6b1172:
+
+    # u "Nah. We have enough time to get ready and walk there."
+    u "Нет. У нас достаточно времени, чтобы подготовиться и дойти туда пешком."
+
+# game/v1/scene42a.rpy:189
+translate russian v1s42a_e513512e:
+
+    # u "Hey! What's that supposed to mean?"
+    u "Эй! Что это значит?"
+
+# game/v1/scene42a.rpy:194
+translate russian v1s42a_947da934:
+
+    # pe "Oh, nothing."
+    pe "Ох, ничего."
+
+# game/v1/scene42a.rpy:209
+translate russian v1s42a_597096bc:
+
+    # u "Ha! I'm coming."
+    u "Ха! Я иду."
 

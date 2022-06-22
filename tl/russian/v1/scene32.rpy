@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene32.rpy:19
 translate russian v1s32_2f8afa76:
@@ -857,4 +858,140 @@ translate russian strings:
     # game/v1/scene32.rpy:134
     old "Please just get along"
     new "Хватит ругаться."
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene32.rpy:36
+translate russian v1s32_e30ee1a1:
+
+    # imre "What are you wearing? Why didn't you come dressed to work out?"
+    imre "Что на тебе надето? Почему ты не оделся на тренировку?"
+
+# game/v1/scene32.rpy:41
+translate russian v1s32_084619a3:
+
+    # u "What do you mean, dickhead? I beelined here when you called."
+    u "Что ты имеешь в виду, придурок? Я сразу пришёл, когда ты позвонил."
+
+# game/v1/scene32.rpy:182
+translate russian v1s32_c1d330f4:
+
+    # imre "If you wanna know the truth, I went back to the hotel, got money from Chris and then went right back to the brothel."
+    imre "Если хочешь знать правду, я вернулся в отель, получил деньги от Криса, а потом сразу же вернулась в бордель."
+
+# game/v1/scene32.rpy:209
+translate russian v1s32_9ffb81f9:
+
+    # u "Okay. That sounds... healthy."
+    u "Хорошо. Звучит... здорово."
+
+# game/v1/scene32.rpy:214
+translate russian v1s32_c17bc93e:
+
+    # imre "Don't act brand new, you know how I am."
+    imre "Не строй из себя новичка, ты же знаешь, каков я."
+
+# game/v1/scene32.rpy:219
+translate russian v1s32_c58cbdfa:
+
+    # u "Ha. That I do."
+    u "Ха. Это точно."
+
+# game/v1/scene32.rpy:270
+translate russian v1s32_ef2f1671:
+
+    # u "What?"
+    u "Что,"
+
+# game/v1/scene32.rpy:310
+translate russian v1s32_9606cb24:
+
+    # u "Yeah, like she could snap you in half."
+    u "Да, как будто она может разорвать тебя пополам."
+
+# game/v1/scene32.rpy:359
+translate russian v1s32_4a725e2b:
+
+    # rub "She looks... just like you. Heh..."
+    rub "Она выглядит... прямо как ты. Хех..."
+
+# game/v1/scene32.rpy:361
+translate russian v1s32_f23beae7:
+
+    # rub "The female version of you, pretty much."
+    rub "Женская версия тебя, очень даже."
+
+# game/v1/scene32.rpy:366
+translate russian v1s32_1c68be6a:
+
+    # u "Oh, ha. No, as far as I know I'm an only child."
+    u "Ох, ха. Нет, насколько я знаю, я единственный ребенок."
+
+# game/v1/scene32.rpy:373
+translate russian v1s32_ee67058f:
+
+    # rub "Just kidding. Sorry about that, though. It's been a while since we've all gotten home so maybe I'm just imagining things."
+    rub "Шучу, хаха. Извини за это. Прошло много времени с тех пор, как мы все вернулись домой, так что, возможно, мне просто показалось."
+
+# game/v1/scene32.rpy:393
+translate russian v1s32_ea69abf7:
+
+    # rub "Yeah, I am. Well, thanks anyway, bye!"
+    rub "Да, я такая. Ну, всё равно спасибо, пока!"
+
+# game/v1/scene32.rpy:432
+translate russian v1s32_9e832cbd:
+
+    # imre "Ha-ha, funny. Kicking people while they're down is one of your favorite things to do, huh?"
+    imre "Ха-ха, забавно. Пинать людей, когда они на дне, - одно из твоих любимых занятий, да?"
+
+# game/v1/scene32.rpy:437
+translate russian v1s32_d010ecbe:
+
+    # u "Eh, it depends on the day."
+    u "Эх, это зависит от дня."
+
+# game/v1/scene32.rpy:555
+translate russian v1s32_89c14e4d:
+
+    # u "Obviously, Imre, I was being-"
+    u "Очевидно, Имре, я был..."
+
+# game/v1/scene32.rpy:562
+translate russian v1s32_4d5c9de5:
+
+    # imre "Okay... anyways, it's a simple jab-jab roundhouse. Watch!"
+    imre "Ладно... в общем, это простой джеб-джаб раундхаус. Смотри!"
+
+# game/v1/scene32.rpy:610
+translate russian v1s32_0f9640bd:
+
+    # u "I do. Let me try it."
+    u "Да. Давай я попробую."
+
+# game/v1/scene32.rpy:633
+translate russian v1s32_43126f3f:
+
+    # imre "Shit! Watching someone else do it makes me realize how cool it actually is. I need to trademark this!"
+    imre "Дерьмо! Наблюдая за тем, как кто-то другой делает это, понимаю, насколько это круто. Мне нужно это запатентовать!"
+
+# game/v1/scene32.rpy:638
+translate russian v1s32_b1a21718:
+
+    # u "Do it fast."
+    u "Делай это быстро."
+
+# game/v1/scene32.rpy:658
+translate russian v1s32_2e78a4d0:
+
+    # u "That's why I asked."
+    u "Поэтому я и спросил."
+
+# game/v1/scene32.rpy:678
+translate russian v1s32_1149beaf:
+
+    # u "Oh... who?"
+    u "Ох... кто?"
 

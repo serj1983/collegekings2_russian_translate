@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v2/scene4.rpy:12
 translate russian v2s4_add61745:
@@ -964,7 +965,7 @@ translate russian v2s4_dog_f26619a3:
 translate russian v2s4_dog_6d9a08ea:
 
     # aut "Haha! That was the saddest scream I've ever heard! *Laughs*"
-    aut "Хаха! Это был самый печальный крик, который я когда-либо слышала! *Сме`тся*"
+    aut "Хаха! Это был самый печальный крик, который я когда-либо слышала! *Смеётся*"
 
 # game/v2/scene4.rpy:1018
 translate russian v2s4_dog_e21ce1a0:
@@ -1765,4 +1766,680 @@ translate russian strings:
     # game/v2/scene4.rpy:1432
     old "Don't smoke"
     new "Не курить"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v2/scene4.rpy:42
+translate russian v2s4_44751553:
+
+    # aut "Who-"
+    aut "Кто-"
+
+# game/v2/scene4.rpy:44
+translate russian v2s4_3e67b102:
+
+    # aut "Oh! Hey, [name]!"
+    aut "Ох! Привет, [name]!"
+
+# game/v2/scene4.rpy:46
+translate russian v2s4_af0f8176:
+
+    # aut "Yes, please... if you don't mind."
+    aut "Да, пожалуйста... Если ты не возражаешь."
+
+# game/v2/scene4.rpy:51
+translate russian v2s4_f7966907:
+
+    # u "That's what I'm here for."
+    u "Я здесь для этого."
+
+# game/v2/scene4.rpy:56
+translate russian v2s4_aa633f12:
+
+    # aut "Thank you."
+    aut "Спасибо."
+
+# game/v2/scene4.rpy:58
+translate russian v2s4_60632443:
+
+    # aut "Just go ahead and take the top one. That's the heaviest, anyway."
+    aut "Возьми верхнюю. Она в любом случае самая тяжелая."
+
+# game/v2/scene4.rpy:68
+translate russian v2s4_a92f8386:
+
+    # aut "Ahhh... so much better."
+    aut "Ахх... Так намного лучше."
+
+# game/v2/scene4.rpy:100
+translate russian v2s4_23eee591:
+
+    # aut "Kidding. It's actually a ton of coffee mugs that we plan to sell at the re-opening."
+    aut "Шучу. На самом деле здесь тонна кофейных кружек, которые мы планируем продать при открытии."
+
+# game/v2/scene4.rpy:109
+translate russian v2s4_eff47ea9:
+
+    # u "Oh, you think you're funny, huh?"
+    u "Ох... Ты думаешь, что это смешно, да?"
+
+# game/v2/scene4.rpy:119
+translate russian v2s4_61cd9349:
+
+    # u "Ha! Confident."
+    u "Ха! Уверенно."
+
+# game/v2/scene4.rpy:128
+translate russian v2s4_690411eb:
+
+    # u "Oh, that makes sense."
+    u "Ох, в этом есть смысл."
+
+# game/v2/scene4.rpy:135
+translate russian v2s4_ed2d41b4:
+
+    # aut "Ha, sure. Thirty bucks, though."
+    aut "Ха, конечно. С тебя тридцать баксов."
+
+# game/v2/scene4.rpy:145
+translate russian v2s4_48ad1123:
+
+    # aut "Hey, it's not cheap to run a non-profit."
+    aut "Эй, это недешево - управлять некоммерческой организацией."
+
+# game/v2/scene4.rpy:155
+translate russian v2s4_9fec9015:
+
+    # aut "I'll give you a mug at the re-opening. Promise."
+    aut "Я дам тебе кружку на открытии. Обещаю."
+
+# game/v2/scene4.rpy:227
+translate russian v2s4_24941d40:
+
+    # aut "This has nothing to do with you. Thanks for being here."
+    aut "Это не имеет к тебе никакого отношения. Спасибо, что ты здесь."
+
+# game/v2/scene4.rpy:236
+translate russian v2s4_18b0cddf:
+
+    # u "Just take a deep breath, ha. It's not the end of the world."
+    u "Просто сделай глубокий вдох, ха. Это не конец света."
+
+# game/v2/scene4.rpy:246
+translate russian v2s4_c69a3d3d:
+
+    # u "Oh... shit. Well, how much are they worth? Can you just-"
+    u "Ох... дерьмо. Сколько они стоят? Ты можешь просто..."
+
+# game/v2/scene4.rpy:251
+translate russian v2s4_a222d731:
+
+    # aut "Thirty bucks."
+    aut "Тридцать баксов."
+
+# game/v2/scene4.rpy:253
+translate russian v2s4_1c695b76:
+
+    # aut "But... yeah. I'll pay it off, don't worry."
+    aut "Но... Да. Я всё выплачу, не волнуйся."
+
+# game/v2/scene4.rpy:275
+translate russian v2s4_63b606ab:
+
+    # aut "Our list..."
+    aut "Наш список..."
+
+# game/v2/scene4.rpy:324
+translate russian v2s4_82c853eb:
+
+    # aut "Hi! Hello! Cutie..."
+    aut "Привет! Привет! Милашка..."
+
+# game/v2/scene4.rpy:333
+translate russian v2s4_e2397797:
+
+    # u "He is adorable, not gonna lie."
+    u "Он очарователен, не буду врать."
+
+# game/v2/scene4.rpy:359
+translate russian v2s4_d2de9909:
+
+    # u "Yeah, for sure. She'd like that..."
+    u "Да, конечно. Ей бы это понравилось..."
+
+# game/v2/scene4.rpy:375
+translate russian v2s4_b334e358:
+
+    # aut "Hopefully we can find you a good home."
+    aut "Надеюсь, мы сможем найти тебе хороший дом."
+
+# game/v2/scene4.rpy:384
+translate russian v2s4_fa6e1da2:
+
+    # u "Pfft, good luck with that."
+    u "Пфф, удачи тебе с этим."
+
+# game/v2/scene4.rpy:394
+translate russian v2s4_84bb5982:
+
+    # u "Yeah, I can tell."
+    u "Да, я вижу."
+
+# game/v2/scene4.rpy:417
+translate russian v2s4_03127902:
+
+    # aut "Yeah?"
+    aut "Да?"
+
+# game/v2/scene4.rpy:444
+translate russian v2s4_8ae59ebf:
+
+    # aut "He already ate three servings of food through the night."
+    aut "Он уже съел три порции корма за ночь."
+
+# game/v2/scene4.rpy:454
+translate russian v2s4_21877bb1:
+
+    # aut "I got you."
+    aut "Я тебя поняла."
+
+# game/v2/scene4.rpy:466
+translate russian v2s4_47767f62:
+
+    # aut "We might have to warn his future owner about that."
+    aut "Возможно, нам придётся предупредить об этом его будущего хозяина."
+
+# game/v2/scene4.rpy:471
+translate russian v2s4_f703b90c:
+
+    # u "Wow. Seems like he's a bit of a rebel."
+    u "Ух ты, похоже, он немного бунтарь."
+
+# game/v2/scene4.rpy:486
+translate russian v2s4_c29e38c1:
+
+    # aut "Oh. I've just been calling him that today."
+    aut "Ох. Я просто так назвала его сегодня."
+
+# game/v2/scene4.rpy:496
+translate russian v2s4_305e8f0f:
+
+    # aut "I mean, he was so sad when we found him. I instantly thought, like, he's got the blues."
+    aut "Ну, он был таким грустным, когда мы его нашли. Я сразу же подумала, что у него хандра."
+
+# game/v2/scene4.rpy:501
+translate russian v2s4_542373b8:
+
+    # u "Ha, wow."
+    u "Ха, вау."
+
+# game/v2/scene4.rpy:506
+translate russian v2s4_95aeac1c:
+
+    # aut "What?"
+    aut "Что?!"
+
+# game/v2/scene4.rpy:511
+translate russian v2s4_cca0620f:
+
+    # u "He's got the blues? That's the reason?"
+    u "У него хандра? В этом вся причина?"
+
+# game/v2/scene4.rpy:521
+translate russian v2s4_26cd7f53:
+
+    # u "Okay, next time someone asks, just start with that."
+    u "Ладно, в следующий раз, когда кто-нибудь спросит, просто начни с этого."
+
+# game/v2/scene4.rpy:526
+translate russian v2s4_26aea4de:
+
+    # aut "Okay, smartass."
+    aut "Ладно, умник."
+
+# game/v2/scene4.rpy:566
+translate russian v2s4_ff1d42ac:
+
+    # aut "Okay. What should we call him, then?"
+    aut "Хорошо, как мы его назовем?"
+
+# game/v2/scene4.rpy:592
+translate russian v2s4_dog_838f378b:
+
+    # aut "We already had one, I don't want to get confused."
+    aut "У нас уже есть такой, не хочу запутаться."
+
+# game/v2/scene4.rpy:604
+translate russian v2s4_dog_365f7553:
+
+    # aut "Well, you two do look a bit alike."
+    aut "Ну, вы двое немного похожи."
+
+# game/v2/scene4.rpy:622
+translate russian v2s4_dog_b574930e:
+
+    # u "Guilty as charged."
+    u "Признаю себя виновным."
+
+# game/v2/scene4.rpy:638
+translate russian v2s4_dog_2e9c6bd7:
+
+    # aut "Clever!"
+    aut "Умно!"
+
+# game/v2/scene4.rpy:646
+translate russian v2s4_dog_728f4b79:
+
+    # aut "That's so original..."
+    aut "Это так оригинально..."
+
+# game/v2/scene4.rpy:651
+translate russian v2s4_dog_3e5b255d:
+
+    # u "It is to the little fuzzbelly."
+    u "Это для маленького пушистика."
+
+# game/v2/scene4.rpy:664
+translate russian v2s4_dog_5559650f:
+
+    # u "Try to keep up."
+    u "Старайся не отставать."
+
+# game/v2/scene4.rpy:677
+translate russian v2s4_dog_be5b18a9:
+
+    # u "Right?"
+    u "Правда?"
+
+# game/v2/scene4.rpy:751
+translate russian v2s4_dog_01763330:
+
+    # aut "You owe me for having to listen to that."
+    aut "Ты у меня в долгу за то, что мне пришлось это выслушать."
+
+# game/v2/scene4.rpy:771
+translate russian v2s4_dog_d0c7bb6b:
+
+    # u "Well, you did it. I just held a ladder."
+    u "Ну, ты сделала это. Я только держал лестницу..."
+
+# game/v2/scene4.rpy:776
+translate russian v2s4_dog_00a92d77:
+
+    # aut "Exactly, we did great. Good job."
+    aut "Точно, мы отлично справились. Хорошая работа."
+
+# game/v2/scene4.rpy:823
+translate russian v2s4_dog_ee02749d:
+
+    # aut "I hope you don't act like this around my sister."
+    aut "Я надеюсь, ты не будешь так себя вести с моей сестрой."
+
+# game/v2/scene4.rpy:888
+translate russian v2s4_dog_37dc02cf:
+
+    # u "Okay... *panting* now I'm sweating."
+    u "Окей... *тяжело дыша* Теперь я вспотел."
+
+# game/v2/scene4.rpy:893
+translate russian v2s4_dog_eef71c9d:
+
+    # aut "You can relax a little. I saved the least physical task for last..."
+    aut "Ты можешь немного расслабиться. Наименьшую физическую нагрузку я приберегла напоследок..."
+
+# game/v2/scene4.rpy:903
+translate russian v2s4_dog_c65ab12b:
+
+    # aut "No, ha. It's the lightest thing ever, actually..."
+    aut "Нет, ха. На самом деле, это самая лёгкая вещь на свете..."
+
+# game/v2/scene4.rpy:918
+translate russian v2s4_dog_17e910b2:
+
+    # u "That works. I can do balloons."
+    u "За работу. Я умею нудувать воздушные шарики."
+
+# game/v2/scene4.rpy:964
+translate russian v2s4_dog_e095c0ac:
+
+    # aut "You fucker!"
+    aut "Ты ублюдок!"
+
+# game/v2/scene4.rpy:969
+translate russian v2s4_dog_61c2b483:
+
+    # u "That was too easy."
+    u "Это было слишком просто."
+
+# game/v2/scene4.rpy:974
+translate russian v2s4_dog_112daca5:
+
+    # aut "Oh, okay... go ahead."
+    aut "О, хорошо... продолжай."
+
+# game/v2/scene4.rpy:981
+translate russian v2s4_dog_a95454e3:
+
+    # u "I always sleep with one eye open."
+    u "Я всегда сплю с одним открытым глазом."
+
+# game/v2/scene4.rpy:986
+translate russian v2s4_dog_dadb1403:
+
+    # aut "You're so annoying."
+    aut "Ты такой надоедливый."
+
+# game/v2/scene4.rpy:1013
+translate russian v2s4_dog_a51368bf:
+
+    # aut "Ha! That was the saddest scream I've ever heard!"
+    aut "ха! Это был самый печальный крик, который я когда-либо слышала!"
+
+# game/v2/scene4.rpy:1018
+translate russian v2s4_dog_8cfe61c9:
+
+    # u "You little... shit. You're dead to me."
+    u "Ты... Маленькая засранка. Считай, ты уже мертва."
+
+# game/v2/scene4.rpy:1023
+translate russian v2s4_dog_2339d4fe:
+
+    # aut "That's fine. I can die happy after witnessing that. Ha!"
+    aut "Это прекрасно, я умру счастливой после того, что увидела сейчас. Ха!"
+
+# game/v2/scene4.rpy:1063
+translate russian v2s4_dog_930a31ed:
+
+    # aut "Thank you. I appreciate your help."
+    aut "Спасибо. Я ценю твою помощь."
+
+# game/v2/scene4.rpy:1068
+translate russian v2s4_dog_b95c8563:
+
+    # u "I can see why you're president of the Deer."
+    u "Теперь я понимаю, почему ты президент Ланей."
+
+# game/v2/scene4.rpy:1078
+translate russian v2s4_dog_790c37ee:
+
+    # u "It looks super stressful."
+    u "Это выглядит очень напряженно."
+
+# game/v2/scene4.rpy:1083
+translate russian v2s4_dog_f6d938c0:
+
+    # aut "It definitely can be, but not as stressful as the Chicks make it seem."
+    aut "Может быть, но не так напряженно, как в Чикс."
+
+# game/v2/scene4.rpy:1088
+translate russian v2s4_dog_6bb90d3c:
+
+    # u "Ha, that's good to hear. It's crazy out there right now. Who do you think will win?"
+    u "Ха, приятно слышать. Сейчас там безумие... Как ты думаешь, кто победит?"
+
+# game/v2/scene4.rpy:1093
+translate russian v2s4_dog_d7dc63ee:
+
+    # aut "The strongest candidate. That seems like such a shit answer, but honestly..."
+    aut "Самый сильный кандидат. Это кажется таким дерьмовым ответом, но это честно..."
+
+# game/v2/scene4.rpy:1095
+translate russian v2s4_dog_edefee53:
+
+    # aut "Whoever deserves it the most will end up being president. Let the voters speak!"
+    aut "Тот, кто больше всех этого заслуживает, станет президентом. Нужно дать избирателям высказаться!"
+
+# game/v2/scene4.rpy:1100
+translate russian v2s4_dog_80a8566e:
+
+    # u "Yeah! Shout-out democracy! You dork."
+    u "Да! Кричи демократия! Ты придурок."
+
+# game/v2/scene4.rpy:1110
+translate russian v2s4_dog_d1849edb:
+
+    # u "I can see that. It just makes me wonder what you're really thinking."
+    u "Я это вижу. Это просто заставляет меня задуматься, о чём ты на самом деле думаешь."
+
+# game/v2/scene4.rpy:1115
+translate russian v2s4_dog_ec7f44fe:
+
+    # aut "Maybe you'll find out one day."
+    aut "Может быть, однажды ты узнаешь."
+
+# game/v2/scene4.rpy:1120
+translate russian v2s4_dog_71119bcf:
+
+    # u "Hmm... maybe..."
+    u "Хм... может быть..."
+
+# game/v2/scene4.rpy:1151
+translate russian v2s4_dog_f6a597bb:
+
+    # aut "I think he remembers you! Ha, that's so cute..."
+    aut "Я думаю, он помнит тебя! Ха, это так мило..."
+
+# game/v2/scene4.rpy:1162
+translate russian v2s4_dog_142e9531:
+
+    # u "How are you, buddy? Good?"
+    u "Как дела, приятель? Хорошо?"
+
+# game/v2/scene4.rpy:1179
+translate russian v2s4_dog_402310c5:
+
+    # aut "What? Give back?! I don't... why?"
+    aut "Что? Отдать?! Я не... почему?"
+
+# game/v2/scene4.rpy:1193
+translate russian v2s4_dog_666cee5f:
+
+    # u "What do you mean? A farm is one the most ideal places for a dog to live... right?"
+    u "Что ты имеешь в виду? Ха, ферма - одно из самых идеальных мест для жизни собаки... Верно?"
+
+# game/v2/scene4.rpy:1218
+translate russian v2s4_dog_0ddb0658:
+
+    # aut "What do you mean he... how do you... huh?"
+    aut "Что ты имеешь в виду, он... как ты... а?"
+
+# game/v2/scene4.rpy:1228
+translate russian v2s4_dog_f12ad7af:
+
+    # oscars_owner "I didn't exactly give it to him, no... uh... it was an accident."
+    oscars_owner "Я не давал ему травку, нет... Это был несчастный случай."
+
+# game/v2/scene4.rpy:1271
+translate russian v2s4_dog_cf827ee5:
+
+    # u "You know, he was probably lying about that whole weed farm story. I can catch up with him and fuck him up if you-"
+    u "Знаешь, он, скорее всего, солгал обо этой истории с каннабисом на ферме. Я могу догнать и разобраться с ним, если ты-"
+
+# game/v2/scene4.rpy:1276
+translate russian v2s4_dog_3a87b639:
+
+    # aut "No, no... please don't do that, ha. It's okay."
+    aut "Нет, нет... Пожалуйста, не делай этого, ха. Всё в порядке."
+
+# game/v2/scene4.rpy:1305
+translate russian v2s4_dog_f7a2637d:
+
+    # u "You're honestly better off without that guy, bud. You'll find your forever home soon."
+    u "Без этого парня тебе будет лучше, дружище. Ты скоро найдешь свой новый дом."
+
+# game/v2/scene4.rpy:1324
+translate russian v2s4_dog_4a7d6da9:
+
+    # u "Too bad I can't take you back to campus with me."
+    u "Жаль, что я не могу взять тебя с собой в кампус."
+
+# game/v2/scene4.rpy:1329
+translate russian v2s4_dog_357f4dad:
+
+    # aut "Ugh, I know, right? That's the only downside of working here."
+    aut "Да, знаю. Это единственный минус работы тут."
+
+# game/v2/scene4.rpy:1367
+translate russian v2s4_dog_9399bda7:
+
+    # u "(Got a pretty good workout this morning. Almost as good as the gym.)"
+    u "(Сегодня утром я неплохо потренировался. Почти так же хорошо, как в спортзале.)"
+
+# game/v2/scene4.rpy:1394
+translate russian v2s4_dog_ba57cfc3:
+
+    # aut "Nowhere. Just getting some peace and quiet..."
+    aut "Никуда. Туда где покой и тишина..."
+
+# game/v2/scene4.rpy:1404
+translate russian v2s4_dog_1fe2b388:
+
+    # u "Oh, I see. That's kinda surprising."
+    u "О, я вижу. Это немного удивительно."
+
+# game/v2/scene4.rpy:1414
+translate russian v2s4_dog_67520fb9:
+
+    # u "I had no idea you were a stoner."
+    u "Я понятия не имел, что ты куришь травку."
+
+# game/v2/scene4.rpy:1419
+translate russian v2s4_dog_17f7246f:
+
+    # aut "Yeah... no one has any idea what I am."
+    aut "Ага... никто понятия не имеет, какая я."
+
+# game/v2/scene4.rpy:1474
+translate russian v2s4_dog_1be7b1cb:
+
+    # u "*Inhaling* This is a nice bonding experience..."
+    u "*Вдох* Это хороший опыт сближения..."
+
+# game/v2/scene4.rpy:1489
+translate russian v2s4_dog_a8cb7fc8:
+
+    # aut "You said it yourself, [name]. Being president is stressful."
+    aut "Ты сам это сказал, [name]. Быть президентом - это стресс."
+
+# game/v2/scene4.rpy:1494
+translate russian v2s4_dog_a31e251b:
+
+    # u "Ahhh... so, the key to being the perfect president is marijuana?"
+    u "Аххх... Значит, ключ к тому, чтобы быть идеальным президентом - марихуана?"
+
+# game/v2/scene4.rpy:1499
+translate russian v2s4_dog_515fba86:
+
+    # aut "Sure, yeah. Let's go with that..."
+    aut "Конечно, да. Давай..."
+
+# game/v2/scene4.rpy:1557
+translate russian v2s4_dog_6a8dfebb:
+
+    # aut "Hey, no judgment here. More for me!"
+    aut "Эй, здесь нет осуждения. Больше для меня."
+
+# game/v2/scene4.rpy:1572
+translate russian v2s4_dog_a8cb7fc8_1:
+
+    # aut "You said it yourself, [name]. Being president is stressful."
+    aut "Ты сам это сказал, [name]. Быть президентом - это стресс."
+
+# game/v2/scene4.rpy:1577
+translate russian v2s4_dog_a31e251b_1:
+
+    # u "Ahhh... so, the key to being the perfect president is marijuana?"
+    u "Аххх... Значит, ключ к тому, чтобы быть идеальным президентом - марихуана?"
+
+# game/v2/scene4.rpy:1582
+translate russian v2s4_dog_515fba86_1:
+
+    # aut "Sure, yeah. Let's go with that..."
+    aut "Конечно, да. Давай..."
+
+# game/v2/scene4.rpy:1607
+translate russian v2s4_dog_d628b315:
+
+    # aut "Me too. I need a fun night."
+    aut "Я тоже, мне нужна весёлая ночь."
+
+# game/v2/scene4.rpy:1617
+translate russian v2s4_dog_dbd92c0f:
+
+    # aut "Well, after today I definitely owe you one, so, what is it?"
+    aut "Что ж, после сегодняшнего дня я у тебя в долгу, итак, что же это?"
+
+# game/v2/scene4.rpy:1627
+translate russian v2s4_dog_0cdb950f:
+
+    # aut "Hmm... good question."
+    aut "Хмм... Хороший вопрос."
+
+# game/v2/scene4.rpy:1638
+translate russian v2s4_dog_4cc6f6f6:
+
+    # aut "I don't think we have any family photos where she isn't holding it..."
+    aut "Не думаю, что у нас есть семейные фотографии, где она не держала его..."
+
+# game/v2/scene4.rpy:1643
+translate russian v2s4_dog_925d6944:
+
+    # u "That's cute."
+    u "Как мило."
+
+# game/v2/scene4.rpy:1658
+translate russian v2s4_dog_04857533:
+
+    # aut "What? Is that impossible or something?"
+    aut "Что? Это разве невозможно?"
+
+# game/v2/scene4.rpy:1668
+translate russian v2s4_dog_823fc4b7:
+
+    # aut "I'm kidding. No, not a real horse, a toy one."
+    aut "Я шучу. Не настоящую лошадь, а игрушечную."
+
+# game/v2/scene4.rpy:1672
+translate russian v2s4_dog_25c323a9:
+
+    # aut "So, if you found something similar to that, she'd probably die."
+    aut "Так что, если бы ты нашёл что-то подобное, она бы, скорее всего, умерла."
+
+# game/v2/scene4.rpy:1675
+translate russian v2s4_dog_0555ef9e:
+
+    # aut "But she's never gotten jewelry from a boyfriend before, and she's always mentioning that. So, either way, I think you're good."
+    aut "Она никогда раньше не получала украшения от парня, и она всегда это упоминает. Так что, в любом случае, думаю, ты в выиграше."
+
+# game/v2/scene4.rpy:1685
+translate russian v2s4_dog_82e90351:
+
+    # aut "For sure. I've enjoyed spending time with you more than I thought I would."
+    aut "Конечно. Мне понравилось проводить с тобой время."
+
+# game/v2/scene4.rpy:1690
+translate russian v2s4_dog_ff242813:
+
+    # u "Ha, thank you... I think."
+    u "Ха, спасибо. Я думаю..."
+
+# game/v2/scene4.rpy:1695
+translate russian v2s4_dog_217e7503:
+
+    # aut "You're so welcome."
+    aut "Всегда пожалуйста."
+
+# game/v2/scene4.rpy:1721
+translate russian v2s4_dog_1955d4d3:
+
+    # aut "Alright, I better get him fed and bathed before I go on break. I'm due for some \"me time.\""
+    aut "Ладно, я лучше покормлю и искупаю его, прежде чем уйду на перерыв. Мне нужно немного \"своего времени\"."
+
+# game/v2/scene4.rpy:1726
+translate russian v2s4_dog_9bd30be3:
+
+    # u "Yeah, you deserve a break at the very least."
+    u "Да, ты заслуживаешь перерыва, по крайней мере."
 

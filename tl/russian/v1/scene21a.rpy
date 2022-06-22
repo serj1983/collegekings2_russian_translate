@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene21a.rpy:74
 translate russian v1s21a_002e8884:
@@ -263,4 +264,122 @@ translate russian v1s21a_nsfwSkipLabel1_c8caac78:
 
     # u "(The girl who everyone says is the hottest on campus, and she's fawning over me... Wow, [name]. Just, wow...)"
     u "(Девушка, о которой все говорят, что она самая сексуальная в кампусе, и она фапает на меня... Вау, [name]. Просто, вау...)"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene21a.rpy:71
+translate russian v1s21a_26717693:
+
+    # u "That's true, but we have right now to enjoy it, yeah?"
+    u "Это правда, но у нас есть время насладиться этим, да?"
+
+# game/v1/scene21a.rpy:114
+translate russian v1s21a_a56c7a2a:
+
+    # cl "Mmm... *Moans* It's been way too long..."
+    cl "Ммм... *Стонет* Прошло слишком много времени..."
+
+# game/v1/scene21a.rpy:129
+translate russian v1s21a_a6c33809:
+
+    # cl "So much has been going on, but... *Moans* everything melts away... when I'm with you."
+    cl "Столько всего произошло, но... *Стонет* я таю... когда я с тобой."
+
+# game/v1/scene21a.rpy:141
+translate russian v1s21a_0e27b6bf:
+
+    # cl "Yes, give it to me..."
+    cl "Да, дай мне его..."
+
+# game/v1/scene21a.rpy:151
+translate russian v1s21a_f8a10545:
+
+    # cl "So good... But, can we lay down?"
+    cl "Так хорошо... Мы можем прилечь?"
+
+# game/v1/scene21a.rpy:175
+translate russian v1s21a_ae82dbc7:
+
+    # cl "Is this too much?"
+    cl "Не слишком ли много?"
+
+# game/v1/scene21a.rpy:192
+translate russian v1s21a_261d7d6e:
+
+    # cl "*Moans* O-Okay, oh... fuck, [name]."
+    cl "*Стонет* О-Окей, ох... блядь, [name]."
+
+# game/v1/scene21a.rpy:198
+translate russian v1s21a_3359b7df:
+
+    # cl "Yes... Yesss! *Moans* I... love... your cock..."
+    cl "Да... Дааа! *Стонет* Я... люблю... твой член..."
+
+# game/v1/scene21a.rpy:208
+translate russian v1s21a_9f2a87b5:
+
+    # u "You're incredible, Chloe..."
+    u "Ты невероятна, Хлоя..."
+
+# game/v1/scene21a.rpy:226
+translate russian v1s21a_3523e9cb:
+
+    # u "Oh, shit... This feels amazing."
+    u "Ох, чёрт... Это потрясающее ощущение."
+
+# game/v1/scene21a.rpy:228
+translate russian v1s21a_8552c721:
+
+    # cl "Mmmm..."
+    cl "Мммм..."
+
+# game/v1/scene21a.rpy:234
+translate russian v1s21a_ca437b23:
+
+    # u "Chloe- *Moans*"
+    u "Хлоя- *Стоны*"
+
+# game/v1/scene21a.rpy:236
+translate russian v1s21a_2c3fb467:
+
+    # cl "Mmhmmmmm?"
+    cl "Ммхммммм?"
+
+# game/v1/scene21a.rpy:245
+translate russian v1s21a_c693237b:
+
+    # u "Chloe! You... You're... I'm..."
+    u "Хлоя! Ты... Ты... Я..."
+
+# game/v1/scene21a.rpy:288
+translate russian v1s21a_nsfwSkipLabel1_29557d54:
+
+    # u "I've missed you more. Hopefully we get to do that again soon."
+    u "Я больше всего скучал по тебе. Надеюсь, скоро мы снова сможем это сделать."
+
+# game/v1/scene21a.rpy:295
+translate russian v1s21a_nsfwSkipLabel1_a23e93eb:
+
+    # cl "I'll make time for some self-rejuvenation between presidency events."
+    cl "Я найду время для самовосстановления между президентскими мероприятиями."
+
+# game/v1/scene21a.rpy:310
+translate russian v1s21a_nsfwSkipLabel1_10b130cd:
+
+    # cl "About time we go and meet Chris, you think?"
+    cl "Пора нам пойти и познакомиться с Крисом, как думаешь?"
+
+# game/v1/scene21a.rpy:320
+translate russian v1s21a_nsfwSkipLabel1_0f76f742:
+
+    # cl "Same. Let me just swing by the Chicks house real quickly and I'll meet you there."
+    cl "То же самое. Давай я быстро заскочу в дом Чиксов, и встретимся там."
+
+# game/v1/scene21a.rpy:330
+translate russian v1s21a_nsfwSkipLabel1_df6cc7f7:
+
+    # cl "Great."
+    cl "Отлично"
 

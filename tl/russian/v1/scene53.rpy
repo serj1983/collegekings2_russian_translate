@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene53.rpy:18
 translate russian v1s53_701e8bf9:
@@ -619,4 +620,212 @@ translate russian strings:
     # game/v1/scene53.rpy:594
     old "Don't take your pants off"
     new "Не снимать штаны"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene53.rpy:35
+translate russian v1s53_5e7e6476:
+
+    # sa "*Singing* And she goes ooh, ooh, yeaaaah..."
+    sa "*Пение* И она идет оооо, оооо, даааа..."
+
+# game/v1/scene53.rpy:45
+translate russian v1s53_da824d47:
+
+    # sa "Oh my God! How long have you been standing there staring at me, weirdo?"
+    sa "О, мой Бог! Ха... Сколько ты уже стоишь и смотришь на меня, чудик?"
+
+# game/v1/scene53.rpy:75
+translate russian v1s53_fed94ae0:
+
+    # u "Well, I don't think those lyrics are going to win any awards... like, ever."
+    u "Ну, я не думаю, что эти слова получили бы какие-либо награды...."
+
+# game/v1/scene53.rpy:85
+translate russian v1s53_f8201514:
+
+    # u "Okay, okay. I'm only joking with you."
+    u "Ладно, ладно... Я просто шучу."
+
+# game/v1/scene53.rpy:100
+translate russian v1s53_c5e8a7f7:
+
+    # sa "Guess I forgot to laugh, then..."
+    sa "Видимо, я забыла посмеяться..."
+
+# game/v1/scene53.rpy:118
+translate russian v1s53_302f33a6:
+
+    # sa "Do you really think so? Thank you! I do enjoy it a lot. Not many people know."
+    sa "Ты правда так думаешь? Спасибо! Я действительно получаю от этого большое удовольствие, но не многие об этом знают."
+
+# game/v1/scene53.rpy:123
+translate russian v1s53_d64a2665:
+
+    # u "What are you doing down here on your own, anyway?"
+    u "Что ты вообще здесь делаешь?"
+
+# game/v1/scene53.rpy:138
+translate russian v1s53_795b97c8:
+
+    # sa "Well, you're here now. You might as well come in and chat with me."
+    sa "Ну, ты всё равно здесь. Можешь остаться и поболтать со мной."
+
+# game/v1/scene53.rpy:148
+translate russian v1s53_7068e4b6:
+
+    # sa "I bought these pills today, but I don't even know what they are!"
+    sa "Я купила эти таблетки сегодня, но даже не знаю, что это такое!"
+
+# game/v1/scene53.rpy:168
+translate russian v1s53_e9803dc8:
+
+    # u "(Daddy?) Well, that's good."
+    u "(Папочка?) Ну, это хорошо."
+
+# game/v1/scene53.rpy:173
+translate russian v1s53_ccd4dca0:
+
+    # sa "I'm thinking about it, though."
+    sa "Я всё же думаю об этом."
+
+# game/v1/scene53.rpy:199
+translate russian v1s53_36d3adb1:
+
+    # sa "For what? I make my own choices, you know."
+    sa "Для чего? Я самf делаю свой выбор, ты же знаешь."
+
+# game/v1/scene53.rpy:205
+translate russian v1s53_430008c8:
+
+    # sa "Oh, don't be. You did the right thing. I just like to rebel."
+    sa "О, не стоит. Ты поступил правильно. Мне просто нравится бунтовать."
+
+# game/v1/scene53.rpy:226
+translate russian v1s53_b4631f58:
+
+    # sa "Why would he? It's like family shame. You keep that shit hidden."
+    sa "Зачем ему это? Это как семейный позор. Он спрячет это дерьмо."
+
+# game/v1/scene53.rpy:257
+translate russian v1s53_c73e70c3:
+
+    # sa "Yeah?"
+    sa "Да?"
+
+# game/v1/scene53.rpy:272
+translate russian v1s53_f51ce7fb:
+
+    # u "Well, that's one positive thing I've heard from this conversation, at least."
+    u "Что ж, это положительный момент, который я, по крайней мере, услышал из этого разговора."
+
+# game/v1/scene53.rpy:302
+translate russian v1s53_0dd91d24:
+
+    # sa "All the things that have happened in my life... it isn't easy coming from a broken home, you know?"
+    sa "Всё то, что случилось в моей жизни... не легко, учитывая, что я живу в разрушенной семье, понимаешь?"
+
+# game/v1/scene53.rpy:312
+translate russian v1s53_f948bff4:
+
+    # sa "And when I'm around other people who take drugs... *sniffles*"
+    sa "А когда я нахожусь рядом с людьми, которые принимают наркотики... *Шмыгает носом*"
+
+# game/v1/scene53.rpy:317
+translate russian v1s53_ca8083e9:
+
+    # sa "It makes me feel like, like I belong somewhere... *sniffles* do you know what I mean?"
+    sa "Это заставляет меня чувствовать, что я где-то на своем месте... *Шмыгает носом* Ты понимаешь, о чём я?"
+
+# game/v1/scene53.rpy:322
+translate russian v1s53_60a5798d:
+
+    # u "(How do I want to go about this? Convince her to stay off drugs? Is that even possible? Or should I just let her continue, since she knows her own limits?"
+    u "(Как я хочу поступить? Убедить её не принимать наркотики? Возможно ли это вообще? Или я должен просто позволить ей продолжать, поскольку она сама знает свои пределы?"
+
+# game/v1/scene53.rpy:368
+translate russian v1s53_967ecffa:
+
+    # u "Drugs give people a distraction from their problems for a moment, and that's magical, I admit it."
+    u "Наркотики позволяют людям на мгновение отвлечься от своих проблем, и это чертовски волшебно. Я признаю."
+
+# game/v1/scene53.rpy:374
+translate russian v1s53_d241d8ab:
+
+    # u "But you don't have enough self control to live this way. You overdosed. You're risking your life, Sam."
+    u "Но у тебя недостаточно самоконтроля, чтобы так жить. У тебя была передозировка. Ты рискуешь своей жизнью, Сэм."
+
+# game/v1/scene53.rpy:380
+translate russian v1s53_7b9ca118:
+
+    # u "But you don't have enough self control to live this way. You continue to relapse. You're dependent on drugs, Sam."
+    u "Но у тебя недостаточно самоконтроля, чтобы так жить. Ты продолжаешь рецидивировать. Ты зависима от наркотиков, Сэм."
+
+# game/v1/scene53.rpy:395
+translate russian v1s53_07cd6b38:
+
+    # sa "..."
+    sa "..."
+
+# game/v1/scene53.rpy:405
+translate russian v1s53_c26abd4e:
+
+    # u "Of course I will."
+    u "Конечно, помогу."
+
+# game/v1/scene53.rpy:410
+translate russian v1s53_0336fa14:
+
+    # u "What's up?"
+    u "Как дела?"
+
+# game/v1/scene53.rpy:472
+translate russian v1s53_7024d308:
+
+    # sa "I uh, I don't want to take these pills anymore... could you throw them away for me?"
+    sa "Я... я больше не хочу принимать эти таблетки... Не мог бы ты выбросить их для меня?"
+
+# game/v1/scene53.rpy:487
+translate russian v1s53_36331395:
+
+    # sa "I need to go to bed."
+    sa "Мне нужно идти спать."
+
+# game/v1/scene53.rpy:544
+translate russian v1s53_986f33b9_1:
+
+    # sa "Thank you."
+    sa "Спасибо."
+
+# game/v1/scene53.rpy:549
+translate russian v1s53_242d31e6:
+
+    # u "Of course. I'll be here no matter what."
+    u "Конечно, я буду здесь, несмотря ни на что."
+
+# game/v1/scene53.rpy:574
+translate russian v1s53_3f56cf84:
+
+    # sa "But you're different... aren't you?"
+    sa "Но ты другой... Не так ли?"
+
+# game/v1/scene53.rpy:623
+translate russian v1s53_sg_9aad6e11:
+
+    # sa "What? W-why not?! You think I'm hot, don't you?"
+    sa "Что? П- Почему нет?! Ты думаешь, я несексуальная, да?"
+
+# game/v1/scene53.rpy:639
+translate russian v1s53_sg_a7d7746f:
+
+    # sa "See, I was right! All of you are stupid dickheads. Every single one of you!"
+    sa "Видишь, я была права! Ха! Все вы тупые придурки. Все до единого!"
+
+# game/v1/scene53.rpy:660
+translate russian v1s53_sg_17e266e0:
+
+    # u "(I hope she doesn't hate me in the morning.)"
+    u "(Надеюсь, утром она не будет меня ненавидеть.)"
 

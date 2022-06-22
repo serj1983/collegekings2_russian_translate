@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene14.rpy:23
 translate russian v1s14_3cd301c3:
@@ -57,4 +58,14 @@ translate russian strings:
     # game/v1/scene14.rpy:43
     old "Right, you're probably asleep. When you read this, just meet me in the hall near Ms. Rose's classroom at 10."
     new "Верно, ты, наверное, спишь. Когда прочтёшь это, встретимся в коридоре рядом с классом мисс Роуз в 10."
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene14.rpy:51
+translate russian v1s14_3f89b3b1_2:
+
+    # u "*Phone vibrates*"
+    u "*Телефон завибрировал*"
 

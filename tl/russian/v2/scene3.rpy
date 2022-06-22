@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v2/scene3.rpy:22
 translate russian v2s3_0057dc6e:
@@ -281,4 +282,50 @@ translate russian strings:
     # game/v2/scene3.rpy:237
     old "It's not my fault"
     new "Это не моя вина"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v2/scene3.rpy:27
+translate russian v2s3_6153f748:
+
+    # u "(Oh, shit... too late to turn around and run, I guess.)"
+    u "(Ох, дерьмо... Слишком поздно для отхода, думаю.)"
+
+# game/v2/scene3.rpy:37
+translate russian v2s3_d426228d:
+
+    # de "I was just saying to Grayson here that this fraternity is his responsibility."
+    de "Как я уже сказала Грейсону, что братство - его ответственность."
+
+# game/v2/scene3.rpy:47
+translate russian v2s3_a78bbe81:
+
+    # de "And posting indecent photos of female students is certainly something that this whole house will be punished for."
+    de "И размещение непристойных фотографий студенток - это, безусловно, то, за что весь этот дом будет наказан."
+
+# game/v2/scene3.rpy:82
+translate russian v2s3_82a15b5f:
+
+    # gr "Again, I'm sorry. I... we obviously didn't think this through and sadly we made a bad decision as a group."
+    gr "Ещё раз, мне жаль. Мы явно не продумали всё до конца и, к сожалению, приняли плохое решение всей группой."
+
+# game/v2/scene3.rpy:94
+translate russian v2s3_c37b6a68:
+
+    # de "What I need from you all, right now, is to delete the posts and the photos from your phones."
+    de "Что мне сейчас нужно от вас всех, так это удалить сообщения и фотографии со своих телефонов."
+
+# game/v2/scene3.rpy:198
+translate russian v2s3_0b947256:
+
+    # gr "Our reputation is exactly where it needs to be!"
+    gr "Наша репутация находится именно там, где ей нужно быть!"
+
+# game/v2/scene3.rpy:228
+translate russian v2s3_15a36259:
+
+    # u "This is what we get for joining the Apes."
+    u "Вот что получаешь за присоединение к Приматам."
 

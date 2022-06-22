@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene47.rpy:44
 translate russian v1s47_5e907087:
@@ -778,7 +779,7 @@ translate russian v1s47_end_cb1fa8fe:
 translate russian v1s47_end_fa5cd5cf:
 
     # u "Alright. That's every angle of Grandpa's Wagen, I think."
-    u "Хорошо. Хорошо. Думаю, это все, что касается Дедушкиного Вагена."
+    u "Хорошо. Думаю, это все, что касается Дедушкиного Вагена."
 
 # game/v1/scene47.rpy:884
 translate russian v1s47_end_45f7de78:
@@ -917,4 +918,392 @@ translate russian strings:
     # game/v1/scene47.rpy:791
     old "Take photo with bird"
     new "Сделай фото с птицей"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene47.rpy:67
+translate russian v1s47_935d6cf0:
+
+    # u "Ha, well, thank you..."
+    u "Ха, что ж, спасибо..."
+
+# game/v1/scene47.rpy:83
+translate russian v1s47_7bcfedec:
+
+    # u "Yeah. Really nice..."
+    u "Да. Очень мило..."
+
+# game/v1/scene47.rpy:99
+translate russian v1s47_25039b8c:
+
+    # u "I like it a lot, though, uh, why are you all dressed up?"
+    u "Мне это очень нравится... Почему ты так разоделась?"
+
+# game/v1/scene47.rpy:114
+translate russian v1s47_3151ee4f:
+
+    # li "Be sure to comment your compliment on my post."
+    li "Обязательно прокомментируй это в моём посте."
+
+# game/v1/scene47.rpy:140
+translate russian v1s47_71353406:
+
+    # u "Uh, huh? Keep going... please, I insist."
+    u "А, да? Продолжай... пожалуйста, я настаиваю."
+
+# game/v1/scene47.rpy:151
+translate russian v1s47_e3f950cd:
+
+    # u "Not yet. I mean... you look great."
+    u "Ещё нет. Я имею в виду... Ты выглядишь великолепно."
+
+# game/v1/scene47.rpy:156
+translate russian v1s47_93047508:
+
+    # li "Thank you, [name]. I told you I'd dress up nicely if it means that we make a bit extra cash."
+    li "Спасибо, [name]. Я же говорила тебе, что буду красиво одеваться, если это поможет нам заработать немного больше денег."
+
+# game/v1/scene47.rpy:161
+translate russian v1s47_177b432b:
+
+    # u "I think it'll work."
+    u "Я думаю, это сработает."
+
+# game/v1/scene47.rpy:177
+translate russian v1s47_052559ab:
+
+    # li "The opposite, actually. I just finished taking a few presidential photos for Kiwii."
+    li "На самом деле всё наоборот. Я только что закончила делать несколько президентских фотографий для Киви."
+
+# game/v1/scene47.rpy:187
+translate russian v1s47_e41e6876:
+
+    # li "Alright, alright. Are you ready to capture all the beauty of the shittiest car you've ever seen?"
+    li "Хорошо, хорошо. Готов ли ты запечатлеть всю красоту самой охуенной машины, которую ты когда-либо видели?"
+
+# game/v1/scene47.rpy:192
+translate russian v1s47_d0b7bea2:
+
+    # u "As ready as I'll ever be. Is this it?"
+    u "Настолько готов, насколько я когда-либо буду готов. Это всё?"
+
+# game/v1/scene47.rpy:212
+translate russian v1s47_323d199b:
+
+    # li "Okay, it's not like that..."
+    li "Ладно, это не так..."
+
+# game/v1/scene47.rpy:222
+translate russian v1s47_ca736aa2:
+
+    # li "I know but... still, he gave it to me knowing I would sell it. I just didn't need the extra money until now."
+    li "Знаю, но... Тем не менее, он дал мне его, зная, что я его продам. Просто до сих пор мне не нужны были лишние деньги."
+
+# game/v1/scene47.rpy:237
+translate russian v1s47_b7866c0b:
+
+    # u "Didn't he mention that you should wash it first?"
+    u "Разве он не упоминал, что сначала нужно помыть его?"
+
+# game/v1/scene47.rpy:247
+translate russian v1s47_a7181f58:
+
+    # u "Decades?"
+    u "Десятилетия?"
+
+# game/v1/scene47.rpy:252
+translate russian v1s47_709d8665:
+
+    # li "[name]... hoo boy. Let's just take these photos already so we can sell it as quickly as we can. Please?"
+    li "[name]... Давай уже сделаем фотографии, чтобы мы могли продать его как можно быстрее. Пожалуйста?"
+
+# game/v1/scene47.rpy:287
+translate russian v1s47_92a25744:
+
+    # li "That's so gross, yet so true..."
+    li "Это так грубо, но так верно..."
+
+# game/v1/scene47.rpy:292
+translate russian v1s47_237f0a2d:
+
+    # u "There are a lot of pervs out there... I'm curious to see which one ends up buying this piece of junk."
+    u "Там много извращенцев... Мне любопытно посмотреть, кто из них в итоге купит этот кусок хлама."
+
+# game/v1/scene47.rpy:297
+translate russian v1s47_07ac0a17:
+
+    # li "Interesting logic, [name]. They must be a perv if they decide to buy?"
+    li "Интересная логика, [name]. Они должны быть извращенцами, если решили купить?"
+
+# game/v1/scene47.rpy:302
+translate russian v1s47_209fbd94:
+
+    # u "Either that or... desperate for four wheels and a piece of metal."
+    u "Либо это, либо... Отчаянно нуждаясь в четырех колесах и куске металла."
+
+# game/v1/scene47.rpy:307
+translate russian v1s47_58acb591:
+
+    # li "Okay... whatever they do with it, doesn't matter. If they give us their money, I'm happy."
+    li "Хорошо... Что бы они ни делали с этим, что бы ни решили купить; если они отдадут нам свои деньги, я буду счастлив."
+
+# game/v1/scene47.rpy:312
+translate russian v1s47_852fef58:
+
+    # u "Ha, true. Let's do it, then."
+    u "Ха, правда. Тогда давай сделаем это."
+
+# game/v1/scene47.rpy:333
+translate russian v1s47_0fd76992:
+
+    # li "Yeah, me too. We've only got one shot at this, and I don't want to ruin it with any... unnecessary hotness. You know?"
+    li "Да, я тоже. У нас есть только одна попытка, и я не хочу испортить её... ненужной горячностью. Понимаешь?"
+
+# game/v1/scene47.rpy:340
+translate russian v1s47_956e45ab:
+
+    # u "I kind of meant because of how gross it is, though."
+    u "Я вроде как имел в виду, потому что это отвратительно."
+
+# game/v1/scene47.rpy:345
+translate russian v1s47_bdece92a:
+
+    # li "Oh my God, you're right... good call."
+    li "О боже, ты прав... Хороший выбор."
+
+# game/v1/scene47.rpy:374
+translate russian v1s47_hood_bdb0d276:
+
+    # li "Just take the photo already, [name]!"
+    li "Просто сделай фото, [name]!"
+
+# game/v1/scene47.rpy:379
+translate russian v1s47_hood_9d3ab9bd:
+
+    # u "Ha, sorry!"
+    u "Ха, извини!"
+
+# game/v1/scene47.rpy:413
+translate russian v1s47_hood_093b11fb:
+
+    # u "Heh."
+    u "Хех."
+
+# game/v1/scene47.rpy:465
+translate russian v1s47_trunk_2ca9fab5:
+
+    # u "Perfect."
+    u "Идеально."
+
+# game/v1/scene47.rpy:494
+translate russian v1s47_trunk_14c6cb27:
+
+    # li "It does not! Uh, at least, not totally."
+    li "Нет! По крайней мере, не полностью."
+
+# game/v1/scene47.rpy:504
+translate russian v1s47_trunk_57b2b7f8:
+
+    # li "Okay, it kinda does... is it that bad?"
+    li "Ладно, вроде как есть... но так ли это плохо?"
+
+# game/v1/scene47.rpy:524
+translate russian v1s47_trunk_ca6c27fe:
+
+    # li "Got 'em."
+    li "Есть."
+
+# game/v1/scene47.rpy:556
+translate russian v1s47_driver_0c9b9a9e:
+
+    # li "I have a lollipop! Should I like... suck on it?"
+    li "У меня есть леденец! Может, мне... пососать его?"
+
+# game/v1/scene47.rpy:562
+translate russian v1s47_driver_6c903c30:
+
+    # u "Is that even a question? Yeah, stick it in your mouth."
+    u "Это вопрос? Да, засунь его себе в рот."
+
+# game/v1/scene47.rpy:565
+translate russian v1s47_driver_446b2b36:
+
+    # u "Um... yes. That'd be a good idea."
+    u "Эм... да. Это было бы хорошей идеей."
+
+# game/v1/scene47.rpy:570
+translate russian v1s47_driver_7a01e260:
+
+    # u "Holy shit, Linds... I wouldn't be able to turn down an offer like that."
+    u "Срань господня, Линдс... Я бы не смог отказаться от такого предложения."
+
+# game/v1/scene47.rpy:580
+translate russian v1s47_driver_07fd23cd:
+
+    # u "Eh... not anymore. Please don't say that ever again."
+    u "Эх... больше нет. Пожалуйста, никогда больше так не говори."
+
+# game/v1/scene47.rpy:590
+translate russian v1s47_driver_1ec945c3:
+
+    # u "Thanks!"
+    u "Спасибо!"
+
+# game/v1/scene47.rpy:624
+translate russian v1s47_driver_7bd24192:
+
+    # li "Ha, um... pretty sure the action happens in the back seat."
+    li "Ха, хм... почти уверен, что действие происходит на заднем сиденье."
+
+# game/v1/scene47.rpy:629
+translate russian v1s47_driver_cab2a430:
+
+    # u "Oh?"
+    u "Ох?"
+
+# game/v1/scene47.rpy:644
+translate russian v1s47_driver_f507b09a:
+
+    # li "Oh, me? No, no."
+    li "О, я? Нет, нет."
+
+# game/v1/scene47.rpy:704
+translate russian v1s47_passenger_8586b77a:
+
+    # li "Damn, okay, Mr. Photography..."
+    li "Черт, ладно, мистер Фотограф..."
+
+# game/v1/scene47.rpy:721
+translate russian v1s47_passenger_4f15c423:
+
+    # li "Alrighty... anymore?"
+    li "Хорошо... что-нибудь ещё?"
+
+# game/v1/scene47.rpy:731
+translate russian v1s47_passenger_52395bf0:
+
+    # u "Just... Stand there and look pretty or something."
+    u "Просто... Стоять и выглядеть красиво или что-то в этом роде."
+
+# game/v1/scene47.rpy:741
+translate russian v1s47_passenger_41728693:
+
+    # u "Ha, sorry. You look great no matter what, so it doesn't matter."
+    u "Ха, извини. Ты отлично выглядишь, несмотря ни на что, так что это не имеет значения."
+
+# game/v1/scene47.rpy:746
+translate russian v1s47_passenger_57412f2f:
+
+    # li "Well, thank you. I just hope the buyers think the same thing."
+    li "Что ж, спасибо. Надеюсь, покупатели думают так же."
+
+# game/v1/scene47.rpy:763
+translate russian v1s47_passenger_4f15c423_1:
+
+    # li "Alrighty... anymore?"
+    li "Хорошо... что-нибудь ещё?"
+
+# game/v1/scene47.rpy:774
+translate russian v1s47_passenger_b22719a8:
+
+    # u "Whoa! We have a photo-bombing bird!"
+    u "Ого! У нас есть птица-фотобомба!"
+
+# game/v1/scene47.rpy:776
+translate russian v1s47_passenger_a8162698:
+
+    # li "Ha, wow... he's looking right at the camera!"
+    li "Ха, вау... Он смотрит прямо в камеру!"
+
+# game/v1/scene47.rpy:786
+translate russian v1s47_passenger_caeaad89:
+
+    # li "Hmm... maybe the animal lovers will like it?"
+    li "Хм... Может, любителям животных понравится?"
+
+# game/v1/scene47.rpy:815
+translate russian v1s47_passenger_1a6449c3:
+
+    # u "Ha!"
+    u "Ха!"
+
+# game/v1/scene47.rpy:837
+translate russian v1s47_passenger_4f15c423_2:
+
+    # li "Alrighty... anymore?"
+    li "Хорошо... что-нибудь ещё?"
+
+# game/v1/scene47.rpy:845
+translate russian v1s47_passenger_cc8bfd20:
+
+    # u "Yeah, Linds. A crazy bird lady might buy the car simply because he's sitting on it."
+    u "Да, Линдс. Сумасшедшая птичница может купить машину просто потому, что он на ней сидит."
+
+# game/v1/scene47.rpy:863
+translate russian v1s47_passenger_4f15c423_3:
+
+    # li "Alrighty... anymore?"
+    li "Хорошо... что-нибудь ещё?"
+
+# game/v1/scene47.rpy:879
+translate russian v1s47_end_dc805d13:
+
+    # u "Alright. That's every angle of Grandpa's Wagon, I think."
+    u "Хорошо. Думаю, это всё что касается Дедушкиной Повозки."
+
+# game/v1/scene47.rpy:884
+translate russian v1s47_end_8bf45733:
+
+    # li "Great."
+    li "Отлично."
+
+# game/v1/scene47.rpy:895
+translate russian v1s47_end_1ee00a3f:
+
+    # u "We can let them think that all the way up until their money hits your bank account. Then we'll just ghost 'em."
+    u "Мы можем позволить им думать так до тех пор, пока их деньги не попадут на твой банковский счёт. Потом мы просто избавимся от них."
+
+# game/v1/scene47.rpy:900
+translate russian v1s47_end_e50ec230:
+
+    # li "[name]!"
+    li "[name]!"
+
+# game/v1/scene47.rpy:910
+translate russian v1s47_end_d6cf6058:
+
+    # li "Well, just... don't say it out loud like that."
+    li "Ну, просто... Не говори это вслух."
+
+# game/v1/scene47.rpy:915
+translate russian v1s47_end_887286e2:
+
+    # u "Okay, sure."
+    u "Хорошо, конечно."
+
+# game/v1/scene47.rpy:926
+translate russian v1s47_end_54edcb8e:
+
+    # li "*Sighs* Me too. Hopefully we can sell it to anyone at all, if not the perfect buyer."
+    li "*Вздыхает* Я тоже. Надеюсь, мы сможем продать её кому-нибудь, если не идеальному покупателю."
+
+# game/v1/scene47.rpy:961
+translate russian v1s47_end_d8701d91:
+
+    # li "Not right now, no."
+    li "Не прямо сейчас, нет."
+
+# game/v1/scene47.rpy:971
+translate russian v1s47_end_bd9cc439:
+
+    # u "Bye, big chunk of metal!"
+    u "Прощай, большой кусок металла!"
+
+# game/v1/scene47.rpy:986
+translate russian v1s47_end_e96e4017:
+
+    # li "A special one."
+    li "Особенный."
 

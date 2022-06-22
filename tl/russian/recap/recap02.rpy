@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-10 22:25
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-10 22:25
 
 # game/recap/recap02.rpy:50
 translate russian recap_emily_questions_b490c236:
@@ -1036,7 +1037,7 @@ translate russian strings:
 
     # game/recap/recap02.rpy:1245
     old "Ask to be girlfriend"
-    new "Попросись в подружки"
+    new "Спросить, станет ли он твоей девушкой"
 
     # game/recap/recap02.rpy:1245
 #    old "Don't ask"
@@ -1085,4 +1086,42 @@ translate russian strings:
     # game/recap/recap02.rpy:1882
     old "Don't take things further"
     new "Не затягивайте события"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-22 16:10
+
+translate russian strings:
+
+    # game/recap/recap02.rpy:270
+    old "Stay FWB"
+    new "Остаться друзьями с привилегиями"
+
+    # game/recap/recap02.rpy:747
+    old "Help Nora"
+    new "Помочь Норе"
+
+    # game/recap/recap02.rpy:747
+    old "Don't help Nora"
+    new "Не помогать Норе"
+
+    # game/recap/recap02.rpy:864
+    old "Kiss her"
+    new "Поцеловать её"
+
+    # game/recap/recap02.rpy:981
+    old "Don't kiss her"
+    new "Не целовать её"
+
+    # game/recap/recap02.rpy:1245
+    old "Don't ask"
+    new "Не спрашивать"
+
+    # game/recap/recap02.rpy:1659
+    old "Don't invite"
+    new "Не приглашать"
+
+    # game/recap/recap02.rpy:1826
+    old "Pull away"
+    new "Отстранится"
 

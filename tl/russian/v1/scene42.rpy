@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene42.rpy:11
 translate russian v1s42_3747acd5:
@@ -383,4 +384,164 @@ translate russian v1s42_e753f65c:
 
     # u "(Finally...)"
     u "(Наконец-то...)"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene42.rpy:18
+translate russian v1s42_66495e60:
+
+    # u "How come?"
+    u "Почему так?"
+
+# game/v1/scene42.rpy:23
+translate russian v1s42_85692dea:
+
+    # pe "I just love sleepovers, honestly, and I'm kind of a sucker for cuddling."
+    pe "Просто обожаю ночёвки, честно говоря, я обожаю обниматься."
+
+# game/v1/scene42.rpy:28
+translate russian v1s42_7e69d5d9:
+
+    # u "You and me both."
+    u "Мы оба."
+
+# game/v1/scene42.rpy:43
+translate russian v1s42_5ebea414:
+
+    # pe "You're gonna make me blush..."
+    pe "Ты заставляешь меня краснеть..."
+
+# game/v1/scene42.rpy:58
+translate russian v1s42_5acd95b4:
+
+    # pe "Good."
+    pe "Хорошо."
+
+# game/v1/scene42.rpy:98
+translate russian v1s42_4e96ccf4:
+
+    # u "You... you look amazing!"
+    u "Ты... Ты выглядишь потрясающе!"
+
+# game/v1/scene42.rpy:103
+translate russian v1s42_fe2644e3:
+
+    # pe "Oh, stop it. I do not."
+    pe "Ох, прекрати."
+
+# game/v1/scene42.rpy:108
+translate russian v1s42_f6e4cd4c:
+
+    # u "Yes, you really do. I was speechless there for a sec."
+    u "Ты правда прекрасна. Я даже на секунду потерял дар речи."
+
+# game/v1/scene42.rpy:113
+translate russian v1s42_d7aa64a1:
+
+    # pe "Hmm... well, thank you."
+    pe "Хмм... Что ж, спасибо."
+
+# game/v1/scene42.rpy:143
+translate russian v1s42_b4637143:
+
+    # pe "Laying in bed, snuggled up to a guy that I actually like..."
+    pe "Лежать в постели, прижавшись к парню, который мне нравится..."
+
+# game/v1/scene42.rpy:145
+translate russian v1s42_78738860:
+
+    # pe "Every guy in the past just... wasn't what I needed. It seemed like those were the only kinds of guys I could get, though."
+    pe "Парни в прошлом просто... не были теми, кто мне был нужен. Хотя, похоже, это были единственные парни, которых я могла заполучить."
+
+# game/v1/scene42.rpy:170
+translate russian v1s42_46146982:
+
+    # u "What type of guys do you like laying next to?"
+    u "Что за парни, если ты не против, если я спрашиваю?"
+
+# game/v1/scene42.rpy:180
+translate russian v1s42_32e6f1af:
+
+    # u "Okay. Do go on."
+    u "Хорошо. Продолжай."
+
+# game/v1/scene42.rpy:200
+translate russian v1s42_6b33e111:
+
+    # u "Ha, sorry. Just marking off the list."
+    u "Ха, извини. Просто вычеркиваю из списка."
+
+# game/v1/scene42.rpy:220
+translate russian v1s42_71909de3:
+
+    # pe "Me too. I could get used to this..."
+    pe "я тоже. Я могла бы привыкнуть к этому..."
+
+# game/v1/scene42.rpy:263
+translate russian v1s42_10197f9c:
+
+    # la "Sorry, babe... I'm sure I woke you but, I just had the most amazing experience!"
+    la "Прости, малыш... Я уверена, что только что разбудил тебя, но у меня только что был самый удивительный опыт!"
+
+# game/v1/scene42.rpy:273
+translate russian v1s42_804d26fd:
+
+    # la "Don't laugh, but..."
+    la "Не смейтесь, но..."
+
+# game/v1/scene42.rpy:286
+translate russian v1s42_67f14363:
+
+    # la "Honestly, I... I just want to keep going."
+    la "Честно говоря, Я... Я просто хочу продолжать."
+
+# game/v1/scene42.rpy:291
+translate russian v1s42_5d61fd8f:
+
+    # u "Wow. Well, I'm happy for you. You survived all that porn without going for it even sooner?"
+    u "Вау, рад за тебя. Ты просмотрела всё порно, не решившись на это ещё раньше?"
+
+# game/v1/scene42.rpy:296
+translate russian v1s42_c354dace:
+
+    # la "Believe it or not, yes. This was my first time."
+    la "Хочешь верь, хочешь нет, но нет. Это был мой первый раз."
+
+# game/v1/scene42.rpy:303
+translate russian v1s42_d8cd7bed:
+
+    # u "(\"There's a first time for everything?\" The fuck am I on about? I need sleep...)"
+    u "(\"Всё бывает в первый раз\", блядь, о чем это я? Мне нужно поспать...)"
+
+# game/v1/scene42.rpy:308
+translate russian v1s42_29d47e08:
+
+    # la "Yeah, I guess there is..."
+    la "Да, наверное..."
+
+# game/v1/scene42.rpy:340
+translate russian v1s42_139d1c63:
+
+    # la "Ha, go to sleep. I'll talk to you tomorrow, handsome."
+    la "Ха, иди спи. Поговорим завтра, красавчик."
+
+# game/v1/scene42.rpy:350
+translate russian v1s42_57623e41:
+
+    # la "Yup! Goodnight. I'll keep my late night adventures to myself for now."
+    la "Ага. Спокойной ночи. Я пока оставлю свои поздние ночные приключения при себе."
+
+# game/v1/scene42.rpy:383
+translate russian v1s42_c21263a4:
+
+    # u "Good to hear. Most importantly, what did you wanna call and tell me?"
+    u "Приятно слышать. Самое главное, что ты захотела позвонить и рассказать мне?"
+
+# game/v1/scene42.rpy:403
+translate russian v1s42_d610591b:
+
+    # u "You will. Goodnight, babe."
+    u "Обязательно, спокойной ночи, детка."
 

@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene26a.rpy:19
 translate russian v1s26a_de8b05ad:
@@ -353,4 +354,86 @@ translate russian v1s26a_d0b38712:
 
     # u "(It's a sad day for honesty.)"
     u "(Это печальный день для честности.)"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene26a.rpy:24
+translate russian v1s26a_4ca571e8:
+
+    # li "It'd be going a hell of a lot better if I had any help..."
+    li "Всё шло бы гораздо лучше, если бы мне помогли..."
+
+# game/v1/scene26a.rpy:55
+translate russian v1s26a_6ee3ec9b:
+
+    # u "Well, what's going on? Everyone loves baked goods..."
+    u "Ну, что происходит? Все любят выпечку..."
+
+# game/v1/scene26a.rpy:62
+translate russian v1s26a_7582bb15:
+
+    # li "So far, most of what I could sell was to my family. *Sighs*"
+    li "Большинство из того, что я смогла продать, было для моей семьи. *Вздох*"
+
+# game/v1/scene26a.rpy:79
+translate russian v1s26a_34699b8d:
+
+    # li "If I get naked, stand on this table, and start shaking my ass for sales."
+    li "Если я разденусь, встану на этот стол и начну трясти задницей для продажи."
+
+# game/v1/scene26a.rpy:110
+translate russian v1s26a_3ecc5e18:
+
+    # li "I'm not trying to put this on you, [name], because it's not like the whole campaign depended on you, but..."
+    li "Я не пытаюсь переложить это на тебя, [name] потому что не похоже, что вся кампания зависела от тебя, но..."
+
+# game/v1/scene26a.rpy:162
+translate russian v1s26a_bdcf7333:
+
+    # li "Lauren helped make them and they tasted great last night, but I guess something went wrong because they aren't exactly the best now."
+    li "Лорен помогла сделать их, и вчера вечером они были великолепны на вкус, но, видимо, что-то пошло не так, поэтому сейчас они не самые лучшие."
+
+# game/v1/scene26a.rpy:238
+translate russian v1s26a_a0f9c87a:
+
+    # u "Uh, I'm at Lindsey's bake sale."
+    u "Я на распродаже выпечки Линдси."
+
+# game/v1/scene26a.rpy:262
+translate russian v1s26a_79a1274d:
+
+    # u "I didn't wanna wake you."
+    u "Я не хотел тебя будить."
+
+# game/v1/scene26a.rpy:267
+translate russian v1s26a_9aa0b509:
+
+    # am "Oh! Ok. Sorry for panicking, talk to you later?"
+    am "Ох! Окей. Извини за панику, поговорим позже?"
+
+# game/v1/scene26a.rpy:294
+translate russian v1s26a_7a0a00d1:
+
+    # li "*Sighs* It was a mini success, I banked $150, so I'm not too mad."
+    li "*Вздох* Это был мини-успех, я заработала 150 долларов, так что я не слишком злюсь."
+
+# game/v1/scene26a.rpy:313
+translate russian v1s26a_2c6b6039:
+
+    # u "Plus, promoting your campaign and being out here doing this is the entire point of having a bake sale, remember?"
+    u "Кроме того, продвижение твоей кампании и присутствие на ней - это и есть смысл проведения распродажи выпечки, помнишь?"
+
+# game/v1/scene26a.rpy:318
+translate russian v1s26a_23d836c0:
+
+    # li "Yeah, I guess."
+    li "Да, наверное."
+
+# game/v1/scene26a.rpy:328
+translate russian v1s26a_62979974:
+
+    # li "I am. I'm ready for a nap."
+    li "Да. Я готова вздремнуть."
 

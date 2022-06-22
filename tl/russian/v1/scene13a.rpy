@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene13a.rpy:12
 translate russian v1s13a_646b1da4:
@@ -106,5 +107,45 @@ translate russian v1s13a_e3094d17:
 translate russian v1s13a_1eb0edab:
 
     # u "(Jet lag recovery begins in five... four... three... two...-)"
+    u "(Восстановление после полёта начинается через пять... четыре... три... два...)"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene13a.rpy:37
+translate russian v1s13a_2f74b3f3:
+
+    # gr "Ha! Watch your tone, fruit cake. I was just joshing... With how defensive you got, though, it does make me wonder a bit."
+    gr "Ха! Следи за своим тоном, фруктовый пирог. Я просто пошутил... Но то, как ты защищался, заставляет меня немного задуматься."
+
+# game/v1/scene13a.rpy:47
+translate russian v1s13a_2ccb95e8:
+
+    # gr "It's pretty well-known that Charli liked fucking with you. The fact he was on vacation and still couldn't get you off his mind..."
+    gr "Довольно хорошо известно, что Чарли нравилось трахаться с тобой. Тот факт, что он был в отпуске и всё еще не мог выбросить тебя из головы..."
+
+# game/v1/scene13a.rpy:52
+translate russian v1s13a_c0a65d67:
+
+    # gr "Maybe it's that beautiful sparkle in your eye... not."
+    gr "Может быть, это тот прекрасный блеск в твоих глазах... нет."
+
+# game/v1/scene13a.rpy:72
+translate russian v1s13a_eb764625:
+
+    # gr "There's a smell of change in the air. And you need to be ready."
+    gr "В воздухе витает запах перемен. И ты должен быть готов."
+
+# game/v1/scene13a.rpy:92
+translate russian v1s13a_59e498a5:
+
+    # gr "Just be ready. Oh, yeah, and welcome back."
+    gr "Просто будь готов. Ох, да, и с возвращением."
+
+# game/v1/scene13a.rpy:112
+translate russian v1s13a_cdd8c6ba:
+
+    # u "(Jet lag recovery begins in five... four... three... two...)"
     u "(Восстановление после полёта начинается через пять... четыре... три... два...)"
 

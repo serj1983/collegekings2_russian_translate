@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene43b.rpy:57
 translate russian v1s43b_ae066a0a:
@@ -595,4 +596,122 @@ translate russian strings:
     # game/v1/scene43b.rpy:277
     old "Work with Riley"
     new "Работать с Райли"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene43b.rpy:24
+translate russian v1s43b_9546e7c4:
+
+    # lee "Today is a very good day, everyone. Although, I understand you're unaware of why that is."
+    lee "Сегодня для каждого очень хороший день. Хотя, я понимаю, что вы не знаете, почему это так."
+
+# game/v1/scene43b.rpy:44
+translate russian v1s43b_c919f496:
+
+    # u "(Oh... that's why Riley is here.)"
+    u "(Ох... Вот почему Райли здесь.)"
+
+# game/v1/scene43b.rpy:64
+translate russian v1s43b_11b7134e:
+
+    # ri "I, thank you... I mean, you could've just told me that's what was happening. But really, thanks. I'm excited!"
+    ri "Спасибо... Я имею в виду, ты мог бы просто сказать мне, что так и было. Но, правда, спасибо. Я в восторге!"
+
+# game/v1/scene43b.rpy:69
+translate russian v1s43b_97db3dd1:
+
+    # lee "So are we. Right, class?"
+    lee "Как и мы. Правда класс?"
+
+# game/v1/scene43b.rpy:74
+translate russian v1s43b_6fb277c6:
+
+    # ri "Ha, it's okay."
+    ri "Ха, всё в порядке."
+
+# game/v1/scene43b.rpy:79
+translate russian v1s43b_50b51aa1:
+
+    # u "(This should be interesting...)"
+    u "(Это должно быть интересно...)"
+
+# game/v1/scene43b.rpy:114
+translate russian v1s43b_1945552a:
+
+    # ri "Ahem, I, uh... I'm very approachable, so even though I don't know what all my responsibilities will be as a teacher's assistant, feel free to talk to me."
+    ri "Кхм, я... я очень контактная, поэтому я не знаю, каковы будут мои обязанности в качестве помощника учителя, но не стесняйтесь говорить со мной."
+
+# game/v1/scene43b.rpy:124
+translate russian v1s43b_bbcc9f18:
+
+    # lee "Very good! Thank you. Now, onto class..."
+    lee "Очень хорошо! Спасибо. Теперь перейдем к занятиям..."
+
+# game/v1/scene43b.rpy:129
+translate russian v1s43b_4886b50a:
+
+    # lee "Today, we will once again be doing a roleplay."
+    lee "Сегодня мы снова будем проводить ролевую игру."
+
+# game/v1/scene43b.rpy:215
+translate russian v1s43b_b78faa87:
+
+    # imre "Look, man... ugh, please? Just let me work with her."
+    imre "Слушай, мужик... пожалуйста? Просто дай мне поработать с ней."
+
+# game/v1/scene43b.rpy:225
+translate russian v1s43b_51d3d2db:
+
+    # imre "*Sighs* Okay, fine, I sent some drunk texts to Riley last night and she hasn't replied, so it'd be awkward having to work with her. You know?"
+    imre "*Вздыхает* Ладно, я послал несколько пьяных сообщений Райли прошлой ночью, но она не ответила, так что будет неловко работать с ней. Понимаешь?"
+
+# game/v1/scene43b.rpy:230
+translate russian v1s43b_2050996e:
+
+    # u "Yeah. I get that..."
+    u "Да. Я понял..."
+
+# game/v1/scene43b.rpy:283
+translate russian v1s43b_5e23b096:
+
+    # pe "*Whispers* And me."
+    pe "*Шепотом* И я."
+
+# game/v1/scene43b.rpy:289
+translate russian v1s43b_0737a6bd:
+
+    # pe "No, no, no. You and me."
+    pe "Нет, нет, нет. Ты и я."
+
+# game/v1/scene43b.rpy:311
+translate russian v1s43b_b541e817:
+
+    # lee "Now, once I'm finished speaking, you may leave the classroom and begin reading pages 100-103 in your textbook."
+    lee "Теперь, как только я закончу говорить, вы покинете аудиторию и начнёте читать страницы 100-103 вашего учебника."
+
+# game/v1/scene43b.rpy:469
+translate russian v1s43Chloe_PhoneContinue1_8e95cc18:
+
+    # imre "Fuck, dude... I don't know. Maybe she'll pretend like it never happened? Or should I bring it up? What the fuck should I do here?"
+    imre "Блядь, чувак... Я не знаю. Может, она сделает вид, что ничего не было? Или мне стоит поднять этот вопрос? Что, блядь, мне тут делать?"
+
+# game/v1/scene43b.rpy:474
+translate russian v1s43Chloe_PhoneContinue1_274ab15f:
+
+    # u "Ha... I just wanted to see you squirm for a second. I wouldn't actually do you like that. Have fun with Penelope."
+    u "Ха... Я просто хотел посмотреть, как ты будешь извиваться. На самом деле я бы не стал так с тобой поступать, повеселись с Пенелопой."
+
+# game/v1/scene43b.rpy:479
+translate russian v1s43Chloe_PhoneContinue1_94755924:
+
+    # imre "Oh shit, ha, phew... thanks, man."
+    imre "Вот дерьмо, ха... Спасибо, мужик."
+
+# game/v1/scene43b.rpy:648
+translate russian v1s43Chloe_PhoneContinue2_1a8f2da2:
+
+    # u "Let's just work in the classroom across the hall. It's always empty."
+    u "Давай поработаем в классе напротив, там всегда пусто."
 

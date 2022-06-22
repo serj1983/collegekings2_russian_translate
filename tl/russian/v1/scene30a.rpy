@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene30a.rpy:28
 translate russian v1s30a_32a51c82:
@@ -375,4 +376,74 @@ translate russian strings:
     # game/v1/scene30a.rpy:206
     old "Stay still"
     new "Не двигаться"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene30a.rpy:73
+translate russian v1s30a_4f49904b:
+
+    # cl "It'll be fine."
+    cl "Всё будет хорошо."
+
+# game/v1/scene30a.rpy:135
+translate russian v1s30a_ab58201b:
+
+    # wtrain "So... bet you're wondering what an Australian is doing with a wolf, huh?"
+    wtrain "Итак... Спорим, вам интересно, что австралиец делает с волком?"
+
+# game/v1/scene30a.rpy:145
+translate russian v1s30a_1db56a8b:
+
+    # cl "Okay, let's get this party started, shall we?"
+    cl "Итак, давайте начнем вечеринку?"
+
+# game/v1/scene30a.rpy:186
+translate russian v1s30a_f5649fcb:
+
+    # u "Woah, woah, woah... umm, excuse me?"
+    u "Воа, воа, воа... эмм, простите?"
+
+# game/v1/scene30a.rpy:191
+translate russian v1s30a_57c237c0:
+
+    # wtrain "Oh, uh, don't worry! Just stay calm, and so will he. Probably."
+    wtrain "О, не волнуйся! Просто сохраняй спокойствие, тогда и он тоже."
+
+# game/v1/scene30a.rpy:201
+translate russian v1s30a_0371c643:
+
+    # u "(This is it... this is how I die...)"
+    u "(Вот так... Вот так я умру...)"
+
+# game/v1/scene30a.rpy:282
+translate russian v1s30a_1075981f:
+
+    # cl "Ha!"
+    cl "Ха!"
+
+# game/v1/scene30a.rpy:307
+translate russian v1s30a_bffd4239:
+
+    # cl "Just c'mon already, meat man."
+    cl "Давай уже, мясной человек."
+
+# game/v1/scene30a.rpy:354
+translate russian v1s30a_a019032d:
+
+    # u "I've already seen them all, Chloe. Pick your favorites and maybe I can help you choose."
+    u "Я уже видел их все, Хлоя. Выбери свои любимые, возможно, я смогу помочь тебе выбрать."
+
+# game/v1/scene30a.rpy:359
+translate russian v1s30a_4fffe3bf:
+
+    # cl "Yeah, okay. Thank you again."
+    cl "Да, хорошо. Ещё раз спасибо."
+
+# game/v1/scene30a.rpy:384
+translate russian v1s30a_d5ff93b3:
+
+    # u "Thanks for coming out here. Bye, Niko!"
+    u "Спасибо, что пришли сюда. Пока, Нико!"
 

@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene52.rpy:29
 translate russian v1s52_efed6dce:
@@ -431,4 +432,78 @@ translate russian strings:
     # game/v1/scene52.rpy:385
     old "Hey, you. I'm starting to worry that I haven't seen you around. At least let me know that he didn't hurt you... Please text me back, ASAP"
     new "Привет. Я начинаю беспокоиться, что не вижу тебя рядом. По крайней мере, дай мне знать, что он не причинил тебе вреда... Пожалуйста, напиши мне ответ, как можно скорее"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene52.rpy:98
+translate russian v1s52_ca0c96ec:
+
+    # se "Y-you broke up?"
+    se "В-вы расстались?"
+
+# game/v1/scene52.rpy:143
+translate russian v1s52_b5863bbb:
+
+    # ch "I don't think I have to change for her. I shouldn't have to, you know. I'm still the same guy she fell in love with... but, whatever."
+    ch "Я не думаю, что мне нужно меняться ради неё. Я не должен был этого делать, вы же знаете. Я все тот же парень, в которого она влюбилась... Но неважно."
+
+# game/v1/scene52.rpy:148
+translate russian v1s52_07ec0073:
+
+    # ch "Her fucking loss. Right, boys?"
+    ch "Это её чёртова потеря. Верно, парни?"
+
+# game/v1/scene52.rpy:163
+translate russian v1s52_8480f0a2:
+
+    # se "Bros before those hoes!"
+    se "К чёрту этих шлюх!"
+
+# game/v1/scene52.rpy:173
+translate russian v1s52_3a164bca:
+
+    # u "People just grow apart sometimes, man. It sucks, but I've seen it happen with my parents."
+    u "Люди иногда отдаляются друг от друга. Это отстой, но я видел, как это происходит с моими родителями."
+
+# game/v1/scene52.rpy:183
+translate russian v1s52_1c8158a7:
+
+    # aa "You grow up seeing them so happy together and then one day your dad is packing up all his clothes and your mom is screaming at him to get the hell out."
+    aa "Ты растешь и видишь их такими счастливыми вместе, а потом однажды твой отец собирает все свои вещи, а твоя мама кричит ему, чтобы он убирался к чёрту."
+
+# game/v1/scene52.rpy:188
+translate russian v1s52_9ba702e6:
+
+    # ch "Thankfully there was no screaming or punching involved. We were both really calm about it. Upset, obviously, but calm."
+    ch "К счастью, обошлось без криков и насилия. Мы оба отнеслись к этому спокойно. Расстроены, конечно, но спокойны."
+
+# game/v1/scene52.rpy:193
+translate russian v1s52_ad6f497c:
+
+    # imre "Where is she, even? I haven't seen her since the airport when we landed home."
+    imre "Где она вообще? Я не видел её с аэропорта, когда мы приземлились."
+
+# game/v1/scene52.rpy:266
+translate russian v1s52_3c28b025:
+
+    # u "By the way, I know you said you didn't want to talk about it but... is there any way you could tell me where Nora is?"
+    u "Кстати, я знаю, ты сказал что не хочешь говорить об этом, но... ты не мог бы мне сказать, где Нора?"
+
+# game/v1/scene52.rpy:477
+translate russian v1s52_PhoneContinueNora_dedc4ce0:
+
+    # u "Imre! Imre, wait!"
+    u "Имре! Имре, подожди!"
+
+translate russian strings:
+
+    # game/v1/scene52.rpy:381
+    old "Hey, Nora. Just checking in since I haven't heard from you in a while... where are you?"
+    new "Привет, Нора. Просто проверяю, так как давно не получал от тебя вестей... где ты?"
+
+    # game/v1/scene52.rpy:382
+    old "Hey, you. I'm starting to worry that I haven't seen you around. At least let me know that he didn't hurt you... please text me back, ASAP"
+    new "Привет. Я начинаю беспокоиться, что не вижу тебя рядом. По крайней мере, дай мне знать, что он не причинил тебе вреда... пожалуйста, напиши мне ответ как можно скорее"
 

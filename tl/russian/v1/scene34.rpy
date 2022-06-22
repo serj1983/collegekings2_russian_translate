@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene34.rpy:13
 translate russian v1s34_2cdfd959:
@@ -211,4 +212,50 @@ translate russian strings:
     # game/v1/scene34.rpy:106
     old "Hey Penelope"
     new "Привет, Пенелопа."
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene34.rpy:41
+translate russian v1s34_PhoneContinue_70261010:
+
+    # u "(Damn, what timing. I think I will...)"
+    u "(Чёрт, что за время. Думаю, я так и сделаю...)"
+
+# game/v1/scene34.rpy:80
+translate russian v1s34_PhoneContinue3_d509de46:
+
+    # u "(Luckily, she seems to have taken that in good spirits. Now to call Penelope...)"
+    u "(К счастью, она, похоже, восприняла это в хорошем расположении духа. А теперь позвоним Пенелопе...)"
+
+# game/v1/scene34.rpy:89
+translate russian v1s34_PhoneContinue3_d509de46_1:
+
+    # u "(Luckily, she seems to have taken that in good spirits. Now to call Penelope...)"
+    u "К счастью, она, похоже, восприняла это в хорошем расположении духа. А теперь позвоним Пенелопе..."
+
+# game/v1/scene34.rpy:132
+translate russian v1s34_PhoneContinue3_b6c8c77d:
+
+    # u "Good, because I was thinking we could try going on that date we talked about in London."
+    u "Хорошо, потому что я подумал, что мы могли бы сходить на то свидание, о котором мы говорили в Лондоне."
+
+# game/v1/scene34.rpy:137
+translate russian v1s34_PhoneContinue3_5dbb4a72:
+
+    # pe "R-right now?"
+    pe "П-прямо сейчас?"
+
+# game/v1/scene34.rpy:142
+translate russian v1s34_PhoneContinue3_648c2e49:
+
+    # u "Yeah, right now. I mean, we're both free, so we might as well, right?"
+    u "Да, прямо сейчас. Мы сейчас оба свободны, так что мы могли бы, верно?"
+
+# game/v1/scene34.rpy:195
+translate russian v1s34_nsfwSkipLabel1_25a27f21:
+
+    # pe "Bye."
+    pe "Пока."
 

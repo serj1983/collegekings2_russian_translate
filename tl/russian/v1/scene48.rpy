@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene48.rpy:16
 translate russian v1s48_bac0672e:
@@ -473,4 +474,200 @@ translate russian v1s48_end_5c22df4c:
 
     # u "Later, Linds."
     u "Увидимся, Линдс."
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene48.rpy:80
+translate russian v1s48_cc2b507c:
+
+    # li "Thanks for the coffee by the way. I should be the one treating you, though, don't you think?"
+    li "Кстати, спасибо за кофе. Но это я должна тебя угощать, тебе не кажется?"
+
+# game/v1/scene48.rpy:90
+translate russian v1s48_f5b53c64:
+
+    # li "Oooh, next time?"
+    li "Оооо, в следующий раз?"
+
+# game/v1/scene48.rpy:95
+translate russian v1s48_3d0756c3:
+
+    # u "Mmhmm."
+    u "Ммхмм."
+
+# game/v1/scene48.rpy:106
+translate russian v1s48_bcd5abfa:
+
+    # li "Oh, don't worry about it. After today, I owe you at least a cup."
+    li "О, не волнуйся. После сегодняшнего дня я должна тебе как минимум чашку."
+
+# game/v1/scene48.rpy:111
+translate russian v1s48_c6e9a2c1:
+
+    # u "You bet."
+    u "Конечно."
+
+# game/v1/scene48.rpy:116
+translate russian v1s48_44a159de:
+
+    # u "Okay, so... I've created a draft listing for your highly collectible, highly desirable vintage vehicle."
+    u "Итак... Я создал проект объявления о продаже твоего коллекционного, очень раритетного старинного автомобиля."
+
+# game/v1/scene48.rpy:121
+translate russian v1s48_89c9cea9:
+
+    # li "I see you're honing your salesman skills."
+    li "Я вижу, ты уже практикуешь свои навыки продавца."
+
+# game/v1/scene48.rpy:126
+translate russian v1s48_68b10e02:
+
+    # u "You could say I'm \"getting them into gear\"."
+    u "Можно сказать, что \"запускаю передачу\"."
+
+# game/v1/scene48.rpy:133
+translate russian v1s48_5174fb12:
+
+    # u "Into gear... like a car? Get it?"
+    u "Включаю передачу... Как в машине? Поняла?"
+
+# game/v1/scene48.rpy:138
+translate russian v1s48_af85f6e7:
+
+    # li "I think grandpa's car might've rubbed some of his humor off on you."
+    li "Я думаю, что дедушкина машина, возможно, передала тебе часть его юмора."
+
+# game/v1/scene48.rpy:143
+translate russian v1s48_b84dab56:
+
+    # u "I have more where that came from."
+    u "У меня есть ещё кое-что."
+
+# game/v1/scene48.rpy:153
+translate russian v1s48_9fbfd364:
+
+    # u "Your loss!"
+    u "Как тебе не повезло!"
+
+# game/v1/scene48.rpy:193
+translate russian v1s48_continue_22d64296:
+
+    # li "Let's hope they want that too."
+    li "Будем надеяться, что они тоже этого хотят."
+
+# game/v1/scene48.rpy:199
+translate russian v1s48_continue_0df7428e:
+
+    # li "You can see all the fine details without a beautiful blonde distraction."
+    li "Ты можешь видеть мелкие детали, не отвлекаясь на красивую блондинку."
+
+# game/v1/scene48.rpy:204
+translate russian v1s48_continue_99cead62:
+
+    # u "True. Let's hope there's someone out there who can see its potential."
+    u "Истина, будем надеяться, что найдется кто-то, кто сможет увидеть его потенциал."
+
+# game/v1/scene48.rpy:219
+translate russian v1s48_continue_e2125b72:
+
+    # li "[name], this is serious!"
+    li "[name], это серьезно!"
+
+# game/v1/scene48.rpy:271
+translate russian v1s48_continue2_6ed8fa17:
+
+    # li "Yeah, I guess you're right. Let's go for it, then. I just don't want them to be angry at us when they see the car in person."
+    li "Да, я думаю, ты прав. Тогда давай сделаем это. Я просто не хочу, чтобы они злились на нас, когда увидят машину лично."
+
+# game/v1/scene48.rpy:281
+translate russian v1s48_continue2_39c5fff5:
+
+    # li "[name]... so devious."
+    li "[name]... ты такой коварный."
+
+# game/v1/scene48.rpy:286
+translate russian v1s48_continue2_7b26e907:
+
+    # u "Let them be mad. I'll deal with it."
+    u "Пусть злятся. Я разберусь с этим."
+
+# game/v1/scene48.rpy:307
+translate russian v1s48_continue2_47765a33:
+
+    # u "Exactly. Honesty is the best policy. Now we just need to decide the price."
+    u "Именно. Честность - лучшая политика. Осталось только определиться с ценой."
+
+# game/v1/scene48.rpy:312
+translate russian v1s48_continue2_9217956b:
+
+    # li "Okay. Now remember, this is a free advert, but only for 24 hours. I can't afford their fees beyond that, so we need to sell it fast..."
+    li "Хорошо. Напомню, что это бесплатная реклама, только на 24 часа. Я не могу позволить себе заплатить за объявление, поэтому нам нужно продать её быстро..."
+
+# game/v1/scene48.rpy:324
+translate russian v1s48_continue2_b2685dc3:
+
+    # li "No! It's worth more than that!"
+    li "Нет! Она стоит больше!"
+
+# game/v1/scene48.rpy:329
+translate russian v1s48_continue2_8d403cb6:
+
+    # u "It would sell fast, though... I would think."
+    u "Она очень быстро продастся... Я думаю!"
+
+# game/v1/scene48.rpy:340
+translate russian v1s48_continue2_5e38b720:
+
+    # u "Seriously, I don't think we'll get any more than like six-hundred bucks. And that's being generous."
+    u "Серьёзно, не думаю, что мы получим больше шестисот баксов. И это с учётом щедрости."
+
+# game/v1/scene48.rpy:355
+translate russian v1s48_continue2_ef4536c0:
+
+    # u "I guess so, yeah. Maybe we can ask for a bit extra based on how well we think our photoshoot went. We can get six-hundred dollars for sure though, I know it."
+    u "Думаю, да. Может быть, мы попросим немного больше, исходя из того, насколько хорошо, по твоему мнению, прошла твоя фотосессия. Но шестьсот мы точно получим, я знаю."
+
+# game/v1/scene48.rpy:361
+translate russian v1s48_continue2_09a1e368:
+
+    # u "I really think we can get a solid four-hundred bucks for it."
+    u "Я думаю, что мы можем получить за неё солидные четыреста баксов."
+
+# game/v1/scene48.rpy:362
+translate russian v1s48_continue2_b7d66b4e:
+
+    # u "It's turning to rust, but they know that from the pictures and our description. At least it still runs."
+    u "Она покрыта ржавчиной, но они видят это по фотографиям и нашему описанию. По крайней мере, она все ещё ездит."
+
+# game/v1/scene48.rpy:382
+translate russian v1s48_continue2_604c84dc:
+
+    # u "Nope. No idea."
+    u "Нет. Без понятия."
+
+# game/v1/scene48.rpy:387
+translate russian v1s48_continue2_93d702b5:
+
+    # li "Come on, loser. Let's make a decision."
+    li "Давай, лузер. Давай принимай решение."
+
+# game/v1/scene48.rpy:411
+translate russian v1s48_end_a346fb0d:
+
+    # u "It's certainly a process."
+    u "Это, конечно, долгий процесс."
+
+# game/v1/scene48.rpy:422
+translate russian v1s48_end_967e2f6c:
+
+    # u "Mmmm... caramel."
+    u "Мммм... Карамель."
+
+# game/v1/scene48.rpy:457
+translate russian v1s48_end_11f06b52:
+
+    # u "Of course you do."
+    u "Конечно, ты знаешь."
 

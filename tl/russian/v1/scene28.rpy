@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene28.rpy:18
 translate russian v1s28_3e834dd2:
@@ -479,4 +480,80 @@ translate russian strings:
     # game/v1/scene28.rpy:172
     old "Be angry"
     new "Разозлиться"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene28.rpy:32
+translate russian v1s28_2fa52ac7:
+
+    # em "I've made mistakes. Not just the cheating, either."
+    em "Я совершала ошибки. Не только в изменах."
+
+# game/v1/scene28.rpy:42
+translate russian v1s28_a9d199fa:
+
+    # em "I've made dozens more mistakes since we've been in college. Regardless of all that, I know how I feel and have always felt about you."
+    em "Я совершила десятки ошибок с тех пор, как мы учились в колледже. Несмотря на всё это, я знаю, что я чувствую и всегда чувствовала к тебе."
+
+# game/v1/scene28.rpy:66
+translate russian v1s28_485d2c6f:
+
+    # em "But deep down, of course... I hope that you still love me, too."
+    em "В глубине души, конечно... Я надеюсь, что ты всё ещё любишь меня тоже."
+
+# game/v1/scene28.rpy:82
+translate russian v1s28_ae8e04ff:
+
+    # u "We've had our bumps in the road, but someway, somehow, we always get drawn right back to each other."
+    u "У нас были свои неровности на дороге, но каким-то образом, каким-то образом нас всегда тянет обратно друг к другу."
+
+# game/v1/scene28.rpy:84
+translate russian v1s28_79715413:
+
+    # u "That's what tells me there's something between us and it's meant to be."
+    u "Это говорит о том, что между нами что-то есть, и это должно быть."
+
+# game/v1/scene28.rpy:134
+translate russian v1s28_56ee9636:
+
+    # u "Considering you cheated on me, my friend is interested in you, and the fact that I've met other people..."
+    u "Учитывая, что ты изменила мне и что мой друг заинтересован в тебе, и тот факт, что я встречаюсь с другими людьми..."
+
+# game/v1/scene28.rpy:212
+translate russian v1s28_d688395a:
+
+    # em "You're telling me that? Really?"
+    em "Ты говоришь мне это? Серьёзно?"
+
+# game/v1/scene28.rpy:256
+translate russian v1s28_f3e83462:
+
+    # em "I'm happy to hear you say that."
+    em "Мне приятно слышать это от тебя."
+
+# game/v1/scene28.rpy:276
+translate russian v1s28_21b8e10c:
+
+    # em "Yeah, honestly... I wasn't even going to tell you. I was just going to leave."
+    em "Да, честно говоря... Я даже не собиралась тебе говорить. Я просто собиралась уйти."
+
+# game/v1/scene28.rpy:305
+translate russian v1s28_46d22ed9:
+
+    # em "If you want this relationship as much as you say you do, we'll be able to make this long-distance thing work."
+    em "Если ты хочешь этих отношений так сильно, как ты говоришь, мы сможем наладить их на расстоянии."
+
+# game/v1/scene28.rpy:377
+translate russian v1s28_5ec635d8:
+
+    # u "(After all our history, our ups and downs on campus... she's actually gone.)"
+    u "(После всей нашей истории, наших взлетов и падений в кампусе... Она ушла)."
+
+# game/v1/scene28.rpy:382
+translate russian v1s28_b4445743:
+
+    # u "(I see why she wanted to talk in private now. I wonder who else she's told.)"
+    u "(Теперь я понимаю, почему она хотела поговорить наедине. Интересно, кому еще она всё рассказала)."
 

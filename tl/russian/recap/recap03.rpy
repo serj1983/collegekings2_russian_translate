@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-10 22:25
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-10 22:25
 
 # game/recap/recap03.rpy:21
 translate russian recap_end_da32caf8:

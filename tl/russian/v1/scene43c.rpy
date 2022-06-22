@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene43c.rpy:11
 translate russian v1s43c_795efbad:
@@ -615,4 +616,206 @@ translate russian strings:
     # game/v1/scene43c.rpy:38
     old "Argument scene"
     new "Сцена спора"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene43c.rpy:11
+translate russian v1s43c_0ac6d503:
+
+    # pe "Honestly, I don't even need to read the pages."
+    pe "Честно говоря, мне даже не нужно читать страницы."
+
+# game/v1/scene43c.rpy:33
+translate russian v1s43c_c7eb08dd:
+
+    # pe "Just like that. Did you have any ideas for it, though?"
+    pe "Вот так. У тебя были какие-то идеи?"
+
+# game/v1/scene43c.rpy:62
+translate russian v1s43c_7d297e8a:
+
+    # pe "Ha, right..."
+    pe "Ха, точно..."
+
+# game/v1/scene43c.rpy:68
+translate russian v1s43c_3e75b4c0:
+
+    # pe "Did I hear you say you want to end it with a kiss?"
+    pe "Я слышала, ты сказал, что хочешь закончить всё поцелуем?"
+
+# game/v1/scene43c.rpy:73
+translate russian v1s43c_fa395b6b:
+
+    # u "That's exactly what you heard."
+    u "Это именно то, что ты слышала."
+
+# game/v1/scene43c.rpy:93
+translate russian v1s43c_306baf2b:
+
+    # pe "Wow, okay. Big talker."
+    pe "Вау, хорошо. Большой болтун."
+
+# game/v1/scene43c.rpy:138
+translate russian v1s43c_382850b3:
+
+    # u "Fair. What are you thinking?"
+    u "Справедливо. О чём ты думаешь?"
+
+# game/v1/scene43c.rpy:148
+translate russian v1s43c_98f2a8f3:
+
+    # u "Okay. I don't know much about medieval times and being a king (besides a college king, maybe), but I'll play along."
+    u "Ладно, я не так много знаю о средневековых временах и о том, как быть королем (кроме короля колледжа, может быть), но я буду играть."
+
+# game/v1/scene43c.rpy:153
+translate russian v1s43c_770bebc8:
+
+    # pe "Perfect."
+    pe "Отлично."
+
+# game/v1/scene43c.rpy:163
+translate russian v1s43c_b8aa504f:
+
+    # u "Okay, umm... you begin?"
+    u "Хорошо, эмм... Ты начинаешь?"
+
+# game/v1/scene43c.rpy:173
+translate russian v1s43c_014c612e:
+
+    # u "*British accent* The hunt went well, m'lady. A few targets got away but we secured quite a haul nonetheless."
+    u "*Британский акцент* Охота прошла хорошо, миледи. Несколько целей ушли, но мы все равно получили неплохую добычу."
+
+# game/v1/scene43c.rpy:194
+translate russian v1s43c_362fc9b4:
+
+    # pe "*Whispers* Are you saying that as part of the script or as an actual comment?"
+    pe "*Шёпотом* Ты говоришь это как часть сценария или это реальный вопрос?"
+
+# game/v1/scene43c.rpy:199
+translate russian v1s43c_8cfcdb7a:
+
+    # u "Why are you whispering? But, yes, it was an actual comment."
+    u "Почему ты шепчешь? Но да, это был реальный вопрос."
+
+# game/v1/scene43c.rpy:204
+translate russian v1s43c_0cc7f852:
+
+    # pe "*Whispers* Oh, okay, I'll change it. Ahem..."
+    pe "*Шёпотом* О, хорошо, я изменю это. Кхм..."
+
+# game/v1/scene43c.rpy:239
+translate russian v1s43c_acc46ca4:
+
+    # u "*British accent* Ah. Heh, well, hopefully not literally..."
+    u "*Британский акцент* Ах. Ну, надеюсь, не буквально."
+
+# game/v1/scene43c.rpy:284
+translate russian v1s43c_c2177ff4:
+
+    # u "*British accent* Uh, e-excuse me?"
+    u "*Британский акцент* Ух, п-простите?"
+
+# game/v1/scene43c.rpy:346
+translate russian v1s43c_e575d438:
+
+    # pe "*British accent* Very well, then... on the night before last, at what time did General Pines leave to go to his quarters?"
+    pe "*Британский акцент* Очень хорошо, тогда... Позавчера вечером, в какое время генерал Пайнс ушёл в свою каюту?"
+
+# game/v1/scene43c.rpy:366
+translate russian v1s43c_3af95795:
+
+    # pe "*British accent* That... that's exactly what the general's wife said..."
+    pe "*Британский акцент* Это... Именно так сказала жена генерала..."
+
+# game/v1/scene43c.rpy:371
+translate russian v1s43c_361c74c0:
+
+    # u "*British accent* And you dare accuse the king... your accusation was out of line. You know where my loyalty lies."
+    u "*Британский акцент* И ты смеешь обвинять короля... Твоё обвинение вышло за рамки, ты знаешь, в чём моя преданность."
+
+# game/v1/scene43c.rpy:376
+translate russian v1s43c_938eb0db:
+
+    # pe "*British accent* My accusation was misplaced, yes, but sadly... it wasn't the worst thing I've done tonight."
+    pe "*Британский акцент* Мое обвинение было неуместным, да, но, к сожалению... Это было не самое худшее, что я сделала сегодня."
+
+# game/v1/scene43c.rpy:421
+translate russian v1s43c_c28701b6:
+
+    # u "*British accent* Wait... you... you poisoned me?!"
+    u "*Британский акцент* Подожди... Ты... Ты отравила меня?!"
+
+# game/v1/scene43c.rpy:431
+translate russian v1s43c_1b92e5bc:
+
+    # u "*British accent* Your mind is unsound, my queen."
+    u "*Британский акцент* Твой разум нездоров, моя королева."
+
+# game/v1/scene43c.rpy:436
+translate russian v1s43c_8d1221be:
+
+    # pe "*British accent* That may be true, but the insanity stems from the love I have for you."
+    pe "*Британский акцент* Это может быть правдой, но безумие проистекает из любви, которую я испытываю к тебе."
+
+# game/v1/scene43c.rpy:476
+translate russian v1s43c_8676991a:
+
+    # pe "*British accent* Goodbye, be free, and... *sniffles* I'm sorry..."
+    pe "*Британский акцент* Прощай, будь свободен, и... *шмыгает носом* Прости..."
+
+# game/v1/scene43c.rpy:491
+translate russian v1s43c_843ae763:
+
+    # u "That was actually really fun. Even went for a real kiss, huh?"
+    u "Это было очень весело. Даже поцелуй получился настоящим, да?"
+
+# game/v1/scene43c.rpy:522
+translate russian v1s43c_e5a4c644:
+
+    # u "You dare speak to the king with such-"
+    u "Ты смеешь говорить с королем в таком тоне-"
+
+# game/v1/scene43c.rpy:524
+translate russian v1s43c_803b28e6:
+
+    # u "*gasps*"
+    u "*Задыхается*"
+
+# game/v1/scene43c.rpy:539
+translate russian v1s43c_0da0a74f:
+
+    # u "You! What... *moans* what did you do to me?!"
+    u "Ты! Что... *Стонет* Что ты со мной сделала?!"
+
+# game/v1/scene43c.rpy:549
+translate russian v1s43c_5144e851:
+
+    # u "You sleazy-"
+    u "Ты подлая"
+
+# game/v1/scene43c.rpy:579
+translate russian v1s43c_96f9cf53:
+
+    # u "Not gonna lie, I had way more fun than I thought I would."
+    u "Не буду врать, мне было гораздо веселее, чем я думал."
+
+# game/v1/scene43c.rpy:589
+translate russian v1s43c_18400321:
+
+    # u "Ha... ha... ha... so, are we done?"
+    u "Ха... ха... ха... Итак, мы закончили?"
+
+# game/v1/scene43c.rpy:594
+translate russian v1s43c_14f27581:
+
+    # pe "Yes, sirrrrrr. I need to run, anyway. Don't forget our scene by next week!"
+    pe "Да, сэррррррр. Мне всё равно нужно бежать, не забудь нашу сцену к следующей неделе!"
+
+# game/v1/scene43c.rpy:615
+translate russian v1s43c_6e78e15f:
+
+    # u "Oh... (I didn't even say bye... maybe she was in a rush?)"
+    u "Ох... (Я даже не сказал пока... Может, она торопилась?)"
 

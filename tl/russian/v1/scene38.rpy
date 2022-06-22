@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene38.rpy:17
 translate russian v1s38_408fa180:
@@ -125,4 +126,74 @@ translate russian v1s38_ca208754:
 
     # u "You better."
     u "Тебе лучше."
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene38.rpy:22
+translate russian v1s38_e62a6da2:
+
+    # jen "Oh, hey again."
+    jen "О, снова привет."
+
+# game/v1/scene38.rpy:27
+translate russian v1s38_f31623bb:
+
+    # u "I hung back for a quick phone call. I thought you'd be gone by now."
+    u "Я отошёл, чтобы быстро позвонить, я думал, что ты уже ушла."
+
+# game/v1/scene38.rpy:42
+translate russian v1s38_e8dad41f:
+
+    # jen "Not really, I used to do it all the time growing up. Nothing's happened so far."
+    jen "Не совсем, я постоянно этим занималась в детстве. Пока ничего не случилось."
+
+# game/v1/scene38.rpy:47
+translate russian v1s38_84a2fa32:
+
+    # u "Okay, well, don't say it like that, ha. Hopefully nothing ever happens."
+    u "Ладно, не говори так. Надеюсь, ничего не случится."
+
+# game/v1/scene38.rpy:71
+translate russian v1s38_c74437f2:
+
+    # u "Cool. I don't want you thinking I'm some creep."
+    u "Круто, я не хочу, чтобы ты подумала, что я какой-то урод."
+
+# game/v1/scene38.rpy:94
+translate russian v1s38_67528f93:
+
+    # u "Well maybe if you weren't so cute I wouldn't have to pretend to run into you all the time."
+    u "Ну, может быть, если бы ты не была такой милой, мне бы не пришлось притворяться, что я постоянно с тобой сталкиваюсь."
+
+# game/v1/scene38.rpy:99
+translate russian v1s38_d896912a:
+
+    # jen "Awww. Fine, you can keep stalking me."
+    jen "Оу. Ладно, можешь продолжать преследовать меня."
+
+# game/v1/scene38.rpy:105
+translate russian v1s38_1a6449c3:
+
+    # u "Ha!"
+    u "Ха!"
+
+# game/v1/scene38.rpy:110
+translate russian v1s38_73e6e395:
+
+    # jen "My favorite stalker."
+    jen "Мой любимый преследователь."
+
+# game/v1/scene38.rpy:120
+translate russian v1s38_5658c09e:
+
+    # u "Oh, guess this is where our paths part for the night."
+    u "О, похоже, здесь наши пути меняются на ночь."
+
+# game/v1/scene38.rpy:125
+translate russian v1s38_1e205cc9:
+
+    # jen "Yep. See you soon?"
+    jen "Да. Скоро увидимся?"
 

@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene51.rpy:25
 translate russian v1s51_fdf6b2cb:
@@ -835,4 +836,146 @@ translate russian strings:
     # game/v1/scene51.rpy:630
     old "Well, you were right. The food was to die for. You fucking prick."
     new "Что ж, ты был прав. Еда была просто умопомрачительной. Ты долбаный урод."
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene51.rpy:53
+translate russian v1s51_bedside_table_6995d0eb:
+
+    # u "(Pretty basic bedside table for a woman... wonder how often she uses that thing... let's search somewhere else.)"
+    u "(Довольно простая прикроватная тумбочка для женщины... Интересно, как часто она пользуется ей... Поищем в другом месте.)"
+
+# game/v1/scene51.rpy:106
+translate russian v1s51_desk_drawer_0813f31c:
+
+    # u "(A list of Chloe's passwords... this could probably help Lindsey in some way, but I'm not comfortable with something like that.)"
+    u "(Список паролей Хлои... Возможно, это может как-то помочь Линдси, но мне не по себе от этого.)"
+
+# game/v1/scene51.rpy:150
+translate russian v1s51_closet_a273e5e5:
+
+    # u "(Jackpot! That's $500, baby!)"
+    u "(Джекпот! Это $500, детка!)"
+
+# game/v1/scene51.rpy:152
+translate russian v1s51_closet_81868e32:
+
+    # u "(Jackpot! That's $900, baby!)"
+    u "(Джекпот! Это $900, детка!)"
+
+# game/v1/scene51.rpy:278
+translate russian v1s51_pillow_a9382bc8:
+
+    # u "Hey, man. You don't have a secret camera in your eye, do you?"
+    u "Эй, парень. У тебя ведь нет секретной камеры в глазу?"
+
+# game/v1/scene51.rpy:300
+translate russian v1s51_pillow_9d7d5cd3:
+
+    # u "(Chloe's diary... shit. I wonder what secrets are waiting to be found in here.)"
+    u "(Дневник Хлои... Чёрт. Интересно, какие секреты ждут здесь.)"
+
+# game/v1/scene51.rpy:302
+translate russian v1s51_pillow_129d3375:
+
+    # u "(It's locked, but I'm sure it wouldn't be too hard to open, and Lindsey could find something useful to help her win.)"
+    u "(Он заперт, но я уверен, что открыть его будет несложно, и Линдси сможет найти что-нибудь полезное, что поможет ей победить.)"
+
+# game/v1/scene51.rpy:304
+translate russian v1s51_pillow_76d99f04:
+
+    # u "(But this contains all of Chloe's secrets... should I take it?)"
+    u "(Но здесь содержатся все секреты Хлои... Стоит ли мне брать его?)"
+
+# game/v1/scene51.rpy:322
+translate russian v1s51_pillow_74c34afd:
+
+    # u "(There's going to be some extremely private things in here... it's best if I leave it.)"
+    u "(Здесь хранятся довольно личные вещи... Будет лучше, если я оставлю.)"
+
+# game/v1/scene51.rpy:551
+translate russian v1s51_continue_463fe45a:
+
+    # unknown "Ow, fuck! My toe! *Whines* Damn you, shampoo..."
+    unknown "Ой, блядь! Мой палец! *Хнычет* Чёрт бы тебя побрал, шампунь..."
+
+# game/v1/scene51.rpy:685
+translate russian v1s51Chloe_PhoneContinue_24057a0f:
+
+    # u "*Whispers* Oh shit is right."
+    u "*Шепотом* Ох, дерьмо, это верно."
+
+# game/v1/scene51.rpy:712
+translate russian v1s51Chloe_PhoneContinue_84e77792:
+
+    # li "*Whispers* I'm glad you survived."
+    li "*Шёпотом* Я рада, что ты выжил."
+
+# game/v1/scene51.rpy:733
+translate russian v1s51Chloe_PhoneContinue_1fe05248:
+
+    # li "*Whispers* I'm proud of you."
+    li "*Шёпотом* Я горжусь тобой."
+
+# game/v1/scene51.rpy:754
+translate russian v1s51Chloe_PhoneContinue_1ad9c34d:
+
+    # li "*Whispers* I know, yeah... my campaign is really going to suffer without that money."
+    li "*Шёпотом* Я знаю, да... Моя кампания очень пострадает без этих денег."
+
+# game/v1/scene51.rpy:774
+translate russian v1s51Chloe_PhoneContinue_253b0bab:
+
+    # li "*Whispers* True. That's a great idea, [name]. Thanks for getting this, at least. Really sucks about the money, though."
+    li "*Шёпотом* Правда. Отличная идея, [name]. Спасибо, что хоть это получилось. Хотя с деньгами действительно хреново."
+
+# game/v1/scene51.rpy:781
+translate russian v1s51Chloe_PhoneContinue_ae49f2f9:
+
+    # u "*Whispers* I should really get home now. Getting a little tired."
+    u "*Шёпотом* Мне уже пора домой. Немного устал."
+
+# game/v1/scene51.rpy:805
+translate russian v1s51Chloe_PhoneContinue_15988bd5:
+
+    # u "*Whispers* I don't know what to say. I did my best... I'm sorry."
+    u "*Шёпотом* Я не знаю, что сказать. Я сделал всё, что мог... Мне жаль."
+
+# game/v1/scene51.rpy:817
+translate russian v1s51Chloe_PhoneContinue_ae49f2f9_1:
+
+    # u "*Whispers* I should really get home now. Getting a little tired."
+    u "*Шёпотом* Мне уже пора домой. Немного устал."
+
+# game/v1/scene51.rpy:851
+translate russian v1s51Chloe_PhoneContinue_a80c446e:
+
+    # li "*Whispers* Of course!"
+    li "*Шёпотом* Конечно!"
+
+# game/v1/scene51.rpy:864
+translate russian v1s51Chloe_PhoneContinue_440fb94f:
+
+    # li "*Whispers* What's that... wait, Chloe's... diary?"
+    li "*Шёпотом* Что это... Подожди, дневник Хлои?"
+
+# game/v1/scene51.rpy:869
+translate russian v1s51Chloe_PhoneContinue_0224825d:
+
+    # u "*Whispers* Yeah. You might find something useful there, but it's locked."
+    u "*Шёпотом* Да. Ты можешь найти там что-нибудь полезное, но он заперт."
+
+# game/v1/scene51.rpy:874
+translate russian v1s51Chloe_PhoneContinue_73adc116:
+
+    # li "*Whispers* I'm sure I can get it open. This is crazy!"
+    li "*Шёпотом* Я уверена, что смогу открыть его, это безумие!"
+
+# game/v1/scene51.rpy:889
+translate russian v1s51Chloe_PhoneContinue_bb53a663:
+
+    # u "*Whispers* Anyways, I better get home. I'm getting a little tired after all that action."
+    u "*Шёпотом* В общем, мне пора домой. Я немного устал после всего экшена."
 

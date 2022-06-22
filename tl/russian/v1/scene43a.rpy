@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene43a.rpy:29
 translate russian v1s43a_f881aea7:
@@ -125,4 +126,44 @@ translate russian v1s43a_PhoneContinueEmily_f2fb9662:
 
     # pe "Let's go then."
     pe "Тогда пойдем."
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene43a.rpy:29
+translate russian v1s43a_4c2618d5:
+
+    # u "Oh, and just so you know... you snore super loudly. I'm sure you already knew that, though."
+    u "Ох, и чтобы ты знала... Ты очень громко храпишь. Уверен, ты и так это знаешь."
+
+# game/v1/scene43a.rpy:46
+translate russian v1s43a_3200e1bf:
+
+    # pe "Oh my-"
+    pe "О мой..."
+
+# game/v1/scene43a.rpy:48
+translate russian v1s43a_09eb34a2:
+
+    # pe "Stop! So embarrassing."
+    pe "Стоп! Это так неловко."
+
+# game/v1/scene43a.rpy:68
+translate russian v1s43a_abc4dfab:
+
+    # u "You weren't actually snoring... just kidding."
+    u "На самом деле ты не храпела... Шучу."
+
+# game/v1/scene43a.rpy:131
+translate russian v1s43a_PhoneContinueEmily_dc078773:
+
+    # u "(Glad to see Emily's still up to no good.)"
+    u "(Рад видеть, что Эмили все еще ничего хорошего не замышляет.)"
+
+# game/v1/scene43a.rpy:151
+translate russian v1s43a_PhoneContinueEmily_e365ba85:
+
+    # pe "Let's go, then."
+    pe "Тогда пошли."
 

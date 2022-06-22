@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene24a.rpy:22
 translate russian v1s24a_b5dd415c:
@@ -87,4 +88,14 @@ translate russian strings:
     # game/v1/scene24a.rpy:42
     old "Gummy Fish"
     new "Gummy Fish"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene24a.rpy:140
+translate russian v1s24a_dbce86d5:
+
+    # u "Ha. Later, man."
+    u "Ха. Давай, чувак."
 

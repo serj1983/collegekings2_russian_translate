@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene30b.rpy:17
 translate russian v1s30b_a7785a95:
@@ -303,4 +304,86 @@ translate russian strings:
     # game/v1/scene30b.rpy:347
     old "Teamwork makes the dreamwork! <3 #TheChicksWhoCriedWolves #Vote4ChloeVote4Wolves"
     new "Командная работа делает мечту реальностью! <3 #TheChicksWhoCriedWolves #Vote4ChloeVote4Wolves"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene30b.rpy:41
+translate russian v1s30b_8ef7def7:
+
+    # cl "My posing definitely isn't as good as Aubrey's, though."
+    cl "Хотя моё позирование не такое хорошее, как у Обри."
+
+# game/v1/scene30b.rpy:51
+translate russian v1s30b_a32a3272:
+
+    # cl "I know more about Aubrey than most."
+    cl "Я знаю об Обри больше, чем многие."
+
+# game/v1/scene30b.rpy:71
+translate russian v1s30b_0bebfb0a:
+
+    # cl "Glad you think so. Now..."
+    cl "Рада, что ты так думаешь. Теперь..."
+
+# game/v1/scene30b.rpy:74
+translate russian v1s30b_427f28f7:
+
+    # cl "I'm not sure how these will be perceived, you know? What with us having a fake wolf. But I still think the pictures are really good."
+    cl "Не уверена, как они будут восприняты и всё такое? Учитывая, что у нас есть фальшивый волк, но я все равно думаю, что фотографии очень хорошие."
+
+# game/v1/scene30b.rpy:104
+translate russian v1s30b_8bcdb4cd:
+
+    # cl "Good call. I'm gonna post that one on Kiwii, then."
+    cl "Хорошее решение. Тогда размещу её на Kiwii."
+
+# game/v1/scene30b.rpy:107
+translate russian v1s30b_4854a4a3:
+
+    # cl "I know the entire school is gonna be off the wall about these photos."
+    cl "Я знаю, что вся школа будет вне себя от радости из-за этих фотографий."
+
+# game/v1/scene30b.rpy:137
+translate russian v1s30b_8bcdb4cd_1:
+
+    # cl "Good call. I'm gonna post that one on Kiwii, then."
+    cl "Хорошее решение. Тогда размещу её на Kiwii."
+
+# game/v1/scene30b.rpy:157
+translate russian v1s30b_3b4dcadc:
+
+    # u "Yeah, that's perfect. Standing tall and proud with a short and sweet caption. The main feature is you."
+    u "Да, это идеально. Высокая и гордая, с короткой и милой надписью, и главная - это ты."
+
+# game/v1/scene30b.rpy:162
+translate russian v1s30b_c9f71855:
+
+    # cl "Exactly."
+    cl "Именно."
+
+# game/v1/scene30b.rpy:179
+translate russian v1s30b_aacd3584:
+
+    # u "Well, yeah. Like, something about the Chicks and the Wolves, so it feels like a team effort?"
+    u "Ну, да. Например, что-нибудь про Чикс и Волках, чтобы было ощущение командной работы?"
+
+# game/v1/scene30b.rpy:184
+translate russian v1s30b_36b4367a:
+
+    # cl "I guess that makes sense, considering it's an alliance announcement as well as a good pic for my feed."
+    cl "Думаю, это имеет смысл, учитывая, что это объявление альянса, а также хорошая картинка для моей ленты."
+
+# game/v1/scene30b.rpy:199
+translate russian v1s30b_ad7b006b:
+
+    # u "You're welcome."
+    u "Не за что."
+
+# game/v1/scene30b.rpy:216
+translate russian v1s30b_2f758ea1:
+
+    # cl "Okay!"
+    cl "Хорошо!"
 

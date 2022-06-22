@@ -1,3 +1,4 @@
+# Перевёл: serj1983 (post.serj@gmail.com)
 translate russian strings:
 
     old "Pick"

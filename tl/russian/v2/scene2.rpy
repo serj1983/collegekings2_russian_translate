@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v2/scene2.rpy:23
 translate russian v2s2_61760787:
@@ -451,4 +452,44 @@ translate russian strings:
     # game/v2/scene2.rpy:356
     old "Of course! I'll always be there if there's puppies, haha."
     new "Конечно! Я всегда буду там, если будут щенки, хаха."
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v2/scene2.rpy:186
+translate russian v2s2_88eff7b9:
+
+    # u "It was a bit extreme..."
+    u "Это было немного экстремально..."
+
+# game/v2/scene2.rpy:196
+translate russian v2s2_8db1dfda:
+
+    # u "Night, Cameron."
+    u "Спокойной ночи, Кэмерон."
+
+# game/v2/scene2.rpy:204
+translate russian v2s2_8db1dfda_1:
+
+    # u "Night, Cameron."
+    u "Спокойной ночи, Кэмерон."
+
+# game/v2/scene2.rpy:401
+translate russian v2s2_PhoneContinueAut_74b1820e:
+
+    # u "(\"Dress to impress your ghoulish empress...\")"
+    u "(\"Оденься, чтобы произвести впечатление на свою злую императрицу...\")"
+
+# game/v2/scene2.rpy:404
+translate russian v2s2_PhoneContinueAut_92918464:
+
+    # u "(Maybe Autumn can give me ideas on what Lauren would like, or I can just get her some kind of gift card. She likes books, I think?)"
+    u "(Может быть, Отэм подскажет мне, чего бы захотела Лорен, или я могу просто подарить ей какую-нибудь подарочную карту... Думаю, она любит книги?)"
+
+translate russian strings:
+
+    # game/v2/scene2.rpy:179
+    old "Shrug it off"
+    new "Отмахнись от этого"
 

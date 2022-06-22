@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene30.rpy:27
 translate russian v1s30_32a51c82:
@@ -179,4 +180,62 @@ translate russian strings:
     # game/v1/scene30.rpy:129
     old "Take Picture"
     new "Сфотографировать"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene30.rpy:42
+translate russian v1s30_38f0dd52:
+
+    # cl "Not too bad... although, this thing was definitely NOT cheap."
+    cl "Не так уж плохо... хотя, эта штука определенно НЕ была дешевой."
+
+# game/v1/scene30.rpy:68
+translate russian v1s30_fe81a821:
+
+    # u "This better be a nice-ass toy..."
+    u "Надеюсь, это будет классная игрушка..."
+
+# game/v1/scene30.rpy:73
+translate russian v1s30_5199e85e:
+
+    # cl "It is pretty fancy!"
+    cl "Это очень модно!"
+
+# game/v1/scene30.rpy:90
+translate russian v1s30_f23f0960:
+
+    # u "Or did Chris tell you that..."
+    u "Или Крис сказал тебе, что..."
+
+# game/v1/scene30.rpy:97
+translate russian v1s30_2ca6e59f:
+
+    # cl "As long as they are supporting me, I'm happy."
+    cl "Пока они поддерживают меня, Я счастлива."
+
+# game/v1/scene30.rpy:122
+translate russian v1s30_6148c723:
+
+    # cl "Yes... please."
+    cl "Да... Пожалуйста."
+
+# game/v1/scene30.rpy:164
+translate russian v1s30_3a10513a:
+
+    # u "Ha, no. You look great, as always."
+    u "Ха, нет. Ты выглядишь великолепно, как всегда."
+
+# game/v1/scene30.rpy:190
+translate russian v1s30_37942a4a:
+
+    # cl "Okay, we can leave the stuff here because I think some of the Wolves wanted to... play with it."
+    cl "Ладно, мы можем оставить вещи здесь, потому что я думаю, что некоторые из Волков хотели... поиграть с ними."
+
+# game/v1/scene30.rpy:195
+translate russian v1s30_9fd5fe5a:
+
+    # u "Ha, what?"
+    u "Ха, что?"
 

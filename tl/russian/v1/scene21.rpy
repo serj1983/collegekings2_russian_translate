@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene21.rpy:12
 translate russian v1s21_5112e439:
@@ -335,4 +336,80 @@ translate russian strings:
     # game/v1/scene21.rpy:244
     old "Pull back"
     new "Оттолкнуть"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene21.rpy:63
+translate russian v1s21_b3a27465:
+
+    # cl "A lot of people tend to avoid hanging out with me because of rumors or preconceived notions that float around. But..."
+    cl "Многие люди избегают общения со мной из-за слухов и предвзятых мнений, которые ходят вокруг. Но..."
+
+# game/v1/scene21.rpy:97
+translate russian v1s21_b79289b9:
+
+    # u "I adore seeing you happy, and excited..."
+    u "Я обожаю видеть тебя счастливой и взволнованной..."
+
+# game/v1/scene21.rpy:102
+translate russian v1s21_5128434c:
+
+    # cl "Aw."
+    cl "Оу."
+
+# game/v1/scene21.rpy:112
+translate russian v1s21_a34ad692:
+
+    # cl "You're the most amazing person I've ever met. You know that?"
+    cl "Ты самый удивительный человек, которого я когда-либо встречала. Ты знаешь это?"
+
+# game/v1/scene21.rpy:117
+translate russian v1s21_d954b4cb:
+
+    # u "I do now, I suppose..."
+    u "Теперь, наверное, да..."
+
+# game/v1/scene21.rpy:132
+translate russian v1s21_747c0564:
+
+    # cl "With the campaign being so competitive, I'm gonna have a lot less time than what we're used to."
+    cl "Поскольку кампания настолько конкурентная, у меня будет гораздо меньше времени, к чему мы привыкли."
+
+# game/v1/scene21.rpy:134
+translate russian v1s21_c11cb2f7:
+
+    # cl "We'll have less time together, you know?"
+    cl "У нас будет меньше времени вместе, понимаешь?"
+
+# game/v1/scene21.rpy:142
+translate russian v1s21_b0741626:
+
+    # u "That does kinda suck. I guess we'll have to make the most of the time we have."
+    u "Это действительно отстой. Думаю, нам придется максимально использовать то время, которое у нас есть."
+
+# game/v1/scene21.rpy:161
+translate russian v1s21_0302c1b5:
+
+    # cl "For what it's worth, I have some time right now..."
+    cl "Если уж на то пошло, у меня сейчас есть немного времени..."
+
+# game/v1/scene21.rpy:171
+translate russian v1s21_c80dda08:
+
+    # cl "Yeah... I think I may have a nice idea to kick off our campaign with as well."
+    cl "Да... Думаю, у меня тоже есть хорошая идея для начала нашей кампании."
+
+# game/v1/scene21.rpy:225
+translate russian v1s21_6ec7e8ae:
+
+    # cl "Ha."
+    cl "Ха."
+
+# game/v1/scene21.rpy:230
+translate russian v1s21_26e7ae07:
+
+    # cl "We can call it that, if you want."
+    cl "Мы можем назвать это так, если хочешь."
 

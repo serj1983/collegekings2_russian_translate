@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene43.rpy:27
 translate russian v1s43_4d0eb332:
@@ -70,7 +71,7 @@ translate russian v1s43_PhoneContinueEmily_f2b59b77:
 translate russian v1s43_PhoneContinueEmily_efc4f511:
 
     # u "What? *Chuckles* What do you-"
-    u "Что? *Хихикает Что ты..."
+    u "Что? *Хихикает* Что ты..."
 
 # game/v1/scene43.rpy:118
 translate russian v1s43_PhoneContinueEmily_bdc66e6f:
@@ -101,4 +102,38 @@ translate russian v1s43_PhoneContinueEmily_fb5c9743:
 
     # pe "Thank you."
     pe "Благодарю."
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene43.rpy:58
+translate russian v1s43_PhoneContinueEmily_dc078773:
+
+    # u "(Glad to see Emily's still up to no good.)"
+    u "(Рад видеть, что Эмили всё ещё ничего хорошего не замышляет.)"
+
+# game/v1/scene43.rpy:99
+translate russian v1s43_PhoneContinueEmily_dc2c1e9f:
+
+    # pe "Sit down already, weirdo."
+    pe "Садись уже, чудик."
+
+# game/v1/scene43.rpy:117
+translate russian v1s43_PhoneContinueEmily_711d81c8:
+
+    # u "What? What do you-"
+    u "Что? Что ты..."
+
+# game/v1/scene43.rpy:132
+translate russian v1s43_PhoneContinueEmily_dd1302a2:
+
+    # pe "Sit down already, would you? People are starting to stare..."
+    pe "Сядь уже. А то люди уже начинают пялиться..."
+
+# game/v1/scene43.rpy:142
+translate russian v1s43_PhoneContinueEmily_cbb87f53:
+
+    # u "Good one."
+    u "Хорошо."
 

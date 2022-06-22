@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene44.rpy:32
 translate russian v1s44_990bd683:
@@ -379,4 +380,104 @@ translate russian strings:
     # game/v1/scene44.rpy:380
     old "Meh, not my type"
     new "Нет, не в моём вкусе"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene44.rpy:57
+translate russian v1s44_316d0daf:
+
+    # el "She's already president, so she's experienced. Again, logical choice."
+    el "Она уже была президентом, так что у неё есть опыт. Опять же, логичный выбор."
+
+# game/v1/scene44.rpy:62
+translate russian v1s44_860579d7:
+
+    # u "Is logic the only reason why you vote for things?"
+    u "Логика - это единственная причина, по которой ты голосуешь за те или иные вещи?"
+
+# game/v1/scene44.rpy:72
+translate russian v1s44_3662f636:
+
+    # u "New opportunities... personal feelings... other stuff, you know?"
+    u "Новые возможности... Личные чувства... другие вещи, понимаешь?"
+
+# game/v1/scene44.rpy:82
+translate russian v1s44_437382fd:
+
+    # u "Ha, okay, sure."
+    u "Ха, хорошо, конечно."
+
+# game/v1/scene44.rpy:147
+translate russian v1s44_f66e7457:
+
+    # el "I'm used to Chloe being president, you know?"
+    el "Я привык, что Хлоя - президент, понимаешь?"
+
+# game/v1/scene44.rpy:152
+translate russian v1s44_933d66dd:
+
+    # u "Yeah, I think everyone is. That's why most people are voting for Lindsey."
+    u "Да, думаю, все так думают. Вот почему большинство людей голосуют за Линдси, ха."
+
+# game/v1/scene44.rpy:350
+translate russian v1s44_15ef5a49:
+
+    # imre "Sorry, bro! My bad, my bad..."
+    imre "Прости, бро! Виноват, виноват..."
+
+# game/v1/scene44.rpy:357
+translate russian v1s44_a4e326b7:
+
+    # u "Nah, dude. Try his mom."
+    u "Не, чувак. Это его мама."
+
+# game/v1/scene44.rpy:362
+translate russian v1s44_ffc6c189:
+
+    # imre "His mom?! You're fucking kidding-"
+    imre "Его мама?! Ты, блядь, шутишь-"
+
+# game/v1/scene44.rpy:369
+translate russian v1s44_7b41eee7:
+
+    # u "Ohhhh yeah. Her."
+    u "Оооо, да. Это так."
+
+# game/v1/scene44.rpy:383
+translate russian v1s44_9fa86d66:
+
+    # u "She was pretty fucking hot."
+    u "Она была чертовски сексуальна."
+
+# game/v1/scene44.rpy:406
+translate russian v1s44_48c99239:
+
+    # u "Why?"
+    u "Почему?"
+
+# game/v1/scene44.rpy:411
+translate russian v1s44_f497ac11:
+
+    # imre "'Cause I'm gonna have a new mommy here soon."
+    imre "Потому что скоро у меня здесь будет новая мамочка."
+
+# game/v1/scene44.rpy:416
+translate russian v1s44_7abf0c12:
+
+    # u "Ha! Oh my God, no. Imre. You're killing me."
+    u "Ха! О Боже, нет. Имре. Ты убиваешь меня."
+
+# game/v1/scene44.rpy:423
+translate russian v1s44_9b2bc0c3:
+
+    # imre "Mommy milkers or bust, bro. In fact, make that \"AND bust.\" I'm not ashamed, it's the truth."
+    imre "Мамочкины дойки или бюст, бро. На самом деле, пусть будет \"и бюст\". Мне не стыдно, это правда."
+
+# game/v1/scene44.rpy:428
+translate russian v1s44_b62243d0:
+
+    # u "Okay, bud. Then tell me another truth, what did you send-"
+    u "Хорошо, дружище. Тогда скажи мне другую правду, что ты послал..."
 

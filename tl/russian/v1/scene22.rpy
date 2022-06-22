@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene22.rpy:27
 translate russian v1s22_2dbeaba7:
@@ -401,4 +402,92 @@ translate russian v1s22_end_bfa1bce3:
 
     # u "(Always thinking of others, isn't she?)"
     u "(Всегда думает о других, не так ли?)"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene22.rpy:56
+translate russian v1s22_666a6754:
+
+    # u "Wait... Lindsey, did you... you know...?"
+    u "Подожди... Линдси, ты... ты знаешь...?"
+
+# game/v1/scene22.rpy:66
+translate russian v1s22_60216b29:
+
+    # li "God, no!"
+    li "Боже, нет!"
+
+# game/v1/scene22.rpy:86
+translate russian v1s22_830fa1a4:
+
+    # li "I just helped them with their applications, but Mr. Rose dealt with all the admission stuff."
+    li "Я просто помогала им подавать документы, а мистер Роуз занимался вопросами, связанными с поступлением."
+
+# game/v1/scene22.rpy:157
+translate russian v1s22_49ea807b:
+
+    # li "Before we start, I wanna run you through some things, because this isn't as easy as I originally thought."
+    li "Прежде чем мы начнем, я хочу рассказать тебе о некоторых вещах, потому что это не так просто, как я думала вначале."
+
+# game/v1/scene22.rpy:179
+translate russian v1s22_3912727d:
+
+    # li "Right, so with that in mind, now just have a look at my board and choose what you think is best."
+    li "Итак, теперь посмотри на доску и выбери то, что считаешь лучшим."
+
+# game/v1/scene22.rpy:181
+translate russian v1s22_e98d329d:
+
+    # li "Both plans work, and I'm comfortable with either one so... Whatever you decide is what I'll go with."
+    li "Оба плана сработают, и меня устраивает любой вариант, так что... Что бы ты ни решил, я соглашусь."
+
+# game/v1/scene22.rpy:253
+translate russian v1s22_sell_car_632c7e62:
+
+    # li "Ha, good choice."
+    li "Ха, хороший выбор."
+
+# game/v1/scene22.rpy:277
+translate russian v1s22_sell_car_ede65bcb:
+
+    # li "I was wondering if that second plan was a little too much, ha. Now I have the answer."
+    li "Я думала, не слишком ли много для второго плана, ха. Теперь у меня есть ответ."
+
+# game/v1/scene22.rpy:282
+translate russian v1s22_sell_car_a740c36e:
+
+    # u "I mean, you gotta do whatcha gotta do to win, right?"
+    u "Я имею в виду, ты должна делать то, что должна делать, чтобы победить, верно?"
+
+# game/v1/scene22.rpy:300
+translate russian v1s22_steal_d85cfe12:
+
+    # li "Ah! This is going to be insane..."
+    li "Ах! Это будет безумием..."
+
+# game/v1/scene22.rpy:305
+translate russian v1s22_steal_e7fa7ae2:
+
+    # u "It's a really smart plan. I just hope we can pull it off."
+    u "Это действительно умный план. Я просто надеюсь, что мы сможем его осуществить."
+
+# game/v1/scene22.rpy:335
+translate russian v1s22_steal_6ac672ca:
+
+    # li "Me too. This amount of money could help us tremendously with the rest of the ideas I have for the campaign. Even though it's a hard pill to swallow..."
+    li "Я тоже. Эта сумма денег могла бы очень помочь нам с остальными идеями, которые я придумала для кампании. Даже если это тяжелая пилюля, которую нужно проглотить..."
+
+# game/v1/scene22.rpy:394
+translate russian v1s22_end_c6f6a0c9:
+
+    # u "Right... either that, you spy on me, or you're a psychic."
+    u "Точно... либо ты шпионишь за мной, либо ты экстрасенс."
+
+# game/v1/scene22.rpy:406
+translate russian v1s22_end_e90950cf:
+
+    # li "I may have permission to use this place, but I don't like being in their way when they're trying to get their job done."
+    li "Возможно, у меня есть разрешение на использование этого места, но мне не нравится быть на их пути, когда они пытаются выполнить свою работу."
 

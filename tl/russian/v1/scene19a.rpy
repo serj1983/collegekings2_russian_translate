@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene19a.rpy:12
 translate russian v1s19a_a58bdbfc:
@@ -309,4 +310,92 @@ translate russian strings:
     # game/v1/scene19a.rpy:173
     old "Make an excuse"
     new "Найти оправдание"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene19a.rpy:49
+translate russian v1s19a_c247dcec:
+
+    # cl "You can't blame all of the issues on the leader, give up on them, throw them away, and think that'll change things."
+    cl "Нельзя сваливать все проблемы на лидера, отказываясь и отбрасывая их, думая, что это что-то изменит."
+
+# game/v1/scene19a.rpy:74
+translate russian v1s19a_b6ae06a4:
+
+    # cl "I already know what you're gonna say."
+    cl "Я уже знаю, что ты собираешься сказать."
+
+# game/v1/scene19a.rpy:80
+translate russian v1s19a_e93046dd:
+
+    # cl "And I think because I don't get involved as much as others, we have this unspoken, respectful relationship, you know?"
+    cl "И я думаю, что поскольку я не так сильно вовлечена в процесс, как другие, у нас есть эти негласные соответствующие отношения, понимаешь?"
+
+# game/v1/scene19a.rpy:85
+translate russian v1s19a_e26437cb:
+
+    # u "Yeah, makes sense. The Wolves are very much about loyalty."
+    u "Да, в этом есть смысл. Волки очень любят верность."
+
+# game/v1/scene19a.rpy:106
+translate russian v1s19a_7eb85fb2:
+
+    # u "Ha, no... I'm just teasing."
+    u "Ха, нет... Я просто дразню."
+
+# game/v1/scene19a.rpy:111
+translate russian v1s19a_f529f3a6:
+
+    # cl "Okay good. I was nervous for a second..."
+    cl "Хорошо. А то я на секунду занервничала..."
+
+# game/v1/scene19a.rpy:116
+translate russian v1s19a_30dc0154:
+
+    # u "No, go ahead. What's the favor?"
+    u "Нет, давай. Что за услуга?"
+
+# game/v1/scene19a.rpy:126
+translate russian v1s19a_1b703228:
+
+    # u "Is he not already? I told you, Imre said he was rooting for you. He was screaming it to the world, in fact."
+    u "Разве он не уже? Я же говорил тебе, что Имре сказал, что болеет за тебя. Он кричал об этом на весь мир, на самом деле."
+
+# game/v1/scene19a.rpy:131
+translate russian v1s19a_a35de9f4:
+
+    # cl "Rooting for and actively supporting are two very different things."
+    cl "Болеть за и активно поддерживать - две совершенно разные вещи."
+
+# game/v1/scene19a.rpy:136
+translate russian v1s19a_7d364c65:
+
+    # cl "I need the Wolves' help on a grand scale if I want to beat Lindsey."
+    cl "Мне нужна огромная помощь Волков, если я хочу победить Линдси."
+
+# game/v1/scene19a.rpy:141
+translate russian v1s19a_cfb2cd80:
+
+    # cl "And honestly, when it comes to Imre, he's had a crush on me for as long as I can remember."
+    cl "И, честно говоря, если говорить об Имре, он был влюблен в меня столько, сколько я себя помню."
+
+# game/v1/scene19a.rpy:147
+translate russian v1s19a_dd59b8ee:
+
+    # u "That's amazing."
+    u "Это удивительно."
+
+# game/v1/scene19a.rpy:206
+translate russian v1s19a_79cc894a:
+
+    # cl "So, yeah, I'll set everything up and will let you know when it's ready."
+    cl "Так что, да, я всё подготовлю и дам тебе знать, когда всё будет готово."
+
+# game/v1/scene19a.rpy:252
+translate russian v1s19a_8dedfa2c:
+
+    # u "Ha, just like in the movies."
+    u "Ха, прямо как в кино."
 

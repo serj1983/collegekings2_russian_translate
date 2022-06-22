@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene20.rpy:12
 translate russian v1s20_d86c3ea0:
@@ -613,4 +614,218 @@ translate russian strings:
     # game/v1/scene20.rpy:441
     old "It was nice catching up"
     new "Было приятно пообщаться."
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene20.rpy:42
+translate russian v1s20_64fa8ed7:
+
+    # aut "I'm not kidnapping you, I swear."
+    aut "Я не похищаю тебя, клянусь."
+
+# game/v1/scene20.rpy:47
+translate russian v1s20_ef004f4a:
+
+    # u "That's what a kidnapper would say."
+    u "Так сказал бы похититель."
+
+# game/v1/scene20.rpy:52
+translate russian v1s20_7f2eeff8:
+
+    # aut "Not a very good one."
+    aut "Не очень удачный."
+
+# game/v1/scene20.rpy:57
+translate russian v1s20_717aa8af:
+
+    # u "Ha. So, what are you handing out candy for?"
+    u "Ха. Так для чего ты раздаёшь конфеты?"
+
+# game/v1/scene20.rpy:82
+translate russian v1s20_bbee72b0:
+
+    # aut "We didn't, really. We just had some major renovations and they also renamed the place."
+    aut "На самом деле, нет. Мы просто сделали капитальный ремонт и переименовали помещение."
+
+# game/v1/scene20.rpy:98
+translate russian v1s20_69d24fa3:
+
+    # aut "Oh, wow, I can't believe I didn't ask! How was the trip?"
+    aut "О, ничего себе, не могу поверить, что не спросила! Как прошла поездка?"
+
+# game/v1/scene20.rpy:127
+translate russian v1s20_ea85db15:
+
+    # aut "Lauren definitely enjoyed it. She told me about some of the things she did with Amber, and... I can tell she had a big influence on her."
+    aut "Лорен определенно понравилось. Она рассказала мне о некоторых вещах, которые она делала с Эмбер, и... Я могу сказать, что она оказала на неё большое влияние."
+
+# game/v1/scene20.rpy:138
+translate russian v1s20_568c4fc8:
+
+    # aut "She's definitely loosened up since you guys returned and I'm sure Amber had much to do with that."
+    aut "Она определенно раскрепостилась после вашего возвращения, и я уверена, что в этом есть заслуга Эмбер."
+
+# game/v1/scene20.rpy:143
+translate russian v1s20_dc5cf9fa:
+
+    # u "Yeah, they seem to get along surprisingly well."
+    u "Да, кажется, они удивительно хорошо ладят."
+
+# game/v1/scene20.rpy:149
+translate russian v1s20_e84075e9:
+
+    # aut "The whole breakup between you guys seemed to get her to open up."
+    aut "Разрыв отношений между вами, похоже, заставил её открыться."
+
+# game/v1/scene20.rpy:154
+translate russian v1s20_3164d393:
+
+    # aut "She didn't go into detail about what happened but she said you guys are still friends, so I'm not that concerned."
+    aut "Она не вдавалась в подробности о том, что произошло, но сказала, что вы все ещё друзья, так что я не так уж обеспокоена."
+
+# game/v1/scene20.rpy:159
+translate russian v1s20_01c60b99:
+
+    # u "It definitely wasn't a good day. Not proud of some of the decisions I made. But we're still there for each other."
+    u "Это был не лучший день. Я не горжусь некоторыми решениями, которые я принял. Но мы все еще рядом друг с другом."
+
+# game/v1/scene20.rpy:164
+translate russian v1s20_11031497:
+
+    # aut "I'm glad to hear that. My sister's first real boyfriend wasn't a complete dickhead... Phew!"
+    aut "Я рада это слышать. Первый настоящий парень моей сестры не был полным мудаком... Фух!"
+
+# game/v1/scene20.rpy:242
+translate russian v1s20_c71c28a2:
+
+    # aut "Keep at it."
+    aut "Продолжай в том же духе."
+
+# game/v1/scene20.rpy:248
+translate russian v1s20_ae23bf95:
+
+    # u "Amber is a wild card. We all definitely have fun with her, there's no doubt about that."
+    u "Эмбер - это дикая карта. Нам всем с ней определенно весело, в этом нет никаких сомнений."
+
+# game/v1/scene20.rpy:260
+translate russian v1s20_129a46ae:
+
+    # aut "I definitely get what you're saying."
+    aut "Я понимаю, о чём ты говоришь."
+
+# game/v1/scene20.rpy:270
+translate russian v1s20_71f5d3ee:
+
+    # aut "I'm glad to hear that. But I don't worry much about her anymore. She's become very independent since the start of the semester."
+    aut "Я рада это слышать. Но я больше не беспокоюсь о ней. С начала семестра она стала очень самостоятельной."
+
+# game/v1/scene20.rpy:281
+translate russian v1s20_b3d992b1:
+
+    # aut "So... We're setting up for the re-opening next week, don't forget!"
+    aut "Итак... Мы готовимся к повторному открытию на следующей неделе, не забудь!"
+
+# game/v1/scene20.rpy:291
+translate russian v1s20_5294f634:
+
+    # aut "It is now, ha..."
+    aut "Сейчас, ха..."
+
+# game/v1/scene20.rpy:306
+translate russian v1s20_5320059b:
+
+    # u "How? You look nothing alike and your personalities are black and white."
+    u "Как? Вы совершенно не похожи, и ваши личности черные и белые."
+
+# game/v1/scene20.rpy:321
+translate russian v1s20_26ba3ee1:
+
+    # aut "It's so weird but, you remind me of my childhood friend, Hero."
+    aut "Это так странно, но ты напоминаешь мне моего друга детства, Героя."
+
+# game/v1/scene20.rpy:331
+translate russian v1s20_9cf0ac44:
+
+    # aut "Yes! We also thought it was a unique name, at least at first. Cool, huh?"
+    aut "Да! Мы тоже думали, что это уникальное имя, по крайней мере, сначала. Круто, да?"
+
+# game/v1/scene20.rpy:336
+translate russian v1s20_b7a1f56f:
+
+    # u "Hell yeah it's cool. No one else is named that."
+    u "Да, черт возьми, это круто. Никого больше так не зовут."
+
+# game/v1/scene20.rpy:341
+translate russian v1s20_80be7c83:
+
+    # aut "His parents used to say they knew he'd never be mistaken for someone else and that's why they liked the name."
+    aut "Его родители говорили, что знают, что его никогда не перепутают с кем-то другим, и поэтому им нравится это имя."
+
+# game/v1/scene20.rpy:351
+translate russian v1s20_731abf72:
+
+    # aut "Which obviously crushed their spirits. But magically, one day his mother was pregnant and nine months later came their hero."
+    aut "Что, конечно же, сломило их дух. Но, как по волшебству, в один прекрасный день его мать забеременела, и через девять месяцев появился их герой."
+
+# game/v1/scene20.rpy:366
+translate russian v1s20_e21eb58c:
+
+    # u "You know, I don't think I've ever seen you hang out with anyone."
+    u "Знаешь, мне кажется, я никогда не видел, чтобы ты с кем-то общалась."
+
+# game/v1/scene20.rpy:391
+translate russian v1s20_8da77cb8:
+
+    # aut "Well, I had a friend. The one I just told you about: Hero."
+    aut "Ну, у меня был друг. Тот, о котором я тебе только что рассказала: Герой."
+
+# game/v1/scene20.rpy:401
+translate russian v1s20_1211b891:
+
+    # aut "Oh, fuck no. Excuse my language. But, he and I had a pretty bad falling out."
+    aut "Ох, блядь, нет. Извини за мой язык. Но мы с ним очень сильно разругались."
+
+# game/v1/scene20.rpy:406
+translate russian v1s20_246b6137:
+
+    # u "Over what? Wait, sorry. If you don't want to talk about this..."
+    u "Над чем? Подожди, извини. Если ты не хочешь говорить об этом..."
+
+# game/v1/scene20.rpy:416
+translate russian v1s20_dad8a917:
+
+    # u "I understand completely."
+    u "Я полностью тебя понимаю."
+
+# game/v1/scene20.rpy:426
+translate russian v1s20_4239041f:
+
+    # aut "You know, it's kind of odd that you and I haven't gotten to know each other very well yet."
+    aut "Знаешь, как-то странно, что мы с тобой ещё не очень хорошо узнали друг друга."
+
+# game/v1/scene20.rpy:444
+translate russian v1s20_5c1936a4:
+
+    # u "We should just hang out more."
+    u "Нам нужно больше общаться."
+
+# game/v1/scene20.rpy:469
+translate russian v1s20_bb2de1cc:
+
+    # aut "So, I might shoot you a text on Friday and see if you're free? To help at the shelter?"
+    aut "Так что я напишу тебе сообщение в пятницу, что бы узнать, будешь ли ты свободен? Чтобы помочь в приюте."
+
+# game/v1/scene20.rpy:479
+translate russian v1s20_9984f343:
+
+    # aut "Ha, sounds like you need some more friends too."
+    aut "Ха, похоже, тебе тоже нужны новые друзья."
+
+# game/v1/scene20.rpy:508
+translate russian v1s20_ee01f9b9:
+
+    # u "Thanks."
+    u "Спасибо."
 

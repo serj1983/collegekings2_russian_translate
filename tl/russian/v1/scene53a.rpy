@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene53a.rpy:37
 translate russian v1s53a_6f9a273e:
@@ -249,4 +250,128 @@ translate russian strings:
     # game/v1/scene53a.rpy:230
     old "Pull out"
     new "Вынуть"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene53a.rpy:44
+translate russian v1s53a_3f4744ba:
+
+    # u "*Moans* Don't stop sucking..."
+    u "*Стонет* Не переставай сосать..."
+
+# game/v1/scene53a.rpy:58
+translate russian v1s53a_11b89567:
+
+    # u "I love that wet, warm mouth of yours."
+    u "Я люблю твой влажный, т`плый рот."
+
+# game/v1/scene53a.rpy:86
+translate russian v1s53a_a12da560:
+
+    # sa "Ohhh my God, you're so big..."
+    sa "О, Боже мой, он такой большой..."
+
+# game/v1/scene53a.rpy:88
+translate russian v1s53a_e1fdf5f4:
+
+    # sa "Nnnngh, yes, stretch me..."
+    sa "Ннннгх, да, растяни меня..."
+
+# game/v1/scene53a.rpy:95
+translate russian v1s53a_657444eb:
+
+    # u "Up and down, baby, just like that..."
+    u "Вверх и вниз, детка, вот так..."
+
+# game/v1/scene53a.rpy:97
+translate russian v1s53a_1e623d1b:
+
+    # sa "You fill me so good..."
+    sa "Ты так хорошо наполняешь меня..."
+
+# game/v1/scene53a.rpy:116
+translate russian v1s53a_ddea16f8:
+
+    # u "*Panting* (She really does like to have a good time.)"
+    u "*Тяжело дыша* (Она действительно любит хорошо проводить время.)"
+
+# game/v1/scene53a.rpy:122
+translate russian v1s53a_05d323d7:
+
+    # sa "Give me more..."
+    sa "Дай мне еще..."
+
+# game/v1/scene53a.rpy:127
+translate russian v1s53a_9b809535:
+
+    # u "(Barely holding on here...)"
+    u "(Едва сдерживаюсь...)"
+
+# game/v1/scene53a.rpy:133
+translate russian v1s53a_f7b634cb:
+
+    # sa "Cum inside of me."
+    sa "Кончи в меня."
+
+# game/v1/scene53a.rpy:144
+translate russian v1s53a_11641c24:
+
+    # sa "Fuck me, already! *Moans* I'm so close, daddy. Please..."
+    sa "Трахни меня уже! *Стонет* Я так близко, папочка. Пожалуйста..."
+
+# game/v1/scene53a.rpy:175
+translate russian v1s53a_185d8291:
+
+    # sa "*Panting* I'm... I... fuck me... harder!"
+    sa "*Тяжело дыша* Да... Я- я... Трахай меня!"
+
+# game/v1/scene53a.rpy:177
+translate russian v1s53a_cd6689e2:
+
+    # u "I'm gonna cum, baby!"
+    u "Я сейчас кончу, детка!"
+
+# game/v1/scene53a.rpy:184
+translate russian v1s53a_5d13c915:
+
+    # sa "Yeah? Do it, c'mon, fill my pussy, [name]..."
+    sa "Да? Сделай это, давай, наполни мою киску, [name]..."
+
+# game/v1/scene53a.rpy:211
+translate russian v1s53a_c0b27306:
+
+    # u "*Moans* Fuuuuuuck!"
+    u "*Стонет* Бляяя!"
+
+# game/v1/scene53a.rpy:216
+translate russian v1s53a_d3bd6828:
+
+    # sa "*Gasps* It's so warm... yes, baby... I love it..."
+    sa "*Вздохи* Здесь так тепло... да, малыш... Я люблю это..."
+
+# game/v1/scene53a.rpy:221
+translate russian v1s53a_e9307ecf:
+
+    # u "(Oh, shit... I actually came inside of her? What was I thinking?!)"
+    u "(Ох, дерьмо... Я действительно кончил в неё? О чём я только думал?!)"
+
+# game/v1/scene53a.rpy:248
+translate russian v1s53a_8b4aabeb:
+
+    # u "You okay?"
+    u "Ты в порядке?"
+
+# game/v1/scene53a.rpy:278
+translate russian v1s53a_da2bd4f9:
+
+    # u "(Holy... I don't even know how to reply to that.)"
+    u "(Святое... Я даже не знаю, как на это ответить.)"
+
+# game/v1/scene53a.rpy:285
+translate russian v1s53a_9e5ca9ba:
+
+    # u "(Guess I don't have to. Let's get to bed.)"
+    u "(Думаю, мне и не нужно этого делать. Давай ложиться спать.)"
 

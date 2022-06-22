@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene31b.rpy:27
 translate russian v1s31b_da0c033f:
@@ -1199,4 +1200,176 @@ translate russian strings:
     # game/v1/scene31b.rpy:1317
     old "Apologize"
     new "Извиниться"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene31b.rpy:47
+translate russian v1s31b_9464b42f:
+
+    # u "Yeah, this idea is kinda risky. You said it'd be easy with a little alcohol in him, right?"
+    u "Да, идея довольно рискованная. Ты же сказала, что с небольшим количеством алкоголя это будёт легко?"
+
+# game/v1/scene31b.rpy:52
+translate russian v1s31b_c618dbf9:
+
+    # cl "Well, yeah... it won't be hard at all."
+    cl "Ну, да... Это будет совсем не сложно."
+
+# game/v1/scene31b.rpy:82
+translate russian v1s31b_440bf87a:
+
+    # u "Umm... you will be on your own... I'm not flirting with him, ha."
+    u "Ммм... Ты будешь сама по себе... Я не флиртую с ним, ха."
+
+# game/v1/scene31b.rpy:105
+translate russian v1s31b_9a2ae209:
+
+    # u "With your ex."
+    u "С твоим бывшим."
+
+# game/v1/scene31b.rpy:147
+translate russian v1s31b_d9eaafbc:
+
+    # cl "Or, I guess... we know each other too well."
+    cl "Или, наверное... Мы слишком хорошо знаем друг друга."
+
+# game/v1/scene31b.rpy:152
+translate russian v1s31b_3df81b16:
+
+    # cl "If you were there, he'd know something was up. No matter how drunk he is."
+    cl "Если бы ты был там, он бы понял, что что-то не так. Неважно, насколько он пьян."
+
+# game/v1/scene31b.rpy:253
+translate russian v1s31b_b39385ba:
+
+    # au "Ha! I'm not one of your little frat boys that you can intimidate, Gray."
+    au "Ха! Я не одна из твоих маленьких мальчиков из братства, которых ты можешь запугать, Грэй."
+
+# game/v1/scene31b.rpy:265
+translate russian v1s31b_9f1fe9c5:
+
+    # cl "Uh, hey, guys."
+    cl "Привет, ребята."
+
+# game/v1/scene31b.rpy:301
+translate russian v1s31b_502a5874:
+
+    # cl "Where's Cameron?"
+    cl "Где Кэмерон?"
+
+# game/v1/scene31b.rpy:311
+translate russian v1s31b_093b11fb:
+
+    # u "Heh."
+    u "Хех."
+
+# game/v1/scene31b.rpy:363
+translate russian v1s31b_daaf619c:
+
+    # cl "If you say so!"
+    cl "Как скажешь!"
+
+# game/v1/scene31b.rpy:557
+translate russian v1s31b_a64e381b:
+
+    # cl "Well..."
+    cl "Ну..."
+
+# game/v1/scene31b.rpy:562
+translate russian v1s31b_a6f5e4c0:
+
+    # gr "I have, and boy let me tell you..."
+    gr "Да, и позволь мне сказать тебе..."
+
+# game/v1/scene31b.rpy:564
+translate russian v1s31b_0f5f4733:
+
+    # gr "Those glasses make you wanna do something... *Whispers* out of pocket."
+    gr "Эти очки вызывают желание сделать что-то... *Шёпотом* не по карману."
+
+# game/v1/scene31b.rpy:601
+translate russian v1s31b_f1494827:
+
+    # au "Bahaha!"
+    au "Бахаха!"
+
+# game/v1/scene31b.rpy:611
+translate russian v1s31b_5d2b1a1f:
+
+    # au "You!"
+    au "Ты!"
+
+# game/v1/scene31b.rpy:616
+translate russian v1s31b_e3f9ddcc:
+
+    # au "You obviously have no friends, so when people try to just hang out with you, you think there's a secret motive."
+    au "У тебя, очевидно, нет друзей, поэтому, когда люди пытаются просто потусоваться с тобой, ты думаешь, что есть тайный мотив."
+
+# game/v1/scene31b.rpy:621
+translate russian v1s31b_5a3c631a:
+
+    # au "And honestly... even if there is, why can't you just enjoy the company? You definitely need some."
+    au "И честно говоря... Даже если есть, почему ты не можешь просто наслаждаться компанией? Тебе определенно нужно немного."
+
+# game/v1/scene31b.rpy:626
+translate russian v1s31b_d6fe69e2:
+
+    # cl "She's got a point..."
+    cl "Она права..."
+
+# game/v1/scene31b.rpy:647
+translate russian v1s31b_1c69f241:
+
+    # cl "That's something I remember clearly. One time Gray popped off on Mr. Lee and got manhandled real quick."
+    cl "Это я помню отчетливо. Однажды Грэй набросился на мистера Ли, и он с ним быстро расправился."
+
+# game/v1/scene31b.rpy:652
+translate russian v1s31b_ad232234:
+
+    # au "Ah! I remember his girly scream like it was yesterday."
+    au "Ах! Я помню его девчачий крик, как будто это было вчера."
+
+# game/v1/scene31b.rpy:677
+translate russian v1s31b_0f3fdf45:
+
+    # cl "I didn't even notice I called you that, sorry. Force of habit I guess, since I'm looking at you."
+    cl "Я даже не заметила, что назвала тебя так, извини. Наверное, по привычке, раз уж я на тебя смотрю."
+
+# game/v1/scene31b.rpy:688
+translate russian v1s31b_d50134c7:
+
+    # gr "A lot of things were a force of habit when you looked at me. Are you trying to start those again, too?"
+    gr "Многое было по привычке, когда ты посмотрела на меня, ха-ха. Ты тоже пытаешься начать всё сначала?"
+
+# game/v1/scene31b.rpy:731
+translate russian v1s31b_bf686a16:
+
+    # gr "You wouldn't believe me if I told you."
+    gr "Ты не поверишь мне, если я скажу тебе."
+
+# game/v1/scene31b.rpy:793
+translate russian v1s31b_7b93cd6b:
+
+    # cl "Glad you guys are hitting it off, but, umm..."
+    cl "Рада, что у вас всё наладилось, но..."
+
+# game/v1/scene31b.rpy:924
+translate russian v1s31b_56d6ebce:
+
+    # au "Sorry... honestly, it's probably torture for her."
+    au "Прости... Честно говоря, для неё это, наверное, пытка."
+
+# game/v1/scene31b.rpy:935
+translate russian v1s31b_de58b201:
+
+    # au "Or not... who knows."
+    au "Или нет... Кто знает."
+
+# game/v1/scene31b.rpy:1264
+translate russian v1s31b_33943194:
+
+    # gr "You're a fucking joke."
+    gr "Ты гребаный шутник."
 

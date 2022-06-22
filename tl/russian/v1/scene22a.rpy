@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene22a.rpy:12
 translate russian v1s22a_95984d5c:
@@ -143,4 +144,50 @@ translate russian v1s22a_901e6178:
 
     # u "(Let's see who this is...)"
     u "(Давай посмотрим, кто это...)"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene22a.rpy:12
+translate russian v1s22a_de5328bd:
+
+    # li "So... People invested in this vote have been treating me like the Vice President of the United States."
+    li "Итак ... люди, вложившие средства в это голосование, относились ко мне как к вице-президенту Соединенных Штатов."
+
+# game/v1/scene22a.rpy:17
+translate russian v1s22a_bb6d45fb:
+
+    # u "I mean, that's a small subset of the college. Just our friends. But what makes you say that?"
+    u "Я имею в виду, это небольшая часть колледжа. Только наши друзья. Но что заставляет тебя так говорить?"
+
+# game/v1/scene22a.rpy:22
+translate russian v1s22a_c68910c4:
+
+    # li "They either respect me, love and pray that I succeed, or completely despise me and won't even look in my direction."
+    li "Они либо уважают меня, любят и молятся, чтобы я преуспела, либо полностью презирают меня и даже не смотрят в мою сторону."
+
+# game/v1/scene22a.rpy:27
+translate russian v1s22a_5302cf24:
+
+    # u "Welcome to the world of fame, baby!"
+    u "Добро пожаловать в мир славы, детка!"
+
+# game/v1/scene22a.rpy:49
+translate russian v1s22a_f439558b:
+
+    # u "Let's hope so, yeah. And remember, it's just a small subset who care about this stuff. Regardless, these next few weeks are gonna be rough for you."
+    u "Будем надеяться, что да. И помни, это лишь небольшая часть тех, кого волнуют такие вещи. Независимо от этого, следующие несколько недель будут тяжелыми для тебя."
+
+# game/v1/scene22a.rpy:59
+translate russian v1s22a_af9b579c:
+
+    # u "You know I'm here for you, though."
+    u "Ты же знаешь, что я рядом с тобой."
+
+# game/v1/scene22a.rpy:73
+translate russian v1s22a_782bc16b:
+
+    # li "Your phone is buzzing, I think."
+    li "Кажется, твой телефон гудит."
 

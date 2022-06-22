@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene25a.rpy:18
 translate russian v1s25a_a4897759:
@@ -209,4 +210,80 @@ translate russian v1s25a_a93e3e38:
 
     # am "Oh, yeahhhh... I'm so stupid, I forgot what I just said to you. *Laughs* Goodnight."
     am "О, даааа... Я такая глупая, что забыла, что только что тебе сказала. *Смеётся* Спокойной ночи."
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene25a.rpy:18
+translate russian v1s25a_5005c27a:
+
+    # u "*Drowsy* I'm so high... right now... ha..."
+    u "*Сонно* Я так кайфую... прямо сейчас... ха..."
+
+# game/v1/scene25a.rpy:23
+translate russian v1s25a_a25752ae:
+
+    # am "*Drowsy* Me too. *Moans*"
+    am "*Сонно* Я тоже. *Стоны*"
+
+# game/v1/scene25a.rpy:36
+translate russian v1s25a_8cd21c53:
+
+    # am "Wow! Okay, big guy..."
+    am "Вау! Ладно, здоровяк..."
+
+# game/v1/scene25a.rpy:66
+translate russian v1s25a_43db0418:
+
+    # u "What do you want, then?"
+    u "Чего же ты хочешь?"
+
+# game/v1/scene25a.rpy:76
+translate russian v1s25a_9faf1f44:
+
+    # am "Fuck me, [name]. C'mon... *Moans* fuck me!"
+    am "Трахни меня, [name]. Давай... *Стонет* Трахни меня!"
+
+# game/v1/scene25a.rpy:138
+translate russian v1s25a_ec750764:
+
+    # u "You're amazing, Amber... Holy-"
+    u "Ты удивительная, Эмбер... Боже..."
+
+# game/v1/scene25a.rpy:165
+translate russian v1s25a_fc683d88:
+
+    # am "*Panting* Why ride a horse when you can ride a cowboy?"
+    am "*Тяжело дышит* Зачем ездить на лошади, если можно ездить на ковбое?"
+
+# game/v1/scene25a.rpy:175
+translate russian v1s25a_8d8c664b:
+
+    # u "*Moans* That's right... ride 'em, cowgirl..."
+    u "*Стоны* Правильно... оседлай меня, ковбойша..."
+
+# game/v1/scene25a.rpy:234
+translate russian v1s25a_add58a8b:
+
+    # u "I'm cumming, Amb-"
+    u "Я кончаю, Эмб..."
+
+# game/v1/scene25a.rpy:240
+translate russian v1s25a_e39c33d7:
+
+    # u "AHH! Aaaahhhh."
+    u "АХХ! Аааааххх."
+
+# game/v1/scene25a.rpy:279
+translate russian v1s25a_9d273399:
+
+    # am "*Panting* After a night like that, you have to stay here. We're high as fuck!"
+    am "*Тяжело дыша* После такой ночи ты должен остаться здесь. Мы всё ещё под кайфом!"
+
+# game/v1/scene25a.rpy:304
+translate russian v1s25a_03066285:
+
+    # am "Oh, yeahhhh... I'm so stupid, I forgot what I just said to you. Goodnight."
+    am "О, даааа... Я такая глупая, что забыла, что только что тебе сказала. Спокойной ночи."
 

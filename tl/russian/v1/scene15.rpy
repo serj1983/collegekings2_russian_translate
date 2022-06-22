@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene15.rpy:22
 translate russian v1s15_bb349984:
@@ -153,4 +154,44 @@ translate russian strings:
     # game/v1/scene15.rpy:112
     old "It's idiotic"
     new "Это идиотизм"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene15.rpy:22
+translate russian v1s15_407da7a0:
+
+    # u "(Holy shit... this is serious!)"
+    u "(Срань господня... это серьёзно!)."
+
+# game/v1/scene15.rpy:102
+translate russian v1s15_88ef1056:
+
+    # u "Wait, that's how you're deciding?"
+    u "Подожди, так вот как ты решил?"
+
+# game/v1/scene15.rpy:115
+translate russian v1s15_9994f43b:
+
+    # u "Ha! Not gonna lie, that seems like a genius way to decide things."
+    u "Ха! Не буду врать, это кажется гениальным способом решать проблемы."
+
+# game/v1/scene15.rpy:128
+translate russian v1s15_33cd31ac:
+
+    # u "Not gonna lie, that is a ridiculously stupid, hilarious way to make decisions."
+    u "Не буду врать, это нелепый и смешной способ принятия решений."
+
+# game/v1/scene15.rpy:143
+translate russian v1s15_d16a604d:
+
+    # imre "Oh, 'cause that part is true. Chris and Chloe have always been tight, and they get along well as presidents."
+    imre "О, потому что это правда. Крис и Хлоя всегда были близки, и они хорошо ладят, как президенты."
+
+# game/v1/scene15.rpy:160
+translate russian v1s15_860f072f:
+
+    # u "(That man is a character. Looks like there's way more than one reason he's on Chloe's side.)"
+    u "(Этот человек с характером. Похоже, есть много причин, почему он на стороне Хлои.)"
 

@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene26.rpy:19
 translate russian v1s26_de8b05ad:
@@ -429,4 +430,158 @@ translate russian strings:
     # game/v1/scene26.rpy:126
     old "I'm not hungry"
     new "Я не голоден"
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene26.rpy:36
+translate russian v1s26_0c97772b:
+
+    # u "Wait, what?!"
+    u "Подожди, что?!"
+
+# game/v1/scene26.rpy:41
+translate russian v1s26_0e21de2f:
+
+    # li "That's the same reaction I had when I saw it in real time."
+    li "Такая же реакция была и у меня, когда я увидела это в реальном времени."
+
+# game/v1/scene26.rpy:61
+translate russian v1s26_0068bf9c:
+
+    # li "Exactly. That's why this was such a good idea."
+    li "Имеено. Вот почему это была такая хорошая идея."
+
+# game/v1/scene26.rpy:76
+translate russian v1s26_0dd01e91:
+
+    # li "You can buy some cake!"
+    li "Ты можешь купить торт!"
+
+# game/v1/scene26.rpy:86
+translate russian v1s26_96dbf561:
+
+    # li "Ha, just kidding. Everything is running smoothly thanks to Lauren and her amazing baking skills."
+    li "Хаха, шучу. Всё идет гладко благодаря Лорен и её удивительным навыкам выпечки."
+
+# game/v1/scene26.rpy:116
+translate russian v1s26_eaee6d5e:
+
+    # u "Scared the shit out of me!"
+    u "Напугала меня до смерти!"
+
+# game/v1/scene26.rpy:121
+translate russian v1s26_d889db04:
+
+    # la "My bad. Let me make it up to you by giving you some cake."
+    la "Виновата. Позволь мне загладить свою вину, угостив тебя тортиком."
+
+# game/v1/scene26.rpy:131
+translate russian v1s26_3c700eb9:
+
+    # u "Wow, that's... Thanks."
+    u "Вау... Спасибо."
+
+# game/v1/scene26.rpy:147
+translate russian v1s26_820f8001:
+
+    # u "Oh, no thanks. I'm not hungry."
+    u "О, нет, спасибо. Я не голоден."
+
+# game/v1/scene26.rpy:162
+translate russian v1s26_0a881e3b:
+
+    # li "Ha!"
+    li "Ха!"
+
+# game/v1/scene26.rpy:167
+translate russian v1s26_5abff57b:
+
+    # la "Oh, [name]."
+    la "Ох, [name]."
+
+# game/v1/scene26.rpy:197
+translate russian v1s26_c1d5adb5:
+
+    # li "I was waiting for you to notice."
+    li "Я ждала, что ты заметишь."
+
+# game/v1/scene26.rpy:202
+translate russian v1s26_e8379e8c:
+
+    # u "I didn't think you took what I said all that seriously or even remembered."
+    u "Я не думал, что ты восприняла мои слова настолько серьезно."
+
+# game/v1/scene26.rpy:212
+translate russian v1s26_3ce8e266:
+
+    # li "Of course I did! You're the reason I decided to run in the first place."
+    li "Конечно, да! Именно из-за тебя я решила баллотироваться в первую очередь."
+
+# game/v1/scene26.rpy:217
+translate russian v1s26_040d1121:
+
+    # la "Now all we need to know is, if you win, do [name] and I get a special position?"
+    la "Теперь нам нужно знать, если ты выиграешь, получим ли мы с [name] особое положение?"
+
+# game/v1/scene26.rpy:222
+translate russian v1s26_8eaefe3c:
+
+    # li "Ha, I don't know about [name], but if you join the Chicks I can help you, Lauren."
+    li "Ха, я не знаю насчёт [name], но если ты присоединишься к Чикс, я смогу помочь тебе, Лорен."
+
+# game/v1/scene26.rpy:244
+translate russian v1s26_5c0e2f82:
+
+    # li "Well, here you go, [name]. Thanks again for everything so far."
+    li "Ну, вот, пожалуйста, [name]. Ещё раз спасибо за всё, что было до сих пор."
+
+# game/v1/scene26.rpy:254
+translate russian v1s26_4ad12afa:
+
+    # u "I will. I'm gonna sit back and relax for a minute while I enjoy this."
+    u "Так и сделаю. Сяду и расслаблюсь на минутку, пока наслаждаюсь."
+
+# game/v1/scene26.rpy:259
+translate russian v1s26_7c6d6d8b:
+
+    # li "Sounds good. See you in a bit."
+    li "Хорошо. Увидимся через некоторое время."
+
+# game/v1/scene26.rpy:331
+translate russian v1s26_c93d398b:
+
+    # am "You're not hurt or anything, are you?"
+    am "Ты ведь не ранен или что-то в этом роде?"
+
+# game/v1/scene26.rpy:336
+translate russian v1s26_47426978:
+
+    # u "What? No."
+    u "Что? Нет."
+
+# game/v1/scene26.rpy:355
+translate russian v1s26_22644918:
+
+    # am "I don't remember much from last night. Did we have fun?"
+    am "Я мало что помню о прошлой ночи. Нам было весело?"
+
+# game/v1/scene26.rpy:365
+translate russian v1s26_f2c1a72c:
+
+    # am "Well, I'm glad. Sorry for panicking, talk to you later?"
+    am "Хорошо, я рада. Извини за панику, поговорим позже?"
+
+# game/v1/scene26.rpy:401
+translate russian v1s26_89e69a95:
+
+    # li "I made $450..."
+    li "Я заработала 450$..."
+
+# game/v1/scene26.rpy:421
+translate russian v1s26_8c2c0a2d:
+
+    # li "And I'm so thankful. You and Lauren are the best."
+    li "Я так благодарна. Вы с Лорен лучшие."
 

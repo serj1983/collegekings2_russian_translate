@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2022-05-11 23:19
+﻿# Перевёл: serj1983 (post.serj@gmail.com)
+# TODO: Translation updated at 2022-05-11 23:19
 
 # game/v1/scene40.rpy:11
 translate russian v1s40_8d28b6b6:
@@ -22,7 +23,7 @@ translate russian v1s40_fcfea652:
 translate russian v1s40_32de94ae:
 
     # la "Sorry, babe... I'm sure I just woke you but, I just had the most amazing experience of my life!"
-    la "Прости, малыш... Я уверена, что только что разбудил тебя, но у меня только что был самый удивительный опыт в моей жизни!"
+    la "Прости, малыш... Я уверена, что только что разбудила тебя, но у меня только что был самый удивительный опыт в моей жизни!"
 
 # game/v1/scene40.rpy:35
 translate russian v1s40_b898a6eb:
@@ -182,5 +183,87 @@ translate russian strings:
 
     # game/v1/scene40.rpy:82
     old "Yeah I'm tired"
+    new "Да, я устал."
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v0.9.1s
+# TODO: Translation updated at 2022-06-08 16:11
+
+# game/v1/scene40.rpy:30
+translate russian v1s40_10197f9c:
+
+    # la "Sorry, babe... I'm sure I woke you but, I just had the most amazing experience!"
+    la "Прости, малыш... Я уверена, что только что разбудила тебя, но у меня только что был самый удивительный опыт в моей жизни!"
+
+# game/v1/scene40.rpy:40
+translate russian v1s40_804d26fd:
+
+    # la "Don't laugh, but..."
+    la "Не смейтесь, но..."
+
+# game/v1/scene40.rpy:53
+translate russian v1s40_67f14363:
+
+    # la "Honestly, I... I just want to keep going."
+    la "Честно говоря, Я... Я просто хочу продолжать."
+
+# game/v1/scene40.rpy:58
+translate russian v1s40_5d61fd8f:
+
+    # u "Wow. Well, I'm happy for you. You survived all that porn without going for it even sooner?"
+    u "Вау, рад за тебя. Ты никогда раньше не трогала себя?"
+
+# game/v1/scene40.rpy:63
+translate russian v1s40_c354dace:
+
+    # la "Believe it or not, yes. This was my first time."
+    la "Хочешь верь, хочешь нет, но нет. Это был мой первый раз."
+
+# game/v1/scene40.rpy:70
+translate russian v1s40_d8cd7bed:
+
+    # u "(\"There's a first time for everything?\" The fuck am I on about? I need sleep...)"
+    u "(\"Всё бывает в первый раз\", блядь, о чем это я? Мне нужно поспать...)"
+
+# game/v1/scene40.rpy:75
+translate russian v1s40_29d47e08:
+
+    # la "Yeah, I guess there is..."
+    la "Да, наверное..."
+
+# game/v1/scene40.rpy:94
+translate russian v1s40_139d1c63:
+
+    # la "Ha, go to sleep. I'll talk to you tomorrow, handsome."
+    la "Хаха, иди спи. Поговорим завтра, красавчик."
+
+# game/v1/scene40.rpy:104
+translate russian v1s40_57623e41:
+
+    # la "Yup! Goodnight. I'll keep my late night adventures to myself for now."
+    la "Ага! Спокойной ночи. Я пока оставлю свои поздние ночные приключения при себе."
+
+# game/v1/scene40.rpy:134
+translate russian v1s40_c21263a4:
+
+    # u "Good to hear. Most importantly, what did you wanna call and tell me?"
+    u "Приятно слышать. Самое главное, что ты захотела позвонить и рассказать мне?"
+
+# game/v1/scene40.rpy:144
+translate russian v1s40_6f9b0f23:
+
+    # u "I'm always thinking about you."
+    u "Я всегда думаю о тебе."
+
+# game/v1/scene40.rpy:154
+translate russian v1s40_d610591b:
+
+    # u "You will. Goodnight, babe."
+    u "Обязательно. Спокойной ночи, детка."
+
+translate russian strings:
+
+    # game/v1/scene40.rpy:82
+    old "Yeah, I'm tired"
     new "Да, я устал."
 
