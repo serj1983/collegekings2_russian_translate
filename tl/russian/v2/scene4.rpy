@@ -2443,3 +2443,37 @@ translate russian v2s4_dog_9bd30be3:
     # u "Yeah, you deserve a break at the very least."
     u "Да, ты заслуживаешь перерыва, по крайней мере."
 
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v1.0.1s
+# TODO: Translation updated at 2022-06-28 14:25
+
+# game/v2/scene4.rpy:1068
+translate russian v2s4_dog_3d7a9fc7:
+
+    # u "I can see why you're President of the Deer."
+    u "Я понимаю, почему ты президент Ланей."
+
+# game/v2/scene4.rpy:1489
+translate russian v2s4_dog_2a108909:
+
+    # aut "You said it yourself, [name]. Being President is stressful."
+    aut "Ты сам это сказал, [name]. Быть президентом - это стресс."
+
+# game/v2/scene4.rpy:1494
+translate russian v2s4_dog_3ddb8600:
+
+    # u "Ahhh... so, the key to being the perfect President is marijuana?"
+    u "Аааа... значит, ключ к тому, чтобы быть идеальным президентом, - это марихуана?"
+
+# game/v2/scene4.rpy:1572
+translate russian v2s4_dog_2a108909_1:
+
+    # aut "You said it yourself, [name]. Being President is stressful."
+    aut "Ты сам это сказал, [name]. Быть президентом - это стресс."
+
+# game/v2/scene4.rpy:1577
+translate russian v2s4_dog_3ddb8600_1:
+
+    # u "Ahhh... so, the key to being the perfect President is marijuana?"
+    u "Аааа... значит, ключ к тому, чтобы быть идеальным президентом, - это марихуана?"
+

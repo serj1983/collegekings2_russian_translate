@@ -694,3 +694,14 @@ translate russian v1_start_bacbb66e:
 
     # u "Exactly. So go enjoy yourself while you figure out what you wanna do."
     u "Точно. Так что иди и наслаждайся, пока не решишь, что ты хочешь делать."
+
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v1.0.1s
+# TODO: Translation updated at 2022-06-28 14:25
+
+# game/v1/scene1.rpy:108
+translate russian v1_start_42018225:
+
+    # lee "Right, well, I need to be on my way! It's essential that I attend Charli's meeting with the Dean."
+    lee "Так, пора идти! Мне необходимо присутствовать на встрече Чарли с деканом."
+

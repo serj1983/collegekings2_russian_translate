@@ -747,3 +747,13 @@ translate russian v1s31a_63314d47:
     # u "You do that."
     u "Ты сделаешь это."
 
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v1.0.1s
+# TODO: Translation updated at 2022-06-28 14:25
+
+# game/v1/scene31a.rpy:423
+translate russian v1s31a_cf595508:
+
+    # u "Tell everyone Chloe is the hotter chick and that the hottest chick should be the Chicks' President."
+    u "Скажи всем, что Хлоя - самая горячая цыпочка, и что самая горячая цыпочка должна быть президентом Чикс."
+

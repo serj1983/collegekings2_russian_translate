@@ -151,3 +151,161 @@ translate russian strings:
     old "Skipping"
     new "Пропускать"
 
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v1.0.1s
+# TODO: Translation updated at 2022-06-28 14:25
+
+translate russian strings:
+
+    # game/screens.rpy:565
+    old "Version [config.version!t]\n"
+    new "Версия [config.version!t]\n"
+
+    # game/screens.rpy:571
+    old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
+    new "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
+
+    # game/screens.rpy:658
+    old "PAGE {}"
+    new "СТРАНИЦА {}"
+
+    # game/screens.rpy:658
+    old "AUTOMATIC SAVES"
+    new "АВТОСОХРАНЕНИЯ"
+
+    # game/screens.rpy:658
+    old "QUICK SAVES"
+    new "БЫСТРЫЕ СОХРАНЕНИЯ"
+
+    # game/screens.rpy:1127
+    old "Keyboard"
+    new "Клавиатура"
+
+    # game/screens.rpy:1128
+    old "Mouse"
+    new "Мышь"
+
+    # game/screens.rpy:1144
+    old "Enter"
+    new "Ввод"
+
+    # game/screens.rpy:1145
+    old "Advances dialogue and activates the interface."
+    new "Продвигает диалог и активирует интерфейс."
+
+    # game/screens.rpy:1148
+    old "Space"
+    new "Пробел"
+
+    # game/screens.rpy:1149
+    old "Advances dialogue without selecting choices."
+    new "Продвижение диалога без выбора вариантов."
+
+    # game/screens.rpy:1152
+    old "Arrow Keys"
+    new "Клавиши со стрелками"
+
+    # game/screens.rpy:1153
+    old "Navigate the interface."
+    new "Навигация по интерфейсу."
+
+    # game/screens.rpy:1156
+    old "Escape"
+    new "Выход"
+
+    # game/screens.rpy:1157
+    old "Accesses the game menu."
+    new "Доступ к меню игры."
+
+    # game/screens.rpy:1160
+    old "Ctrl"
+    new "Контрол"
+
+    # game/screens.rpy:1161
+    old "Skips dialogue while held down."
+    new "Пропускает диалог при удержании кнопки."
+
+    # game/screens.rpy:1164
+    old "Tab"
+    new "Таб"
+
+    # game/screens.rpy:1165
+    old "Toggles dialogue skipping."
+    new "Переключает пропуск диалогов."
+
+    # game/screens.rpy:1168
+    old "Page Up"
+    new "Страница Вверх"
+
+    # game/screens.rpy:1169
+    old "Rolls back to earlier dialogue."
+    new "Возврат к предыдущему диалогу."
+
+    # game/screens.rpy:1172
+    old "Page Down"
+    new "Страница Вниз"
+
+    # game/screens.rpy:1173
+    old "Rolls forward to later dialogue."
+    new "Возврат к следующему диалогу."
+
+    # game/screens.rpy:1177
+    old "Hides the user interface."
+    new "Скрывает пользовательский интерфейс."
+
+    # game/screens.rpy:1181
+    old "Takes a screenshot."
+    new "Сделать снимок экрана."
+
+    # game/screens.rpy:1185
+    old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
+    new "Переключает вспомогательную функцию {a=https://www.renpy.org/l/voicing}самоозвучивание{/a}."
+
+    # game/screens.rpy:1189
+    old "Opens the accessibility menu."
+    new "Открывает меню специальных возможностей."
+
+    # game/screens.rpy:1195
+    old "Left Click"
+    new "Left Click"
+
+    # game/screens.rpy:1199
+    old "Middle Click"
+    new "Middle Click"
+
+    # game/screens.rpy:1203
+    old "Right Click"
+    new "Right Click"
+
+    # game/screens.rpy:1207
+    old "Mouse Wheel Up\nClick Rollback Side"
+    new "Mouse Wheel Up\nClick Rollback Side"
+
+    # game/screens.rpy:1211
+    old "Mouse Wheel Down"
+    new "Колесико Мыши Вниз"
+
+    # game/screens.rpy:1218
+    old "Right Trigger\nA/Bottom Button"
+    new "Right Trigger\nA/Bottom Button"
+
+    # game/screens.rpy:1222
+    old "Left Trigger\nLeft Shoulder"
+    new "Left Trigger\nLeft Shoulder"
+
+    # game/screens.rpy:1226
+    old "Right Shoulder"
+    new "Right Shoulder"
+
+    # game/screens.rpy:1231
+    old "D-Pad, Sticks"
+    new "D-Pad, Стики"
+
+    # game/screens.rpy:1235
+    old "Start, Guide"
+    new "Начало, Руководство"
+
+    # game/screens.rpy:1239
+    old "Y/Top Button"
+    new ""
+

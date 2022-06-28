@@ -1177,3 +1177,12 @@ translate russian v1s23_c63e6790:
     # u "I'm gonna figure out who's blowing my phone up. I'll talk to you real soon, Chris."
     u "Я собираюсь посмотреть, кто названивает на мой телефон. Я очень скоро свяжусь с тобой, Крис."
 
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v1.0.1s
+# TODO: Translation updated at 2022-06-28 14:25
+
+# game/v1/scene23.rpy:295
+translate russian v1s23_6796d345:
+
+    # cl "In one of the shots, Chris and I will pose together with the caption #presidentialStatus."
+    cl "На одном из снимков мы с Крисом будем позировать вместе с подписью #presidentialStatus."

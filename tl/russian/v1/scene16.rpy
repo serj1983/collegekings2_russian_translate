@@ -495,3 +495,13 @@ translate russian v1s16_dd724701:
     # u "(Oh well. Time for class.)"
     u "(Ну что ж. Пора на занятия.)"
 
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v1.0.1s
+# TODO: Translation updated at 2022-06-28 14:25
+
+# game/v1/scene16.rpy:159
+translate russian v1s16_d6818f12:
+
+    # cl "*Whispering* Plus, the President always needs an assistant, and if it's my job to, you know, take care of you, while also running the sorority..."
+    cl "*Шёпотом* Плюс, президенту всегда нужен помощник, и если это моя работа, знаешь, заботиться о тебе, одновременно управляя женским обществом..."
+

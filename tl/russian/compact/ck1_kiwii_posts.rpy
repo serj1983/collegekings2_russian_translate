@@ -419,3 +419,17 @@ translate russian strings:
     old "OMG! You look just like me! <3"
     new "ОМГ! Ты выглядишь точь-в-точь как я! <3"
 
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v1.0.1s
+# TODO: Translation updated at 2022-06-28 14:25
+
+translate russian strings:
+
+    # game/compact/ck1_kiwii_posts.rpy:60
+    old "Who's ready?!"
+    new "Кто готов?!"
+
+    # game/compact/ck1_kiwii_posts.rpy:81
+    old "Where my APES at?"
+    new "Где мои ПРИМАТЫ?"
+

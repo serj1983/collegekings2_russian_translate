@@ -179,3 +179,61 @@ translate russian v1s19_continue_9dff9282:
     # cl "Ewww, that sounds so weird coming from you."
     cl "Фуууу, это звучит так странно от тебя."
 
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v1.0.1s
+# TODO: Translation updated at 2022-06-28 14:25
+
+# game/v1/scene19.rpy:173
+translate russian v1s19_continue_f2cb0ea2:
+
+    # u "So, uh... Before we wrap up I had something I wanted to ask you."
+    u "Итак... Прежде чем мы закончим, я хотел бы спросить тебя кое о чем."
+
+# game/v1/scene19.rpy:178
+translate russian v1s19_continue_30a30927:
+
+    # cl "Just ask, [name], we've got stuff to do."
+    cl "Просто спроси, [name], у нас есть чем заняться."
+
+# game/v1/scene19.rpy:183
+translate russian v1s19_continue_67140742:
+
+    # u "Riley and I ran into Aubrey earlier, and she was super upset."
+    u "Мы с Райли встретили Обри ранее, и она была очень расстроена."
+
+# game/v1/scene19.rpy:188
+translate russian v1s19_continue_10c0579b:
+
+    # cl "Ugh, I told her we'd handle it. Everything's fine, the school just makes a big fucking deal if you don't get forms in on time."
+    cl "Я сказала ей, что мы с этим разберемся. Всё в порядке, просто школа устраивает большой скандал, если ты не сдаёшь формы вовремя."
+
+# game/v1/scene19.rpy:193
+translate russian v1s19_continue_b97af3cb:
+
+    # u "But Aubrey said-"
+    u "Но Обри сказала..."
+
+# game/v1/scene19.rpy:198
+translate russian v1s19_continue_2fe919fc:
+
+    # cl "Just trust me when I say I know what I'm doing, okay?"
+    cl "Просто поверь мне, когда я говорю, что знаю, что делаю, хорошо?"
+
+# game/v1/scene19.rpy:203
+translate russian v1s19_continue_4de3101e:
+
+    # u "Okay... fair enough."
+    u "Ладно... справедливо."
+
+# game/v1/scene19.rpy:208
+translate russian v1s19_continue_e65cd18e:
+
+    # cl "But thanks for caring about Aubrey, she's probably just exhausted."
+    cl "Но спасибо за заботу об Обри, она, наверное, просто устала."
+
+# game/v1/scene19.rpy:210
+translate russian v1s19_continue_b98e7096:
+
+    # cl "Now let's get out there and win, okay?"
+    cl "А теперь давай выйдем и победим, хорошо?"
+

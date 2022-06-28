@@ -215,3 +215,13 @@ translate russian v1s13_cdd8c6ba:
     # u "(Jet lag recovery begins in five... four... three... two...)"
     u "(Восстановление после полёта начинается через пять... четыре... три... два...)"
 
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v1.0.1s
+# TODO: Translation updated at 2022-06-28 14:25
+
+# game/v1/scene13.rpy:87
+translate russian v1s13_68f8388e:
+
+    # u "Yeah, man. Whatever you say. But a President is still the boss."
+    u "Да, мужик. Как скажешь. Но Президент по-прежнему остаётся боссом."
+

@@ -2009,3 +2009,13 @@ translate russian v1s36_nsfwSkipLabel1_e9edbbe5:
     # u "Wow. What a fuckin' night."
     u "Вау. Что за охренительная ночь."
 
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v1.0.1s
+# TODO: Translation updated at 2022-06-28 14:25
+
+# game/v1/scene36.rpy:116
+translate russian v1s36_e3f23844:
+
+    # u "Yeah. Chloe, who is the current President, and Lindsey are running against each other."
+    u "Да. Хлоя, нынешний президент, и Линдси баллотируются друг против друга."
+

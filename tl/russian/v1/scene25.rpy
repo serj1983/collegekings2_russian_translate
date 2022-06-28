@@ -1407,3 +1407,13 @@ translate russian v1s25_nsfwSkipLabel1_831dd538:
     # u "Okay... I can do that..."
     u "Хорошо... Я могу это сделать..."
 
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v1.0.1s
+# TODO: Translation updated at 2022-06-28 14:25
+
+# game/v1/scene25.rpy:145
+translate russian v1s25_8240a24a:
+
+    # am "I laugh my ass off every time I see one of her victims. Especially the ones I've set up..."
+    am "Я смеюсь до упаду каждый раз, когда вижу одну из её жертв. Особенно те, которые я установила..."
+

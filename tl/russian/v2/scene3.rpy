@@ -329,3 +329,49 @@ translate russian v2s3_15a36259:
     # u "This is what we get for joining the Apes."
     u "Вот что получаешь за присоединение к Приматам."
 
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v1.0.1s
+# TODO: Translation updated at 2022-06-28 14:25
+
+# game/v2/scene3.rpy:72
+translate russian v2s3_fa1e7f6d:
+
+    # ry "What?! Seriously?!"
+    ry "Что?! Серьезно?!"
+
+# game/v2/scene3.rpy:84
+translate russian v2s3_0c8a05c5:
+
+    # de "And also a crime. You're lucky Ms. Moralez doesn't want to press charges."
+    de "А также преступление. Вам повезло, что мисс Моралез не хочет выдвигать обвинения."
+
+# game/v2/scene3.rpy:94
+translate russian v2s3_4525a913:
+
+    # u "(He's doing his best to sound sincere. And to spread the blame...)"
+    u "(Он изо всех сил старается казаться искренним. И перекладывает вину...)"
+
+# game/v2/scene3.rpy:99
+translate russian v2s3_57a6886c:
+
+    # de "You think this is just about the Apes? This kind of behavior reflects badly on the whole college."
+    de "Ты думаешь, это только из-за Приматов? Такое поведение плохо отражается на всём колледже."
+
+# game/v2/scene3.rpy:199
+translate russian v2s3_21d0a402:
+
+    # de "If I have to speak to you all about something like this again I promise the consequences will be serious."
+    de "Если мне снова придется говорить со всеми вами о чём-нибудь подобном, я обещаю, что последствия будут серьезными."
+
+# game/v2/scene3.rpy:209
+translate russian v2s3_b4742dcd:
+
+    # gr "What a bitch. Our reputation is exactly where it needs to be!"
+    gr "Что за сука. Наша репутация находится там, где она должна быть!"
+
+# game/v2/scene3.rpy:239
+translate russian v2s3_b95413d4:
+
+    # u "I guess this is what we get for joining the Apes, huh, buddy?"
+    u "Полагаю, это то, что мы получаем за присоединение к Приматам, да, приятель?"
+

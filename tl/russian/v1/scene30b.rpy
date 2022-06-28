@@ -387,3 +387,27 @@ translate russian v1s30b_2f758ea1:
     # cl "Okay!"
     cl "Хорошо!"
 
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v1.0.1s
+# TODO: Translation updated at 2022-06-28 14:25
+
+# game/v1/scene30b.rpy:147
+translate russian v1s30b_ec541876:
+
+    # cl "Well, I'll definitely include \"#presidentialStatus\". Then something about voting for me."
+    cl "Что ж, я обязательно включу \"#presidentialStatus\". Потом что-нибудь о голосовании за меня."
+
+translate russian strings:
+
+    # game/v1/scene30b.rpy:263
+    old "What's a Chick without her Wolf? <3 #presidentialStatus #Vote4ChloeVote4Wolves"
+    new "Что за Чикс без своего волка? <3 #presidentialStatus #Vote4ChloeVote4Wolves"
+
+    # game/v1/scene30b.rpy:287
+    old "I'd like to officially announce The Chicks' partnership with The Wolves! <3 #presidentialStatus #Vote4ChloeVote4Wolves"
+    new "Я хочу официально объявить о партнёрстве Чикс с Волками! <3 #presidentialStatus #Vote4ChloeVote4Wolves"
+
+    # game/v1/scene30b.rpy:335
+    old "Teamwork makes the dreamwork! <3 #presidentialStatus #Vote4ChloeVote4Wolves"
+    new "Командная работа делает мечту реальностью! <3 #presidentialStatus #Vote4ChloeVote4Wolves"
+

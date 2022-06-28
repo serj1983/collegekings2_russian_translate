@@ -1167,3 +1167,25 @@ translate russian v1s37_050c4103:
     # u "You all good?"
     u "Ты в порядке?"
 
+# Перевёл: serj1983 (post.serj@gmail.com)
+# Patch v1.0.1s
+# TODO: Translation updated at 2022-06-28 14:25
+
+# game/v1/scene37.rpy:437
+translate russian v1s37_8bd78e87:
+
+    # pe "*Sighs* It was the Dean. I swear she's out to get me."
+    pe "*Вздыхает* Это был декан. Клянусь, она хочет добраться до меня."
+
+# game/v1/scene37.rpy:615
+translate russian v1s37_fc678168:
+
+    # u "The Dean obviously isn't letting you forget, so we might as well laugh about it at this point."
+    u "Декан, очевидно, не даст тебе забыть, так что мы можем посмеяться над этим в данный момент."
+
+# game/v1/scene37.rpy:645
+translate russian v1s37_b58b795c:
+
+    # u "And the Dean is blocking you from having an interview?"
+    u "И декан запрещает тебе идти на собеседование?"
+
