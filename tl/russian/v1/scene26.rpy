@@ -585,3 +585,47 @@ translate russian v1s26_8c2c0a2d:
     # li "And I'm so thankful. You and Lauren are the best."
     li "Я так благодарна. Вы с Лорен лучшие."
 
+# TODO: Translation updated at 2023-04-11 15:01
+
+# game/v1/scene26.rpy:141
+translate russian v1s26_4e008418:
+
+    # u "Oh, I figured..."
+    u "О, так я и понял..."
+
+# game/v1/scene26.rpy:170
+translate russian v1s26_508c208d:
+
+    # li "Sorry, [name]! Only members of Team Lindsey get free cake!"
+    li "Извини, [name]! Только члены команды Линдси получат бесплатный торт!"
+
+# game/v1/scene26.rpy:175
+translate russian v1s26_8ed3ec6c:
+
+    # la "Oh my gosh, I'm gonna get so fat..."
+    la "Боже мой, я так растолстею..."
+
+# game/v1/scene26.rpy:180
+translate russian v1s26_dd28aba1:
+
+    # li "\"Let them eat cake!\" Although did you know Marie Antoinette never actually said that?"
+    li "\"Пусть едят торт!\" Хотя знаешь, что Мария Антуанетта никогда не говорила этого?"
+
+# game/v1/scene26.rpy:185
+translate russian v1s26_f6219db6:
+
+    # u "Yeah... and I don't think she was big on the democratic process, either."
+    u "Да... и я не думаю, что она была приверженцем демократического процесса."
+
+# game/v1/scene26.rpy:201
+translate russian v1s26_ec19c79e:
+
+    # u "Oh damn, too rich for my blood..."
+    u "Черт, слишком богато для моей крови..."
+
+translate russian strings:
+
+    # game/v1/scene26.rpy:126
+    old "Oh, thanks"
+    new "О, спасибо."
+

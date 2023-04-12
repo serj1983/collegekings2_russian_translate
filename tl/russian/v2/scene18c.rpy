@@ -2738,3 +2738,89 @@ translate russian strings:
     old "Tell her the list is stupid"
     new "Скажи ей, что список глупый"
 
+# TODO: Translation updated at 2023-04-11 15:01
+
+# game/v2/scene18c.rpy:452
+translate russian v2s18c_imre_aubrey_691143b7:
+
+    # imre "*Sighs* All right, chill. I'm over it."
+    imre "*Вздох* Ладно, успокойся. Я в порядке."
+
+# game/v2/scene18c.rpy:1254
+translate russian v2s18c_ryan_a657c661:
+
+    # u "Ha, all right. Noted."
+    u "Ха, хорошо. Понял тебя."
+
+# game/v2/scene18c.rpy:1274
+translate russian v2s18c_ryan_8296abcc:
+
+    # u "All right, are you sure you're okay?"
+    u "Хорошо, ты уверен, что всё в порядке?"
+
+# game/v2/scene18c.rpy:2192
+translate russian v2s18c_chris_penelope_1ccb363a:
+
+    # pe "Oh, I'm... Well..."
+    pe "О, я... Ну..."
+
+# game/v2/scene18c.rpy:2197
+translate russian v2s18c_chris_penelope_0b0b4577:
+
+    # ch "You have a boyfriend? Sorry, I didn't know."
+    ch "У тебя есть парень? Прости, я не знала."
+
+# game/v2/scene18c.rpy:2202
+translate russian v2s18c_chris_penelope_36f3fa11:
+
+    # pe "Well, I don't... have a boyfriend?"
+    pe "Ну, у меня нет... парня?"
+
+# game/v2/scene18c.rpy:2207
+translate russian v2s18c_chris_penelope_fb456fd7:
+
+    # ch "..."
+    ch "..."
+
+# game/v2/scene18c.rpy:2212
+translate russian v2s18c_chris_penelope_1e39e915:
+
+    # ch "So, you're single?"
+    ch "Итак, ты одинока?"
+
+# game/v2/scene18c.rpy:2217
+translate russian v2s18c_chris_penelope_ef273def:
+
+    # u "(Jesus, dude. Back off.)"
+    u "(Господи, чувак. Отвали.)"
+
+# game/v2/scene18c.rpy:2222
+translate russian v2s18c_chris_penelope_ac08abd7:
+
+    # pe "No, I don't have a boyfriend... but I'm not single. I'm seeing someone? I think?"
+    pe "Нет, у меня нет парня... но я не одинока. Я встречаюсь. Думаю."
+
+# game/v2/scene18c.rpy:2224
+translate russian v2s18c_chris_penelope_5313fb61:
+
+    # pe "Does that count?"
+    pe "Это считается?"
+
+# game/v2/scene18c.rpy:2229
+translate russian v2s18c_chris_penelope_9bc6fbc9:
+
+    # ch "Sure. I guess?"
+    ch "Конечно. Я полагаю."
+
+# game/v2/scene18c.rpy:2234
+translate russian v2s18c_chris_penelope_340a8f8b:
+
+    # pe "So... Yeah."
+    pe "Так что... Да."
+
+# game/v2/scene18c.rpy:2239
+translate russian v2s18c_chris_penelope_9aba9c42:
+
+    # u "(This is painful to listen to.)"
+    u "(Это больно слушать.)"
+

@@ -2477,3 +2477,23 @@ translate russian v2s4_dog_3ddb8600_1:
     # u "Ahhh... so, the key to being the perfect President is marijuana?"
     u "Аааа... значит, ключ к тому, чтобы быть идеальным президентом, - это марихуана?"
 
+# TODO: Translation updated at 2023-04-11 15:01
+
+# game/v2/scene4.rpy:1276
+translate russian v2s4_dog_d3a9ae3d:
+
+    # u "He looks all right, thankfully."
+    u "К счастью, он выглядит хорошо."
+
+# game/v2/scene4.rpy:1368
+translate russian v2s4_dog_0d98c14a:
+
+    # aut "All right, well... I'm gonna go put him in a cozy spot with some fresh food and water, but I think we've earned a break. Don't you?"
+    aut "Ладно, хорошо... Я положу его в уютное место со свежей едой и водой, думаю, что мы заслужили перерыв. Не так ли?"
+
+# game/v2/scene4.rpy:1747
+translate russian v2s4_dog_696a56fa:
+
+    # aut "All right, I better get him fed and bathed before I go on break. I'm due for some \"me time.\""
+    aut "Ладно, я лучше покормлю и искупаю его, прежде чем уйду на перерыв. Мне нужно немного \"времени для себя.\""
+

@@ -259,3 +259,17 @@ translate russian v1s34_nsfwSkipLabel1_25a27f21:
     # pe "Bye."
     pe "Пока."
 
+# TODO: Translation updated at 2023-04-11 15:01
+
+# game/v1/scene34.rpy:174
+translate russian v1s34_nsfwSkipLabel1_a268c3c3:
+
+    # u "All right. Bye."
+    u "Хорошо. Пока."
+
+translate russian strings:
+
+    # game/v1/scene34.rpy:19
+    old "Well, I've been wanting to swim in this little lagoon I found."
+    new "Я давно хотел поплавать в этой маленькой лагуне, которую нашёл."
+

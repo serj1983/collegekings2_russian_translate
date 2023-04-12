@@ -507,3 +507,23 @@ translate russian strings:
     old "Hey, you. I'm starting to worry that I haven't seen you around. At least let me know that he didn't hurt you... please text me back, ASAP"
     new "Привет. Я начинаю беспокоиться, что не вижу тебя рядом. По крайней мере, дай мне знать, что он не причинил тебе вреда... пожалуйста, напиши мне ответ как можно скорее"
 
+# TODO: Translation updated at 2023-04-11 15:01
+
+# game/v1/scene52.rpy:194
+translate russian v1s52_fb456fd7:
+
+    # ch "..."
+    ch "..."
+
+# game/v1/scene52.rpy:234
+translate russian v1s52_1ec9cc8b:
+
+    # u "I, uh, just wanted to personally say that I hope you're doing all right."
+    u "Я просто хотел сказать, что надеюсь, что у тебя всё хорошо."
+
+# game/v1/scene52.rpy:402
+translate russian v1s52_PhoneContinueNora_b92d9ea3:
+
+    # u "(Nora...?)"
+    u "(Нора...?)"
+

@@ -466,3 +466,11 @@ translate russian strings:
     old "Don't try"
     new "Не пытаться"
 
+# TODO: Translation updated at 2023-04-11 15:01
+
+# game/v2/scene18d.rpy:99
+translate russian v2s18d_2c5e69a3:
+
+    # imre "Hey! You did all right."
+    imre "Эй! Ты сделал всё правильно."
+

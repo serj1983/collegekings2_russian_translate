@@ -785,3 +785,11 @@ translate russian v1s45a_PhoneContinue_ce42f6b4:
     # li "See you soon."
     li "До скорой встречи."
 
+# TODO: Translation updated at 2023-04-11 15:01
+
+# game/v1/scene45a.rpy:110
+translate russian v1s45a_15d7f47b:
+
+    # u "*Sighs* All right. Let's hope so."
+    u "*Вздох* Хорошо. Будем надеяться."
+

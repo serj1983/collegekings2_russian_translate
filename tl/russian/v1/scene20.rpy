@@ -829,3 +829,17 @@ translate russian v1s20_ee01f9b9:
     # u "Thanks."
     u "Спасибо."
 
+# TODO: Translation updated at 2023-04-11 15:01
+
+# game/v1/scene20.rpy:117
+translate russian v1s20_e0c7ad7a:
+
+    # u "Yeah it was all right."
+    u "Да, всё было в порядке."
+
+translate russian strings:
+
+    # game/v1/scene20.rpy:103
+    old "It was all right"
+    new "Всё было хорошо"
+

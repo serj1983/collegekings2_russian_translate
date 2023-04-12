@@ -394,3 +394,65 @@ translate russian strings:
     old "Looks easy"
     new "Выглядит просто"
 
+# TODO: Translation updated at 2023-04-11 15:01
+
+# game/v2/scene18.rpy:234
+translate russian v2s18_411bdc2e:
+
+    # u "God damnit... I completely forgot about that. Where did I put that thing?! I think someone borrowed it or stole it."
+    u "Чёрт возьми... Я совсем забыл об этом. Куда я его положил?! Может, кто-то взял или украл её."
+
+# game/v2/scene18.rpy:244
+translate russian v2s18_e53f6c93:
+
+    # imre "No, no, no... I bought this bad boy weeks ago, bro. No last-minute costume stealing necessary."
+    imre "Нет, нет, нет... Я купил несколько недель назад, бро. Никаких краж костюмов за последнее время."
+
+# game/v2/scene18.rpy:257
+translate russian v2s18_e53f6c93_1:
+
+    # imre "No, no, no... I bought this bad boy weeks ago, bro. No last-minute costume stealing necessary."
+    imre "Нет, нет, нет... Я купил несколько недель назад, бро. Никаких краж костюмов за последнее время."
+
+# game/v2/scene18.rpy:262
+translate russian v2s18_ea4bc8f6_1:
+
+    # u "Hmm... okay, if you say so..."
+    u "Хм... ладно, если ты так говоришь..."
+
+# game/v2/scene18.rpy:265
+translate russian v2s18_aa8a8f79:
+
+    # u "I could've come as a fucking viking, instead I show up in this..."
+    u "Я мог бы прийти как гребаный викинг, а вместо этого появляюсь в этом..."
+
+# game/v2/scene18.rpy:270
+translate russian v2s18_7740271b:
+
+    # imre "Yup. You'd be a super cold viking in that shit, dude."
+    imre "Да. В таком дерьме ты был бы суперхолодным викингом, чувак."
+
+# game/v2/scene18.rpy:273
+translate russian v2s18_d4e048e7:
+
+    # u "I wish you hadn't reminded me... I could have come as a knight, instead I pay actual money for this..."
+    u "Лучше бы ты мне не напоминал... Я мог бы прийти как рыцарь, вместо этого я плачу за это реальные деньги..."
+
+# game/v2/scene18.rpy:278
+translate russian v2s18_cd7f66d6:
+
+    # imre "Yup. You're like... Sir Takes-It-In-The-Ass-A-Lot."
+    imre "Ага. Ты как... Сэр Часто-Получающий-По-Заднице."
+
+# game/v2/scene18.rpy:280
+translate russian v2s18_5ec7052a:
+
+    # imre "Not in a homophobic way. Just... easy access, you know?"
+    imre "Не в гомофобном смысле. Просто... у тебя лёгкий доступ, понимаешь?"
+
+# game/v2/scene18.rpy:285
+translate russian v2s18_a31bce8b:
+
+    # u "I mean, I obviously grabbed this costume weeks ago. It's ironic. For the lulz, you know?"
+    u "Я имею в виду, что, очевидно, я купил этот костюм несколько недель назад. Это ирония. Для лулзов, понимаешь?"
+

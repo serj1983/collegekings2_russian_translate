@@ -534,3 +534,11 @@ translate russian strings:
     old "Still angry"
     new "Всё ещё злишься"
 
+# TODO: Translation updated at 2023-04-11 15:01
+
+# game/v2/scene15.rpy:307
+translate russian v2s15_nsfwSkipLabel1_bc20b4ea:
+
+    # u "All right then..."
+    u "Хорошо, тогда..."
+

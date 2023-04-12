@@ -350,3 +350,11 @@ translate russian strings:
     old "Don't take the notes"
     new "Не брать записи"
 
+# TODO: Translation updated at 2023-04-11 15:01
+
+# game/v2/scene20.rpy:85
+translate russian v2s20_d0b02948:
+
+    # u "Yeah, that's him all right. You could say he has a strong moral code."
+    u "Да, это точно он. Можно сказать, что у него строгий моральный кодекс."
+

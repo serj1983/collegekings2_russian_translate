@@ -448,3 +448,29 @@ translate russian strings:
     old "As your date"
     new "Как пара"
 
+# TODO: Translation updated at 2023-04-11 15:01
+
+# game/v2/scene9.rpy:38
+translate russian v2s9_ebe07689:
+
+    # au "Uh, yeah. I think Chloe and I have all the Chicks stuff with the college dealt with."
+    au "Ну, да. Думаю, мы с Хлоей разобрались со всеми делами Чикс в колледже."
+
+# game/v2/scene9.rpy:433
+translate russian v2s9_24a52c26:
+
+    # no "Hey!"
+    no "Привет!"
+
+# game/v2/scene9.rpy:435
+translate russian v2s9_1d513466:
+
+    # u "Hey! I'm glad-"
+    u "Привет! Я рад-"
+
+# game/v2/scene9.rpy:440
+translate russian v2s9_a5398bfb:
+
+    # no "This is Nora! And I'm obviously doing something far more important than what you're calling about, so leave a message and-"
+    no "Это Нора! И я, очевидно, занята чем-то гораздо более важным, чем то, по поводу чего вы звоните, так что оставьте сообщение и..."
+

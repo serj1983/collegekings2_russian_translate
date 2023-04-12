@@ -1307,3 +1307,29 @@ translate russian v1s47_end_e96e4017:
     # li "A special one."
     li "Особенный."
 
+# TODO: Translation updated at 2023-04-11 15:01
+
+# game/v1/scene47.rpy:187
+translate russian v1s47_c3f31ca8:
+
+    # li "All right, all right. Are you ready to capture all the beauty of the shittiest car you've ever seen?"
+    li "Хорошо, хорошо. Готов ты запечатлеть красоту самого дерьмового автомобиля, который когда-либо видел?"
+
+# game/v1/scene47.rpy:257
+translate russian v1s47_e915374a:
+
+    # u "All right, you're the boss."
+    u "Хорошо, ты тут главная."
+
+# game/v1/scene47.rpy:350
+translate russian v1s47_bda914a9:
+
+    # u "All right, let's start with..."
+    u "Хорошо, начнем с..."
+
+# game/v1/scene47.rpy:879
+translate russian v1s47_end_08c2ad98:
+
+    # u "All right. That's every angle of Grandpa's Wagon, I think."
+    u "Хорошо. Думаю, это касается каждого уголка Дедушкиной Повозки."
+

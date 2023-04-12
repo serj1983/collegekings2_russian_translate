@@ -558,3 +558,11 @@ translate russian v2s17_giftwrap_d724ec45:
     # u "You got it!"
     u "Я понял!"
 
+# TODO: Translation updated at 2023-04-11 15:01
+
+# game/v2/scene17.rpy:497
+translate russian v2s17_giftwrap_5914eb0c:
+
+    # u "That's great, thanks!"
+    u "Это здорово, спасибо!"
+

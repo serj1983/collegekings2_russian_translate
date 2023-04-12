@@ -1354,3 +1354,11 @@ translate russian strings:
     old "Call after her"
     new "Позвонить ей"
 
+# TODO: Translation updated at 2023-04-11 15:01
+
+# game/v2/scene22.rpy:731
+translate russian v2s22_c30c82e6:
+
+    # u "I'll take my time if that's all right. I want to be thorough."
+    u "Я не буду торопиться, если вы не против. Я хочу начать с основ."
+

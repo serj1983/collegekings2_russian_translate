@@ -1143,3 +1143,11 @@ translate russian v1s17_end_0e491dfd:
     # la "Oh perfect, class is over. Be careful about everything you do during this whole... \"mess,\" okay?"
     la "Отлично, занятия закончились. Будь осторожен во всём, что ты делаешь в течение этого... \"бардака,\" хорошо?"
 
+# TODO: Translation updated at 2023-04-11 15:01
+
+# game/v1/scene17.rpy:262
+translate russian v1s17_9aeb1e17:
+
+    # la "All right then, let's get to work."
+    la "Хорошо, тогда приступим к работе."
+

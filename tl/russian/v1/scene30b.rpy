@@ -411,3 +411,11 @@ translate russian strings:
     old "Teamwork makes the dreamwork! <3 #presidentialStatus #Vote4ChloeVote4Wolves"
     new "Командная работа делает мечту реальностью! <3 #presidentialStatus #Vote4ChloeVote4Wolves"
 
+# TODO: Translation updated at 2023-04-11 15:01
+
+# game/v1/scene30b.rpy:17
+translate russian v1s30b_54198d81:
+
+    # cl "All right... Let's get a good look at these."
+    cl "Хорошо... Давай рассмотрим их как следует."
+

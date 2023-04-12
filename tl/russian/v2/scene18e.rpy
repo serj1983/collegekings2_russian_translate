@@ -778,3 +778,71 @@ translate russian strings:
     old "Cum inside her"
     new "Кончить в неё"
 
+# TODO: Translation updated at 2023-04-11 15:01
+
+# game/v2/scene18e.rpy:692
+translate russian v2s18e_end_lauren_cum_47ee8761:
+
+    # u "(As you wish.)"
+    u "(Как пожелаешь.)"
+
+# game/v2/scene18e.rpy:699
+translate russian v2s18e_end_lauren_cum_80d6b9e5:
+
+    # u "Oh, Laur-"
+    u "Ох, Лор-"
+
+# game/v2/scene18e.rpy:704
+translate russian v2s18e_end_lauren_cum_e4e567a2:
+
+    # la "*Gasps* Yes, [name]... yes! *Moans*"
+    la "*Вздыхает* Да, [name]... да! *Стонет*"
+
+# game/v2/scene18e.rpy:711
+translate russian v2s18e_end_lauren_cum_f3e511e4:
+
+    # u "(Not taking any chances tonight... Sorry, Lauren.)"
+    u "(Сегодня я не буду рисковать... Прости, Лорен.)"
+
+# game/v2/scene18e.rpy:723
+translate russian v2s18e_end_lauren_cum_80acc26b:
+
+    # u "*Panting* Ssshhhit..."
+    u "*Задыхается* Чёёёрт..."
+
+# game/v2/scene18e.rpy:728
+translate russian v2s18e_end_lauren_cum_5100e324:
+
+    # la "Oh my-"
+    la "О бож-"
+
+# game/v2/scene18e.rpy:735
+translate russian v2s18e_end_lauren_cum_8c5c8d09:
+
+    # u "Whew."
+    u "Фух."
+
+# game/v2/scene18e.rpy:740
+translate russian v2s18e_end_lauren_cum_d80b57c3:
+
+    # la "That was the perfect way to end my birthday..."
+    la "Это идеальный способ закончить мой день рождения..."
+
+# game/v2/scene18e.rpy:747
+translate russian v2s18e_end_lauren_cum_489878ad:
+
+    # u "Agreed."
+    u "Согласен."
+
+# game/v2/scene18e.rpy:752
+translate russian v2s18e_end_lauren_cum_93090859:
+
+    # la "I'm gonna go clean up. I'll meet you under the sheets?"
+    la "Приведу себя в порядок. Увидимся в постели?"
+
+# game/v2/scene18e.rpy:759
+translate russian v2s18e_end_lauren_cum_6e7a4c4b:
+
+    # u "Sounds great."
+    u "Звучит прекрасно."
+

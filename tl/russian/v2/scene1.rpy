@@ -821,3 +821,11 @@ translate russian v2s1_PhoneContinueAut_dac778a7:
     # u "*Groans* (No time for snoozing today. Need to get up.)"
     u "*Зевает* (Сегодня нет времени на валяние в постеле... Нужно вставать.)"
 
+# TODO: Translation updated at 2023-04-11 15:01
+
+# game/v2/scene1.rpy:135
+translate russian v2s1_ed76dbb2:
+
+    # u "All right, that's fair..."
+    u "Ладно, это справедливо..."
+

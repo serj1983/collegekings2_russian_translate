@@ -191,3 +191,11 @@ translate russian v1s22a_782bc16b:
     # li "Your phone is buzzing, I think."
     li "Кажется, твой телефон гудит."
 
+# TODO: Translation updated at 2023-04-11 15:01
+
+# game/v1/scene22a.rpy:84
+translate russian v1s22a_572a6a1c:
+
+    # li "All right, I need to run anyway."
+    li "Ладно, мне всё равно нужно бежать."
+

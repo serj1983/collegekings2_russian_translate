@@ -375,3 +375,89 @@ translate russian v1s53a_9e5ca9ba:
     # u "(Guess I don't have to. Let's get to bed.)"
     u "(Думаю, мне и не нужно этого делать. Давай ложиться спать.)"
 
+# TODO: Translation updated at 2023-04-11 15:01
+
+# game/v1/scene53a.rpy:233
+translate russian v1s53a_sam_cum_c0b27306:
+
+    # u "*Moans* Fuuuuuuck!"
+    u "*Стонет* Бляяя!"
+
+# game/v1/scene53a.rpy:238
+translate russian v1s53a_sam_cum_d3bd6828:
+
+    # sa "*Gasps* It's so warm... yes, baby... I love it..."
+    sa "*Вздохи* Здесь так тепло... да, малыш... Я люблю это..."
+
+# game/v1/scene53a.rpy:245
+translate russian v1s53a_sam_cum_e9307ecf:
+
+    # u "(Oh, shit... I actually came inside of her? What was I thinking?!)"
+    u "(Ох, дерьмо... Я действительно кончил в неё? О чём я только думал?!)"
+
+# game/v1/scene53a.rpy:252
+translate russian v1s53a_sam_cum_84af9e84:
+
+    # u "*Moans* Aahh! Hah..."
+    u "*Стоны* Ааах! Хах..."
+
+# game/v1/scene53a.rpy:259
+translate russian v1s53a_sam_cum_a317d659:
+
+    # u "(Damn, that was a close one!)"
+    u "(Чёрт, это было очень близко!)"
+
+# game/v1/scene53a.rpy:276
+translate russian v1s53a_sam_cum_8b4aabeb:
+
+    # u "You okay?"
+    u "Ты в порядке?"
+
+# game/v1/scene53a.rpy:281
+translate russian v1s53a_sam_cum_01db0147:
+
+    # sa "*Mumbling* Mmm?"
+    sa "*Бормочет* Ммм?"
+
+# game/v1/scene53a.rpy:286
+translate russian v1s53a_sam_cum_f8d9abd8:
+
+    # u "Sam? Are you okay?"
+    u "Сэм? Ты в порядке?"
+
+# game/v1/scene53a.rpy:291
+translate russian v1s53a_sam_cum_f0179cbe:
+
+    # sa "Yeah, perfect... I'm going to sleep now."
+    sa "Да, отлично... Я иду спать."
+
+# game/v1/scene53a.rpy:296
+translate russian v1s53a_sam_cum_77ee2179:
+
+    # u "Ha, all right. Sleep tight, okay?"
+    u "Ха, ладно. Споки."
+
+# game/v1/scene53a.rpy:301
+translate russian v1s53a_sam_cum_ad377f97:
+
+    # sa "Mhmm... I love you, [name]..."
+    sa "Ммм... Я люблю тебя, [name]..."
+
+# game/v1/scene53a.rpy:306
+translate russian v1s53a_sam_cum_da2bd4f9:
+
+    # u "(Holy... I don't even know how to reply to that.)"
+    u "(Святое... Я даже не знаю, как на это ответить.)"
+
+# game/v1/scene53a.rpy:311
+translate russian v1s53a_sam_cum_4d3ae924:
+
+    # sa "*Soft snoring*"
+    sa "*Тихий храп*"
+
+# game/v1/scene53a.rpy:313
+translate russian v1s53a_sam_cum_9e5ca9ba:
+
+    # u "(Guess I don't have to. Let's get to bed.)"
+    u "(Думаю, мне и не нужно этого делать. Давай спать.)"
+

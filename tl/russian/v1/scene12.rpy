@@ -307,3 +307,11 @@ translate russian v1s12_0704aca5:
     # u "(Keeping this job a secret is really suspicious... And having to go to New York of all places is pretty... odd. Oh, well.)"
     u "(Держать работу в секрете очень подозрительно... И необходимость ехать в Нью-Йорк из всех мест довольно... странно. Ну, ладно.)"
 
+# TODO: Translation updated at 2023-04-11 15:01
+
+# game/v1/scene12.rpy:71
+translate russian v1s12_bb926e0c:
+
+    # u "Oh, all right. What's that?"
+    u "Ох, хорошо. Что случилось?"
+

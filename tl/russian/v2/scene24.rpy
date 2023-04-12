@@ -1582,3 +1582,11 @@ translate russian strings:
     old "Is that a good thing?"
     new "Это хорошо?"
 
+# TODO: Translation updated at 2023-04-11 15:01
+
+# game/v2/scene24.rpy:291
+translate russian v2s24_b3a9c4cf:
+
+    # li "All right, you're all set. Go get 'em, tiger!"
+    li "Ладно, всё готово. Иди и сделай их, тигр!"
+

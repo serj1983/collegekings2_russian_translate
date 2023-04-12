@@ -65,7 +65,7 @@ translate russian v1s13a_44a2e2e2:
 translate russian v1s13a_d88c225f:
 
     # u "For?"
-    u "Длч чего?"
+    u "Для чего?"
 
 # game/v1/scene13a.rpy:72
 translate russian v1s13a_425fc94d:

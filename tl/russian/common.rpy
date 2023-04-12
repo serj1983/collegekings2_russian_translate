@@ -1045,3 +1045,23 @@ translate russian strings:
 
     old "LOADING WILL LOSE UNSAVED PROGRESS.\nARE YOU SURE YOU WANT TO DO THIS?"
     new "Загрузка приведет к потере несохраненного прогресса. Вы уверены, что хотите это сделать?"
+# TODO: Translation updated at 2023-04-12 10:06
+
+translate russian strings:
+
+    # renpy/common/00action_other.rpy:703
+    old "Open [text] directory."
+    new "Открыть [text] папку."
+
+    # renpy/common/00preferences.rpy:507
+    old "audio when minimized"
+    new "звук при минимизации"
+
+    # renpy/common/00preferences.rpy:527
+    old "main volume"
+    new "основной звук"
+
+    # renpy/common/00preferences.rpy:531
+    old "mute main"
+    new "отключить основной звук"
+

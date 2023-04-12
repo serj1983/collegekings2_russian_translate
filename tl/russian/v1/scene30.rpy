@@ -239,3 +239,11 @@ translate russian v1s30_9fd5fe5a:
     # u "Ha, what?"
     u "Ха, что?"
 
+# TODO: Translation updated at 2023-04-11 15:01
+
+# game/v1/scene30.rpy:202
+translate russian v1s30_50450572:
+
+    # cl "All right, let's head back and look at these closely so we can pick a good one."
+    cl "Хорошо, давай вернёмся и внимательно рассмотрим их, чтобы выбрать хороший вариант."
+

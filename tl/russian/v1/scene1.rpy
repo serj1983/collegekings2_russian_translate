@@ -705,3 +705,485 @@ translate russian v1_start_42018225:
     # lee "Right, well, I need to be on my way! It's essential that I attend Charli's meeting with the Dean."
     lee "Так, пора идти! Мне необходимо присутствовать на встрече Чарли с деканом."
 
+# TODO: Translation updated at 2023-04-11 15:01
+
+# game/v1/scene1.rpy:111
+translate russian v1s1_1e1437c3:
+
+    # u "*Deep breath*"
+    u "*Глубокий вдох*"
+
+# game/v1/scene1.rpy:116
+translate russian v1s1_a00042dd:
+
+    # u "(It feels so good to be back on home turf.)"
+    u "(Так приятно вернуться на родную землю.)"
+
+# game/v1/scene1.rpy:122
+translate russian v1s1_42018225:
+
+    # lee "Right, well, I need to be on my way! It's essential that I attend Charli's meeting with the Dean."
+    lee "Так, пора идти! Мне необходимо присутствовать на встрече Чарли с деканом."
+
+# game/v1/scene1.rpy:127
+translate russian v1s1_329a5388:
+
+    # ro "Bruce, it is very late and you are very tired. Do you really feel that now is the best time?"
+    ro "Брюс, уже очень поздно, и ты очень устал. Ты действительно считаешь, что сейчас самое подходящее время?"
+
+# game/v1/scene1.rpy:132
+translate russian v1s1_37c3abfd:
+
+    # lee "Whether it is the right time or not, that student will not be on this campus another night. Not if I have anything to say about it."
+    lee "Независимо от того, пришло время или нет, этот студент больше не появится в этом кампусе. Не будет, если я имею к этому отношение."
+
+# game/v1/scene1.rpy:137
+translate russian v1s1_785c485b:
+
+    # ro "*Sighs* Very well..."
+    ro "*Вздох* Хорошо..."
+
+# game/v1/scene1.rpy:142
+translate russian v1s1_32962abb:
+
+    # lee "Make sure the students all get home safe, will you?"
+    lee "Убедись, что все студенты доберутся домой в целости и сохранности, хорошо?"
+
+# game/v1/scene1.rpy:147
+translate russian v1s1_8ef7ff95:
+
+    # ro "Of course, take care of yourself."
+    ro "Конечно, береги себя."
+
+# game/v1/scene1.rpy:152
+translate russian v1s1_6c301f43:
+
+    # lee "I will."
+    lee "Разумеется."
+
+# game/v1/scene1.rpy:157
+translate russian v1s1_eed50046:
+
+    # ro "I'm serious, Bruce."
+    ro "Я серьезно, Брюс!"
+
+# game/v1/scene1.rpy:162
+translate russian v1s1_fc090ce4:
+
+    # lee "I am too."
+    lee "Я тоже!"
+
+# game/v1/scene1.rpy:173
+translate russian v1s1_9f8cf220:
+
+    # u "(He came into our lives with a bang, trying to show his ass off, and look at him now.)"
+    u "(Он вошёл в нашу жизнь с шумом, пытаясь показать свою задницу, и посмотрите на него сейчас.)"
+
+# game/v1/scene1.rpy:174
+translate russian v1s1_9ae6f5d5:
+
+    # u "(A sad dude, walking away all alone, just as he was when he first arrived.)"
+    u "(Грустный чувак, уходящий в полном одиночестве, таким же, каким он был, когда впервые приехал.)"
+
+# game/v1/scene1.rpy:176
+translate russian v1s1_265d52b3:
+
+    # u "(Definitely didn't like the guy, but I do get this weird feeling seeing him go.)"
+    u "(Определенно мне не нравился этот парень, но у меня действительно возникает странное чувство, когда я вижу, как он уходит.)"
+
+# game/v1/scene1.rpy:186
+translate russian v1s1_db80f013:
+
+    # ri "Are you thinking about him, too?"
+    ri "Ты тоже думал о нём?"
+
+# game/v1/scene1.rpy:191
+translate russian v1s1_53c0db1c:
+
+    # u "Who?"
+    u "О ком?"
+
+# game/v1/scene1.rpy:196
+translate russian v1s1_6c2df626:
+
+    # ri "Charli?"
+    ri "Чарли?"
+
+# game/v1/scene1.rpy:201
+translate russian v1s1_b342b391:
+
+    # u "A little bit."
+    u "Немного."
+
+# game/v1/scene1.rpy:206
+translate russian v1s1_de2a985c:
+
+    # ri "He definitely isn't the best human out there in my opinion. Even when I was giving him a chance, I knew that deep down."
+    ri "На мой взгляд, он определенно не самый лучший человек на свете. Даже когда я давала ему шанс, в глубине души я знала это."
+
+# game/v1/scene1.rpy:211
+translate russian v1s1_ce8bd737:
+
+    # u "I knew that too, and that's exactly why-"
+    u "Я тоже это знал, и именно поэтому-"
+
+# game/v1/scene1.rpy:216
+translate russian v1s1_edaabaa9:
+
+    # ri "But..."
+    ri "Но..."
+
+# game/v1/scene1.rpy:221
+translate russian v1s1_4440cdd7:
+
+    # ri "He did teach us a lot."
+    ri "Он многому научил нас."
+
+# game/v1/scene1.rpy:226
+translate russian v1s1_fc73e0a4:
+
+    # u "Pfft. What could he have possibly taught us?"
+    u "Пффф. Чему он мог нас научить?"
+
+# game/v1/scene1.rpy:231
+translate russian v1s1_f583eb58:
+
+    # ri "You're telling me Charli never said anything that made you think about your choices or who you are as a person?"
+    ri "Ты хочешь сказать, что Чарли никогда не говорил тебе ничего такого, что заставило бы тебя задуматься о выборе, который ты сделал, или поразмышлять о том, кто ты есть как личность?"
+
+# game/v1/scene1.rpy:240
+translate russian v1s1_4453ee5f:
+
+    # u "I admit, he helped me do some self reflecting, but... I'm not giving him any more credit than that."
+    u "Признаю, он помог мне немного поразмыслить над собой, но... я не дам ему больше ничего."
+
+# game/v1/scene1.rpy:245
+translate russian v1s1_384af1d9:
+
+    # ri "I wouldn't expect you to. He was worse to you than most of us."
+    ri "Я не ожидала от тебя этого. Он был хуже для тебя, чем для нас."
+
+# game/v1/scene1.rpy:253
+translate russian v1s1_a0f9c6ad:
+
+    # u "Not at all. I'm completely content with all the choices I've made."
+    u "Вовсе нет. Я полностью доволен решениями, которые я принял."
+
+# game/v1/scene1.rpy:258
+translate russian v1s1_904ea43a:
+
+    # ri "Ha! Well, maybe it was just me."
+    ri "Ха! Ну, может, это была только я."
+
+# game/v1/scene1.rpy:263
+translate russian v1s1_8b4aabeb:
+
+    # u "You okay?"
+    u "Ты в порядке?"
+
+# game/v1/scene1.rpy:268
+translate russian v1s1_d649dd99:
+
+    # ri "Uh... yeah. Just got dizzy for a second there."
+    ri "Ух... ага. Просто голова закружилась на секунду."
+
+# game/v1/scene1.rpy:273
+translate russian v1s1_66253685:
+
+    # u "Make sure you're taking care of yourself, red."
+    u "Надеюсь, ты возьмёшь себя в руки."
+
+# game/v1/scene1.rpy:278
+translate russian v1s1_265cbcdb:
+
+    # ri "I am, I just need to head back home."
+    ri "Да, мне просто нужно вернуться домой."
+
+# game/v1/scene1.rpy:283
+translate russian v1s1_61c3fc35:
+
+    # ri "Aubrey invited me to stay over at the Chicks' house, but I don't know if I wanna be involved in any of the drama."
+    ri "Обри пригласила меня погостить в доме Чикс, но я не знаю, хочу ли я этих переживаний."
+
+# game/v1/scene1.rpy:288
+translate russian v1s1_f601acb0:
+
+    # u "Then don't be a part of the drama. Just enjoy Aubrey's company. Sounds like that's what she's inviting you over for."
+    u "Тогда не ходи, просто насладись обществом Обри. Похоже, она пригласила тебя именно для этого."
+
+# game/v1/scene1.rpy:293
+translate russian v1s1_417b2104:
+
+    # ri "You're right."
+    ri "Ты прав."
+
+# game/v1/scene1.rpy:298
+translate russian v1s1_4c3bae74:
+
+    # ri "Knowing Aubrey, she probably doesn't wanna talk about that stuff right now either."
+    ri "роятно, тоже не хочет говорить об этом сейчас."
+
+# game/v1/scene1.rpy:299
+translate russian v1s1_695350f9:
+
+    # ri "Being around her is probably the safest way to stay out of any Chicks drama."
+    ri "Быть рядом с ней - это, наверное, самый надежный способ не ввязываться в драму с девочками."
+
+# game/v1/scene1.rpy:305
+translate russian v1s1_19c4a649:
+
+    # ri "I admit, though, there's more than one reason why I'm unsure about hanging with Aubrey."
+    ri "Хотя, признаюсь, есть не одна причина, по которой я не уверена в том, что буду общаться с Обри."
+
+# game/v1/scene1.rpy:310
+translate russian v1s1_fa2fb93f:
+
+    # u "What's the other reason?"
+    u "Что за причина?"
+
+# game/v1/scene1.rpy:315
+translate russian v1s1_88eb95fc:
+
+    # ri "I guess I just feel..."
+    ri "Думаю, я просто чувствую..."
+
+# game/v1/scene1.rpy:320
+translate russian v1s1_a09574e7:
+
+    # ri "I feel a little conflicted."
+    ri "Я чувствую себя немного противоречиво."
+
+# game/v1/scene1.rpy:325
+translate russian v1s1_95df4da2:
+
+    # u "About?"
+    u "Почему?"
+
+# game/v1/scene1.rpy:330
+translate russian v1s1_fa892e18:
+
+    # ri "Ugh... I'm just gonna come right out and say it. I..."
+    ri "*Вздох* Я просто скажу это прямо! Я..."
+
+# game/v1/scene1.rpy:335
+translate russian v1s1_6a61325a:
+
+    # u "I'm listening..."
+    u "Слушаю..."
+
+# game/v1/scene1.rpy:340
+translate russian v1s1_72aea432:
+
+    # ri "I have feelings for her... and you."
+    ri "У меня есть чувства к ней... и к тебе."
+
+# game/v1/scene1.rpy:345
+translate russian v1s1_c33791f2:
+
+    # ri "I'm not exactly sure what those feelings are just yet, but I know they exist. And they're the same feelings that I have for Aubrey, too."
+    ri "Я пока не знаю точно, что это за чувства, но я знаю, что они есть. И это те же чувства, которые я испытываю к Обри."
+
+# game/v1/scene1.rpy:350
+translate russian v1s1_84e0ee5d:
+
+    # u "I get it. You want to know what I want, right?"
+    u "Я понял. Ты хочешь знать, чего я хочу, верно?"
+
+# game/v1/scene1.rpy:355
+translate russian v1s1_03a2c3fc:
+
+    # ri "I think it might help."
+    ri "Думаю, это может помочь."
+
+# game/v1/scene1.rpy:367
+translate russian v1s1_60dbbedd:
+
+    # u "Well, for starters, it means a lot to me to know that the feeling is mutual."
+    u "Ну, для начала, для меня очень важно знать, что это чувство взаимно."
+
+# game/v1/scene1.rpy:372
+translate russian v1s1_07825d96:
+
+    # ri "Mm, right..."
+    ri "Мм, точно..."
+
+# game/v1/scene1.rpy:377
+translate russian v1s1_e313b9d0:
+
+    # u "Plus, I'm sure Aubrey would be more than happy to hear that you have feelings for her, too."
+    u "К тому же, я уверен, Обри будет очень рада услышать, что у тебя есть чувства к ней."
+
+# game/v1/scene1.rpy:382
+translate russian v1s1_e4b70a13:
+
+    # ri "Yeah, so..."
+    ri "Да, так что..."
+
+# game/v1/scene1.rpy:387
+translate russian v1s1_1898850c:
+
+    # u "I don't see how you having feelings for both of us is a problem. Is that supposed to be a problem?"
+    u "Не понимаю, почему испытывая чувства к нам обоим - это проблема. Это разве должно быть проблемой?"
+
+# game/v1/scene1.rpy:392
+translate russian v1s1_ea276998:
+
+    # ri "Wait, you're okay with that?!"
+    ri "Подожди, ты не против?!"
+
+# game/v1/scene1.rpy:397
+translate russian v1s1_92b46800:
+
+    # u "Why wouldn't I be? That's what life is all about, right? Spending time with the people you like most?"
+    u "А почему бы и нет? Ведь в этом и заключается смысл жизни, верно? Проводить время с людьми, которые тебе больше всего нравятся?"
+
+# game/v1/scene1.rpy:402
+translate russian v1s1_e1a1ace7:
+
+    # u "And if that means the three of us get to spend more time together, I'm not complaining. You're my two favorite ladies."
+    u "И если это означает, что мы втроем проводим большую часть времени вместе, я не жалуюсь. *Хихикает* Вы две мои любимые леди."
+
+# game/v1/scene1.rpy:407
+translate russian v1s1_fd00432c:
+
+    # ri "Wow..."
+    ri "Вау..."
+
+# game/v1/scene1.rpy:412
+translate russian v1s1_e671a497:
+
+    # u "Is that a good wow?"
+    u "Это хороший вау?"
+
+# game/v1/scene1.rpy:417
+translate russian v1s1_de31bac6:
+
+    # ri "I, uh, I mean, yes! That was definitely a good wow."
+    ri "Я, э-э, я имею в виду, да! Это было определенно хорошее вау."
+
+# game/v1/scene1.rpy:419
+translate russian v1s1_dfbe377e:
+
+    # ri "I guess I just didn't think you'd be open to something like that. It's kind of my fantasy."
+    ri "Я просто не думала, что ты будешь открыт для чего-то подобного. Это было вроде моей фантазией."
+
+# game/v1/scene1.rpy:424
+translate russian v1s1_d5be8c46:
+
+    # u "Looks like your wet dreams are finally coming true!"
+    u "Похоже, твои влажные мечты наконец-то сбываются!"
+
+# game/v1/scene1.rpy:429
+translate russian v1s1_94bab523:
+
+    # ri "Stop it, loser! I'm actually really relieved."
+    ri "Прекрати, лузер! Я правда чувствую облегчение."
+
+# game/v1/scene1.rpy:434
+translate russian v1s1_1601d8a5:
+
+    # u "Glad I could do that for you."
+    u "Рад, что смог сделать это для тебя."
+
+# game/v1/scene1.rpy:439
+translate russian v1s1_1bc3e7f5:
+
+    # ri "Ha, thanks. I'm going to go meet with Aubrey now."
+    ri "Ха, спасибо. Сейчас я встречаюсь с Обри."
+
+# game/v1/scene1.rpy:449
+translate russian v1s1_46e616dc:
+
+    # ri "I'll see you soon, handsome. Very soon."
+    ri "Скоро увидимся, красавчик. Очень скоро."
+
+# game/v1/scene1.rpy:454
+translate russian v1s1_5ea95121:
+
+    # u "Bet on it. Catch you later."
+    u "Сделаю ставку на это. Поймаю тебя позже."
+
+# game/v1/scene1.rpy:466
+translate russian v1s1_6681969c:
+
+    # u "I'll be honest, I like you a lot, Riley. The feelings are definitely mutual and I'm really happy you told me, but relationship-wise..."
+    u "Скажу честно, ты мне очень нравишься, Райли. Чувства определенно взаимны, и я очень рад, что ты сказала мне об этом, но в плане отношений..."
+
+# game/v1/scene1.rpy:468
+translate russian v1s1_243e08d1:
+
+    # u "I'm just not the sharing type, I guess."
+    u "Я просто не люблю делиться, наверное."
+
+# game/v1/scene1.rpy:473
+translate russian v1s1_5c4f3227:
+
+    # u "I don't really know if I'd feel comfortable with the whole situation."
+    u "Я не знаю, буду ли я чувствовать себя комфортно во всей этой ситуации."
+
+# game/v1/scene1.rpy:478
+translate russian v1s1_3c973fd0:
+
+    # ri "I... I completely understand. It definitely makes sense why you wouldn't want that. I just wanted to be honest with you."
+    ri "Я... Я полностью понимаю. Вполне логично, почему ты этого не хочешь. Я просто хотела быть честной с тобой."
+
+# game/v1/scene1.rpy:483
+translate russian v1s1_85f9e6f6:
+
+    # u "Of course, and thank you for that."
+    u "Конечно, и спасибо тебе за это."
+
+# game/v1/scene1.rpy:488
+translate russian v1s1_4ce06083:
+
+    # ri "Yeah, well... I'm gonna go and track down Aubrey, then."
+    ri "Да, хорошо... Тогда я пойлу, разыщу Обри."
+
+# game/v1/scene1.rpy:493
+translate russian v1s1_6bb86faf:
+
+    # u "Oh, o-okay. See you later?"
+    u "О, хорошо. Увидимся позже?"
+
+# game/v1/scene1.rpy:498
+translate russian v1s1_411f38d8:
+
+    # ri "Uh, yeah. Bye."
+    ri "Да. Пока."
+
+# game/v1/scene1.rpy:503
+translate russian v1s1_104440d0:
+
+    # u "See ya."
+    u "Увидимся."
+
+# game/v1/scene1.rpy:508
+translate russian v1s1_d8548058:
+
+    # u "(I don't think she liked hearing that answer.)"
+    u "(Не думаю, что ей понравилось услышать этот ответ.)"
+
+# game/v1/scene1.rpy:514
+translate russian v1s1_bacbb66e:
+
+    # u "Exactly. So go enjoy yourself while you figure out what you wanna do."
+    u "Именно так. Так что иди, делай это и получай удовольствие, пока выясняешь, чем хочешь заниматься."
+
+# game/v1/scene1.rpy:519
+translate russian v1s1_5db9e6de:
+
+    # ri "Haha, okay. I'm gonna go do just that. I'll catch up with you soon?"
+    ri "Хаха, хорошо. Я собираюсь пойти и сделать это. Я скоро тебя догоню?"
+
+# game/v1/scene1.rpy:524
+translate russian v1s1_4b7d694d:
+
+    # u "Yeah, see you soon."
+    u "Да, скоро увидимся."
+
+# game/v1/scene1.rpy:529
+translate russian v1s1_77d655f9:
+
+    # u "(Guess I need to get home myself. I can barely think with all this jetlag.)"
+    u "(Похоже, мне нужно вернуться домой. Я едва могу думать из-за перелета.)"
+

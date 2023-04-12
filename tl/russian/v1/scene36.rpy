@@ -2019,3 +2019,17 @@ translate russian v1s36_e3f23844:
     # u "Yeah. Chloe, who is the current President, and Lindsey are running against each other."
     u "Да. Хлоя, нынешний президент, и Линдси баллотируются друг против друга."
 
+# TODO: Translation updated at 2023-04-11 15:01
+
+# game/v1/scene36.rpy:103
+translate russian v1s36_69374908:
+
+    # u "Oh, all right..."
+    u "О, ладно..."
+
+# game/v1/scene36.rpy:1424
+translate russian v1s36_nsfwSkipLabel1_ccde4faf:
+
+    # u "Yeah! Okay. All right."
+    u "Да! Хорошо."
+

@@ -225,3 +225,17 @@ translate russian v1s13_68f8388e:
     # u "Yeah, man. Whatever you say. But a President is still the boss."
     u "Да, мужик. Как скажешь. Но Президент по-прежнему остаётся боссом."
 
+# TODO: Translation updated at 2023-04-11 15:01
+
+# game/v1/scene13.rpy:47
+translate russian v1s13_4dc99f0e:
+
+    # u "All right, sure, yeah... You make it sound like you're dying, though."
+    u "Хорошо... Ты говоришь так, как в последний раз."
+
+# game/v1/scene13.rpy:117
+translate russian v1s13_47fea160:
+
+    # u "I'm happy to be home, haha. We'll catch up tomorrow, all right? Have a good one."
+    u "Я счастлив быть дома, хаха. Наверстаем упущенное завтра, хорошо? Всего хорошего."
+

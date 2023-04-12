@@ -1417,3 +1417,17 @@ translate russian v1s25_8240a24a:
     # am "I laugh my ass off every time I see one of her victims. Especially the ones I've set up..."
     am "Я смеюсь до упаду каждый раз, когда вижу одну из её жертв. Особенно те, которые я установила..."
 
+# TODO: Translation updated at 2023-04-11 15:01
+
+# game/v1/scene25.rpy:1130
+translate russian v1s25_nsfwSkipLabel2_f0dfccf8:
+
+    # u "(Ha, hard as stone on the outside but a softie on the inside.)"
+    u "(Ха, твёрдый как камень снаружи, но мягкий внутри.)"
+
+# game/v1/scene25.rpy:1137
+translate russian v1s25_nsfwSkipLabel2_91dc1953:
+
+    # u "(Sorry, Amber.)"
+    u "(Прости, Эмбер.)"
+

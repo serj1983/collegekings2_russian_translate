@@ -279,3 +279,11 @@ translate russian v1s42a_597096bc:
     # u "Ha! I'm coming."
     u "Ха! Я иду."
 
+# TODO: Translation updated at 2023-04-11 15:01
+
+# game/v1/scene42a.rpy:209
+translate russian v1s42a_26158b00:
+
+    # u "All right, all right! I'm coming."
+    u "Ладно, ладно! Иду."
+

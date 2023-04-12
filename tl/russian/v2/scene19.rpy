@@ -244,3 +244,11 @@ translate russian strings:
     old "Don't help"
     new "Не помогать"
 
+# TODO: Translation updated at 2023-04-11 15:01
+
+# game/v2/scene19.rpy:276
+translate russian v2s19_PhoneContinueLindsey_49bf6636:
+
+    # la "All right, I'll see you later."
+    la "Ладно, увидимся позже."
+

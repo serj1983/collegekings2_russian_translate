@@ -738,3 +738,11 @@ translate russian strings:
     old "It's not that serious"
     new "Это не так уж серьёзно"
 
+# TODO: Translation updated at 2023-04-11 15:01
+
+# game/v2/scene12.rpy:221
+translate russian v2s12_1adbdd44:
+
+    # u "It's all right. I mean, thank you for asking... But go ahead. You can tell me."
+    u "Всё в порядке. Я имею в виду, спасибо, что спросила... продолжай. Ты можешь мне сказать."
+

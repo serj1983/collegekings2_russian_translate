@@ -757,3 +757,23 @@ translate russian v1s31a_cf595508:
     # u "Tell everyone Chloe is the hotter chick and that the hottest chick should be the Chicks' President."
     u "Скажи всем, что Хлоя - самая горячая цыпочка, и что самая горячая цыпочка должна быть президентом Чикс."
 
+# TODO: Translation updated at 2023-04-11 15:01
+
+# game/v1/scene31a.rpy:47
+translate russian v1s31a_bfa0d062:
+
+    # u "Ha! All right..."
+    u "Ха! Хорошо..."
+
+# game/v1/scene31a.rpy:154
+translate russian v1s31a_71c9ab32:
+
+    # ca "All right, stop the bullshit and say what you need to say."
+    ca "Ладно, прекрати нести чушь и скажи, что хотел сказать."
+
+# game/v1/scene31a.rpy:578
+translate russian v1s31a_0afe4962:
+
+    # ca "Ha... All right."
+    ca "Ха... Хорошо."
+

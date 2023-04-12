@@ -555,3 +555,17 @@ translate russian v1s43d_f5cc5138:
     # u "(As long as I get a passing grade, she can have as much fun as she wants with the class.)"
     u "(Пока я получаю проходной балл, она может развлекаться с классом сколько угодно.)"
 
+# TODO: Translation updated at 2023-04-11 15:01
+
+# game/v1/scene43d.rpy:84
+translate russian v1s43d_40ddaa0c:
+
+    # u "All right, well... What ideas did you have for the scene?"
+    u "Ладно, хорошо... Какие у тебя идеи для сцены?"
+
+# game/v1/scene43d.rpy:280
+translate russian v1s43d_d4a4bb07:
+
+    # ri "All right, so... we're good for next week, then?"
+    ri "Ладно, итак... Значит, на следующей неделе у нас всё хорошо?"
+

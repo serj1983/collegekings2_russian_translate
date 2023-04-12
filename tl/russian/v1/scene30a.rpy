@@ -447,3 +447,11 @@ translate russian v1s30a_d5ff93b3:
     # u "Thanks for coming out here. Bye, Niko!"
     u "Спасибо, что пришли сюда. Пока, Нико!"
 
+# TODO: Translation updated at 2023-04-11 15:01
+
+# game/v1/scene30a.rpy:334
+translate russian v1s30a_a56e3ddb:
+
+    # u "All right."
+    u "Хорошо."
+

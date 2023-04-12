@@ -274,3 +274,11 @@ translate russian strings:
     old "You don't eat donuts?"
     new "А ты не ешь пончики?"
 
+# TODO: Translation updated at 2023-04-11 15:01
+
+# game/v2/scene13.rpy:276
+translate russian v2s13_PhoneContinue_7cdd595c:
+
+    # u "All right, okay. No donuts."
+    u "Хорошо, хорошо. Никаких пончиков."
+

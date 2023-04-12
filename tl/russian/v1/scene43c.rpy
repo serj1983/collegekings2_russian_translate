@@ -819,3 +819,23 @@ translate russian v1s43c_6e78e15f:
     # u "Oh... (I didn't even say bye... maybe she was in a rush?)"
     u "Ох... (Я даже не сказал пока... Может, она торопилась?)"
 
+# TODO: Translation updated at 2023-04-11 15:01
+
+# game/v1/scene43c.rpy:158
+translate russian v1s43c_7e26c7d4:
+
+    # pe "All right, let's improv for a bit and see where it takes us."
+    pe "Хорошо, давай немного поимпровизируем и посмотрим, куда это нас приведёт."
+
+# game/v1/scene43c.rpy:338
+translate russian v1s43c_74220cc9:
+
+    # u "*British accent* All right. Ask me something I'd only know if I was where I said I was that night."
+    u "*Британский акцент* Хорошо. Спроси меня о чем-нибудь, что я узнал бы, только если бы был там, где сказал, что был той ночью."
+
+# game/v1/scene43c.rpy:468
+translate russian v1s43c_a4579e6f:
+
+    # u "(What the...)"
+    u "(Что за...)"
+

@@ -2500,3 +2500,23 @@ translate russian strings:
     old "Threaten Ms. Rose"
     new "Угрожать мисс Роуз"
 
+# TODO: Translation updated at 2023-04-11 15:01
+
+# game/v2/scene21.rpy:881
+translate russian v2s21_e4ddd23a:
+
+    # lee "Oh, all right. Well..."
+    lee "О, ладно. Хорошо..."
+
+# game/v2/scene21.rpy:1273
+translate russian v2s21_dd3d5098:
+
+    # ro "All right, you have my attention."
+    ro "Хорошо, вы привлекли моё внимание."
+
+# game/v2/scene21.rpy:1502
+translate russian v2s21_5bad7212:
+
+    # ro "All right, noted."
+    ro "Хорошо, принято к сведению."
+

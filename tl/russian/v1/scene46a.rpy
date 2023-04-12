@@ -1023,3 +1023,11 @@ translate russian v1s46_nsfwSkipLabel1_1f79ba0b:
     # u "(What the fuck just happened...)"
     u "(Хм, ну это было чертовски интересно...)"
 
+# TODO: Translation updated at 2023-04-11 15:01
+
+# game/v1/scene46a.rpy:227
+translate russian v1s46a_sgb_dffef3e9:
+
+    # u "(Oh, wow... Is this shit actually... working? What did I sign up for here?)"
+    u "(О, вау... Это дерьмо на самом деле... работает? На что я повёлся?)"
+

@@ -986,3 +986,23 @@ translate russian v2s6_f9e68818:
     # cl "I wish I could come, though. I miss you..."
     cl "Жаль, что я не смогу придти. Я скучаю по тебе..."
 
+# TODO: Translation updated at 2023-04-11 15:01
+
+# game/v2/scene6.rpy:200
+translate russian v2s6_926a4555:
+
+    # u "(Me??? I do. Fuck...)"
+    u "(Я??? Обо мне??? Блядь...)"
+
+# game/v2/scene6.rpy:304
+translate russian v2s6_237a4899:
+
+    # u "As long as you continue towards your goal, which is to be President of the Chicks... that IS your goal, yeah?"
+    u "До тех пор, пока ты продолжишь идти к своей цели, чтобы стать президентом клуба... Это же твоя цель, да?"
+
+# game/v2/scene6.rpy:361
+translate russian v2s6_35d90b2c:
+
+    # cl "All right. I have no other choice than to stand tall right now."
+    cl "Хорошо. У меня нет другого выбора, кроме как идти дальше."
+

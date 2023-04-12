@@ -317,3 +317,11 @@ translate russian v1s18_e7e0c7d3:
     # li "I really don't need you to run through the list of reasons why you can't help me."
     li "Мне правда не нужно, чтобы ты перечислял причины, по которым ты не можешь помочь мне."
 
+# TODO: Translation updated at 2023-04-11 15:01
+
+# game/v1/scene18.rpy:62
+translate russian v1s18_3fd16ed2:
+
+    # u "Ha, all right. Just don't work yourself too hard."
+    u "Ха, хорошо. Только не перетрудись."
+

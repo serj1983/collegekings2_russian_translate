@@ -481,3 +481,11 @@ translate russian v1s44_b62243d0:
     # u "Okay, bud. Then tell me another truth, what did you send-"
     u "Хорошо, дружище. Тогда скажи мне другую правду, что ты послал..."
 
+# TODO: Translation updated at 2023-04-11 15:01
+
+# game/v1/scene44.rpy:301
+translate russian v1s44_3054bacc:
+
+    # elm "All right, we're leaving. Bye, [name]!"
+    elm "Хорошо, мы уходим. Пока, [name]!"
+

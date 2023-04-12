@@ -491,3 +491,11 @@ translate russian v1s22_end_e90950cf:
     # li "I may have permission to use this place, but I don't like being in their way when they're trying to get their job done."
     li "Возможно, у меня есть разрешение на использование этого места, но мне не нравится быть на их пути, когда они пытаются выполнить свою работу."
 
+# TODO: Translation updated at 2023-04-11 15:01
+
+# game/v1/scene22.rpy:271
+translate russian v1s22_sell_car_c11d1b14:
+
+    # u "Yeah, I think we'll be all right. I'm quite confident in myself."
+    u "Да, я считаю, что всё будет хорошо. Я вполне уверен в себе."
+

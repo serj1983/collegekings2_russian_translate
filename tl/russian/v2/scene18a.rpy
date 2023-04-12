@@ -2597,3 +2597,29 @@ translate russian strings:
     old "Yeah, I do"
     new "Да, нужна"
 
+# TODO: Translation updated at 2023-04-11 15:01
+
+# game/v2/scene18a.rpy:729
+translate russian v2s18a_AutumPenelope_1fa6f205:
+
+    # aut "Oh, yeah! Penelope, do you like dogs?"
+    aut "О, да! Пенелопа, ты любишь собак?"
+
+# game/v2/scene18a.rpy:1350
+translate russian v2s18a_ImreLauren_879d262e:
+
+    # u "All right, I should go check in with the others. See you two in a bit!"
+    u "Хорошо, пойду проверю остальных. Увидимся!"
+
+# game/v2/scene18a.rpy:1581
+translate russian v2s18a_Riley_4c350901:
+
+    # u "All right, here you go."
+    u "Хорошо, вот."
+
+# game/v2/scene18a.rpy:1724
+translate russian v2s18a_Riley_2d7e950a:
+
+    # u "Hmm... all right, then."
+    u "Хм... тогда ладно."
+
