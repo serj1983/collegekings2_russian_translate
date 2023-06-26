@@ -979,3 +979,305 @@ translate russian v1s51Chloe_PhoneContinue_bb53a663:
     # u "*Whispers* Anyways, I better get home. I'm getting a little tired after all that action."
     u "*Шёпотом* В общем, мне пора домой. Я немного устал после всего экшена."
 
+# TODO: Translation updated at 2023-06-23 11:22
+
+# game/v1/scene51.rpy:73
+translate russian v1s51_text_e4edb176:
+
+    # u "(I should reply to Chloe.)"
+    u "(Я должен ответить Хлое.)"
+
+# game/v1/scene51.rpy:75
+translate russian v1s51_text_d764307a:
+
+    # u "(*Sighs* I can't worry right now about Chloe being angry with me. Back to the search.)"
+    u "(*Вздох* Не хочу сейчас беспокоиться о том, что Хлоя сердится на меня. Вернёмся к поиску.)"
+
+# game/v1/scene51.rpy:603
+translate russian v1s51_continue_f9e9813d:
+
+    # u "(I should reply to Lindsey.)"
+    u "(Я должен ответить Линдси.)"
+
+# game/v1/scene51.rpy:608
+translate russian v1s51_continue_e81c1e19:
+
+    # u "(Uh oh... it's a message from Chloe...)"
+    u "(О-о-о... это сообщение от Хлои...)"
+
+# game/v1/scene51.rpy:632
+translate russian v1s51_continue_dfcbd50d:
+
+    # li "*Whispers* Thank God that's over!"
+    li "*Шёпотом* Слава Богу, всё закончилось!"
+
+# game/v1/scene51.rpy:635
+translate russian v1s51_continue_a552f471:
+
+    # li "*Whispers* What was that loud bang?! Was that you?"
+    li "*Шёпотом* Что это был за громкий хлопок?! Это был ты?"
+
+# game/v1/scene51.rpy:637
+translate russian v1s51_continue_a692497c:
+
+    # li "*Whispers* Happy to see you survived!"
+    li "*Шепотом* Рада видеть, что ты выжил!"
+
+# game/v1/scene51.rpy:643
+translate russian v1s51_continue_af549b83:
+
+    # u "*Whispers* Yeah, that was me risking my life by jumping out of the bathroom window!"
+    u "*Шёпотом* Да, это я рисковал своей жизнью, выпрыгивая из окна ванной!"
+
+# game/v1/scene51.rpy:645
+translate russian v1s51_continue_498f1b58:
+
+    # u "*Whispers* Yeah, my body is intact, but my nerves are shot."
+    u "*Шёпотом* Да, физически цел, но нервишки шалят."
+
+# game/v1/scene51.rpy:651
+translate russian v1s51_continue_91298ff4:
+
+    # li "*Whispers* Oh shit..."
+    li "*Шёпотом* Вот дерьмо..."
+
+# game/v1/scene51.rpy:656
+translate russian v1s51_continue_24057a0f:
+
+    # u "*Whispers* Oh shit is right."
+    u "*Шепотом* Это дерьмо, верно."
+
+# game/v1/scene51.rpy:661
+translate russian v1s51_continue_9bc94be1:
+
+    # li "*Whispers* Aubrey heard it."
+    li "*Шёпотом* Обри услышала."
+
+# game/v1/scene51.rpy:666
+translate russian v1s51_continue_fdbce207:
+
+    # u "Oh..."
+    u "Ох..."
+
+# game/v1/scene51.rpy:671
+translate russian v1s51_continue_746f0beb:
+
+    # li "I thought it must have been you, so I just said something about how I think we've got a nest of pigeons."
+    li "Я подумала, что это, должно быть, ты, поэтому я сказала, что, у нас есть голубиное гнездо."
+
+# game/v1/scene51.rpy:673
+translate russian v1s51_continue_fb866a8f:
+
+    # li "I always hear them banging like that."
+    li "Я всегда слышу, как они так стучат."
+
+# game/v1/scene51.rpy:678
+translate russian v1s51_continue_06f38abc:
+
+    # u "*Whispers* Fucking pigeons."
+    u "*Шёпотом* Ёбаные голуби."
+
+# game/v1/scene51.rpy:683
+translate russian v1s51_continue_84e77792:
+
+    # li "*Whispers* I'm glad you survived."
+    li "*Шёпотом* Я рада, что ты выжил."
+
+# game/v1/scene51.rpy:688
+translate russian v1s51_continue_201fd9bb:
+
+    # u "*Whispers* Yeah, just about."
+    u "*Шепотом* Да, почти."
+
+# game/v1/scene51.rpy:691
+translate russian v1s51_continue_1fe05248:
+
+    # li "*Whispers* I'm proud of you."
+    li "*Шёпотом* Я горжусь тобой."
+
+# game/v1/scene51.rpy:697
+translate russian v1s51_continue_69844942:
+
+    # u "*Whispers* I'm sorry, but I didn't find any money."
+    u "*Шёпотом* Прости, но я не нашёл денег."
+
+# game/v1/scene51.rpy:702
+translate russian v1s51_continue_2bd0d87c:
+
+    # li "*Whispers* Seriously? Ugh! She must have hidden it somewhere insane."
+    li "*Шёпотом* Серьезно? Ух! Она, должно быть, спрятала его где-то в безумном месте."
+
+# game/v1/scene51.rpy:707
+translate russian v1s51_continue_7cfe10b4:
+
+    # u "*Whispers* Yeah, I did my best. Sorry, Linds."
+    u "*Шёпотом* Да, я старался изо всех сил. Прости, Линдс."
+
+# game/v1/scene51.rpy:712
+translate russian v1s51_continue_1ad9c34d:
+
+    # li "*Whispers* I know, yeah... my campaign is really going to suffer without that money."
+    li "*Шёпотом* Я знаю, да... Моя кампания очень пострадает без этих денег."
+
+# game/v1/scene51.rpy:717
+translate russian v1s51_continue_e18e3349:
+
+    # u "*Whispers* Well, I did find this..."
+    u "*Шёпотом* Ну, я нашел это..."
+
+# game/v1/scene51.rpy:722
+translate russian v1s51_continue_b34f7b8d:
+
+    # li "*Whispers* Chloe's diary?!"
+    li "*Шёпотом* Дневник Хлои?!"
+
+# game/v1/scene51.rpy:727
+translate russian v1s51_continue_fd25579d:
+
+    # u "*Whispers* It might have some useful information for you."
+    u "Шёпотом* Там может быть полезная информация для тебя."
+
+# game/v1/scene51.rpy:732
+translate russian v1s51_continue_253b0bab:
+
+    # li "*Whispers* True. That's a great idea, [name]. Thanks for getting this, at least. Really sucks about the money, though."
+    li "*Шёпотом* Правда. Отличная идея, [name]. Спасибо, что хоть это получилось. Хотя с деньгами действительно хреново."
+
+# game/v1/scene51.rpy:737
+translate russian v1s51_continue_a320bbe2:
+
+    # u "*Whispers* Yeah. I know, I'm really sorry."
+    u "*Шёпотом* Да. Я знаю, мне очень жаль."
+
+# game/v1/scene51.rpy:739
+translate russian v1s51_continue_ae49f2f9:
+
+    # u "*Whispers* I should really get home now. Getting a little tired."
+    u "*Шёпотом* Мне уже пора домой. Немного устал."
+
+# game/v1/scene51.rpy:744
+translate russian v1s51_continue_ca7332dd:
+
+    # li "*Whispers* Yeah, okay. Thanks again. See you..."
+    li "*Шёпотом* Я не знаю, что сказать. Я сделал всё, что мог... Мне жаль."
+
+# game/v1/scene51.rpy:753
+translate russian v1s51_continue_3fdbc86f:
+
+    # u "*Whispers* I'm so sorry, Linds. I didn't find anything."
+    u "*Шёпотом* Мне так жаль, Линдс. Я ничего не нашёл."
+
+# game/v1/scene51.rpy:758
+translate russian v1s51_continue_0ee82982:
+
+    # li "*Whispers* What? How?! That money must be in her room somewhere, [name]."
+    li "*Шёпотом* Что? Почему?! Эти деньги должны быть где-то в её комнате, [name]."
+
+# game/v1/scene51.rpy:763
+translate russian v1s51_continue_15988bd5:
+
+    # u "*Whispers* I don't know what to say. I did my best... I'm sorry."
+    u "*Шёпотом* Я не знаю, что сказать. Я сделал всё, что мог... Мне жаль."
+
+# game/v1/scene51.rpy:768
+translate russian v1s51_continue_d40a8ae6:
+
+    # li "*Whispers* I'm sure you did, [name], but that doesn't help my campaign. *Sighs*"
+    li "*Шёпотом* Я уверена, что ты сделал это, [name], но это не поможет моей кампании. *Вздыхает*"
+
+# game/v1/scene51.rpy:770
+translate russian v1s51_continue_7f1bf42b:
+
+    # li "Thanks for trying anyway."
+    li "Всё равно спасибо за попытку."
+
+# game/v1/scene51.rpy:775
+translate russian v1s51_continue_ae49f2f9_1:
+
+    # u "*Whispers* I should really get home now. Getting a little tired."
+    u "*Шёпотом* Мне уже пора домой. Немного устал."
+
+# game/v1/scene51.rpy:780
+translate russian v1s51_continue_ca7332dd_1:
+
+    # li "*Whispers* Yeah, okay. Thanks again. See you..."
+    li "*Шёпотом* Да, хорошо. Еще раз спасибо. Увидимся..."
+
+# game/v1/scene51.rpy:794
+translate russian v1s51_continue_ca8f77cb:
+
+    # u "*Whispers* Here's what I managed to find."
+    u "*Шёпотом* Вот что мне удалось найти."
+
+# game/v1/scene51.rpy:799
+translate russian v1s51_continue_7bd8212d:
+
+    # li "*Whispers* This is... amazing! This is going to help tremendously, [name]! You're incredible."
+    li "*Шёпотом* Это... потрясающе! Это очень поможет, [name]! Ты невероятен."
+
+# game/v1/scene51.rpy:804
+translate russian v1s51_continue_d61475a5:
+
+    # u "*Whispers* So it was worth risking my life for, then?"
+    u "*Шёпотом* Значит, ради этого стоило рисковать жизнью?"
+
+# game/v1/scene51.rpy:809
+translate russian v1s51_continue_a80c446e:
+
+    # li "*Whispers* Of course!"
+    li "*Шёпотом* Конечно!"
+
+# game/v1/scene51.rpy:817
+translate russian v1s51_continue_9454ebe1:
+
+    # u "*Whispers* I also found this..."
+    u "*Шёпотом* Я также нашел это..."
+
+# game/v1/scene51.rpy:822
+translate russian v1s51_continue_440fb94f:
+
+    # li "*Whispers* What's that... wait, Chloe's... diary?"
+    li "*Шёпотом* Что это... Подожди, дневник Хлои?"
+
+# game/v1/scene51.rpy:827
+translate russian v1s51_continue_0224825d:
+
+    # u "*Whispers* Yeah. You might find something useful there, but it's locked."
+    u "*Шёпотом* Да. Ты можешь найти там что-нибудь полезное, но он заперт."
+
+# game/v1/scene51.rpy:832
+translate russian v1s51_continue_73adc116:
+
+    # li "*Whispers* I'm sure I can get it open. This is crazy!"
+    li "*Шёпотом* Я уверена, что смогу открыть его, это безумие!"
+
+# game/v1/scene51.rpy:837
+translate russian v1s51_continue_0dacddb5:
+
+    # u "*Whispers* Your best friend, the janitor, can probably help."
+    u "*Шёпотом* Твой лучший друг, уборщик, может помочь."
+
+# game/v1/scene51.rpy:842
+translate russian v1s51_continue_24edef7f:
+
+    # li "*Whispers* True, he probably can."
+    li "*Шёпотом* Правда, возможно, он сможет."
+
+# game/v1/scene51.rpy:847
+translate russian v1s51_continue_bb53a663:
+
+    # u "*Whispers* Anyways, I better get home. I'm getting a little tired after all that action."
+    u "*Шёпотом* В общем, мне пора домой. Я немного устал после всего этого, хаха."
+
+# game/v1/scene51.rpy:852
+translate russian v1s51_continue_cfb3f935:
+
+    # li "*Whispers* Okay. Thank you, [name]. I really mean it. You did an amazing job."
+    li "*Шёпотом* Хорошо. Спасибо, [name]. Я действительно это имею в виду. Ты проделал потрясающую работу."
+
+# game/v1/scene51.rpy:857
+translate russian v1s51_continue_135005ae:
+
+    # u "*Whispers* Anytime, Linds."
+    u "*Шёпотом* В любое время, Линдс."
+

@@ -566,3 +566,95 @@ translate russian v2s17_giftwrap_5914eb0c:
     # u "That's great, thanks!"
     u "Это здорово, спасибо!"
 
+# TODO: Translation updated at 2023-06-23 11:22
+
+# game/v2/scene17.rpy:463
+translate russian v2s17_gift_choice_ca829ded:
+
+    # clerk "A pretty little package!"
+    clerk "Хорошенькая маленькая упаковка!"
+
+# game/v2/scene17.rpy:468
+translate russian v2s17_gift_choice_5914eb0c:
+
+    # u "That's great, thanks!"
+    u "Ха, это здорово."
+
+# game/v2/scene17.rpy:473
+translate russian v2s17_gift_choice_a2f18a38:
+
+    # clerk "Is there anything else I can help you with today?"
+    clerk "Что-нибудь ещё, чем я могу вам помочь?"
+
+# game/v2/scene17.rpy:478
+translate russian v2s17_gift_choice_c2528d8c:
+
+    # u "I don't think so... oh, wait. There is."
+    u "Не думаю... О, подождите. Есть кое-что."
+
+# game/v2/scene17.rpy:480
+translate russian v2s17_gift_choice_a9c0061d:
+
+    # u "It's a costume party."
+    u "Это костюмированная вечеринка."
+
+# game/v2/scene17.rpy:485
+translate russian v2s17_gift_choice_8fad217d:
+
+    # clerk "Oh, boy. You know, we are very low on costumes. We only have one left."
+    clerk "Ох, мальчик. Вы знаете, у нас почти нет костюмов. Есть только один."
+
+# game/v2/scene17.rpy:490
+translate russian v2s17_gift_choice_698d51da:
+
+    # u "Really? Damn. I guess I'll take it."
+    u "Правда? Чёрт. Думаю, я возьму его."
+
+# game/v2/scene17.rpy:495
+translate russian v2s17_gift_choice_fc55f26e:
+
+    # clerk "You don't want to see it first?"
+    clerk "Вы не хотите сначала взглянуть?"
+
+# game/v2/scene17.rpy:500
+translate russian v2s17_gift_choice_9621050e:
+
+    # u "There's really no point if it's the only one you have. I don't have time to stop anywhere else."
+    u "Невижу смысла, если он единственный. У меня нету времени задерживаться ещё."
+
+# game/v2/scene17.rpy:505
+translate russian v2s17_gift_choice_11479446:
+
+    # clerk "Very well, then..."
+    clerk "Тогда хорошо..."
+
+# game/v2/scene17.rpy:510
+translate russian v2s17_gift_choice_aa5e0c8c:
+
+    # u "I'm sure it'll fit."
+    u "Уверен, что он подойдет."
+
+# game/v2/scene17.rpy:515
+translate russian v2s17_gift_choice_90264ba5:
+
+    # clerk "Yes, one size fits all! I'll just put it in the bag for you."
+    clerk "Да, там один размер на всех! Я положу его в пакет."
+
+# game/v2/scene17.rpy:520
+translate russian v2s17_gift_choice_3af8310e:
+
+    # u "Thank you again."
+    u "Ещё раз спасибо."
+
+# game/v2/scene17.rpy:540
+translate russian v2s17_gift_choice_ababf478:
+
+    # clerk "Have a great night! Tell Miss Lauren I said Happy Birthday!"
+    clerk "Хорошего вечера! Передайте мисс Лорен, что я тоже поздравляю её с Днем Рождения!"
+
+# game/v2/scene17.rpy:545
+translate russian v2s17_gift_choice_d724ec45:
+
+    # u "You got it!"
+    u "Я понял!"
+

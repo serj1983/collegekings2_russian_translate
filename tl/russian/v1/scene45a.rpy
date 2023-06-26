@@ -793,3 +793,149 @@ translate russian v1s45a_15d7f47b:
     # u "*Sighs* All right. Let's hope so."
     u "*Вздох* Хорошо. Будем надеяться."
 
+# TODO: Translation updated at 2023-06-23 11:22
+
+# game/v1/scene45a.rpy:403
+translate russian v1s45a_f9e9813d:
+
+    # u "(I should reply to Lindsey.)"
+    u "(Я должен ответить Линдси.)"
+
+# game/v1/scene45a.rpy:416
+translate russian v1s45a_72284aec:
+
+    # u "Perfect timing..."
+    u "Идеальное время..."
+
+# game/v1/scene45a.rpy:421
+translate russian v1s45a_fcfea652:
+
+    # u "Hello?"
+    u "Алло?"
+
+# game/v1/scene45a.rpy:426
+translate russian v1s45a_564e5ff6:
+
+    # li "Hey, now's the perfect time."
+    li "Эй, сейчас самое подходящее время."
+
+# game/v1/scene45a.rpy:431
+translate russian v1s45a_d88c225f:
+
+    # u "For?"
+    u "Для чего?"
+
+# game/v1/scene45a.rpy:436
+translate russian v1s45a_e9d0d8f9:
+
+    # li "The Chloe, distraction? C'mon now..."
+    li "Хлоя, отвлечение внимания. Давай же..."
+
+# game/v1/scene45a.rpy:441
+translate russian v1s45a_c1a53fcb:
+
+    # u "Yeah, yeah... I was just testing you."
+    u "Да, да... Я просто проверял тебя."
+
+# game/v1/scene45a.rpy:443
+translate russian v1s45a_e7b40095:
+
+    # u "Call me in five. I'm gonna start heading over..."
+    u "Позвони мне через 5 минут, я собираюсь отправиться туда..."
+
+# game/v1/scene45a.rpy:448
+translate russian v1s45a_63324e3f:
+
+    # li "Perfect! See you soon..."
+    li "Идеально! До скорой встречи..."
+
+# game/v1/scene45a.rpy:453
+translate russian v1s45a_3e4b5df7:
+
+    # u "Cya!"
+    u "Приветствую!"
+
+# game/v1/scene45a.rpy:468
+translate russian v1s45a_72284aec_1:
+
+    # u "Perfect timing..."
+    u "Идеальное время..."
+
+# game/v1/scene45a.rpy:473
+translate russian v1s45a_fcfea652_1:
+
+    # u "Hello?"
+    u "Алло?"
+
+# game/v1/scene45a.rpy:478
+translate russian v1s45a_dfa1894d:
+
+    # li "Hey, we need to go ahead and take pictures of my car if we're planning on selling it. Think you can come meet me and take some now?"
+    li "Эй, нам нужно сделать фотографии моей машины, если мы планируем её продать. Как считаешь, ты сможешь встретиться со мной и сделать несколько снимков сейчас?"
+
+# game/v1/scene45a.rpy:483
+translate russian v1s45a_7e1c2ccc:
+
+    # u "Yeah, I can. Where are you?"
+    u "Да, могу. Где ты?"
+
+# game/v1/scene45a.rpy:488
+translate russian v1s45a_6db5eee4:
+
+    # li "In the parking lot off Wayside?"
+    li "На парковке у Уэйсайда."
+
+# game/v1/scene45a.rpy:493
+translate russian v1s45a_e3f513b0:
+
+    # u "I was just there, actually."
+    u "Я только что оттуда, вообще-то."
+
+# game/v1/scene45a.rpy:498
+translate russian v1s45a_994ff779:
+
+    # li "Oh damn, sorry."
+    li "О, чёрт, прости."
+
+# game/v1/scene45a.rpy:504
+translate russian v1s45a_70b3c2fb:
+
+    # u "Don't apologize. I'll be right there."
+    u "Не извиняйся. Сейчас приду."
+
+# game/v1/scene45a.rpy:506
+translate russian v1s45a_b44ac10f:
+
+    # u "*Sighs* I'm on my way back."
+    u "*Вздох* Уже возвращаюсь."
+
+# game/v1/scene45a.rpy:512
+translate russian v1s45a_c8163e36:
+
+    # li "Thank you, handsome..."
+    li "Спасибо, красавчик..."
+
+# game/v1/scene45a.rpy:514
+translate russian v1s45a_e7ae3a38:
+
+    # li "Thank you!"
+    li "Спасибо!"
+
+# game/v1/scene45a.rpy:520
+translate russian v1s45a_9b08ec32:
+
+    # u "Yeah, yeah..."
+    u "Да, да..."
+
+# game/v1/scene45a.rpy:522
+translate russian v1s45a_164fa10c:
+
+    # u "Uh-huh..."
+    u "Ага..."
+
+# game/v1/scene45a.rpy:527
+translate russian v1s45a_ce42f6b4:
+
+    # li "See you soon."
+    li "Скоро увидимся."
+

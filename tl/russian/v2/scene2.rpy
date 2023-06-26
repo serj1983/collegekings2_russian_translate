@@ -493,3 +493,71 @@ translate russian strings:
     old "Shrug it off"
     new "Отмахнись от этого"
 
+# TODO: Translation updated at 2023-06-23 11:22
+
+# game/v2/scene2.rpy:351
+translate russian v2s2_e4edb176:
+
+    # u "(I should reply to Chloe.)"
+    u "(Я должен ответить Хлое.)"
+
+# game/v2/scene2.rpy:356
+translate russian v2s2_cc6e6768:
+
+    # u "(I should reply to Autumn.)"
+    u "(Я должен ответить Отэм.)"
+
+# game/v2/scene2.rpy:358
+translate russian v2s2_c47a28cf:
+
+    # u "(Almost forgot about that... It'll be interesting to spend some one-on-one time with Autumn.)"
+    u "(Чуть не забыл об этом... Будет интересно провести некоторое время один на один с Отэм.)"
+
+# game/v2/scene2.rpy:360
+translate russian v2s2_41d31444:
+
+    # u "(Should probably set an alarm...)"
+    u "(Вероятно, следует установить будильник...)"
+
+# game/v2/scene2.rpy:362
+translate russian v2s2_e073a9aa:
+
+    # u "(And... done. Now, it's time for be-)"
+    u "(И... готово. Теперь пришло время...)"
+
+# game/v2/scene2.rpy:377
+translate russian v2s2_83c30440:
+
+    # u "(The hell?)"
+    u "(Какого чёрта?)"
+
+# game/v2/scene2.rpy:384
+translate russian v2s2_74b1820e:
+
+    # u "(\"Dress to impress your ghoulish empress...\")"
+    u "(\"Оденься, чтобы произвести впечатление на свою злую императрицу...\")"
+
+# game/v2/scene2.rpy:386
+translate russian v2s2_fa544629:
+
+    # u "(Guess I need to go gift shopping...)"
+    u "(Думаю, мне нужно пройтись по магазинам подарков...)"
+
+# game/v2/scene2.rpy:388
+translate russian v2s2_92918464:
+
+    # u "(Maybe Autumn can give me ideas on what Lauren would like, or I can just get her some kind of gift card. She likes books, I think?)"
+    u "(Может быть, Отэм подскажет мне, чего бы захотела Лорен, или я могу просто подарить ей какую-нибудь подарочную карту... Думаю, она любит книги?)"
+
+# game/v2/scene2.rpy:398
+translate russian v2s2_e753f65c:
+
+    # u "(Finally...)"
+    u "(Наконец-то...)"
+
+# game/v2/scene2.rpy:415
+translate russian v2s2_97bf1824:
+
+    # u "*Groans* (No time for a snooze today. Need to get up.)"
+    u "*Зевает* (Сегодня нет времени на валяние в постеле... Нужно вставать.)"
+

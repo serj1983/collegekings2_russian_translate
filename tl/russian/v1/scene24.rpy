@@ -25,3 +25,29 @@ translate russian v1s24_PhoneContinueAmber_1766ecfb:
     # u "(I'm gonna go ahead and get her something from the gas station.)"
     u "(Я собираюсь пойти и купить ей что-нибудь на заправке)."
 
+# TODO: Translation updated at 2023-06-23 11:22
+
+# game/v1/scene24.rpy:24
+translate russian v1s24_88d710ce:
+
+    # u "(I should check my phone.)"
+    u "(Я должен проверить свой телефон.)"
+
+# game/v1/scene24.rpy:29
+translate russian v1s24_3370cc73:
+
+    # u "*Sighs* (She's been acting off for a few days and now she \"could use a friend\"... Who knows what's going on now.)"
+    u ""
+
+# game/v1/scene24.rpy:35
+translate russian v1s24_35d926e6:
+
+    # u "(Oh, shit... You know what? I still have some extra money from that scummy night gambler.)"
+    u "*Вздох* Она вела себя странно несколько дней, и теперь ей \"не помешал бы друг\"... Кто знает, что происходит."
+
+# game/v1/scene24.rpy:40
+translate russian v1s24_1766ecfb:
+
+    # u "(I'm gonna go ahead and get her something from the gas station.)"
+    u "(Надо бы пойти и купить ей что-нибудь на заправке.)"
+

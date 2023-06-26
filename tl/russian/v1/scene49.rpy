@@ -187,3 +187,101 @@ translate russian v1s49Chloe_PhoneContinue_56078fcc:
     # u "Okay, boss lady."
     u "Хорошо, леди-босс."
 
+# TODO: Translation updated at 2023-06-23 11:22
+
+# game/v1/scene49.rpy:33
+translate russian v1s49_f9e9813d:
+
+    # u "(I should reply to Lindsey.)"
+    u "(Я должен ответить Линдси.)"
+
+# game/v1/scene49.rpy:39
+translate russian v1s49_33671ad1:
+
+    # u "Hey, Lindsey."
+    u "Привет, Линдси."
+
+# game/v1/scene49.rpy:44
+translate russian v1s49_433518ef:
+
+    # li "Hey, now is the perfect time. Text Chloe and tell her to meet you at Classico Cuisine."
+    li "Эй, сейчас самое подходящее время. Напиши Хлое и попроси её встретиться с тобой в Classico Cuisine."
+
+# game/v1/scene49.rpy:50
+translate russian v1s49_93b710e4:
+
+    # u "Oh, right. Yeah."
+    u "О, точно. Ага."
+
+# game/v1/scene49.rpy:55
+translate russian v1s49_62794ff8:
+
+    # li "I'll stay on the phone while you do it so we can make sure she actually takes the bait."
+    li "Я останусь на телефоне, пока ты это делаешь, чтобы мы могли убедиться, что она действительно заглотила наживку."
+
+# game/v1/scene49.rpy:60
+translate russian v1s49_b8019a20:
+
+    # u "Okay, I'm texting her now."
+    u "Хорошо, я пишу ей сейчас."
+
+# game/v1/scene49.rpy:80
+translate russian v1s49_e4edb176:
+
+    # u "(I should reply to Chloe.)"
+    u "(Я должен ответить Хлое.)"
+
+# game/v1/scene49.rpy:85
+translate russian v1s49_ceb12c3b:
+
+    # u "Okay, seems to me like she took the bait."
+    u "Ладно, мне кажется, что она заглотила наживку."
+
+# game/v1/scene49.rpy:90
+translate russian v1s49_3b0207b3:
+
+    # li "Okay, hang on."
+    li "Ладно, погоди."
+
+# game/v1/scene49.rpy:92
+translate russian v1s49_9e717813:
+
+    # li "..."
+    li "..."
+
+# game/v1/scene49.rpy:94
+translate russian v1s49_19dedf50:
+
+    # li "Oh! I can hear her heading to the door now. I'm just checking out the window."
+    li "О! Теперь я слышу, как она направляется к двери. Я просто смотрю в окно."
+
+# game/v1/scene49.rpy:96
+translate russian v1s49_9a33edf3:
+
+    # li "She's getting into an Uber! Nice!"
+    li "Она садится в Uber! Мило!"
+
+# game/v1/scene49.rpy:101
+translate russian v1s49_c54fe661:
+
+    # u "Success!"
+    u "Это успех!"
+
+# game/v1/scene49.rpy:106
+translate russian v1s49_66c3b853:
+
+    # li "Hurry here. Don't be long."
+    li "Скорее сюда. Не задерживайся."
+
+# game/v1/scene49.rpy:111
+translate russian v1s49_56078fcc:
+
+    # u "Okay, boss lady."
+    u "Хорошо, леди-босс."
+
+# game/v1/scene49.rpy:123
+translate russian v1s49_e1887f70:
+
+    # u "(Time to commit the perfect crime.)"
+    u "(Время совершить идеальное преступление.)"
+

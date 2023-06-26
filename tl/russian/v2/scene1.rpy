@@ -829,3 +829,71 @@ translate russian v2s1_ed76dbb2:
     # u "All right, that's fair..."
     u "Ладно, это справедливо..."
 
+# TODO: Translation updated at 2023-06-23 11:22
+
+# game/v2/scene1.rpy:546
+translate russian v2s1_saynothing_e4edb176:
+
+    # u "(I should reply to Chloe.)"
+    u "(Я должен ответить Хлое.)"
+
+# game/v2/scene1.rpy:551
+translate russian v2s1_saynothing_cc6e6768:
+
+    # u "(I should reply to Autumn.)"
+    u "(Я должен ответить Отэм.)"
+
+# game/v2/scene1.rpy:556
+translate russian v2s1_saynothing_b7b0c8a3:
+
+    # u "(Almost forgot about that... It'll be interesting to spend one on one time with Autumn.)"
+    u "(Почти забыл... Будет интересно провести время вместе с Отэм.)"
+
+# game/v2/scene1.rpy:558
+translate russian v2s1_saynothing_1c0447be:
+
+    # u "(I'd better set an alarm so I'm not late.)"
+    u "(Мне лучше завести будильник, чтобы не проспать.)"
+
+# game/v2/scene1.rpy:563
+translate russian v2s1_saynothing_13fff0aa:
+
+    # u "(And done. Now, it's time for be-)"
+    u "(Сделано. Теперь пора...)"
+
+# game/v2/scene1.rpy:570
+translate russian v2s1_saynothing_83c30440:
+
+    # u "(The hell?)"
+    u "(Какого черта?)"
+
+# game/v2/scene1.rpy:580
+translate russian v2s1_saynothing_74b1820e:
+
+    # u "(\"Dress to impress your ghoulish empress...\")"
+    u "(\"Оденься, чтобы произвести впечатление на свою злую императрицу...\")"
+
+# game/v2/scene1.rpy:582
+translate russian v2s1_saynothing_0b8d9d08:
+
+    # u "(Guess I need to go gift shopping. Maybe Autumn can give me ideas on what Lauren would like?)"
+    u "(Похоже, мне нужно отправляться за подарками... Может быть, Отэм подскажет мне, чего бы захотела Лорен?)"
+
+# game/v2/scene1.rpy:584
+translate russian v2s1_saynothing_0dbad9bb:
+
+    # u "(Or I can just get her some kind of gift card, 'cause... she likes books, I think?)"
+    u "(Или я могу просто подарить ей какую-нибудь подарочную карту... Она любит книги, так ведь?)"
+
+# game/v2/scene1.rpy:589
+translate russian v2s1_saynothing_744e02a2:
+
+    # u "(Now it's really time for bed...)"
+    u "(Теперь действительно пора спать...)"
+
+# game/v2/scene1.rpy:616
+translate russian v2s1_saynothing_dac778a7:
+
+    # u "*Groans* (No time for snoozing today. Need to get up.)"
+    u "*Зевает* (Сегодня нет времени на валяние в постеле... Нужно вставать.)"
+

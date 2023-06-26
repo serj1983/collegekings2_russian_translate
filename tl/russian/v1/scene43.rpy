@@ -137,3 +137,101 @@ translate russian v1s43_PhoneContinueEmily_cbb87f53:
     # u "Good one."
     u "Хорошо."
 
+# TODO: Translation updated at 2023-06-23 11:22
+
+# game/v1/scene43.rpy:50
+translate russian v1s43_88d710ce:
+
+    # u "(I should check my phone.)"
+    u "(Я должен проверить свой телефон.)"
+
+# game/v1/scene43.rpy:55
+translate russian v1s43_dc078773:
+
+    # u "(Glad to see Emily's still up to no good.)"
+    u "(Рад видеть, что Эмили всё ещё ничего хорошего не замышляет.)"
+
+# game/v1/scene43.rpy:70
+translate russian v1s43_9c004e59:
+
+    # u "This seat taken?"
+    u "Это место занято?"
+
+# game/v1/scene43.rpy:76
+translate russian v1s43_caafc8e1:
+
+    # pe "Saved, actually."
+    pe "Вообще-то, занято."
+
+# game/v1/scene43.rpy:78
+translate russian v1s43_74e10c99:
+
+    # pe "That depends..."
+    pe "Это зависит от..."
+
+# game/v1/scene43.rpy:84
+translate russian v1s43_cab2a430:
+
+    # u "Oh?"
+    u "А?"
+
+# game/v1/scene43.rpy:86
+translate russian v1s43_c386ccf3:
+
+    # u "On what?"
+    u "От чего?"
+
+# game/v1/scene43.rpy:92
+translate russian v1s43_8e880ca5:
+
+    # pe "For this cute guy with brown fluffy hair and an amazing smile."
+    pe "Для милого парня с каштановыми пушистыми волосами и удивительной улыбкой."
+
+# game/v1/scene43.rpy:102
+translate russian v1s43_dc2c1e9f:
+
+    # pe "Sit down already, weirdo."
+    pe "Садись уже, чудик."
+
+# game/v1/scene43.rpy:105
+translate russian v1s43_f2b59b77:
+
+    # pe "Which type of bear is best?"
+    pe "Какой тип медведя лучше?"
+
+# game/v1/scene43.rpy:110
+translate russian v1s43_711d81c8:
+
+    # u "What? What do you-"
+    u "Что? Что ты..."
+
+# game/v1/scene43.rpy:115
+translate russian v1s43_bdc66e6f:
+
+    # pe "False. Black bear."
+    pe "Ложь. Чёрный медведь."
+
+# game/v1/scene43.rpy:120
+translate russian v1s43_478ca63d:
+
+    # u "Wait, how do you even-"
+    u "Подожди, что это вообще-"
+
+# game/v1/scene43.rpy:125
+translate russian v1s43_dd1302a2:
+
+    # pe "Sit down already, would you? People are starting to stare..."
+    pe "Сядь уже. А то люди уже начинают пялиться..."
+
+# game/v1/scene43.rpy:135
+translate russian v1s43_cbb87f53:
+
+    # u "Good one."
+    u "Хорошо."
+
+# game/v1/scene43.rpy:140
+translate russian v1s43_fb5c9743:
+
+    # pe "Thank you."
+    pe "Благодарю."
+

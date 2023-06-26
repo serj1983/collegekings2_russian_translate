@@ -499,3 +499,59 @@ translate russian v1s22_sell_car_c11d1b14:
     # u "Yeah, I think we'll be all right. I'm quite confident in myself."
     u "Да, я считаю, что всё будет хорошо. Я вполне уверен в себе."
 
+# TODO: Translation updated at 2023-06-23 11:22
+
+# game/v1/scene22.rpy:250
+translate russian v1s22_continue_632c7e62:
+
+    # li "Ha, good choice."
+    li "Ха, хороший выбор."
+
+# game/v1/scene22.rpy:255
+translate russian v1s22_continue_7b245da7:
+
+    # u "What's so funny?"
+    u "Что тут смешного?"
+
+# game/v1/scene22.rpy:261
+translate russian v1s22_continue_8bc17536:
+
+    # li "I just kinda figured that you wouldn't have chosen the other option. Based on your relationship with her, you know?"
+    li "Я просто подумала, что ты не выбрал бы другой вариант. Исходя из ваших с ней отношений, да?"
+
+# game/v1/scene22.rpy:263
+translate russian v1s22_continue_8574be76:
+
+    # li "No worries though, we should get a good chunk of cash either way."
+    li "Не беспокойся, мы в любом случае получим хорошую сумму денег."
+
+# game/v1/scene22.rpy:268
+translate russian v1s22_continue_c11d1b14:
+
+    # u "Yeah, I think we'll be all right. I'm quite confident in myself."
+    u "Да, я считаю, что всё будет хорошо. Я вполне уверен в себе."
+
+# game/v1/scene22.rpy:274
+translate russian v1s22_continue_ede65bcb:
+
+    # li "I was wondering if that second plan was a little too much, ha. Now I have the answer."
+    li "Я думала, не слишком ли много для второго плана, ха. Теперь у меня есть ответ."
+
+# game/v1/scene22.rpy:279
+translate russian v1s22_continue_a740c36e:
+
+    # u "I mean, you gotta do whatcha gotta do to win, right?"
+    u "Я хочу сказать, что ты должна делать то, что должна, чтобы выиграть, верно?"
+
+# game/v1/scene22.rpy:284
+translate russian v1s22_continue_8cf7c109:
+
+    # li "Right. But, your decision is probably the smartest of the two."
+    li "Верно. Но твоё решение, вероятно, самое разумное из двух."
+
+# game/v1/scene22.rpy:289
+translate russian v1s22_continue_03601517:
+
+    # u "Mmm... Probably."
+    u "Ммм... Возможно."
+

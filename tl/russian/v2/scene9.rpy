@@ -474,3 +474,17 @@ translate russian v2s9_a5398bfb:
     # no "This is Nora! And I'm obviously doing something far more important than what you're calling about, so leave a message and-"
     no "Это Нора! И я, очевидно, занята чем-то гораздо более важным, чем то, по поводу чего вы звоните, так что оставьте сообщение и..."
 
+# TODO: Translation updated at 2023-06-23 11:22
+
+# game/v2/scene9.rpy:489
+translate russian v2s9_f9e9813d:
+
+    # u "(I should reply to Lindsey.)"
+    u "(Я должен ответить Линдси.)"
+
+# game/v2/scene9.rpy:521
+translate russian v2s9_f9e9813d_1:
+
+    # u "(I should reply to Lindsey.)"
+    u "(Я должен ответить Линдси.)"
+

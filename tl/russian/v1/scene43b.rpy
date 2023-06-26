@@ -443,7 +443,7 @@ translate russian v1s43Chloe_PhoneContinue1_fc1e19ab:
 translate russian v1s43Chloe_PhoneContinue1_3747a9f6:
 
     # imre "No shit."
-    imre ""
+    imre "Ни хрена себе."
 
 # game/v1/scene43b.rpy:544
 translate russian v1s43Chloe_PhoneContinue1_a2a9a789:
@@ -714,4 +714,186 @@ translate russian v1s43Chloe_PhoneContinue2_1a8f2da2:
 
     # u "Let's just work in the classroom across the hall. It's always empty."
     u "Давай поработаем в классе напротив, там всегда пусто."
+
+# TODO: Translation updated at 2023-06-23 11:22
+
+# game/v1/scene43b.rpy:358
+translate russian v1s43b_e4edb176:
+
+    # u "(I should reply to Chloe.)"
+    u "(Я должен ответить Хлое.)"
+
+# game/v1/scene43b.rpy:363
+translate russian v1s43b_812c6164:
+
+    # u "(Fuck... Where did that come from?)"
+    u "(Блядь... Откуда это взялось?)"
+
+# game/v1/scene43b.rpy:365
+translate russian v1s43b_9929f69d:
+
+    # u "(Fuck... I'm glad I didn't go through with posting that shit.)"
+    u "(Блядь... я рад, что не стал постить это дерьмо.)"
+
+# game/v1/scene43b.rpy:370
+translate russian v1s43b_82a24ae7:
+
+    # pe "Ready to go?"
+    pe "Готов к работе?"
+
+# game/v1/scene43b.rpy:375
+translate russian v1s43b_3cab5643:
+
+    # u "*Sighs* Yeah, sorry. Where to?"
+    u "*Вздох* Да, извини. Куда пойдём?"
+
+# game/v1/scene43b.rpy:380
+translate russian v1s43b_3d48716d:
+
+    # pe "We can just go sit outside on the stairs and work, if that's cool."
+    pe "Мы можем посидеть снаружи на лестнице и поработать, если ты не против."
+
+# game/v1/scene43b.rpy:385
+translate russian v1s43b_5619d9e0:
+
+    # u "Sounds good, lead the way."
+    u "Звучит хорошо, показывай путь."
+
+# game/v1/scene43b.rpy:408
+translate russian v1s43b_0513c611:
+
+    # u "But sorry, bro..."
+    u "Извини, бро..."
+
+# game/v1/scene43b.rpy:410
+translate russian v1s43b_9538cb51:
+
+    # u "(Let's mess with him a bit.) I'm working with Penelope."
+    u "(Давай немного пошутим с ним.) Я работаю с Пенелопой."
+
+# game/v1/scene43b.rpy:415
+translate russian v1s43b_13f0c38a_1:
+
+    # imre "Bro, please."
+    imre "Бро, пожалуйста."
+
+# game/v1/scene43b.rpy:420
+translate russian v1s43b_89955d67:
+
+    # u "Sorry, man. What are you gonna do about the Riley situation?"
+    u "Прости, мужик. Что ты собираешься делать с ситуацией с Райли?"
+
+# game/v1/scene43b.rpy:425
+translate russian v1s43b_8e95cc18:
+
+    # imre "Fuck, dude... I don't know. Maybe she'll pretend like it never happened? Or should I bring it up? What the fuck should I do here?"
+    imre "Блядь, чувак... Я не знаю. Может, она сделает вид, что ничего не было? Или мне стоит поднять этот вопрос? Что, блядь, мне тут делать?"
+
+# game/v1/scene43b.rpy:430
+translate russian v1s43b_274ab15f:
+
+    # u "Ha... I just wanted to see you squirm for a second. I wouldn't actually do you like that. Have fun with Penelope."
+    u "Ха... Я просто хотел посмотреть, как ты будешь извиваться. На самом деле я бы не стал так с тобой поступать, повеселись с Пенелопой."
+
+# game/v1/scene43b.rpy:435
+translate russian v1s43b_94755924:
+
+    # imre "Oh shit, ha, phew... thanks, man."
+    imre "Вот дерьмо, хаха... Спасибо, мужик."
+
+# game/v1/scene43b.rpy:440
+translate russian v1s43b_fc1e19ab:
+
+    # u "No problem. Just be more careful, yeah?"
+    u "Нет проблем. Просто будь осторожнее, хорошо?"
+
+# game/v1/scene43b.rpy:445
+translate russian v1s43b_3747a9f6:
+
+    # imre "No shit."
+    imre "Ни хрена себе."
+
+# game/v1/scene43b.rpy:455
+translate russian v1s43b_a2a9a789:
+
+    # u "*Whisper* I'll be the \"additional gentleman\", just for you."
+    u "*Шёпотом* Я буду \"дополнительным джентльменом\", только для тебя."
+
+# game/v1/scene43b.rpy:460
+translate russian v1s43b_92264795:
+
+    # ri "*Whispers* Thank you, so so so much."
+    ri "*Шепотом* Спасибо тебе большое."
+
+# game/v1/scene43b.rpy:476
+translate russian v1s43b_ff7ee2fa_1:
+
+    # lee "Everyone's paired up? Good!"
+    lee "Все разбились на пары? Хорошо!"
+
+# game/v1/scene43b.rpy:480
+translate russian v1s43b_56fc6f0c_1:
+
+    # lee "After that, you'll come up with a short scene involving a king and a queen interaction that you'll present next week to the rest of the class."
+    lee "После этого вы придумаете короткую сцену взаимодействия короля и королевы, которую представите на следующей неделе остальным членам класса."
+
+# game/v1/scene43b.rpy:485
+translate russian v1s43b_0a0ded35:
+
+    # ri "Oh, that seems easy enough."
+    ri "О, это кажется достаточно простым."
+
+# game/v1/scene43b.rpy:493
+translate russian v1s43b_11d52f58_1:
+
+    # u "Hmm? Let me check this real quick."
+    u "Хм? Позволь я очень быстро проверю."
+
+# game/v1/scene43b.rpy:529
+translate russian v1s43b_e4edb176_1:
+
+    # u "(I should reply to Chloe.)"
+    u "(Я должен ответить Хлое.)"
+
+# game/v1/scene43b.rpy:534
+translate russian v1s43b_812c6164_1:
+
+    # u "(Fuck... Where did that come from?)"
+    u "(Блядь... Откуда это взялось?)"
+
+# game/v1/scene43b.rpy:536
+translate russian v1s43b_9929f69d_1:
+
+    # u "(Fuck... I'm glad I didn't go through with posting that shit.)"
+    u "(Блядь... я рад, что не стал постить это дерьмо.)"
+
+# game/v1/scene43b.rpy:541
+translate russian v1s43b_7b24288c:
+
+    # u "*Sighs* Okay, are you ready to go?"
+    u "*Вздох* Ладно, ты готова?"
+
+# game/v1/scene43b.rpy:544
+translate russian v1s43b_8abc1659:
+
+    # u "Okay, are you ready to go?"
+    u "Ладно, ты готова?"
+
+# game/v1/scene43b.rpy:549
+translate russian v1s43b_27544913:
+
+    # ri "Yeah, but where do you wanna work?"
+    ri "Да, но где ты хочешь работать?"
+
+# game/v1/scene43b.rpy:554
+translate russian v1s43b_1a8f2da2:
+
+    # u "Let's just work in the classroom across the hall. It's always empty."
+    u "Давай поработаем в классе напротив, там всегда пусто."
+
+# game/v1/scene43b.rpy:559
+translate russian v1s43b_3bd922ae:
+
+    # ri "Okay, then. Sure."
+    ri "Хорошо, тогда. Ладно."
 

@@ -1590,3 +1590,77 @@ translate russian v2s24_b3a9c4cf:
     # li "All right, you're all set. Go get 'em, tiger!"
     li "Ладно, всё готово. Иди и сделай их, тигр!"
 
+# TODO: Translation updated at 2023-06-23 11:22
+
+# game/v2/scene24.rpy:1426
+translate russian v2s24_3be60011:
+
+    # u "(I should reply to Aubrey)"
+    u "(Я должен ответить Обри)"
+
+# game/v2/scene24.rpy:1431
+translate russian v2s24_f7b95f15:
+
+    # u "(I wonder what the surprise could be... Only one way to find out!)"
+    u "(Интересно, каким может быть сюрприз... Есть только один способ узнать!"
+
+# game/v2/scene24.rpy:1436
+translate russian v2s24_172fbb04:
+
+    # li "Are you being summoned?"
+    li "Тебя вызывают?"
+
+# game/v2/scene24.rpy:1441
+translate russian v2s24_841bab75:
+
+    # u "Yeah, looks like I'm needed elsewhere."
+    u "Да, похоже, я нужен в другом месте."
+
+# game/v2/scene24.rpy:1446
+translate russian v2s24_7ddc360d:
+
+    # li "You're just a helpful kind of guy, huh?"
+    li "Ты отзывчивый парень, верно?"
+
+# game/v2/scene24.rpy:1451
+translate russian v2s24_cbe5fa98:
+
+    # u "Mmm, yeah. That's me."
+    u "Ммм, да. Это я."
+
+# game/v2/scene24.rpy:1459
+translate russian v2s24_971abb3f:
+
+    # li "Okay, have fun. I'll see you soon, yeah? Thanks again."
+    li "Ладно, веселись. Скоро увидимся, да? Ещё раз спасибо."
+
+# game/v2/scene24.rpy:1461
+translate russian v2s24_44060914:
+
+    # li "Well, good luck with whatever it is."
+    li "Что ж, удачи."
+
+# game/v2/scene24.rpy:1463
+translate russian v2s24_e14a7338:
+
+    # li "I need to go practice making mocktails, ha. Thanks again for trying, [name]."
+    li "Мне нужно попрактиковаться в приготовлении моктейлей, ха. Ещё раз спасибо за попытку, [name]."
+
+# game/v2/scene24.rpy:1465
+translate russian v2s24_25d22c76:
+
+    # li "At least we saved some money."
+    li "По крайней мере, мы сэкономили немного денег."
+
+# game/v2/scene24.rpy:1471
+translate russian v2s24_d7e91d7e:
+
+    # u "Yeah, no problem! See you later."
+    u "Да, без проблем! Увидимся позже."
+
+# game/v2/scene24.rpy:1475
+translate russian v2s24_6c71f304:
+
+    # u "Of course. I'll see you later, Linds."
+    u "Конечно. Увидимся, Линдс."
+

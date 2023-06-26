@@ -46,3 +46,23 @@ translate russian strings:
     old "Draw a dick"
     new "Нарисовать член"
 
+# TODO: Translation updated at 2023-06-23 11:22
+
+# game/v2/scene23.rpy:122
+translate russian v2s23_f4277857:
+
+    # u "(I should reply to Aubrey.)"
+    u "(Я должен ответить Обри.)"
+
+# game/v2/scene23.rpy:130
+translate russian v2s23_aa2eb626:
+
+    # u "(I wonder what the surprise is...)"
+    u "(Интересно, что за сюрприз...)"
+
+# game/v2/scene23.rpy:146
+translate russian v2s23_d04615c9:
+
+    # u "(Time to find out!)"
+    u "(Пора узнать!)"
+

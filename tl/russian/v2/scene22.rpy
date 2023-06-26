@@ -1362,3 +1362,53 @@ translate russian v2s22_c30c82e6:
     # u "I'll take my time if that's all right. I want to be thorough."
     u "Я не буду торопиться, если вы не против. Я хочу начать с основ."
 
+# TODO: Translation updated at 2023-06-23 11:22
+
+# game/v2/scene22.rpy:1389
+translate russian v2s22_afterchloe_f9e9813d:
+
+    # u "(I should reply to Lindsey.)"
+    u "(Я должен ответить Линдси.)"
+
+# game/v2/scene22.rpy:1394
+translate russian v2s22_afterchloe_f4277857:
+
+    # u "(I should reply to Aubrey.)"
+    u "(Я должен ответить Обри.)"
+
+# game/v2/scene22.rpy:1405
+translate russian v2s22_afterchloe_00232a02:
+
+    # u "Looks like I need to go."
+    u "Похоже, мне нужно идти."
+
+# game/v2/scene22.rpy:1410
+translate russian v2s22_afterchloe_81b4dbd0:
+
+    # cl "That's okay. I'm done with you for now."
+    cl "Всё в порядке. На сегодня мы закончили."
+
+# game/v2/scene22.rpy:1415
+translate russian v2s22_afterchloe_0d1a85e4:
+
+    # u "Aww, okay. Well, glad I could be of service."
+    u "О, хорошо. Что ж, рад, что смог быть полезным."
+
+# game/v2/scene22.rpy:1420
+translate russian v2s22_afterchloe_190c55ca:
+
+    # cl "Thanks again, [name]. You're the best."
+    cl "Ещё раз спасибо, [name]. Ты лучший."
+
+# game/v2/scene22.rpy:1425
+translate russian v2s22_afterchloe_cbd8487e:
+
+    # u "No problem at all!"
+    u "Без проблем!"
+
+# game/v2/scene22.rpy:1434
+translate russian v2s22_afterchloe_2a879e37:
+
+    # u "(I need a pick me up... Please Aubrey, give me a good time. *Sighs*)"
+    u "(Мне нужен заряд бодрости... Пожалуйста, Обри, порадуй меня. *Вздох*)"
+

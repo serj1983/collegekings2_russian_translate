@@ -419,3 +419,11 @@ translate russian v1s30b_54198d81:
     # cl "All right... Let's get a good look at these."
     cl "Хорошо... Давай рассмотрим их как следует."
 
+# TODO: Translation updated at 2023-06-23 11:22
+
+translate russian strings:
+
+    # game/v1/scene30b.rpy:306
+    old "A vote for me is a vote for The Chicks AND a vote for The Wolves :) #TheChicksWhoCriedWolves #Vote4ChloeVote4Wolves"
+    new "Голос за меня - это голос за Чикс и голос за Волков :) #TheChicksWhoCriedWolves #Vote4ChloeVote4Wolves"
+

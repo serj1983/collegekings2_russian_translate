@@ -273,3 +273,101 @@ translate russian strings:
     old "Well, I've been wanting to swim in this little lagoon I found."
     new "Я давно хотел поплавать в этой маленькой лагуне, которую нашёл."
 
+# TODO: Translation updated at 2023-06-23 11:22
+
+# game/v1/scene34.rpy:36
+translate russian v1s34_88d710ce:
+
+    # u "(I should check my phone.)"
+    u "(Я должен проверить свой телефон.)"
+
+# game/v1/scene34.rpy:38
+translate russian v1s34_70261010:
+
+    # u "(Damn, what timing. I think I will...)"
+    u "(Чёрт, что за время. Думаю, я так и сделаю...)"
+
+# game/v1/scene34.rpy:51
+translate russian v1s34_75118932:
+
+    # u "(I should reply to Jenny.)"
+    u "(Я должен ответить Дженни.)"
+
+# game/v1/scene34.rpy:66
+translate russian v1s34_75118932_1:
+
+    # u "(I should reply to Jenny.)"
+    u "(Я должен ответить Дженни.)"
+
+# game/v1/scene34.rpy:68
+translate russian v1s34_d509de46:
+
+    # u "(Luckily, she seems to have taken that in good spirits. Now to call Penelope...)"
+    u "(К счастью, она, похоже, восприняла это в хорошем расположении духа. А теперь позвоним Пенелопе...)"
+
+# game/v1/scene34.rpy:86
+translate russian v1s34_63147906:
+
+    # pe "H-hello?"
+    pe "А-алло?"
+
+# game/v1/scene34.rpy:95
+translate russian v1s34_81129f96:
+
+    # u "Hey, princess. Did I wake you?"
+    u "Привет, принцесса. Я тебя неразбудил?"
+
+# game/v1/scene34.rpy:100
+translate russian v1s34_98060b23:
+
+    # u "Hey, Penelope. Did I wake you?"
+    u "Привет, Пенелопа. Я тебя неразбудил?"
+
+# game/v1/scene34.rpy:108
+translate russian v1s34_20241914:
+
+    # pe "Nope, not at all..."
+    pe "Нет, вовсе нет..."
+
+# game/v1/scene34.rpy:110
+translate russian v1s34_2dfb8570:
+
+    # pe "I'm actually wide awake."
+    pe "Вообще-то я уже проснулась."
+
+# game/v1/scene34.rpy:115
+translate russian v1s34_b6c8c77d:
+
+    # u "Good, because I was thinking we could try going on that date we talked about in London."
+    u "Хорошо, потому что я подумал, что мы могли бы попробовать сходить на то свидание, о котором мы говорили в Лондоне."
+
+# game/v1/scene34.rpy:120
+translate russian v1s34_5dbb4a72:
+
+    # pe "R-right now?"
+    pe "П-прямо сейчас?"
+
+# game/v1/scene34.rpy:125
+translate russian v1s34_648c2e49:
+
+    # u "Yeah, right now. I mean, we're both free, so we might as well, right?"
+    u "Да, прямо сейчас. Мы оба свободны, так что мы можем, верно?"
+
+# game/v1/scene34.rpy:130
+translate russian v1s34_a90fe403:
+
+    # pe "Well, okay, sure. Um..."
+    pe "Ну, хорошо, конечно. Эм..."
+
+# game/v1/scene34.rpy:135
+translate russian v1s34_e8b0ca61:
+
+    # pe "Where to?"
+    pe "Куда?"
+
+# game/v1/scene34.rpy:140
+translate russian v1s34_9563343b:
+
+    # u "I thought I'd let you pick."
+    u "Я подумал, что позволю тебе выбрать."
+

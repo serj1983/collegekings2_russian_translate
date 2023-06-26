@@ -2520,3 +2520,11 @@ translate russian v2s21_5bad7212:
     # ro "All right, noted."
     ro "Хорошо, принято к сведению."
 
+# TODO: Translation updated at 2023-06-23 11:22
+
+# game/v2/scene21.rpy:2252
+translate russian v2s21_7ba91392:
+
+    # cl "*Whispers* I don't think she's going to change her mind, okay? Let's just get her signature and leave."
+    cl "*Шёпотом* Я не думаю, что она передумает. Давай просто получим от неё подпись и уйдем."
+

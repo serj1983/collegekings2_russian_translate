@@ -282,3 +282,161 @@ translate russian v2s13_PhoneContinue_7cdd595c:
     # u "All right, okay. No donuts."
     u "Хорошо, хорошо. Никаких пончиков."
 
+# TODO: Translation updated at 2023-06-23 11:22
+
+# game/v2/scene13.rpy:122
+translate russian v2s13_45257a24:
+
+    # gr "The fuck?"
+    gr "Какого хрена?"
+
+# game/v2/scene13.rpy:127
+translate russian v2s13_ef2f1671:
+
+    # u "What?"
+    u "Что?"
+
+# game/v2/scene13.rpy:132
+translate russian v2s13_9c094e90:
+
+    # gr "If you keep eating like that, you're gonna end up looking like the bubblegum girl from that chocolate factory movie..."
+    gr "Если ты продолжишь это есть, то в конце концов станешь похож на девочку с жевательной резинкой, из фильма Шоколадная фабрика..."
+
+# game/v2/scene13.rpy:141
+translate russian v2s13_899323e5:
+
+    # u "Donuts turn you into blueberries?"
+    u "Пончики превратили тебя в чернику?"
+
+# game/v2/scene13.rpy:146
+translate russian v2s13_5a912399:
+
+    # gr "Nah, dude. They turn you into fat balloons, and I don't wanna be rolling your ass to the gym."
+    gr "Нет, чувак. Они превратят тебя в жирные шары, а я не хочу катить твою задницу в спортзал."
+
+# game/v2/scene13.rpy:151
+translate russian v2s13_4e5285d0:
+
+    # u "Ha! Nice one, dude. I actually laughed at that."
+    u "Ха! Отлично, чувак. Я правда посмеялся над этим."
+
+# game/v2/scene13.rpy:156
+translate russian v2s13_c1f2f988:
+
+    # gr "Ha, fuck you."
+    gr "Ха, пошёл ты."
+
+# game/v2/scene13.rpy:161
+translate russian v2s13_9662275f:
+
+    # u "Chocolate factory movie? Are you feeling okay?"
+    u "Из фильма Шоколадная фабрика? Ты хорошо себя чувствуешь?"
+
+# game/v2/scene13.rpy:166
+translate russian v2s13_73589d52:
+
+    # gr "Yeah, you prick, I feel great. Not my fault you're a boomer."
+    gr "Да, придурок, я чувствую себя великолепно. Не моя вина, что ты бумер."
+
+# game/v2/scene13.rpy:171
+translate russian v2s13_c5a72ced:
+
+    # u "Ha, whatever you say, man."
+    u "Ха, как скажешь, чувак."
+
+# game/v2/scene13.rpy:176
+translate russian v2s13_423033b0:
+
+    # gr "Regardless, that's not the diet of a fight champion. Do better."
+    gr "Как бы то ни было, это не диета чемпиона по боям. Занимайся лучше."
+
+# game/v2/scene13.rpy:185
+translate russian v2s13_3bdd0da1:
+
+    # u "I know, I will. This is only my first, just so you know."
+    u "Знаю, занимаюсь. Это мой первый раз, просто чтобы ты знал."
+
+# game/v2/scene13.rpy:190
+translate russian v2s13_ad23f517:
+
+    # gr "Well, keep it that way. Unless you want frat boy to turn into fat boy!"
+    gr "Что ж, пусть так и будет. Если только ты не хочешь, чтобы парень из братства превратился в толстяка!"
+
+# game/v2/scene13.rpy:195
+translate russian v2s13_776ca709:
+
+    # u "Ha, wow. You're on fire today with these jokes, huh?"
+    u "Ха, вау. Ты сегодня в ударе с такими шутками, да?"
+
+# game/v2/scene13.rpy:200
+translate russian v2s13_04a98a0d:
+
+    # gr "Whatever, I didn't come here to amuse you. Tubby bitch."
+    gr "Как бы то ни было, я пришел сюда не для того, чтобы развлекать тебя. Толстая сучка."
+
+# game/v2/scene13.rpy:205
+translate russian v2s13_7cdd595c:
+
+    # u "All right, okay. No donuts."
+    u "Хорошо, хорошо. Никаких пончиков."
+
+# game/v2/scene13.rpy:210
+translate russian v2s13_68aafa48:
+
+    # gr "Good."
+    gr "Хорошо."
+
+# game/v2/scene13.rpy:220
+translate russian v2s13_023bfa3c:
+
+    # u "Are you serious right now? You're telling me that you never have donuts, or cake, or cola?"
+    u "Ты серьёзно? Ты хочешь сказать, что у тебя никогда не бывает пончиков, тортов или колы?"
+
+# game/v2/scene13.rpy:225
+translate russian v2s13_a1d8f708:
+
+    # gr "You think I got to be the fight king by eating that shit?"
+    gr "Ты думаешь, я стану королём боя, поедая это дерьмо?"
+
+# game/v2/scene13.rpy:230
+translate russian v2s13_7f69e796:
+
+    # u "I know for a fact that you eat this shit, Grayson. Get off my back. It's a donut."
+    u "Я точно знаю, что ты ешь это дерьмо, Грейсон. Отвали от меня. Это только пончик."
+
+# game/v2/scene13.rpy:235
+translate russian v2s13_99551264:
+
+    # gr "Suit yourself, fat boy."
+    gr "Поступай как знаешь, толстяк."
+
+# game/v2/scene13.rpy:240
+translate russian v2s13_10105b5c:
+
+    # u "(Such a dick.)"
+    u "(Вот придурок.)"
+
+# game/v2/scene13.rpy:272
+translate russian v2s13_d172984c:
+
+    # u "(I should reply to Riley.)"
+    u "(Я должен ответить Райли.)"
+
+# game/v2/scene13.rpy:280
+translate russian v2s13_6030afad:
+
+    # u "(That's enough studying for right now anyway. Time to get Lauren's gift and find a costume!)"
+    u "(В любом случае, достаточно занятий. Время купить подарок Лорен и найти костюм!)"
+
+# game/v2/scene13.rpy:287
+translate russian v2s13_28de7ae5:
+
+    # u "(I'll just do an extra gym session this week to even things out.)"
+    u "(Нужно провести дополнительную тренировку в тренажёрке на этой неделе, чтобы выровнять ситуацию.)"
+
+# game/v2/scene13.rpy:300
+translate russian v2s13_177d62d7:
+
+    # u "(Next time I'll get a healthier snack...)"
+    u "(В следующий раз я возьму более здоровую закуску...)"
+

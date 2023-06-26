@@ -527,3 +527,65 @@ translate russian v1s52_PhoneContinueNora_b92d9ea3:
     # u "(Nora...?)"
     u "(Нора...?)"
 
+# TODO: Translation updated at 2023-06-23 11:22
+
+# game/v1/scene52.rpy:350
+translate russian v1s52_2a87eeb0:
+
+    # u "(I should text Nora.)"
+    u "(Я должен написать Норе.)"
+
+# game/v1/scene52.rpy:380
+translate russian v1s52_57ae9944:
+
+    # u "*Sighs*"
+    u "*Вздыхает*"
+
+# game/v1/scene52.rpy:387
+translate russian v1s52_b92d9ea3:
+
+    # u "(Nora...?)"
+    u "(Нора...?)"
+
+# game/v1/scene52.rpy:396
+translate russian v1s52_45c0d7da:
+
+    # u "(What the fuck does that mean?!)"
+    u "(Что, блядь, это значит?!)"
+
+# game/v1/scene52.rpy:423
+translate russian v1s52_701e0181:
+
+    # imre "Now's the time, [name]. I can't do it anymore."
+    imre "Пришло время, [name]. Я больше не могу."
+
+# game/v1/scene52.rpy:428
+translate russian v1s52_d08d4343:
+
+    # u "Do what? What's happening?"
+    u "Что? Что происходит?"
+
+# game/v1/scene52.rpy:433
+translate russian v1s52_b2df27a4:
+
+    # imre "We're going to Chris right now, and you're going to tell him what happened between you and Nora. All of it."
+    imre "Мы сейчас идем к Крису, и ты рассказываешь ему, что произошло между тобой и Норой. Всё."
+
+# game/v1/scene52.rpy:438
+translate russian v1s52_dedc4ce0:
+
+    # u "Imre! Imre, wait!"
+    u "Имре- Имре, подожди!"
+
+# game/v1/scene52.rpy:443
+translate russian v1s52_7b684f88:
+
+    # imre "I'm not listening to any lame-ass excuses either."
+    imre "Я тоже не собираюсь слушать никаких дурацких оправданий."
+
+# game/v1/scene52.rpy:453
+translate russian v1s52_207a89b0:
+
+    # imre "Come the fuck on, [name]!"
+    imre "Давай, блядь, [name]!"
+

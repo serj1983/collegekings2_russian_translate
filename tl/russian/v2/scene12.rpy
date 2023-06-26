@@ -746,3 +746,17 @@ translate russian v2s12_1adbdd44:
     # u "It's all right. I mean, thank you for asking... But go ahead. You can tell me."
     u "Всё в порядке. Я имею в виду, спасибо, что спросила... продолжай. Ты можешь мне сказать."
 
+# TODO: Translation updated at 2023-06-23 11:22
+
+# game/v2/scene12.rpy:665
+translate russian v2s12_d172984c:
+
+    # u "(I should reply to Riley.)"
+    u "(Я должен ответить Райли.)"
+
+# game/v2/scene12.rpy:670
+translate russian v2s12_e1502979:
+
+    # u "(I'm a man on a mission. Find Lauren a gift and find a costume. Easy.)"
+    u "(Я на задании. Найти подарок для Лорен и костюм. Легко.)"
+

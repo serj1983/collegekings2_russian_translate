@@ -167,3 +167,47 @@ translate russian v1s43a_PhoneContinueEmily_e365ba85:
     # pe "Let's go, then."
     pe "Тогда пошли."
 
+# TODO: Translation updated at 2023-06-23 11:22
+
+# game/v1/scene43a.rpy:120
+translate russian v1s43a_88d710ce:
+
+    # u "(I should check my phone.)"
+    u "(Я должен проверить свой телефон.)"
+
+# game/v1/scene43a.rpy:125
+translate russian v1s43a_dc078773:
+
+    # u "(Glad to see Emily's still up to no good.)"
+    u "(Рад видеть, что Эмили все еще ничего хорошего не замышляет.)"
+
+# game/v1/scene43a.rpy:130
+translate russian v1s43a_a4b7c8ee:
+
+    # pe "Good news? Bad news?"
+    pe "Хорошие новости? Плохие новости?"
+
+# game/v1/scene43a.rpy:135
+translate russian v1s43a_003310a3:
+
+    # u "Uhh... no, nothing important..."
+    u "Э-э... нет, ничего важного..."
+
+# game/v1/scene43a.rpy:137
+translate russian v1s43a_90ff2897:
+
+    # u "(I need to be careful with my phone in public.)"
+    u "(Мне нужно быть осторожнее с телефоном в общественных местах.)"
+
+# game/v1/scene43a.rpy:140
+translate russian v1s43a_323f49b3:
+
+    # u "(Last time that Penelope learned about Emily she got upset.)"
+    u "(В последний раз, когда Пенелопа узнала об Эмили, она расстроилась.)"
+
+# game/v1/scene43a.rpy:145
+translate russian v1s43a_e365ba85:
+
+    # pe "Let's go, then."
+    pe "Тогда пошли."
+

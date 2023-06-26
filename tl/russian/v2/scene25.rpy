@@ -940,3 +940,17 @@ translate russian strings:
     old "Ask about student discounts"
     new "Спроси о скидках для студентов"
 
+# TODO: Translation updated at 2023-06-23 11:22
+
+# game/v2/scene25.rpy:765
+translate russian v2s25_ff5cbae8:
+
+    # u "(I should respond to Aubrey.)"
+    u "(Я должен ответить Обри.)"
+
+# game/v2/scene25.rpy:770
+translate russian v2s25_8fc4eb6e:
+
+    # u "*Sighs* (Still no Nora, but it sounds like Aubrey's got something fun planned for me.)"
+    u "*Вздох* (Норы всё ещё недоступна, но, похоже, Обри приготовила для меня что-то веселое.)"
+

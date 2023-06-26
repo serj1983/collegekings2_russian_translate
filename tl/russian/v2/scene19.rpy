@@ -252,3 +252,101 @@ translate russian v2s19_PhoneContinueLindsey_49bf6636:
     # la "All right, I'll see you later."
     la "Ладно, увидимся позже."
 
+# TODO: Translation updated at 2023-06-23 11:22
+
+# game/v2/scene19.rpy:215
+translate russian v2s19_88d710ce:
+
+    # u "(I should check my phone.)"
+    u "(Я должен проверить свой телефон.)"
+
+# game/v2/scene19.rpy:228
+translate russian v2s19_88d710ce_1:
+
+    # u "(I should check my phone.)"
+    u "(Я должен проверить свой телефон.)"
+
+# game/v2/scene19.rpy:239
+translate russian v2s19_e6d36980:
+
+    # u "Well, I gotta go."
+    u "Ну, мне пора."
+
+# game/v2/scene19.rpy:252
+translate russian v2s19_49bf6636:
+
+    # la "All right, I'll see you later."
+    la "Хорошо, увидимся позже."
+
+# game/v2/scene19.rpy:257
+translate russian v2s19_dac52093:
+
+    # u "Thanks again for an amazing party last night."
+    u "Ещё раз спасибо за потрясающую вечеринку."
+
+# game/v2/scene19.rpy:262
+translate russian v2s19_62303172:
+
+    # la "Are you kidding? Thank you for coming. It was such a special night for me!"
+    la "Ты шутишь? Спасибо, что пришёл. Это был такой особенный вечер для меня!"
+
+# game/v2/scene19.rpy:277
+translate russian v2s19_6b5d0e65:
+
+    # u "I seriously need to go home and change..."
+    u "Мне нужно срочно идти домой, переодеться..."
+
+# game/v2/scene19.rpy:282
+translate russian v2s19_889ca2d6:
+
+    # la "Yeah... that might be a good idea."
+    la "Да... это хорошая идея."
+
+# game/v2/scene19.rpy:287
+translate russian v2s19_6ad162ea:
+
+    # u "You think I should wear one of those trash bags over top of it?"
+    u "Думаешь, мне стоит надеть один из этих мусорных мешков?"
+
+# game/v2/scene19.rpy:292
+translate russian v2s19_ea5a90f2:
+
+    # la "I know it sounds crazy, but that might just draw more attention to you."
+    la "Знаю, что это звучит безумно, но это может привлечь к тебе ещё больше внимания."
+
+# game/v2/scene19.rpy:297
+translate russian v2s19_72eacebf:
+
+    # u "Ha, you're right."
+    u "Ха, ты права."
+
+# game/v2/scene19.rpy:299
+translate russian v2s19_d2f65911:
+
+    # u "It'll be okay. I just have to make a run for it."
+    u "Всё будет хорошо. Придется пробежаться."
+
+# game/v2/scene19.rpy:304
+translate russian v2s19_fc362f45:
+
+    # la "And avoid as many people as you possibly can, hehe."
+    la "И избегай скопления людей."
+
+# game/v2/scene19.rpy:309
+translate russian v2s19_46698d44:
+
+    # u "Exactly."
+    u "Точно."
+
+# game/v2/scene19.rpy:314
+translate russian v2s19_fab48e58:
+
+    # la "I'll see you later. Good luck!"
+    la "Увидимся позже. Удачи!"
+
+# game/v2/scene19.rpy:319
+translate russian v2s19_a31c755e:
+
+    # u "Yeah, thanks. Bye!"
+    u "Да, спасибо. Пока!"
+

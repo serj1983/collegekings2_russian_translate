@@ -1151,3 +1151,29 @@ translate russian v1s17_9aeb1e17:
     # la "All right then, let's get to work."
     la "Хорошо, тогда приступим к работе."
 
+# TODO: Translation updated at 2023-06-23 11:22
+
+# game/v1/scene17.rpy:770
+translate russian v1s17_0e491dfd:
+
+    # la "Oh perfect, class is over. Be careful about everything you do during this whole... \"mess,\" okay?"
+    la "Отлично, занятия закончились. Будь осторожен во всём, что ты делаешь в течение этого... \"бардака\", хорошо?"
+
+# game/v1/scene17.rpy:775
+translate russian v1s17_1d030602:
+
+    # u "Yeah, I will. You too."
+    u "Да, буду. И ты тоже."
+
+# game/v1/scene17.rpy:780
+translate russian v1s17_853e4089:
+
+    # la "Bye."
+    la "Пока."
+
+# game/v1/scene17.rpy:785
+translate russian v1s17_8bfc147b:
+
+    # u "See you."
+    u "Увидимся."
+
