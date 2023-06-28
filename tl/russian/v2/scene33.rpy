@@ -1480,7 +1480,7 @@ translate russian v2s33_naomisg_backup_8f57520c:
 translate russian v2s33_naomisg_backup_f2be8ed6:
 
     # u "No. I said no."
-    u "Нет. Я сказал "нет"."
+    u "Нет. Я сказал \"нет\"."
 
 # game/v2/scene33.rpy:1375
 translate russian v2s33_naomisg_backup_2fe6601b:
