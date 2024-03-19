@@ -1174,3 +1174,11 @@ translate russian strings:
     old "Side with Aubrey, pro-monogamy"
     new "На стороне Обри, за моногамию"
 
+# TODO: Translation updated at 2024-03-07 10:56
+
+# game/v2/scene26.rpy:194
+translate russian v2s26_3c65b303:
+
+    # ri "Really though, you're a lucky guy, [name]. Barely anyone has been here, let alone knows of its existence."
+    ri "Правда, тебе повезло, [name]. Здесь почти никого не было, не говоря уже о том, чтобы знать о существовании комнаты."
+

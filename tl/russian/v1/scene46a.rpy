@@ -1031,3 +1031,11 @@ translate russian v1s46a_sgb_dffef3e9:
     # u "(Oh, wow... Is this shit actually... working? What did I sign up for here?)"
     u "(О, вау... Это дерьмо на самом деле... работает? На что я повёлся?)"
 
+# TODO: Translation updated at 2024-03-07 10:56
+
+# game/v1/scene46a.rpy:347
+translate russian v1s46a_sgb_4cebb7f9:
+
+    # la "*Softly* She starts to suck on it, her soft lips hugging every inch of you. Sucking and sucking and sucking until-"
+    la "*Мягко* Она начинает посасывать его, её мягкие губы обхватывают каждый дюйм кожи. Сосёт, сосёт и сосёт, пока–"
+

@@ -382,3 +382,89 @@ translate russian strings:
     old "That's such utter bullshit!"
     new "Это полная чушь собачья!"
 
+# TODO: Translation updated at 2024-03-07 10:56
+
+# game/v1/scene14b.rpy:75
+translate russian v1s14b_502b9c54:
+
+    # au "...I was supposed to submit it."
+    au "...Я должна была подать её."
+
+# game/v1/scene14b.rpy:97
+translate russian v1s14b_01b74499:
+
+    # au "Because the Chicks could lose the sorority house!"
+    au "Потому что Чикс могут лишиться женского общежития!"
+
+# game/v1/scene14b.rpy:119
+translate russian v1s14b_74ed33c3:
+
+    # au "The dean said it was fine as long as we get the form to her this week."
+    au "Декан сказал, что всё будет в порядке, если мы предоставим ей форму на этой неделе."
+
+# game/v1/scene14b.rpy:143
+translate russian v1s14b_4a519097:
+
+    # ri "[name]! Totally get why you're asking, but Aubrey's crying about the Chicks!"
+    ri "[name]! Понимаю, почему ты спрашиваешь, но Обри переживает из-за Чикс!"
+
+# game/v1/scene14b.rpy:153
+translate russian v1s14b_34f97cc2:
+
+    # u "(I hope they already know about this... There's enough shit going on at the house.)"
+    u "(Я надеюсь, они уже знают об этом... В доме и так происходит много дерьма.)"
+
+# game/v1/scene14b.rpy:170
+translate russian v1s14b_73ffd1f7:
+
+    # au "The Dean kept talking about the school's reputation."
+    au "Декан все время говорит о репутации школы."
+
+# game/v1/scene14b.rpy:180
+translate russian v1s14b_1a59fdd9:
+
+    # u "Seems extreme to talk about taking a sorority's house away from them."
+    u "Подло говорить о том, чтобы отобрать у женского общества дом."
+
+# game/v1/scene14b.rpy:194
+translate russian v1s14b_af1cabbf:
+
+    # u "Oh, yeah, then we're fucked. That's been about seventy-five percent of the college experience. The other twenty-five percent is, well..."
+    u "О, да, тогда нам крышка. Это было примерно семьдесят пять процентов опыта колледжа. Остальные двадцать пять процентов - это, ну..."
+
+# game/v1/scene14b.rpy:196
+translate russian v1s14b_3efa8e4f:
+
+    # u "(Sex, sex, and sex.)"
+    u "(Секс, секс и ещё раз секс.)"
+
+# game/v1/scene14b.rpy:203
+translate russian v1s14b_ed2b29aa:
+
+    # u "That's bullshit. So, what, are they going to come threaten the frats? Say they're going to shut us down?"
+    u "Это чушь собачья. Они, что, собираются угрожать братствам? Скажут, что тоже закроют нас?"
+
+# game/v1/scene14b.rpy:205
+translate russian v1s14b_36827e84:
+
+    # u "Seems super shady."
+    u "Выглядит очень подозрительно."
+
+# game/v1/scene14b.rpy:220
+translate russian v1s14b_5005bafd:
+
+    # au "Why do you think I feel like an idiot? This is all my fault."
+    au "Почему, по-твоему, я чувствую себя идиоткой? Это всё моя вина."
+
+# game/v1/scene14b.rpy:247
+translate russian v1s14b_a95e06b4:
+
+    # au "Anyways, thanks, guys. I'm just so out of it from the time change. Had a total freakout after I said bye to Chloe."
+    au "В любом случае, спасибо, ребята. Я просто не в себе из-за смены поясов. Я совсем взбесилась, после того, как попрощалась с Хлоей."
+
+translate russian strings:
+
+    # game/v1/scene14b.rpy:190
+    old "That's bullshit"
+    new "Это чушь собачья"
+

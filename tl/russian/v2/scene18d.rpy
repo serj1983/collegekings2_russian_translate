@@ -474,3 +474,11 @@ translate russian v2s18d_2c5e69a3:
     # imre "Hey! You did all right."
     imre "Эй! Ты сделал всё правильно."
 
+# TODO: Translation updated at 2024-03-07 10:56
+
+# game/v2/scene18d.rpy:213
+translate russian v2s18d_ef42fc99:
+
+    # u "Um, yeah. That's basically what he was suggesting."
+    u "Да. В принципе, он именно это и предлагал."
+

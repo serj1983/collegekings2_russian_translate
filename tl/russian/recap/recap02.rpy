@@ -1125,3 +1125,11 @@ translate russian strings:
     old "Pull away"
     new "Отстранится"
 
+# TODO: Translation updated at 2024-03-07 10:56
+
+# game/recap/recap02.rpy:1537
+translate russian recap_samantha_questions_bbdd205c:
+
+    # u "But then I found out she ended up in the hospital after going off on her own and taking drugs with random people!"
+    u "Но потом я узнал, что она попала в больницу после того, как ушла в себя и принимала наркотики с различными людьми!"
+

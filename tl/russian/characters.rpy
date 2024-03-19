@@ -305,3 +305,47 @@ translate russian strings:
 # 16.0
 
 # 17.0
+# TODO: Translation updated at 2024-03-07 10:56
+
+translate russian strings:
+
+    # game/characters.rpy:123
+    old "Charli"
+    new "Чарли"
+
+    # game/characters.rpy:125
+    old "Robot"
+    new "Робот"
+
+    # game/characters.rpy:126
+    old "Mr Rose"
+    new "Мистер Роуз"
+
+    # game/characters.rpy:127
+    old "Jerry"
+    new "Джерри"
+
+    # game/characters.rpy:128
+    old "Rita"
+    new "Рита"
+
+    # game/characters.rpy:129
+    old "Jodie"
+    new "Джоди"
+
+    # game/characters.rpy:130
+    old "Gran"
+    new "Бабушка"
+
+    # game/characters.rpy:131
+    old "Instructor"
+    new "Инструктор"
+
+    # game/characters.rpy:132
+    old "Porn Actress"
+    new "Порноактриса"
+
+    # game/characters.rpy:134
+    old "Vibrator"
+    new "Вибратор"
+

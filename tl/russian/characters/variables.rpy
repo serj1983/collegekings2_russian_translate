@@ -142,3 +142,75 @@ translate russian strings:
     old "Wolf"
     new "Волк"
 
+# TODO: Translation updated at 2024-03-07 10:56
+
+translate russian strings:
+
+    # game/characters/variables.rpy:3
+    old "Adam"
+    new "Адам"
+
+    # game/characters/variables.rpy:6
+    old "Aryssa"
+    new "Арисса"
+
+    # game/characters/variables.rpy:11
+    old "Caleb"
+    new "Калеб"
+
+    # game/characters/variables.rpy:13
+    old "Candy"
+    new "Кэнди"
+
+    # game/characters/variables.rpy:20
+    old "Emmy"
+    new "Эмми"
+
+    # game/characters/variables.rpy:21
+    old "Evelyn"
+    new "Эвелин"
+
+    # game/characters/variables.rpy:22
+    old "Faris"
+    new "Фарис"
+
+    # game/characters/variables.rpy:27
+    old "Josh"
+    new "Джош"
+
+    # game/characters/variables.rpy:29
+    old "Kai"
+    new "Кай"
+
+    # game/characters/variables.rpy:30
+    old "Kim"
+    new "Ким"
+
+    # game/characters/variables.rpy:31
+    old "Kourtney"
+    new "Кортни"
+
+    # game/characters/variables.rpy:35
+    old "Mason"
+    new "Мейсон"
+
+    # game/characters/variables.rpy:40
+    old "Parker"
+    new "Паркер"
+
+    # game/characters/variables.rpy:42
+    old "Perry"
+    new "Перри"
+
+    # game/characters/variables.rpy:47
+    old "Satin"
+    new "Сатин"
+
+    # game/characters/variables.rpy:49
+    old "SVC Housing Officer"
+    new "Сотрудник по жилищным вопросам SVC"
+
+    # game/characters/variables.rpy:49
+    old "Housing Officer"
+    new "Сотрудник по жилищным вопросам"
+
