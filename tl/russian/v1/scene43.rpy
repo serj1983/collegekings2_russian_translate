@@ -235,3 +235,53 @@ translate russian v1s43_fb5c9743:
     # pe "Thank you."
     pe "Благодарю."
 
+# TODO: Translation updated at 2024-07-03 10:01
+
+# game/v1/scene43.rpy:76
+translate russian v1s43_e0eb10b9:
+
+    # pen "Saved, actually."
+    pen "Вообще-то, занято."
+
+# game/v1/scene43.rpy:78
+translate russian v1s43_f67e3307:
+
+    # pen "That depends..."
+    pen "Это зависит от..."
+
+# game/v1/scene43.rpy:92
+translate russian v1s43_58fca02d:
+
+    # pen "For this cute guy with brown fluffy hair and an amazing smile."
+    pen "Для милого парня с каштановыми пушистыми волосами и удивительной улыбкой."
+
+# game/v1/scene43.rpy:102
+translate russian v1s43_a9f9c7a3:
+
+    # pen "Sit down already, weirdo."
+    pen "Садись уже, чудик."
+
+# game/v1/scene43.rpy:105
+translate russian v1s43_97cdad2c:
+
+    # pen "Which type of bear is best?"
+    pen "Какой тип медведя лучше?"
+
+# game/v1/scene43.rpy:115
+translate russian v1s43_02935804:
+
+    # pen "False. Black bear."
+    pen "Ложь. Чёрный медведь."
+
+# game/v1/scene43.rpy:125
+translate russian v1s43_434f009d:
+
+    # pen "Sit down already, would you? People are starting to stare..."
+    pen "Сядь уже. А то люди уже начинают пялиться..."
+
+# game/v1/scene43.rpy:140
+translate russian v1s43_e2291ac2:
+
+    # pen "Thank you."
+    pen "Благодарю."
+

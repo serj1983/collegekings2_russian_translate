@@ -910,3 +910,383 @@ translate russian strings:
     old "Angry mode"
     new "Режим гнева"
 
+# TODO: Translation updated at 2024-07-03 10:01
+
+# game/v2/scene45.rpy:63
+translate russian v2s45_6fcb730e:
+
+    # ch "Oh. Hey, you two. I was just heading to campus."
+    ch "Ох. Привет вам. Я как раз собиралась в кампус."
+
+# game/v2/scene45.rpy:73
+translate russian v2s45_74215328:
+
+    # ch "Missy?"
+    ch "Дорогуша?"
+
+# game/v2/scene45.rpy:108
+translate russian v2s45_7183758f:
+
+    # ch "What? Wait, [name]... What's going on?"
+    ch "Что? Погоди, [name]... Что происходит?"
+
+# game/v2/scene45.rpy:118
+translate russian v2s45_12d8d4c7:
+
+    # ch "Ugh..."
+    ch "Ох..."
+
+# game/v2/scene45.rpy:123
+translate russian v2s45_4ba8557d:
+
+    # ch "I don't know where she is, nor do I care."
+    ch "Я не знаю, где она, и меня это не волнует."
+
+# game/v2/scene45.rpy:133
+translate russian v2s45_6c2756a6:
+
+    # ch "Ha! Excuse me?"
+    ch "Ха! Прости?"
+
+# game/v2/scene45.rpy:143
+translate russian v2s45_052ff607:
+
+    # ch "*Sighs* Whatever, weirdos."
+    ch "*Вздох* Как скажете, чудики."
+
+# game/v2/scene45.rpy:148
+translate russian v2s45_76ae524b:
+
+    # ch "I guess I've got a few minutes to spare."
+    ch "Думаю, у меня есть несколько свободных минут."
+
+# game/v2/scene45.rpy:158
+translate russian v2s45_227d0792:
+
+    # ch "Are you not going to sit down?"
+    ch "Вы так и останетесь стоять?"
+
+# game/v2/scene45.rpy:201
+translate russian v2s45_1a5fb5bd:
+
+    # ch "Okay, then."
+    ch "Ну хорошо."
+
+# game/v2/scene45.rpy:211
+translate russian v2s45_d0e21cba:
+
+    # ch "I don't have much time for this, though, so-"
+    ch "Но у меня не так много времени, так что-"
+
+# game/v2/scene45.rpy:221
+translate russian v2s45_3e5aa58a:
+
+    # ch "So, I'm being held hostage... in my own home?"
+    ch "Значит, меня держат в заложниках... в моем собственном доме?"
+
+# game/v2/scene45.rpy:232
+translate russian v2s45_aec8f67e:
+
+    # ch "[name], why are you talking like that?"
+    ch "[name], почему ты так со мной разговариваешь?"
+
+# game/v2/scene45.rpy:242
+translate russian v2s45_b7adb162:
+
+    # ch "Civilian?"
+    ch "Гражданочка?"
+
+# game/v2/scene45.rpy:248
+translate russian v2s45_fca044e7:
+
+    # ch "Is this some kind of weird role-play?"
+    ch "Это что, какая-то странная ролевая игра?"
+
+# game/v2/scene45.rpy:258
+translate russian v2s45_142c5037:
+
+    # ch "Okay, whatever. Just get on with whatever the hell you guys are doing."
+    ch "Ладно, неважно. Просто займитесь тем, чем вы тут занимаетесь."
+
+# game/v2/scene45.rpy:268
+translate russian v2s45_85f2f352:
+
+    # ch "I have no idea where Nora is, so you're wasting your time."
+    ch "Я понятия не имею, где Нора, так что вы зря тратите время."
+
+# game/v2/scene45.rpy:270
+translate russian v2s45_eedb70fe:
+
+    # ch "And if you haven't noticed, we're not exactly best friends. So why would I know anything?"
+    ch "И если вы не заметили, мы не самые лучшие друзья. Так почему я должна знать, где она?"
+
+# game/v2/scene45.rpy:284
+translate russian v2s45_6ad89cc6:
+
+    # ch "I. Don't. Know."
+    ch "Я. Не. Знаю."
+
+# game/v2/scene45.rpy:299
+translate russian v2s45_7f52ad52:
+
+    # ch "... Mr. Rose? I guess?"
+    ch "... К мистеру Роуз, я думаю..."
+
+# game/v2/scene45.rpy:312
+translate russian v2s45_0a9115e6:
+
+    # ch "Um, I saw her get into a cab after we landed... but she was alone. That's the last I saw of her, I swear."
+    ch "Я видела, как она садилась в такси после прилёта... Но она была одна. Это последний раз, когда я её видела, клянусь."
+
+# game/v2/scene45.rpy:322
+translate russian v2s45_1b4a058c:
+
+    # ch "How would I know?"
+    ch "Откуда ж мне знать?"
+
+# game/v2/scene45.rpy:332
+translate russian v2s45_52f7b4cf:
+
+    # ch "Probably Mr. Rose, her dad."
+    ch "Вероятно, мистеру Роуз, её отцу."
+
+# game/v2/scene45.rpy:340
+translate russian v2s45_3c858e89:
+
+    # ch "Yeah, so?"
+    ch "Да, и что?"
+
+# game/v2/scene45.rpy:350
+translate russian v2s45_85994e53:
+
+    # ch "Mr. Rose, probably? Her daddy? *Giggles* Whatever she needs, he'll get it for her."
+    ch "Мистеру Роуз скорее всего, её папе. *Хихикает* Что бы ей ни понадобилось, он ей это даст."
+
+# game/v2/scene45.rpy:363
+translate russian v2s45_224a2400:
+
+    # ch "Well, thank you."
+    ch "Спасибо."
+
+# game/v2/scene45.rpy:373
+translate russian v2s45_f6365538:
+
+    # ch "Oh, well yeah. That would be her father."
+    ch "Ну да. К своему отцу."
+
+# game/v2/scene45.rpy:381
+translate russian v2s45_ef91e08d:
+
+    # ch "What does that even mean?! Why are you yelling?"
+    ch "Что за фигню ты сморозил?! И какого хрена ты кричишь?"
+
+# game/v2/scene45.rpy:396
+translate russian v2s45_778ea4e9:
+
+    # ch "What?! Are you guys fucking crazy?"
+    ch "Что?! Вы совсем свихнулись?"
+
+# game/v2/scene45.rpy:406
+translate russian v2s45_23185ce4:
+
+    # ch "Stop yelling at me!"
+    ch "Прекрати орать на меня!"
+
+# game/v2/scene45.rpy:421
+translate russian v2s45_e88d535f:
+
+    # ch "Okay, okay! Can stop destroying things?! What the hell..."
+    ch "Хорошо, хорошо! Может прекратишь тут всё крушить?! Какого чёрта..."
+
+# game/v2/scene45.rpy:423
+translate russian v2s45_08f6d819:
+
+    # ch "She's probably with her fucking father. Mr. Rose."
+    ch "Она, наверное, со своим долбаным отцом. Это который мистер Роуз."
+
+# game/v2/scene45.rpy:428
+translate russian v2s45_216ad692:
+
+    # ch "Now calm the hell down, yeah? Jesus..."
+    ch "А теперь угомонись... Иисус..."
+
+# game/v2/scene45.rpy:438
+translate russian v2s45_6acb714e:
+
+    # ch "Pfft. She wouldn't be there for emotional support, that's for sure."
+    ch "Пффф. В чём я уверена, она точно не пошла бы к нему за эмоциональной поддержкой."
+
+# game/v2/scene45.rpy:450
+translate russian v2s45_13e018da:
+
+    # ch "He's the one with all the money, so maybe she'd go to him. Or use one of his places to hideout."
+    ch "Деньги у него, так что, возможно, она отправилась к нему. Или укрылась в одном из его домов."
+
+# game/v2/scene45.rpy:460
+translate russian v2s45_94e54310:
+
+    # ch "Lorraine?"
+    ch "Лоррейн?"
+
+# game/v2/scene45.rpy:470
+translate russian v2s45_76f43a16:
+
+    # ch "Yeah, that's fair to say."
+    ch "Да, можно и так сказать."
+
+# game/v2/scene45.rpy:482
+translate russian v2s45_9b802ebd:
+
+    # ch "Yeah, I mean. She prefers to spend time with her."
+    ch "Да. Она любит проводить с ней время."
+
+# game/v2/scene45.rpy:492
+translate russian v2s45_3ca23872:
+
+    # ch "It's possible, I guess."
+    ch "Не исключено."
+
+# game/v2/scene45.rpy:494
+translate russian v2s45_78fe6940:
+
+    # ch "Maybe she saw them both briefly to tell them about the breakup. Who knows?"
+    ch "Может быть, она виделась с ними обоими, чтобы рассказать о разрыве. Кто знает?"
+
+# game/v2/scene45.rpy:513
+translate russian v2s45_c0458c70:
+
+    # ch "The only other person I can think of would be her ex-boyfriend."
+    ch "Единственный человек, который приходит мне на ум, это её бывший парень."
+
+# game/v2/scene45.rpy:528
+translate russian v2s45_c21ff5a6:
+
+    # ch "Yeah, her ex from before."
+    ch "Да, её бывший ещё до Криса."
+
+# game/v2/scene45.rpy:538
+translate russian v2s45_520129ad:
+
+    # ch "Yes, but I never met him. I just remember her talking about him."
+    ch "Ага, но я никогда с ним не встречалась. Я просто помню, как она говорила о нём."
+
+# game/v2/scene45.rpy:540
+translate russian v2s45_95605dcc:
+
+    # ch "But guys, this was, like, ages ago. So don't ask me for his name. I can't remember."
+    ch "Но блин, это было, наверное, сто лет назад. Так что не спрашивайте меня о его имени. Я не помню."
+
+# game/v2/scene45.rpy:545
+translate russian v2s45_a7bf3a6c:
+
+    # ch "I think he lives round here, though. Or at least he used to."
+    ch "Думаю, он живёт где-то рядом. Или, по крайней мере, раньше жил."
+
+# game/v2/scene45.rpy:564
+translate russian v2s45_1db4b0f8:
+
+    # ch "It's not like that! All I remember is that she still kept in touch with the guy."
+    ch "Нифига подобного! Всё, что я помню, что она всё ещё поддерживала связь с ним."
+
+# game/v2/scene45.rpy:569
+translate russian v2s45_e01623ec:
+
+    # ch "But that's Nora for you, always looking to the past..."
+    ch "Но это нормально для Норы - всегда смотреть в прошлое..."
+
+# game/v2/scene45.rpy:579
+translate russian v2s45_407015c5:
+
+    # ch "Ha! Who told you that?"
+    ch "Ха, кто тебе это сказал?"
+
+# game/v2/scene45.rpy:589
+translate russian v2s45_5669712f:
+
+    # ch "Well, I mean, sure, she likes nature. Who doesn't?"
+    ch "Ну да, конечно, она любит природу. А кто не любит?"
+
+# game/v2/scene45.rpy:594
+translate russian v2s45_a977339e:
+
+    # ch "But Nora? She's not slumming it in the woods, rubbing sticks together. She's too spoiled for that."
+    ch "Но Нора? Она не прячется в лесу, не добывает огонь палочками. Она слишком избалована для этого."
+
+# game/v2/scene45.rpy:606
+translate russian v2s45_b9120020:
+
+    # ch "Mr. Rose took her on a camping trip when she was a kid. She said she hated it..."
+    ch "Мистер Роуз взял её в поход, когда она была ребёнком. Она говорила, что ей жутко не понравилось..."
+
+# game/v2/scene45.rpy:608
+translate russian v2s45_6030129b:
+
+    # ch "I think you might need to take another look at your evidence."
+    ch "Думаю, вам стоит ещё раз взглянуть на свои улики."
+
+# game/v2/scene45.rpy:621
+translate russian v2s45_73704995:
+
+    # ch "She likes to say she does."
+    ch "Она это говорила, что любит."
+
+# game/v2/scene45.rpy:623
+translate russian v2s45_bee6b63e:
+
+    # ch "You know, a walk down a designated nature trail? But she's not the type to get her hands dirty, that's for sure."
+    ch "Ну, например, прогуляться по специально отведённому маршруту. Но она точно не из тех, кто любит пачкать руки, это точно."
+
+# game/v2/scene45.rpy:627
+translate russian v2s45_6615d1af:
+
+    # ch "The first and last time she went camping was with her dad. She hated it! Couldn't stand the bugs and the cold."
+    ch "Первый и последний раз она пошла в поход со своим отцом. Она возненавидела этот поход! Терпеть не могла жуков и холод."
+
+# game/v2/scene45.rpy:647
+translate russian v2s45_87cb8caa:
+
+    # ch "Well..."
+    ch "Ну..."
+
+# game/v2/scene45.rpy:652
+translate russian v2s45_164d09ba:
+
+    # ch "This was a long time ago, but I remember her telling me about her boyfriend before Chris. They seemed to stay in touch."
+    ch "Это было сто лет назад, но я помню, как она рассказывала о своём парне, который был у неё до Криса. Кажется, они до сих пор поддерживают связь."
+
+# game/v2/scene45.rpy:671
+translate russian v2s45_1a2b4878:
+
+    # ch "No, no, no. She would never go back to him, it's just that they had good memories together and always stayed friends."
+    ch "Нет, нет, нет. Она никогда бы не вернулась к нему, просто у них были хорошие воспоминания, и они всегда оставались друзьями."
+
+# game/v2/scene45.rpy:685
+translate russian v2s45_5e12aaf1:
+
+    # ch "I can't say that she would have. He lives nearby, I think. Or he used to, at least."
+    ch "Не думаю, что она бы так поступила. Он живёт неподалеку... Вроде. Или раньше жил, по крайней мере."
+
+# game/v2/scene45.rpy:687
+translate russian v2s45_35809e97:
+
+    # ch "Like I said, it was a long time ago. I don't even remember his name."
+    ch "Но это было очень давно. Я даже не помню его имени."
+
+# game/v2/scene45.rpy:725
+translate russian v2s45_ce8ece57:
+
+    # ch "Okay. Now that I've given you ten minutes of my time, and you're both being freaks..."
+    ch "Хорошо. Теперь, когда я уделила вам десять минут своего времени, а вы оба вели себя как уроды..."
+
+# game/v2/scene45.rpy:727
+translate russian v2s45_2a4f0704:
+
+    # ch "I'm going to leave now."
+    ch "Я ухожу прямо сейчас."
+
+# game/v2/scene45.rpy:729
+translate russian v2s45_876048a7:
+
+    # ch "Some people have important business to take care of."
+    ch "Кое-кому нужно заняться важными делами."
+

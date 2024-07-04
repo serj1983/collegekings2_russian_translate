@@ -167,3 +167,53 @@ translate russian v1s40a_5cfd8b4f:
     # u "(This man is calling me sunshine and knows my class schedule? Is this what it's like to have a father...? What an oddball.)"
     u "(Этот человек называет меня солнышком и знает расписание моих занятий? Вот что значит иметь отца...? Какой чудак.)"
 
+# TODO: Translation updated at 2024-07-03 10:01
+
+# game/v1/scene40a.rpy:37
+translate russian v1s40a_e69d8d0c:
+
+    # seb "Morning, sunshine! I thought you were planning on sleeping all day."
+    seb "Утреннее солнышко! Я думал, ты планируешь проспать весь день."
+
+# game/v1/scene40a.rpy:47
+translate russian v1s40a_4648dc88:
+
+    # seb "Ah, sorry. Heard it in a show and can't stop saying it."
+    seb "Ах, извини. Услышал это в шоу и не могу перестать повторять."
+
+# game/v1/scene40a.rpy:61
+translate russian v1s40a_bead287d:
+
+    # seb "Good to know, sunshine."
+    seb "Приятно это знать, солнышко."
+
+# game/v1/scene40a.rpy:71
+translate russian v1s40a_c662fa50:
+
+    # seb "Too much?"
+    seb "Слишком много?"
+
+# game/v1/scene40a.rpy:89
+translate russian v1s40a_d3cc8674:
+
+    # seb "Your loss."
+    seb "Твоя потеря."
+
+# game/v1/scene40a.rpy:91
+translate russian v1s40a_3251afeb:
+
+    # seb "Anyway... just a little heads up. There may be a drug test coming up soon so make sure you're clean. Are you clean?"
+    seb "В любом случае... Просто предупреждаю. Возможно, скоро будет проведен тест на наркотики, так что убедись, что ты чист. Ты чист?"
+
+# game/v1/scene40a.rpy:111
+translate russian v1s40a_b1e1cf9c:
+
+    # seb "Clean or not clean, just make sure that test comes back negative, got it?"
+    seb "Чист или не чист, просто убедись, чтобы тест был отрицательный, понял?"
+
+# game/v1/scene40a.rpy:121
+translate russian v1s40a_6f11bb11:
+
+    # seb "I don't know. Soon. You have class today, so go ahead, I'll catch you later."
+    seb "Не знаю, скоро. У тебя сегодня занятия, так что иди, я догоню тебя позже."
+

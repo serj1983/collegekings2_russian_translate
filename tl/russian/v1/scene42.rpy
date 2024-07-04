@@ -545,3 +545,119 @@ translate russian v1s42_d610591b:
     # u "You will. Goodnight, babe."
     u "Обязательно, спокойной ночи, детка."
 
+# TODO: Translation updated at 2024-07-03 10:01
+
+# game/v1/scene42.rpy:11
+translate russian v1s42_0001650b:
+
+    # pen "I can't lie, I'm really excited."
+    pen "Не могу лгать, я очень взволнована."
+
+# game/v1/scene42.rpy:23
+translate russian v1s42_4c10fc71:
+
+    # pen "I just love sleepovers, honestly, and I'm kind of a sucker for cuddling."
+    pen "Просто обожаю ночёвки, честно говоря, я обожаю обниматься."
+
+# game/v1/scene42.rpy:33
+translate russian v1s42_02c5b9f7:
+
+    # pen "I've also really been looking forward to a night like this, especially with you."
+    pen "Я тоже очень ждала такой ночи, особенно с тобой."
+
+# game/v1/scene42.rpy:43
+translate russian v1s42_874d7a63:
+
+    # pen "You're gonna make me blush..."
+    pen "Ты заставляешь меня краснеть..."
+
+# game/v1/scene42.rpy:45
+translate russian v1s42_1d8240f3:
+
+    # pen "Let me go to the restroom to brush my teeth and get comfortable really quickly. Just make yourself at home, okay?"
+    pen "Позволь мне отойти в уборную, чтобы почистить зубы и привести себя в порядок. Чувствуй себя как дома, хорошо?"
+
+# game/v1/scene42.rpy:55
+translate russian v1s42_63710df5:
+
+    # pen "Good."
+    pen "Хорошо."
+
+# game/v1/scene42.rpy:90
+translate russian v1s42_d545ddc2:
+
+    # pen "What? Why are you staring? What's wrong?"
+    pen "Что? Почему ты так смотришь? Что-то не так?"
+
+# game/v1/scene42.rpy:100
+translate russian v1s42_78186dfb:
+
+    # pen "Oh, stop it. I do not."
+    pen "Ох, прекрати."
+
+# game/v1/scene42.rpy:110
+translate russian v1s42_ddd7518c:
+
+    # pen "Hmm... well, thank you."
+    pen "Хмм... Что ж, спасибо."
+
+# game/v1/scene42.rpy:130
+translate russian v1s42_a907e3a4:
+
+    # pen "It takes a long time for me to get here."
+    pen "Мне требуется много времени, чтобы добраться сюда."
+
+# game/v1/scene42.rpy:140
+translate russian v1s42_c9684407:
+
+    # pen "Laying in bed, snuggled up to a guy that I actually like..."
+    pen "Лежать в постели, прижавшись к парню, который мне нравится..."
+
+# game/v1/scene42.rpy:142
+translate russian v1s42_a7121159:
+
+    # pen "Every guy in the past just... wasn't what I needed. It seemed like those were the only kinds of guys I could get, though."
+    pen "Парни в прошлом просто... не были теми, кто мне был нужен. Хотя, похоже, это были единственные парни, которых я могла заполучить."
+
+# game/v1/scene42.rpy:152
+translate russian v1s42_92b9c7a5:
+
+    # pen "Insecure guys. Guys that were intimidated or felt belittled by how smart I am or the other stuff I'm good at."
+    pen "Неуверенные в себе парни. Парни, которые были запуганы или чувствовали себя приниженными из-за того, насколько я умна или других вещей, в которых я хороша."
+
+# game/v1/scene42.rpy:162
+translate russian v1s42_1e45b067:
+
+    # pen "And those aren't the type of people I like laying next to."
+    pen "И это не те люди, с которыми мне нравится лежать рядом."
+
+# game/v1/scene42.rpy:172
+translate russian v1s42_e60d202b:
+
+    # pen "I know what you're doing, but I'll play your little game."
+    pen "Я знаю, что ты делаешь, но я сыграю в твою маленькую игру."
+
+# game/v1/scene42.rpy:182
+translate russian v1s42_3032b4a4:
+
+    # pen "I like laying next to guys who are comfortable in their own skin. And comfortable with me being my own person, yet a part of their life as well."
+    pen "Мне нравится лежать рядом с парнями, которым комфортно в своей шкуре. И мне комфортно от того, что я сама по себе, но в то же время являюсь частью их жизни."
+
+# game/v1/scene42.rpy:192
+translate russian v1s42_b7aa3fc8:
+
+    # pen "Oh my gosh..."
+    pen "Боже мой..."
+
+# game/v1/scene42.rpy:202
+translate russian v1s42_3546d05a:
+
+    # pen "*Sighs* I wish moments like this could last forever."
+    pen "*Вздыхает* Я бы хотела, чтобы такие моменты длились вечно."
+
+# game/v1/scene42.rpy:217
+translate russian v1s42_9559efdc:
+
+    # pen "Me too. I could get used to this..."
+    pen "Я тоже. Я могла бы привыкнуть к этому..."
+

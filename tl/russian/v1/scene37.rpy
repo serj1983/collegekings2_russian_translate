@@ -1189,3 +1189,365 @@ translate russian v1s37_b58b795c:
     # u "And the Dean is blocking you from having an interview?"
     u "И декан запрещает тебе идти на собеседование?"
 
+# TODO: Translation updated at 2024-07-03 10:01
+
+# game/v1/scene37.rpy:36
+translate russian v1s37_9f3c92ab:
+
+    # pen "Hey, handsome."
+    pen "Привет, красавчик."
+
+# game/v1/scene37.rpy:46
+translate russian v1s37_bf0b24bd:
+
+    # pen "Hi!"
+    pen "Привет."
+
+# game/v1/scene37.rpy:56
+translate russian v1s37_a223a67c:
+
+    # pen "Thank you. You too, as always."
+    pen "Спасибо. Тебе тоже, как всегда."
+
+# game/v1/scene37.rpy:66
+translate russian v1s37_58ae81e0:
+
+    # pen "If I'm being honest, I started getting dressed as soon as you called and got here as quickly as I could."
+    pen "Если быть честной, я начала одеваться, как только ты позвонил, и приехала так быстро, как только смогла."
+
+# game/v1/scene37.rpy:76
+translate russian v1s37_8251e5cf:
+
+    # pen "Oh, no worries. I love this weather. You ready?"
+    pen "Хаха, не беспокойся. Я люблю такую погоду. Ты готов?"
+
+# game/v1/scene37.rpy:91
+translate russian v1s37_9b3fd705:
+
+    # pen "Hehe, that's cute."
+    pen "Мило."
+
+# game/v1/scene37.rpy:104
+translate russian v1s37_18e2de7a:
+
+    # pen "Just two."
+    pen "Только двое."
+
+# game/v1/scene37.rpy:134
+translate russian v1s37_41437395:
+
+    # pen "Yeah, water for me too."
+    pen "Да, мне тоже воду."
+
+# game/v1/scene37.rpy:144
+translate russian v1s37_97145697:
+
+    # pen "I need a few minutes."
+    pen "Мне нужно несколько минут."
+
+# game/v1/scene37.rpy:159
+translate russian v1s37_93ff0c80:
+
+    # pen "I'll be honest... I'm not hungry at all."
+    pen "Если честно... Я совсем не голодна."
+
+# game/v1/scene37.rpy:169
+translate russian v1s37_51e006e7:
+
+    # pen "I just really like this place! Is it bad if I don't order anything?"
+    pen "Мне просто очень нравится это место! Разве это плохо, если я ничего не закажу?"
+
+# game/v1/scene37.rpy:179
+translate russian v1s37_ebbce5ce:
+
+    # pen "Phew, good. I'll just leave a big tip for my water."
+    pen "Фух, хорошо. Я просто оставлю большие чаевые за воду."
+
+# game/v1/scene37.rpy:189
+translate russian v1s37_547d27e3:
+
+    # pen "I'm a trendsetter, [name]. You can still order whatever you want, though."
+    pen "Я законодательца моды, [name]. Но ты всё равно можешь заказать всё, что захочешь."
+
+# game/v1/scene37.rpy:199
+translate russian v1s37_611369ef:
+
+    # pen "Oh... are you sure?"
+    pen "О... Ты уверен?"
+
+# game/v1/scene37.rpy:214
+translate russian v1s37_411dda00:
+
+    # pen "Guess that makes two of us."
+    pen "Полагаю, нас двое."
+
+# game/v1/scene37.rpy:234
+translate russian v1s37_93b17fd4:
+
+    # pen "We're still deciding if we're even hungry, heh. I hope that's okay."
+    pen "Мы всё ещё решаем, голодные ли мы вообще, хаха, надеюсь, это нормально."
+
+# game/v1/scene37.rpy:329
+translate russian v1s37_5d08a94c:
+
+    # pen "*Whispers* That girl is being so mean to her date!"
+    pen "*Шёпотом* Эта девушка так грубо обращается со своим спутником!"
+
+# game/v1/scene37.rpy:339
+translate russian v1s37_fbd35e3a:
+
+    # pen "*Sighs* Some people..."
+    pen "*Вздох* Какие же люди..."
+
+# game/v1/scene37.rpy:354
+translate russian v1s37_3f5feb61:
+
+    # pen "I actually had an interview for an on-campus job, but it got cancelled."
+    pen "Вообще-то у меня было собеседование на работу в кампусе, но его отменили."
+
+# game/v1/scene37.rpy:369
+translate russian v1s37_0c59651c:
+
+    # pen "Nope. You're gonna laugh..."
+    pen "Нет. Ты будешь смеяться..."
+
+# game/v1/scene37.rpy:379
+translate russian v1s37_55f96192:
+
+    # pen "You already are!"
+    pen "Ты уже смеёшься!"
+
+# game/v1/scene37.rpy:389
+translate russian v1s37_c41dcf9d:
+
+    # pen "*Sighs* Positive?"
+    pen "*Вздох* Абсолютно?"
+
+# game/v1/scene37.rpy:399
+translate russian v1s37_c75818bc:
+
+    # pen "I signed up to be a hall monitor."
+    pen "Я подписалась на должность дежурного."
+
+# game/v1/scene37.rpy:418
+translate russian v1s37_9a37fee0:
+
+    # pen "*Sighs*"
+    pen "*Вздыхает*"
+
+# game/v1/scene37.rpy:433
+translate russian v1s37_98a61c3c:
+
+    # pen "*Sighs* It was the Dean. I swear she's out to get me."
+    pen "*Вздыхает* Это был декан, Клянусь, она хочет меня достать."
+
+# game/v1/scene37.rpy:443
+translate russian v1s37_81c2e554:
+
+    # pen "Because of the case I had. For some reason, she thinks I'm the devil now. I tried to-"
+    pen "Из-за дела, которое у меня было, она по какой-то причине думает, что я теперь дьявол. Я пыталась..."
+
+# game/v1/scene37.rpy:465
+translate russian v1s37_47cc239f:
+
+    # pen "*Scoffs*"
+    pen "*Посмеивается*"
+
+# game/v1/scene37.rpy:475
+translate russian v1s37_9b53e5ea:
+
+    # pen "*Whispers* I'm about to say something."
+    pen "*Шёпотом* Я о том же."
+
+# game/v1/scene37.rpy:507
+translate russian v1s37_0b2508b5:
+
+    # pen "I'm sorry, you're right. She's just-"
+    pen "Прости, ты прав. Она просто..."
+
+# game/v1/scene37.rpy:517
+translate russian v1s37_485e8b9a:
+
+    # pen "*Sighs* Okay."
+    pen "*Вздыхает* Хорошо."
+
+# game/v1/scene37.rpy:522
+translate russian v1s37_c2a50cec:
+
+    # pen "So, are you happy to be back from the trip? I've noticed everything is already back in full swing."
+    pen "Ну что, ты рад вернуться из поездки? Я заметила, что всё уже вернулось на свои места."
+
+# game/v1/scene37.rpy:532
+translate russian v1s37_ac86c8fd:
+
+    # pen "Julia...?"
+    pen "Джулия...?"
+
+# game/v1/scene37.rpy:542
+translate russian v1s37_3a1508fe:
+
+    # pen "Oh! I'm sorry. Oops."
+    pen "Ох! Прости. Упс."
+
+# game/v1/scene37.rpy:562
+translate russian v1s37_ea1f025a:
+
+    # pen "It's kinda weird listening to how involved you are in everything and here I am with nothing to do."
+    pen "Как-то странно слушать, как ты участвуешь во всем, а мне вот нечем заняться."
+
+# game/v1/scene37.rpy:572
+translate russian v1s37_6c12ff4e:
+
+    # pen "..."
+    pen "..."
+
+# game/v1/scene37.rpy:582
+translate russian v1s37_24ec4561:
+
+    # pen "Those girls would eat me alive like a pack of wolves. No pun intended..."
+    pen "Эти девушки съели бы меня живьём, как стая волков. Без каламбура..."
+
+# game/v1/scene37.rpy:592
+translate russian v1s37_d033720a:
+
+    # pen "Har-har, not funny."
+    pen "Хар-хар, не смешно."
+
+# game/v1/scene37.rpy:602
+translate russian v1s37_911f632b:
+
+    # pen "Nah. It actually was funny, but unexpected. I'm still trying to forget that whole experience, ha."
+    pen "Нет, но это было неожиданно. Я пытаюсь забыть об этом, ха."
+
+# game/v1/scene37.rpy:612
+translate russian v1s37_91d3d465:
+
+    # pen "Yeah, you're right. Again. Ugh..."
+    pen "Да, ты прав. Опять. Ух..."
+
+# game/v1/scene37.rpy:632
+translate russian v1s37_d18f4816:
+
+    # pen "Yeah, I do. It pays really good and literally no one else has applied in the last two weeks that the posting has been up."
+    pen "Да. Платят очень хорошо, и никто больше не подал заявку за последние две недели, пока висело объявление."
+
+# game/v1/scene37.rpy:642
+translate russian v1s37_da9c617d:
+
+    # pen "Yes. I think she said something to the school board so that they didn't want to give me a chance."
+    pen "Да. Думаю, она что-то сказала школьному совету, чтобы они не дали мне шанса."
+
+# game/v1/scene37.rpy:652
+translate russian v1s37_74d93144:
+
+    # pen "Feels a lot like it, too."
+    pen "Мне тоже так кажется."
+
+# game/v1/scene37.rpy:662
+translate russian v1s37_45e6161d:
+
+    # pen "I'd rather not get in any more trouble than I already am. Don't need you worrying about running to my defense all over again."
+    pen "Я бы не хотела попасть в еще большие неприятности, чем уже. Мне не нужно, чтобы ты беспокоился о том, чтобы снова бежать на мою защиту."
+
+# game/v1/scene37.rpy:672
+translate russian v1s37_1b3c92d7:
+
+    # pen "Fun for you, maybe."
+    pen "Возможно, для тебя это забава."
+
+# game/v1/scene37.rpy:682
+translate russian v1s37_c5db21d4:
+
+    # pen "That's a long shot, but I'll give it a try."
+    pen "Это маловероятно, но я попробую."
+
+# game/v1/scene37.rpy:704
+translate russian v1s37_a91f293e:
+
+    # pen "I love how you're always looking out for me. Makes me feel like I can be completely vulnerable around you..."
+    pen "Мне нравится, что ты всегда заботишься обо мне. Я чувствую, что могу быть полностью уязвимой рядом с тобой..."
+
+# game/v1/scene37.rpy:714
+translate russian v1s37_76548484:
+
+    # pen "Yeah, I do."
+    pen "Да, я знаю."
+
+# game/v1/scene37.rpy:725
+translate russian v1s37_350a5d8a:
+
+    # pen "*Sighs* [name]... I don't want to ruin our night, but-"
+    pen "*Вздох* [name]... Я не хочу портить нашу ночь, но..."
+
+# game/v1/scene37.rpy:735
+translate russian v1s37_e2291ac2:
+
+    # pen "Thank you."
+    pen "Спасибо."
+
+# game/v1/scene37.rpy:763
+translate russian v1s37_3ac5fbd5:
+
+    # pen "That woman was so terrible! How could that man just sit there and take all of her shit?"
+    pen "Эта женщина была так ужасна! Как этот мужчина может просто сидеть и выслушивать её дерьмо?"
+
+# game/v1/scene37.rpy:771
+translate russian v1s37_70411e13:
+
+    # pen "Okay, that's it!"
+    pen "Ладно, вот и все!"
+
+# game/v1/scene37.rpy:786
+translate russian v1s37_abe6af87:
+
+    # pen "Listen up, princess! I came here to go on a wonderful date, just like you. And I CAN'T DO THAT because YOU won't stop being a BITCH!"
+    pen "Послушай, принцесса! Я пришла сюда на чудесное свидание, как и ты. И я не могу им насладиться, потому что ТЫ не перестаешь быть СУКОЙ!"
+
+# game/v1/scene37.rpy:791
+translate russian v1s37_21aa1309:
+
+    # pen "Sir, kindly, BE A MAN AND STAND UP FOR YOURSELF."
+    pen "Сэр, будьте добры, будьте мужчиной и постойте за себя."
+
+# game/v1/scene37.rpy:796
+translate russian v1s37_dc19c08c:
+
+    # pen "And you."
+    pen "А ты."
+
+# game/v1/scene37.rpy:798
+translate russian v1s37_fd5e1966:
+
+    # pen "Keep your shitty attitude and miserable life to yourself, okay?"
+    pen "Держи своё дерьмовое отношение и свою жалкую жизнь при себе, хорошо?"
+
+# game/v1/scene37.rpy:800
+translate russian v1s37_fe53af3d:
+
+    # pen "This world doesn't revolve around you. If I ever see you again and you're speaking to someone like this, I'll have more than just words for you next time."
+    pen "Этот мир не вращается вокруг тебя. Если я когда-нибудь увижу тебя снова, и ты будешь разговаривать с кем-то подобным образом, в следующий раз у меня будет больше, чем просто слова, чтобы сказать."
+
+# game/v1/scene37.rpy:815
+translate russian v1s37_a92dcbcf:
+
+    # pen "Let's go, [name]."
+    pen "Пошли, [name]."
+
+# game/v1/scene37.rpy:825
+translate russian v1s37_cc4cb283:
+
+    # pen "Positive."
+    pen "Абсолютно."
+
+# game/v1/scene37.rpy:843
+translate russian v1s37_a9af4abe:
+
+    # pen "Yeah, I'm fine. She just really pissed me off, that's all."
+    pen "Да, я в порядке. Она просто очень разозлила меня, вот и все."
+
+# game/v1/scene37.rpy:853
+translate russian v1s37_3ac5fbd5_1:
+
+    # pen "That woman was so terrible! How could that man just sit there and take all of her shit?"
+    pen "Эта женщина была так ужасна! Как этот мужчина мог просто сидеть там и выслушивать её дерьмо?"
+

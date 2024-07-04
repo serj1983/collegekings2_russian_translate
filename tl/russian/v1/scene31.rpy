@@ -119,3 +119,41 @@ translate russian v1s31_de348817:
     # cl "Hey! I just wanted to call and let you know that everyone is on their way to the Apes house for the get-together."
     cl "Эй! Я просто хотела позвонить и сообщить тебе, что все едут в дом Приматов, чтобы собраться вместе."
 
+# TODO: Translation updated at 2024-07-03 10:01
+
+# game/v1/scene31.rpy:23
+translate russian v1s31_abd0fd47:
+
+    # ch "Hey! I just wanted to call and let you know that everyone is on their way to the Apes house for the get-together."
+    ch "Привет! Я просто хотела позвонить и сообщить тебе, что все едут в дом Приматов, чтобы собраться вместе."
+
+# game/v1/scene31.rpy:33
+translate russian v1s31_927d7918:
+
+    # ch "Yeah... Of course. Also, I know you know already, but please be very cautious of what you say."
+    ch "Да... Конечно. Знаю, что ты уже знаешь, но, пожалуйста, будь очень осторожен в своих словах."
+
+# game/v1/scene31.rpy:38
+translate russian v1s31_db4ac2dc:
+
+    # ch "You know my relationship with the Apes is rocky because of me and Grayson."
+    ch "Ты знаешь, что мои отношения с Приматами нестабильны из-за меня и Грейсона."
+
+# game/v1/scene31.rpy:48
+translate russian v1s31_df5a6189:
+
+    # ch "Please take it seriously, [name]."
+    ch "Пожалуйста, отнеситесь к этому серьёзно, [name]."
+
+# game/v1/scene31.rpy:50
+translate russian v1s31_a162f4a3:
+
+    # ch "The slightest misstep can send him overboard and cause complete hell for the both of us."
+    ch "Малейший неверный шаг может отправить его за борт и привести к полному аду для нас обоих."
+
+# game/v1/scene31.rpy:69
+translate russian v1s31_64126f56:
+
+    # ch "I know, I know. I'm sorry... Thank you. I'll see you soon."
+    ch "Знаю, знаю. Прости... Спасибо. Скоро увидимся."
+

@@ -471,3 +471,197 @@ translate russian v1s39_ec762fc8:
     # pe "It's okay. At least you kept your promise. I'm gonna go."
     pe "Всё в порядке. По крайней мере, ты сдержал свое обещание. Я пойду."
 
+# TODO: Translation updated at 2024-07-03 10:01
+
+# game/v1/scene39.rpy:17
+translate russian v1s39_8b224fc2:
+
+    # pen "Even he knew she was out of her mind."
+    pen "Даже он знал, что она не в своём уме."
+
+# game/v1/scene39.rpy:27
+translate russian v1s39_8a03c015:
+
+    # pen "Like what? I can't think of anything that'd be worth putting up with her."
+    pen "Например? Я не могу придумать ничего такого, ради чего стоило бы терпеть её."
+
+# game/v1/scene39.rpy:37
+translate russian v1s39_adc7c1a5:
+
+    # pen "*Sighs* I didn't even think about that. He was probably just trying to stay quiet for as long as he could."
+    pen "*Вздох* Я даже не подумала об этом. Возможно, он просто пытался молчать как можно дольше."
+
+# game/v1/scene39.rpy:47
+translate russian v1s39_4d3f8e07:
+
+    # pen "Promise me that we'll never be those people."
+    pen "Пообещай мне, что мы никогда не будем такими."
+
+# game/v1/scene39.rpy:57
+translate russian v1s39_b77a227d:
+
+    # pen "Oh? You'd snap back at me in front of everyone?"
+    pen "Ох? Ты огрызаешься на меня при всех?"
+
+# game/v1/scene39.rpy:73
+translate russian v1s39_a5baed37:
+
+    # pen "Oh my gosh, [name]!"
+    pen "Боже мой, [name]!"
+
+# game/v1/scene39.rpy:83
+translate russian v1s39_5439e08e:
+
+    # pen "\"We'll discuss what happened... in private.\""
+    pen "\"Мы обсудим случившееся... наедине.\""
+
+# game/v1/scene39.rpy:93
+translate russian v1s39_10727ea9:
+
+    # pen "Oh, sorry. I thought you meant... well, you know what I thought."
+    pen "Ох, прости. Я подумала, что ты имела в виду... Ну, ты знаешь, что я подумала."
+
+# game/v1/scene39.rpy:95
+translate russian v1s39_b28de6e5:
+
+    # pen "Discussing it at home sounds perfect."
+    pen "Обсудить дома - идеальный вариант."
+
+# game/v1/scene39.rpy:105
+translate russian v1s39_7631e55a:
+
+    # pen "[name]!"
+    pen "[name]!"
+
+# game/v1/scene39.rpy:115
+translate russian v1s39_d58ea90e:
+
+    # pen "You're naughty..."
+    pen "Ты непослушный..."
+
+# game/v1/scene39.rpy:125
+translate russian v1s39_732a6443:
+
+    # pen "Well, I don't plan to ever push you that far, so... all good."
+    pen "Ну, я не планирую когда-либо подталкивать тебя так далеко..."
+
+# game/v1/scene39.rpy:135
+translate russian v1s39_c155bd48:
+
+    # pen "Let's hope I never do. Ha."
+    pen "Будем надеяться, что никогда. Ха."
+
+# game/v1/scene39.rpy:145
+translate russian v1s39_866937ed:
+
+    # pen "It's not pretty."
+    pen "Это некрасиво."
+
+# game/v1/scene39.rpy:155
+translate russian v1s39_45340454:
+
+    # pen "Oh my god... trust me, don't be."
+    pen "О боже... поверь, не надо."
+
+# game/v1/scene39.rpy:165
+translate russian v1s39_d71649be:
+
+    # pen "I'm headed this way."
+    pen "Я направляюсь в ту сторону."
+
+# game/v1/scene39.rpy:179
+translate russian v1s39_8b503c64:
+
+    # pen "I..."
+    pen "Я..."
+
+# game/v1/scene39.rpy:181
+translate russian v1s39_67251a00:
+
+    # pen "...was kinda hoping..."
+    pen "...я надеялась..."
+
+# game/v1/scene39.rpy:191
+translate russian v1s39_2289aabd:
+
+    # pen "Maybe our night doesn't have to end here?"
+    pen "Может быть, наша ночь не должна заканчиваться здесь?"
+
+# game/v1/scene39.rpy:206
+translate russian v1s39_67dd5abd:
+
+    # pen "Would you, umm..."
+    pen "Не мог бы ты..."
+
+# game/v1/scene39.rpy:208
+translate russian v1s39_a07eeb23:
+
+    # pen "Would you want to come over? And like, stay over? Or..."
+    pen "Ты бы хотел придти? И остаться? Или..."
+
+# game/v1/scene39.rpy:218
+translate russian v1s39_1c2228de:
+
+    # pen "Like, stay the night?"
+    pen "Например, остаться на ночь?"
+
+# game/v1/scene39.rpy:228
+translate russian v1s39_fa6ceb0d:
+
+    # pen "You probably think that's stupid, I'm probably... rushing things. This was our first \"date\" date and here I am trying to-"
+    pen "Ты, наверное, думаешь, что это глупо, что я тороплю события... Это было наше первое \"свидание\"..."
+
+# game/v1/scene39.rpy:238
+translate russian v1s39_08785a85:
+
+    # pen "Really?!"
+    pen "Правда?!"
+
+# game/v1/scene39.rpy:255
+translate russian v1s39_08ab63d5:
+
+    # pen "Let's go."
+    pen "Пошли."
+
+# game/v1/scene39.rpy:271
+translate russian v1s39_5219b0de:
+
+    # pen "Well, thanks for tonight. I'll see you around?"
+    pen "Что ж, спасибо за сегодняшний вечер. Увидимся?"
+
+# game/v1/scene39.rpy:281
+translate russian v1s39_78b54bef:
+
+    # pen "I'm sorry, that was weird..."
+    pen "Прости, это было странно..."
+
+# game/v1/scene39.rpy:291
+translate russian v1s39_ee34a0e1:
+
+    # pen "It's okay. At least you kept your promise. I'm gonna go."
+    pen "Всё в порядке. По крайней мере, ты сдержал свое обещание. Я пойду."
+
+# game/v1/scene39.rpy:302
+translate russian v1s39_7cad3b0c:
+
+    # pen "I mean..."
+    pen "Я бы хотела..."
+
+# game/v1/scene39.rpy:304
+translate russian v1s39_3cecff3c:
+
+    # pen "Maybe we can try this again? Maybe with a little more planning or something?"
+    pen "Может быть, мы можем попробовать организовать свидание снова? Может быть, с более тщательным планированием или что-то в этом роде?"
+
+# game/v1/scene39.rpy:314
+translate russian v1s39_013153bf:
+
+    # pen "Perfect."
+    pen "Идеально."
+
+# game/v1/scene39.rpy:317
+translate russian v1s39_4ee3a573:
+
+    # pen "You too."
+    pen "И ты тоже."
+

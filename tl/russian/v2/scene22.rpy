@@ -1412,3 +1412,419 @@ translate russian v2s22_afterchloe_2a879e37:
     # u "(I need a pick me up... Please Aubrey, give me a good time. *Sighs*)"
     u "(Мне нужен заряд бодрости... Пожалуйста, Обри, порадуй меня. *Вздох*)"
 
+# TODO: Translation updated at 2024-07-03 10:01
+
+# game/v2/scene22.rpy:29
+translate russian v2s22_967419fb:
+
+    # ch "*Sighs* It wasn't perfect but at least we have Mr. Lee's signature."
+    ch "*Вздыхает* Это было не идеально, но, по крайней мере, у нас есть подпись мистера Ли."
+
+# game/v2/scene22.rpy:39
+translate russian v2s22_f120005f:
+
+    # ch "Yeah, I'm so glad he's on our side."
+    ch "Да, но я так рада, что он на нашей стороне."
+
+# game/v2/scene22.rpy:41
+translate russian v2s22_bdbed242:
+
+    # ch "But giving up my scholarship is going to make things really stressful."
+    ch "Но отказ от стипендии принесет дополнительные проблемы."
+
+# game/v2/scene22.rpy:55
+translate russian v2s22_87a91607:
+
+    # ch "I really hope so."
+    ch "Я очень надеюсь на это."
+
+# game/v2/scene22.rpy:65
+translate russian v2s22_070d1666:
+
+    # ch "*Sighs* Yeah, I guess so. On top of being President..."
+    ch "*Вздыхает* Да, наверное. Помимо того, что я Президент..."
+
+# game/v2/scene22.rpy:71
+translate russian v2s22_15266d5e:
+
+    # ch "Wow! Ms. Rose is supporting the whole thing, so I get to keep my scholarship as well!"
+    ch "Вот это да! Мисс Роуз поддержала меня, и я оставлю свою стипендию!"
+
+# game/v2/scene22.rpy:76
+translate russian v2s22_f716d4e4:
+
+    # ch "Whatever you said to her, it worked!"
+    ch "Что бы ты ей ни сказал, это сработало!"
+
+# game/v2/scene22.rpy:91
+translate russian v2s22_94989dc7:
+
+    # ch "Yeah, you're right, we have to stay focused."
+    ch "Да, ты прав, мы должны быть сосредоточенны."
+
+# game/v2/scene22.rpy:96
+translate russian v2s22_9a63472c:
+
+    # ch "Let's hope she's in a good mood."
+    ch "Будем надеяться, что она в хорошем настроении."
+
+# game/v2/scene22.rpy:108
+translate russian v2s22_5b741291:
+
+    # ch "Ah, okay. That makes sense."
+    ch "Хорошо. Это имеет смысл."
+
+# game/v2/scene22.rpy:117
+translate russian v2s22_cd2d952b:
+
+    # ch "*Sighs* I thought Ms. Rose would want to help me keep my scholarship. I don't know what I'm going to do if I lose that."
+    ch "*Вздыхает* Я думала, что мисс Роуз поможет мне сохранить мою стипендию. Не знаю, что я буду делать, когда потеряю её."
+
+# game/v2/scene22.rpy:127
+translate russian v2s22_1d2052e4:
+
+    # ch "Yeah, it's just stressful, you know?"
+    ch "Да, это всё стресс, пойми."
+
+# game/v2/scene22.rpy:141
+translate russian v2s22_87a91607_1:
+
+    # ch "I really hope so."
+    ch "Я очень на это надеюсь."
+
+# game/v2/scene22.rpy:151
+translate russian v2s22_4d5cf1da:
+
+    # ch "*Sighs* Yeah, I guess so."
+    ch "*Вздыхает* Да, наверное."
+
+# game/v2/scene22.rpy:160
+translate russian v2s22_3a4acf59:
+
+    # ch "I can't believe we're going to the Dean without a signature. I thought we had a good case."
+    ch "Не могу поверить, что мы идем к декану без поддержки. Я надеялась, что нам кто нибудь поможет."
+
+# game/v2/scene22.rpy:174
+translate russian v2s22_e312746d:
+
+    # ch "We really needed a signature."
+    ch "Мы правда нуждались в поддержке."
+
+# game/v2/scene22.rpy:189
+translate russian v2s22_8bc3a85e:
+
+    # ch "Still, they could have signed. They don't have anything to lose. I could lose everything."
+    ch "Тем не менее, они могли бы поставить подпись. Им нечего терять, а я могу потерять всё."
+
+# game/v2/scene22.rpy:206
+translate russian v2s22_736c52ce:
+
+    # ch "Okay, so before we go in, we need to think about how we're going to approach the Dean."
+    ch "Так, прежде чем мы войдем, нам нужно подумать о том, как нам себя вести."
+
+# game/v2/scene22.rpy:216
+translate russian v2s22_2fcc64f0:
+
+    # ch "Well, yes and no. Here, take a look at my notes."
+    ch "И да, и нет. Вот, взгляни на мои записи."
+
+# game/v2/scene22.rpy:228
+translate russian v2s22_2eba9cb4:
+
+    # ch "We need to convince her that our proposal benefits SVC."
+    ch "Мы должны убедить её в том, что наше предложение выгодно для SVC."
+
+# game/v2/scene22.rpy:230
+translate russian v2s22_34662608:
+
+    # ch "SVC is always her priority. It's like she's married to this place."
+    ch "SVC всегда для неё приоритет. Как будто она замужем за этим местом."
+
+# game/v2/scene22.rpy:232
+translate russian v2s22_40c11c3e:
+
+    # ch "But above all we need to show her respect. After all, what she says, goes."
+    ch "Но прежде всего мы должны проявлять к ней уважение. В конце концов, как она скажет, так и будет."
+
+# game/v2/scene22.rpy:242
+translate russian v2s22_8e191ae8:
+
+    # ch "And we aren't taking these notes with us. I don't want us to be distracted, and I don't want to risk pissing her off, so..."
+    ch "И мы не возьмём эти записи с собой. Я не хочу, чтобы мы отвлекались, и не хочу рисковать разозлить её, так что..."
+
+# game/v2/scene22.rpy:252
+translate russian v2s22_b4bbc1dc:
+
+    # ch "Good."
+    ch "Хорошо."
+
+# game/v2/scene22.rpy:254
+translate russian v2s22_48e5d9fe:
+
+    # ch "*Deep breath* Okay, let's go."
+    ch "*Глубокий вдох* Ладно, пошли."
+
+# game/v2/scene22.rpy:285
+translate russian v2s22_dde21214:
+
+    # ch "Hello, Dean Harrison. We're here for my meeting. Thank you for-"
+    ch "Здравствуйте, декан Харрисон. Мы пришли поговорить с вами. Спасибо за..."
+
+# game/v2/scene22.rpy:295
+translate russian v2s22_a30f5616:
+
+    # ch "Oh, okay."
+    ch "Ох, хорошо."
+
+# game/v2/scene22.rpy:346
+translate russian v2s22_2137a52e:
+
+    # ch "It's about my proposal to reduce tuition fees for the Chicks."
+    ch "Речь идет о моём предложении снизить плату за обучение для Чикс."
+
+# game/v2/scene22.rpy:358
+translate russian v2s22_413ffb95:
+
+    # ch "We have signed support from Mr. Lee."
+    ch "У нас есть подпись в нашу поддержку от г-на Ли."
+
+# game/v2/scene22.rpy:398
+translate russian v2s22_988ef472:
+
+    # ch "[name]!"
+    ch "[name]!"
+
+# game/v2/scene22.rpy:403
+translate russian v2s22_0453ca14:
+
+    # ch "I'm sorry, Dean Harrison."
+    ch "Извините, декан Харрисон."
+
+# game/v2/scene22.rpy:447
+translate russian v2s22_aa4411ab:
+
+    # ch "We have signed support from Ms. Rose."
+    ch "Мы получили поддержку со стороны мисс Роуз."
+
+# game/v2/scene22.rpy:489
+translate russian v2s22_988ef472_1:
+
+    # ch "[name]!"
+    ch "[name]!"
+
+# game/v2/scene22.rpy:494
+translate russian v2s22_c97c3645:
+
+    # ch "I'm sorry, Dean Harrison..."
+    ch "Извините, декан Харрисон."
+
+# game/v2/scene22.rpy:550
+translate russian v2s22_a3816399:
+
+    # ch "Well... We had a meeting, but unfortunately, we didn't win the support we needed."
+    ch "Ну... у нас была встреча, но, к сожалению, мы не получили необходимую поддержку."
+
+# game/v2/scene22.rpy:588
+translate russian v2s22_5a9a8643:
+
+    # ch "Probably, yes."
+    ch "Возможно, да."
+
+# game/v2/scene22.rpy:649
+translate russian v2s22_0da96fed:
+
+    # ch "Oh, absolutely."
+    ch "Ох, безусловно."
+
+# game/v2/scene22.rpy:718
+translate russian v2s22_591b9448:
+
+    # ch "Well, we can still try to summarize our goal for the Dean, [name]."
+    ch "Ну, мы всё же можем попытаться кратко сформулировать нашу цель, [name]."
+
+# game/v2/scene22.rpy:802
+translate russian v2s22_521c59c5:
+
+    # ch "It's obviously not as simple as that, but, yeah. That was a little quick..."
+    ch "Очевидно, что всё не так просто, но, да. Это было быстро..."
+
+# game/v2/scene22.rpy:829
+translate russian v2s22_e34ad9a0:
+
+    # ch "Yeah, we think it has the potential to open things up and provide opportunities for others."
+    ch "Да, также мы считаем, что это может открыть новые возможности для других."
+
+# game/v2/scene22.rpy:844
+translate russian v2s22_7158801d:
+
+    # ch "And with lower fees across the board, it will help with our first point about encouraging more people to enroll."
+    ch "А снижение платы поможет нам в решении первого вопроса о поощрении большего числа людей к поступлению в колледж."
+
+# game/v2/scene22.rpy:864
+translate russian v2s22_bd702721:
+
+    # ch "Exactly."
+    ch "Именно."
+
+# game/v2/scene22.rpy:896
+translate russian v2s22_58494bd0:
+
+    # ch "We're thinking that the money from the scholarship can be put towards reducing the tuition fees."
+    ch "Мы думаем, что деньги от стипендии можно направить на снижение платы за обучение."
+
+# game/v2/scene22.rpy:995
+translate russian v2s22_08514c62:
+
+    # ch "Can we please just try again?"
+    ch "Можем мы, пожалуйста, попробуем ещё раз?"
+
+# game/v2/scene22.rpy:1012
+translate russian v2s22_e706df6d:
+
+    # ch "Okay. Thanks."
+    ch "Хорошо. Спасибо."
+
+# game/v2/scene22.rpy:1030
+translate russian v2s22_3504710e:
+
+    # ch "What?!"
+    ch "Что?!"
+
+# game/v2/scene22.rpy:1045
+translate russian v2s22_ad7f48f2:
+
+    # ch "Well... if it's the only way..."
+    ch "Ну... если это единственный путь..."
+
+# game/v2/scene22.rpy:1047
+translate russian v2s22_7a7eb2e8:
+
+    # ch "I guess we should do it."
+    ch "Думаю, я могу это сделать."
+
+# game/v2/scene22.rpy:1057
+translate russian v2s22_9f8ffd07:
+
+    # ch "Yeah. I have to do whatever it takes."
+    ch "Да. Я должна сделать всё, что потребуется."
+
+# game/v2/scene22.rpy:1067
+translate russian v2s22_ae4a09a7:
+
+    # ch "Thank you."
+    ch "Благодарю вас."
+
+# game/v2/scene22.rpy:1077
+translate russian v2s22_a7628548:
+
+    # ch "I'll do my best."
+    ch "Я сделаю всё, что в моих силах."
+
+# game/v2/scene22.rpy:1102
+translate russian v2s22_ea5fa85b:
+
+    # ch "Oh... Do I really need to? I-"
+    ch "Ох... Мне правда нужно? Я-"
+
+# game/v2/scene22.rpy:1117
+translate russian v2s22_87cb8caa:
+
+    # ch "Well..."
+    ch "Что ж..."
+
+# game/v2/scene22.rpy:1122
+translate russian v2s22_60f0d938:
+
+    # ch "If that's what it takes, I guess we should do it."
+    ch "Если это то, что нужно, я думаю, я могу это сделать."
+
+# game/v2/scene22.rpy:1132
+translate russian v2s22_9f8ffd07_1:
+
+    # ch "Yeah. I have to do whatever it takes."
+    ch "Да. Я должна сделать всё, что потребуется."
+
+# game/v2/scene22.rpy:1142
+translate russian v2s22_ae4a09a7_1:
+
+    # ch "Thank you."
+    ch "Благодарю вас."
+
+# game/v2/scene22.rpy:1152
+translate russian v2s22_f6b07c7f:
+
+    # ch "I really hope I can. I'll keep working hard."
+    ch "Я очень надеюсь, что выиграю. Я продолжу упорно работать."
+
+# game/v2/scene22.rpy:1190
+translate russian v2s22_dce2acc3:
+
+    # ch "Oh, okay then... Thanks."
+    ch "Ох, ладно, тогда... спасибо."
+
+# game/v2/scene22.rpy:1205
+translate russian v2dean_successful_4412667f:
+
+    # ch "*Gasps* Oh my-"
+    ch "*Выдыхает* О, Боже..."
+
+# game/v2/scene22.rpy:1215
+translate russian v2dean_successful_bc771819:
+
+    # ch "That's amazing! Thank you so much!"
+    ch "Это потрясающе! Спасибо вам большое!"
+
+# game/v2/scene22.rpy:1235
+translate russian v2dean_successful_eb63930d:
+
+    # ch "Yeah... no pressure there!"
+    ch "Да!"
+
+# game/v2/scene22.rpy:1260
+translate russian v2dean_successful_5608f295:
+
+    # ch "We did it! *Laughs*"
+    ch "Мы сделали это! *Смеётся*"
+
+# game/v2/scene22.rpy:1270
+translate russian v2dean_successful_53d24c37:
+
+    # ch "Thank you so much for your help in there, [name]."
+    ch "Большое спасибо за помощь, [name]."
+
+# game/v2/scene22.rpy:1321
+translate russian v2dean_unsuccessful_4d6567f7:
+
+    # ch "I can't believe it... I worked so hard for this..."
+    ch "Я не могу в это поверить... Я так много работала..."
+
+# game/v2/scene22.rpy:1325
+translate russian v2dean_unsuccessful_d3c5b445:
+
+    # ch "We even got Mr. Lee's support. All that hard work... for nothing."
+    ch "Мы даже заручились поддержкой мистера Ли. Вся работа... впустую."
+
+# game/v2/scene22.rpy:1327
+translate russian v2dean_unsuccessful_1cd1396e:
+
+    # ch "We even got Ms. Rose's support. All that hard work... for nothing."
+    ch "Мы даже заручились поддержкой мисс Роуз. Вся работа... впустую."
+
+# game/v2/scene22.rpy:1337
+translate russian v2dean_unsuccessful_ae3964f9:
+
+    # ch "I need to be alone for a little while."
+    ch "Мне нужно немного побыть одной."
+
+# game/v2/scene22.rpy:1410
+translate russian v2s22_afterchloe_e2bd33df:
+
+    # ch "That's okay. I'm done with you for now."
+    ch "Всё в порядке. На сегодня мы закончили."
+
+# game/v2/scene22.rpy:1420
+translate russian v2s22_afterchloe_1e8b12f7:
+
+    # ch "Thanks again, [name]. You're the best."
+    ch "Ещё раз спасибо, [name]. Ты лучший."
+

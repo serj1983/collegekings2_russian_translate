@@ -455,3 +455,107 @@ translate russian v1s30a_a56e3ddb:
     # u "All right."
     u "Хорошо."
 
+# TODO: Translation updated at 2024-07-03 10:01
+
+# game/v1/scene30a.rpy:27
+translate russian v1s30a_18c6f416:
+
+    # ch "[name], there you are!"
+    ch "[name], вот ты где!"
+
+# game/v1/scene30a.rpy:42
+translate russian v1s30a_8c2bb3fa:
+
+    # ch "Yes! He's so cute!"
+    ch "Да! Он такой милый!"
+
+# game/v1/scene30a.rpy:72
+translate russian v1s30a_c8e9259c:
+
+    # ch "It'll be fine."
+    ch "Всё будет хорошо."
+
+# game/v1/scene30a.rpy:87
+translate russian v1s30a_7c9acef5:
+
+    # ch "He used to date one of my close friends, until the accident..."
+    ch "Он встречался с одной из моих близких подруг, до несчастного случая..."
+
+# game/v1/scene30a.rpy:104
+translate russian v1s30a_1c1f423d:
+
+    # ch "Right... That's what you kept telling Jenny, right?"
+    ch "Верно... Это то, что ты твердил Дженни, верно?"
+
+# game/v1/scene30a.rpy:129
+translate russian v1s30a_1941cb27:
+
+    # ch "Right, so..."
+    ch "Хорошо, итак..."
+
+# game/v1/scene30a.rpy:144
+translate russian v1s30a_6c3102c1:
+
+    # ch "Okay, let's get this party started, shall we?"
+    ch "Итак, давайте начнем праздник?"
+
+# game/v1/scene30a.rpy:164
+translate russian v1s30a_cf9ad454:
+
+    # ch "Make us look good."
+    ch "Сделай так, чтобы мы выглядели хорошо."
+
+# game/v1/scene30a.rpy:195
+translate russian v1s30a_a001001f:
+
+    # ch "[name]?!"
+    ch "[name]?!"
+
+# game/v1/scene30a.rpy:237
+translate russian v1s30a_98c9ce8b:
+
+    # ch "Huh?"
+    ch "А?"
+
+# game/v1/scene30a.rpy:280
+translate russian v1s30a_e562c975:
+
+    # ch "Ha!"
+    ch "Ха!"
+
+# game/v1/scene30a.rpy:305
+translate russian v1s30a_a0e1a57a:
+
+    # ch "Just c'mon already, meat man."
+    ch "Давай уже, мясной человек."
+
+# game/v1/scene30a.rpy:337
+translate russian v1s30a_419e50d2:
+
+    # ch "Yay! Let's see..."
+    ch "Ура! Посмотрим..."
+
+# game/v1/scene30a.rpy:347
+translate russian v1s30a_bfa04a34:
+
+    # ch "These are great! Come look."
+    ch "Это здорово! Иди посмотри."
+
+# game/v1/scene30a.rpy:357
+translate russian v1s30a_fe6d4407:
+
+    # ch "Yeah, okay. Thank you again."
+    ch "Да, хорошо, хаха. Ещё раз спасибо."
+
+# game/v1/scene30a.rpy:372
+translate russian v1s30a_256f44e0:
+
+    # ch "Nope, we're all finished."
+    ch "Нет, мы закончили."
+
+# game/v1/scene30a.rpy:392
+translate russian v1s30a_dbfacce8:
+
+    # ch "C'mon [name], let's head back and pick out the winner."
+    ch "Давай, [name], вернёмся и выберем победителя."
+

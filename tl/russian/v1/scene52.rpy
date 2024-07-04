@@ -589,3 +589,143 @@ translate russian v1s52_207a89b0:
     # imre "Come the fuck on, [name]!"
     imre "Давай, блядь, [name]!"
 
+# TODO: Translation updated at 2024-07-03 10:01
+
+# game/v1/scene52.rpy:47
+translate russian v1s52_460bd480:
+
+    # chr "Thanks for coming, guys. I appreciate that you all made the time to be here together, so that I only have to say this once."
+    chr "Спасибо, что пришли, ребята. Я ценю то, что вы все нашли время, чтобы быть здесь вместе, так что мне придется сказать это только один раз."
+
+# game/v1/scene52.rpy:52
+translate russian v1s52_b4355f6a:
+
+    # chr "I'm not going to make this a long, drawn out thing."
+    chr "Я не собираюсь делать это длинным и затянутым делом."
+
+# game/v1/scene52.rpy:62
+translate russian v1s52_04bba72d:
+
+    # chr "I know this probably won't come as a shock."
+    chr "Я знаю, что это, вероятно, не будет шоком."
+
+# game/v1/scene52.rpy:64
+translate russian v1s52_15e6f3dd:
+
+    # chr "I mean, it's no secret that Nora and I have been going through a difficult time lately."
+    chr "Не секрет, что в последнее время у нас с Норой были трудные времена."
+
+# game/v1/scene52.rpy:74
+translate russian v1s52_e805cdb7:
+
+    # chr "But we've decided to break up. Officially, for good. I thought you should all know."
+    chr "Но мы решили расстаться. Официально, навсегда. Я подумал, что вы все должны знать."
+
+# game/v1/scene52.rpy:87
+translate russian v1s52_55631580:
+
+    # seb "Y-you broke up?"
+    seb "В-вы расстались?"
+
+# game/v1/scene52.rpy:92
+translate russian v1s52_01c4c949:
+
+    # chr "Yeah."
+    chr "Ага."
+
+# game/v1/scene52.rpy:102
+translate russian v1s52_edc4a43b:
+
+    # chr "I know it's going to be a weird adjustment for everyone. You guys are also used to Nora being around. But we'll be perfectly fine."
+    chr "Я знаю, что это будет странная адаптация для всех. Вы, ребята, тоже привыкли, что Нора рядом. Но мы будем в полном порядке."
+
+# game/v1/scene52.rpy:112
+translate russian v1s52_8d40ff2a:
+
+    # chr "Thanks, Imre."
+    chr "Благодарю, Имре."
+
+# game/v1/scene52.rpy:122
+translate russian v1s52_a7fd43b0:
+
+    # chr "But, no. There's nothing you can do. Nora made it pretty clear how she felt."
+    chr "Но нет. Вы ничего не можете сделать. Нора ясно дала понять, что она чувствует."
+
+# game/v1/scene52.rpy:124
+translate russian v1s52_bdb527d6:
+
+    # chr "She's got a whole list of issues about how I've treated her lately."
+    chr "У неё целый список проблем по поводу того, как я обращался с ней в последнее время."
+
+# game/v1/scene52.rpy:126
+translate russian v1s52_9c9f9729:
+
+    # chr "I don't think I have to change for her. I shouldn't have to, you know. I'm still the same guy she fell in love with... but, whatever."
+    chr "Я не думаю, что мне нужно меняться ради неё. Я не должен был этого делать, вы же знаете. Я все тот же парень, в которого она влюбилась... Но неважно."
+
+# game/v1/scene52.rpy:131
+translate russian v1s52_476f032f:
+
+    # chr "Her fucking loss. Right, boys?"
+    chr "Это её чёртова потеря, верно, парни?"
+
+# game/v1/scene52.rpy:146
+translate russian v1s52_a30c136c:
+
+    # seb "Bros before those hoes!"
+    seb "К чёрту этих шлюх!"
+
+# game/v1/scene52.rpy:168
+translate russian v1s52_2bc8af0f:
+
+    # chr "Thankfully there was no screaming or punching involved. We were both really calm about it. Upset, obviously, but calm."
+    chr "К счастью, обошлось без криков и насилия. Мы оба отнеслись к этому спокойно. Расстроены, конечно, но спокойны."
+
+# game/v1/scene52.rpy:183
+translate russian v1s52_29b602e3:
+
+    # chr "..."
+    chr "..."
+
+# game/v1/scene52.rpy:188
+translate russian v1s52_9f2f8ae0:
+
+    # chr "Honestly, I uh... I don't want to talk about her anymore for right now."
+    chr "Честно говоря, я... Я не хочу больше говорить о ней сейчас."
+
+# game/v1/scene52.rpy:190
+translate russian v1s52_cecbed48:
+
+    # chr "I just wanted to let you guys know what happened."
+    chr "Я просто хотел сообщить вам, ребята, что произошло."
+
+# game/v1/scene52.rpy:230
+translate russian v1s52_13c46efa:
+
+    # chr "Yeah, I know. That means a lot, [name]. Thanks man."
+    chr "Да, я знаю. Это много значит, [name]. Спасибо."
+
+# game/v1/scene52.rpy:250
+translate russian v1s52_091cc1a8:
+
+    # chr "Ha..."
+    chr "Ха..."
+
+# game/v1/scene52.rpy:260
+translate russian v1s52_42791dcf:
+
+    # chr "She told me to leave, never come back, and to not tell a single person where she is."
+    chr "Она сказала мне уйти, никогда не возвращаться и не говорить ни одному человеку, где она находится."
+
+# game/v1/scene52.rpy:282
+translate russian v1s52_0fa3431d:
+
+    # chr "Yeah, ha. I do know. Or I did. Not anymore."
+    chr "Да, ха. Я знаю. Или знаю. Больше нет."
+
+# game/v1/scene52.rpy:284
+translate russian v1s52_7dd4f9a1:
+
+    # chr "Sleep tight, man."
+    chr "Спи спокойно, чувак."
+

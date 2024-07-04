@@ -2528,3 +2528,617 @@ translate russian v2s21_7ba91392:
     # cl "*Whispers* I don't think she's going to change her mind, okay? Let's just get her signature and leave."
     cl "*Шёпотом* Я не думаю, что она передумает. Давай просто получим от неё подпись и уйдем."
 
+# TODO: Translation updated at 2024-07-03 10:01
+
+# game/v2/scene21.rpy:24
+translate russian v2s21_dd5f1077:
+
+    # ch "Here he is."
+    ch "Вот и он."
+
+# game/v2/scene21.rpy:36
+translate russian v2s21_2190a4d8:
+
+    # ch "Good morning, Mr. Lee."
+    ch "Доброе утро, мистер Ли."
+
+# game/v2/scene21.rpy:58
+translate russian v2s21_343ed1ac:
+
+    # ch "Yes, thank you for agreeing to this, Mr. Lee."
+    ch "Да, спасибо, что согласились встретиться, мистер Ли."
+
+# game/v2/scene21.rpy:60
+translate russian v2s21_2f6d2dcb:
+
+    # ch "If you would like to follow me, I've booked a room for us to meet."
+    ch "Если вы пройдёте за мной, я забронировала комнату для нашей встречи."
+
+# game/v2/scene21.rpy:90
+translate russian v2s21_9632226e:
+
+    # ch "Yeah, it's part of my election campaign. I'm being challenged for the presidency of the Chicks."
+    ch "Да, это часть моей предвыборной кампании. Я претендую на пост президента Чикс."
+
+# game/v2/scene21.rpy:116
+translate russian v2s21_7e362220:
+
+    # ch "*Whispers* [name]..."
+    ch "*Шёпотом* [name]..."
+
+# game/v2/scene21.rpy:131
+translate russian v2s21_0a6ffff9:
+
+    # ch "Of course, we don't want that."
+    ch "Разумеется, мы этого не хотим."
+
+# game/v2/scene21.rpy:157
+translate russian v2s21_784ea992:
+
+    # ch "I have to agree, she is. Which is why I'm doing whatever it takes to prove to my peers that I'm a better fit for President."
+    ch "Я должна согласиться, что так оно и есть. Именно поэтому я делаю всё возможное, чтобы доказать, что я лучше подхожу на пост президента."
+
+# game/v2/scene21.rpy:167
+translate russian v2s21_5ad01f4e:
+
+    # ch "So, the reason I've asked you to meet with us today is to hopefully gain your support for my proposal."
+    ch "Итак, причина, по которой я попросила вас встретиться с нами, заключается в том, чтобы, надеюсь, заручиться вашей поддержкой моего предложения."
+
+# game/v2/scene21.rpy:182
+translate russian v2s21_b7de07d4:
+
+    # ch "If I'm successful, I can then take our approved idea to the Dean and get it implemented."
+    ch "В случае успеха, я смогу передать нашу одобренную идею, декану и воплотить её в жизнь."
+
+# game/v2/scene21.rpy:212
+translate russian v2s21_ae4a09a7:
+
+    # ch "Thank you."
+    ch "Спасибо."
+
+# game/v2/scene21.rpy:265
+translate russian v2s21_5b529c75:
+
+    # ch "It's true. If they want the same treatment, they just have to try."
+    ch "Это правда. Если они хотят такого же, им самим нужно добиваться этого."
+
+# game/v2/scene21.rpy:291
+translate russian v2s21_c7286c45:
+
+    # ch "Yeah, that's true..."
+    ch "Да, это правда..."
+
+# game/v2/scene21.rpy:311
+translate russian v2s21_c56f01d8:
+
+    # ch "Whether it's just the Chicks or all the other frats and sororities too that benefit, reduced tuition equals more students coming to SVC."
+    ch "Будь то только Чикс или все другие братства и сестринства, которые тоже получат выгоду, снижение платы за обучение означает больше студентов, поступающих в SVC."
+
+# game/v2/scene21.rpy:321
+translate russian v2s21_5888f007:
+
+    # ch "Well, it's obvious more students would come here for that. Everyone would love lower tuition fees, wouldn't they?"
+    ch "Очевидно, что ради этого сюда приехало бы больше студентов. Всем бы понравилось снижение платы за обучение, не так ли?"
+
+# game/v2/scene21.rpy:384
+translate russian v2s21_07027fe0:
+
+    # ch "Not having to work a part-time job would be amazing..."
+    ch "Отсутствие необходимости работать неполный рабочий день было бы замечательно..."
+
+# game/v2/scene21.rpy:394
+translate russian v2s21_2b8b77a1:
+
+    # ch "I mean, for everyone..."
+    ch "Для каждого..."
+
+# game/v2/scene21.rpy:404
+translate russian v2s21_8be64301:
+
+    # ch "I can't keep count of how many times my friends were so stressed about affording tuition and expenses..."
+    ch "Я не могу сосчитать, сколько раз мои друзья переживали из-за того, чтобы позволить себе обучение и расходы..."
+
+# game/v2/scene21.rpy:406
+translate russian v2s21_a31ec0f1:
+
+    # ch "Their studies fall off and they started failing their classes..."
+    ch "Они начинали плохо учиться, и они прогуливали занятия..."
+
+# game/v2/scene21.rpy:435
+translate russian v2s21_c94b941d:
+
+    # ch "Absolutely it would."
+    ch "Безусловно, да."
+
+# game/v2/scene21.rpy:460
+translate russian v2s21_5748be36:
+
+    # ch "Um, y-yes... That started the year I became President."
+    ch "Эм, д-да... Это началось в год, когда я стала Президентом."
+
+# game/v2/scene21.rpy:474
+translate russian v2s21_2911d69c:
+
+    # ch "Well, surely the Dean approved it for a good reason."
+    ch "Ну, конечно, декан одобрил это по уважительной причине."
+
+# game/v2/scene21.rpy:488
+translate russian v2s21_caa2b4ef:
+
+    # ch "But that's not my fault."
+    ch "Но я в этом невиновата."
+
+# game/v2/scene21.rpy:514
+translate russian v2s21_5de77763:
+
+    # ch "Yes, that's what she said."
+    ch "Да, это так."
+
+# game/v2/scene21.rpy:546
+translate russian v2s21_54951203:
+
+    # ch "Okay, and...?"
+    ch "Хорошо, и...?"
+
+# game/v2/scene21.rpy:606
+translate russian v2s21_66d05e1d:
+
+    # ch "That's everything from me."
+    ch "Да, это всё."
+
+# game/v2/scene21.rpy:632
+translate russian v2s21_b8671204:
+
+    # ch "Are they difficult to care for?"
+    ch "А трудно за ним ухаживать?"
+
+# game/v2/scene21.rpy:642
+translate russian v2s21_373dce07:
+
+    # ch "Huh..."
+    ch "Хм..."
+
+# game/v2/scene21.rpy:666
+translate russian v2s21_029f66d6:
+
+    # ch "Aww, thank you, [name]."
+    ch "Оу, спасибо тебе, [name]."
+
+# game/v2/scene21.rpy:701
+translate russian v2s21_09cc0482:
+
+    # ch "*Whispers* I don't know what you guys are talking about..."
+    ch "*Шёпотом* Я не знаю, о чём вы, говорите..."
+
+# game/v2/scene21.rpy:716
+translate russian v2s21_e7d1fb1a:
+
+    # ch "Yeah. We've covered all the main points that we wanted to discuss."
+    ch "Да. Мы рассмотрели основные моменты, которые хотели обсудить."
+
+# game/v2/scene21.rpy:718
+translate russian v2s21_4e7669f9:
+
+    # ch "I just have a paper here for you to sign, if you're willing to support our plans."
+    ch "У меня есть бумага, которую вы можете подписать, если готовы поддержать наши устремление."
+
+# game/v2/scene21.rpy:728
+translate russian v2s21_7018d06b:
+
+    # ch "Then I can just present it to the Dean when we meet with her."
+    ch "Я смогу ппоказать декану, когда мы встретимся с ней."
+
+# game/v2/scene21.rpy:753
+translate russian v2s21_a743a515:
+
+    # ch "Wait, so-"
+    ch "Подожди, так-"
+
+# game/v2/scene21.rpy:794
+translate russian v2s21_11519620:
+
+    # ch "Really?!"
+    ch "Правда?!"
+
+# game/v2/scene21.rpy:830
+translate russian v2s21_75b60357:
+
+    # ch "You'll sign?"
+    ch "Вы подпишете?"
+
+# game/v2/scene21.rpy:861
+translate russian v2s21_5f5a7add:
+
+    # ch "So, you're not going to sign?"
+    ch "Значит, вы не подпишите согласие?"
+
+# game/v2/scene21.rpy:878
+translate russian v2s21_fb456fd7:
+
+    # ch "..."
+    ch "..."
+
+# game/v2/scene21.rpy:901
+translate russian v2s21_57befdc3:
+
+    # ch "Umm, okay. What is it?"
+    ch "Ммм, хорошо. И что это?"
+
+# game/v2/scene21.rpy:911
+translate russian v2s21_fad29f71:
+
+    # ch "What-"
+    ch "Что-"
+
+# game/v2/scene21.rpy:923
+translate russian v2s21_5341c55d:
+
+    # ch "Yeah..."
+    ch "Да..."
+
+# game/v2/scene21.rpy:938
+translate russian v2s21_d566bda9:
+
+    # ch "You're suggesting that I... give up my scholarship?"
+    ch "Вы предлагаете мне... отказаться от своей стипендии?"
+
+# game/v2/scene21.rpy:950
+translate russian v2s21_c967afbb:
+
+    # ch "I mean... It's just-"
+    ch "Я имею в виду... Это просто-"
+
+# game/v2/scene21.rpy:960
+translate russian v2s21_fb456fd7_1:
+
+    # ch "..."
+    ch "..."
+
+# game/v2/scene21.rpy:967
+translate russian v2s21_17e98dd8:
+
+    # ch "Let's do it."
+    ch "Так и сделаем."
+
+# game/v2/scene21.rpy:982
+translate russian v2s21_f860f929:
+
+    # ch "Thank you, Mr. Lee."
+    ch "Спасибо, мистер Ли."
+
+# game/v2/scene21.rpy:1004
+translate russian v2s21_ddfd36b1:
+
+    # ch "Great..."
+    ch "Прекрасно..."
+
+# game/v2/scene21.rpy:1014
+translate russian v2s21_7307da5f:
+
+    # ch "Umm... I-"
+    ch "Ммм... Я-"
+
+# game/v2/scene21.rpy:1024
+translate russian v2s21_e655c41a:
+
+    # ch "Thank you so much. I really appreciate your time today."
+    ch "Огромное спасибо. Я ценю ваше потраченное время."
+
+# game/v2/scene21.rpy:1055
+translate russian v2s21_a2378b09:
+
+    # ch "Here she comes, look alive."
+    ch "Вот она, смотри."
+
+# game/v2/scene21.rpy:1089
+translate russian v2s21_505b5797:
+
+    # ch "Yes, hello! Thank you so much for agreeing to see me..."
+    ch "Да, здравствуйте! Большое вам спасибо, что согласились встретиться с нами..."
+
+# game/v2/scene21.rpy:1091
+translate russian v2s21_23ccb7a2:
+
+    # ch "If you'd like to follow me, I've set up a meeting room for us."
+    ch "Если вы проследуете за мной, я забронировала для нас комнату для встреч."
+
+# game/v2/scene21.rpy:1129
+translate russian v2s21_25377fd2:
+
+    # ch "As I'm sure you know, I'm being challenged for the presidency of the Chicks."
+    ch "Уверена, что вы знаете, что я претендую на пост президента Чикс."
+
+# game/v2/scene21.rpy:1144
+translate russian v2s21_c6ee4676:
+
+    # ch "Right, and I want to smooth things over for everyone. As soon as possible."
+    ch "Верно, и я хочу сгладить ситуацию. Как можно скорее."
+
+# game/v2/scene21.rpy:1154
+translate russian v2s21_a432b902:
+
+    # ch "So, I've thought of a proposal that I'd love to have your support on."
+    ch "Поэтому у меня есть предложение и я хочу получить от вас поддержку."
+
+# game/v2/scene21.rpy:1172
+translate russian v2s21_af9bedb2:
+
+    # ch "*Sighs*"
+    ch "*Вздыхает*"
+
+# game/v2/scene21.rpy:1193
+translate russian v2s21_0949b1fe:
+
+    # ch "No, of course not. We can move on."
+    ch "Нет, конечно, нет. Мы можем двигаться дальше."
+
+# game/v2/scene21.rpy:1211
+translate russian v2s21_fece289f:
+
+    # ch "You know how much I care about the Chicks, and I think with your support we could become bigger and better than ever before."
+    ch "Вы знаете, как я сильно забочусь о Чикс, и думаю, что с вашей поддержкой мы могли бы стать больше и лучше, чем когда-либо прежде."
+
+# game/v2/scene21.rpy:1226
+translate russian v2s21_edda5dbb:
+
+    # ch "I would like to lower the cost of tuition for all Chicks, and with your signature I can take my proposal to the Dean."
+    ch "Я хотела бы снизить стоимость обучения для всех Чикс, и с вашей поддержкой я смогу донести свое предложение до декана."
+
+# game/v2/scene21.rpy:1241
+translate russian v2s21_0455c632:
+
+    # ch "Yes, I... I hope so."
+    ch "Да, Я... Я надеюсь, что это так."
+
+# game/v2/scene21.rpy:1274
+translate russian v2s21_787bac38:
+
+    # ch "No, of course not! I mean, yes... I-"
+    ch "Нет, конечно, нет! То есть, да... Я-"
+
+# game/v2/scene21.rpy:1302
+translate russian v2s21_377f1386:
+
+    # ch "You're more sympathetic to our needs too, and basically just... awesome at supporting women, y'know?"
+    ch "Вы более чутко относитесь к нашим нуждам и вообще... лучше поддерживаете девушек."
+
+# game/v2/scene21.rpy:1324
+translate russian v2s21_b13be4b7:
+
+    # ch "We wanted to gain a female perspective."
+    ch "Мы хотели получить женскую точку зрения."
+
+# game/v2/scene21.rpy:1346
+translate russian v2s21_e4a689c1:
+
+    # ch "Yeah. Of course."
+    ch "Да. Конечно."
+
+# game/v2/scene21.rpy:1356
+translate russian v2s21_02bcda3a:
+
+    # ch "We're happy to answer."
+    ch "Мы с радостью ответим."
+
+# game/v2/scene21.rpy:1379
+translate russian v2s21_369afa8f:
+
+    # ch "Oh yeah. A wake-up call almost."
+    ch "О да. Это тревожный звоночек."
+
+# game/v2/scene21.rpy:1411
+translate russian v2s21_e353deb4:
+
+    # ch "Yeah, girl power!"
+    ch "Да, сила девушек!"
+
+# game/v2/scene21.rpy:1413
+translate russian v2s21_3afd8bd3:
+
+    # ch "Honestly though, we can be the first to lead the way on this, and all the others can meet with the Dean once I'm finished."
+    ch "Честно говоря, мы можем быть первыми в этом, а все остальные могут встретиться с деканом, если у нас получиться."
+
+# game/v2/scene21.rpy:1438
+translate russian v2s21_24a5bb86:
+
+    # ch "Of course."
+    ch "Разумеется."
+
+# game/v2/scene21.rpy:1450
+translate russian v2s21_c82e788b:
+
+    # ch "How is my scholarship relevant to this?"
+    ch "Как моя стипендия связана с этим?"
+
+# game/v2/scene21.rpy:1460
+translate russian v2s21_269c9e80:
+
+    # ch "I guess..."
+    ch "Наверное..."
+
+# game/v2/scene21.rpy:1470
+translate russian v2s21_a60d87ce:
+
+    # ch "But that's not the plan that we-"
+    ch "Но это не то, о что мы..."
+
+# game/v2/scene21.rpy:1506
+translate russian v2s21_389c159e:
+
+    # ch "*Scoffs*"
+    ch "*Усмехается*"
+
+# game/v2/scene21.rpy:1516
+translate russian v2s21_e4fcc1c4:
+
+    # ch "How could I..."
+    ch "Как я могу.."
+
+# game/v2/scene21.rpy:1518
+translate russian v2s21_853e1df4:
+
+    # ch "Even continue studying... without the scholarship?"
+    ch "Продолжать учиться... без стипендии?"
+
+# game/v2/scene21.rpy:1586
+translate russian v2s21_8751162b:
+
+    # ch "Not really, no. But..."
+    ch "Не совсем, нет. Но..."
+
+# game/v2/scene21.rpy:1591
+translate russian v2s21_80c5e7f0:
+
+    # ch "What is that perfume that you're wearing? *Sniffs*"
+    ch "Что за духами, вы пользуетесь? *Нюхает*"
+
+# game/v2/scene21.rpy:1606
+translate russian v2s21_77a806cf:
+
+    # ch "Sorry, it just smells amazing, I had to ask."
+    ch "Извините, просто запах потрясающий, я должна была спросить."
+
+# game/v2/scene21.rpy:1623
+translate russian v2s21_c991081e:
+
+    # ch "Oh, really?"
+    ch "О, правда?"
+
+# game/v2/scene21.rpy:1638
+translate russian v2s21_4f5f4828:
+
+    # ch "I think that's it. Right, [name]?"
+    ch "Думаю, это всё. Верно, [name]?"
+
+# game/v2/scene21.rpy:1668
+translate russian v2s21_6ddf5053:
+
+    # ch "*Gasps*"
+    ch "*Выдыхает*"
+
+# game/v2/scene21.rpy:1684
+translate russian v2s21_af9bedb2_1:
+
+    # ch "*Sighs*"
+    ch "*Вздыхает*"
+
+# game/v2/scene21.rpy:1694
+translate russian v2s21_e72670c9:
+
+    # ch "Wait, you're on board?!"
+    ch "Подождите, вы с нами?!"
+
+# game/v2/scene21.rpy:1720
+translate russian v2s21_c2795414:
+
+    # ch "I really do..."
+    ch "Я правда хочу..."
+
+# game/v2/scene21.rpy:1735
+translate russian v2s21_34e41bfa:
+
+    # ch "Yes, I-"
+    ch "Да, я-"
+
+# game/v2/scene21.rpy:1737
+translate russian v2s21_1f398ca3:
+
+    # ch "Thank you. Thank you so much."
+    ch "Спасибо. Огромное спасибо."
+
+# game/v2/scene21.rpy:1763
+translate russian v2s21_6b607975:
+
+    # ch "So, what? You're not going to sign?"
+    ch "И что? Вы не подпишите?"
+
+# game/v2/scene21.rpy:1773
+translate russian v2s21_5586eac0:
+
+    # ch "Oh... Okay."
+    ch "Ох... Ладно."
+
+# game/v2/scene21.rpy:1788
+translate russian v2s21_af9bedb2_2:
+
+    # ch "*Sighs*"
+    ch "*Вздыхает*"
+
+# game/v2/scene21.rpy:1825
+translate russian v2s21_18eac980:
+
+    # ch "I just-"
+    ch "Я-"
+
+# game/v2/scene21.rpy:1835
+translate russian v2s21_ce3770a8:
+
+    # ch "I'm not sure I can give up my scholarship just like that."
+    ch "Я не уверена, что смогу так просто отказаться от своей стипендии."
+
+# game/v2/scene21.rpy:1859
+translate russian v2s21_fb456fd7_2:
+
+    # ch "..."
+    ch "..."
+
+# game/v2/scene21.rpy:1864
+translate russian v2s21_7b759baf:
+
+    # ch "Okay..."
+    ch "Окей..."
+
+# game/v2/scene21.rpy:1874
+translate russian v2s21_3b93e3f8:
+
+    # ch "Let's try it."
+    ch "Давайте попробуем."
+
+# game/v2/scene21.rpy:1900
+translate russian v2s21_0bd14754:
+
+    # ch "Okay...?"
+    ch "Хорошо...?"
+
+# game/v2/scene21.rpy:1910
+translate russian v2s21_05c12cbe:
+
+    # ch "That's... a weird request, [name]."
+    ch "Это... странная просьба, [name]."
+
+# game/v2/scene21.rpy:1924
+translate russian v2s21_7d86aece:
+
+    # ch "Okay, I trust you."
+    ch "Хорошо, я тебе доверяю."
+
+# game/v2/scene21.rpy:1929
+translate russian v2s21_08dec2d4:
+
+    # ch "Please, excuse me for a minute, Ms. Rose. I'm just going to run to the restroom."
+    ch "Пожалуйста, извините меня, мисс Роуз. Я только сбегаю в туалет, на минутку."
+
+# game/v2/scene21.rpy:2252
+translate russian v2s21_4fbb36c7:
+
+    # ch "*Whispers* I don't think she's going to change her mind, okay? Let's just get her signature and leave."
+    ch "*Шёпотом* Я не думаю, что она передумает. Давай просто получим от неё подпись и уйдем."
+
+# game/v2/scene21.rpy:2265
+translate russian v2s21_bfb90b4e:
+
+    # ch "Thank you, Ms. Rose."
+    ch "Спасибо, мисс Роуз."
+
+# game/v2/scene21.rpy:2300
+translate russian v2s21_0f0ee37c:
+
+    # ch "You're the best. Really."
+    ch "Вы лучшая. Правда."
+
+# game/v2/scene21.rpy:2317
+translate russian v2s21_4bc6234e:
+
+    # ch "Thank you!"
+    ch "Спасибо!"
+

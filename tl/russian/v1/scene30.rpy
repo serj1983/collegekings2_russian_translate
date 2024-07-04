@@ -247,3 +247,101 @@ translate russian v1s30_50450572:
     # cl "All right, let's head back and look at these closely so we can pick a good one."
     cl "Хорошо, давай вернёмся и внимательно рассмотрим их, чтобы выбрать хороший вариант."
 
+# TODO: Translation updated at 2024-07-03 10:01
+
+# game/v1/scene30.rpy:27
+translate russian v1s30_18c6f416:
+
+    # ch "[name], there you are!"
+    ch "[name], вот ты где!"
+
+# game/v1/scene30.rpy:42
+translate russian v1s30_b53dffe8:
+
+    # ch "Not too bad... although, this thing was definitely NOT cheap."
+    ch "Не так уж плохо... Хотя, эта штука определенно НЕ была дешевой."
+
+# game/v1/scene30.rpy:52
+translate russian v1s30_152bb989:
+
+    # ch "Well, for it being the only one left at the auction, let's just say it was right under our budget."
+    ch "Ну, поскольку он был единственным оставшимся на аукционе, скажем так, он уложился в наш бюджет."
+
+# game/v1/scene30.rpy:63
+translate russian v1s30_f2d405df:
+
+    # ch "Chris helped a bit though, so that was nice."
+    ch "Хотя Крис немного помог, так что это было здорово."
+
+# game/v1/scene30.rpy:73
+translate russian v1s30_9a20d40f:
+
+    # ch "It is pretty fancy!"
+    ch "Это очень модно!"
+
+# game/v1/scene30.rpy:75
+translate russian v1s30_839edfe5:
+
+    # ch "As soon as we're all set up, I'm just gonna take a few shots and then we can pick our favorites."
+    ch "Как только мы всё подготовим, я сделаю несколько снимков, а потом мы сможем выбрать наиболее понравившиеся."
+
+# game/v1/scene30.rpy:85
+translate russian v1s30_db7e18a6:
+
+    # ch "Yeah, I kinda felt like it was too much to ask individual people to get involved, you know?"
+    ch "Да, мне казалось, что это слишком много - просить отдельных людей принять участие."
+
+# game/v1/scene30.rpy:95
+translate russian v1s30_b2732872:
+
+    # ch "Okay, yes..."
+    ch "Ладно, да..."
+
+# game/v1/scene30.rpy:97
+translate russian v1s30_2a4dba1b:
+
+    # ch "As long as they are supporting me, I'm happy."
+    ch "Пока они поддерживают меня, я счастлива."
+
+# game/v1/scene30.rpy:107
+translate russian v1s30_7cdd9e18:
+
+    # ch "Okay so..."
+    ch "Итак..."
+
+# game/v1/scene30.rpy:122
+translate russian v1s30_df986df7:
+
+    # ch "Yes... please."
+    ch "Да... Пожалуйста."
+
+# game/v1/scene30.rpy:159
+translate russian v1s30_e69df7df:
+
+    # ch "How do they look? Too cheesy?"
+    ch "Как оно выглядят? Слишком банально?"
+
+# game/v1/scene30.rpy:180
+translate russian v1s30_ae4a09a7:
+
+    # ch "Thank you."
+    ch "Спасибо."
+
+# game/v1/scene30.rpy:190
+translate russian v1s30_3e8d8426:
+
+    # ch "Okay, we can leave the stuff here because I think some of the Wolves wanted to... play with it."
+    ch "Ладно, мы можем оставить вещи здесь, потому что я думаю, что некоторые из Волков хотели... поиграть с ними."
+
+# game/v1/scene30.rpy:200
+translate russian v1s30_0c1fc70d:
+
+    # ch "I try not to ask too many questions, you know?"
+    ch "Я стараюсь не задавать слишком много вопросов."
+
+# game/v1/scene30.rpy:202
+translate russian v1s30_a17be489:
+
+    # ch "All right, let's head back and look at these closely so we can pick a good one."
+    ch "Хорошо, давай вернёмся и внимательно рассмотрим их, чтобы выбрать хороший вариант."
+

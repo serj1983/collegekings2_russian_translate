@@ -461,3 +461,11 @@ translate russian v1s53a_sam_cum_9e5ca9ba:
     # u "(Guess I don't have to. Let's get to bed.)"
     u "(Думаю, мне и не нужно этого делать. Давай спать.)"
 
+# TODO: Translation updated at 2024-07-03 10:01
+
+# game/v1/scene53a.rpy:285
+translate russian v1s53a_77ee2179:
+
+    # u "Ha, all right. Sleep tight, okay?"
+    u "Ха, ладно. Споки."
+

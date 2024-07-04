@@ -239,3 +239,83 @@ translate russian v1s13_47fea160:
     # u "I'm happy to be home, haha. We'll catch up tomorrow, all right? Have a good one."
     u "Я счастлив быть дома, хаха. Наверстаем упущенное завтра, хорошо? Всего хорошего."
 
+# TODO: Translation updated at 2024-07-03 10:01
+
+# game/v1/scene13.rpy:27
+translate russian v1s13_df3d8ed8:
+
+    # seb "Hey, hey! Were you just gonna go to sleep without letting us all know you're back?"
+    seb "Эй, эй! Ты собирался лечь спать, не дав нам знать, что ты вернулся?"
+
+# game/v1/scene13.rpy:37
+translate russian v1s13_5a0ff916:
+
+    # seb "Wolves don't roll like that, my man."
+    seb "Волки так не делают, дружище."
+
+# game/v1/scene13.rpy:42
+translate russian v1s13_da07bde2:
+
+    # seb "You never know when it's the last time you'll see someone, so you've gotta take advantage of the little moments."
+    seb "Ты никогда не знаешь, когда увидишь кого-то в последний раз, так что ты должен использовать эти моменты."
+
+# game/v1/scene13.rpy:52
+translate russian v1s13_99330d1d:
+
+    # seb "Well, you never know."
+    seb "Ну, никогда не знаешь наверняка."
+
+# game/v1/scene13.rpy:62
+translate russian v1s13_6a6e4d34:
+
+    # seb "No, but that's my point."
+    seb "Нет, но это моя точка зрения."
+
+# game/v1/scene13.rpy:67
+translate russian v1s13_20c72383:
+
+    # chr "Sebastian, I need your help!"
+    chr "Себастьян, мне нужна твоя помощь!"
+
+# game/v1/scene13.rpy:77
+translate russian v1s13_aea3e839:
+
+    # seb "Friend, you mean. Sounds like a friend is calling. There are no bosses around here, [name]."
+    seb "Друг. Похоже, зовёт мой друг. Здесь нет никаких боссов, [name]."
+
+# game/v1/scene13.rpy:82
+translate russian v1s13_7209c78e:
+
+    # seb "Didn't you notice how he asked for my help instead of barking out an order?"
+    seb "Разве ты не заметил, как он попросил меня о помощи, вместо того чтобы сказать мне что сделать?"
+
+# game/v1/scene13.rpy:92
+translate russian v1s13_1ac0149c:
+
+    # seb "Different perspectives cause conflict-"
+    seb "Разные точки зрения всегда вызывают конфликты."
+
+# game/v1/scene13.rpy:97
+translate russian v1s13_d76ba55b:
+
+    # chr "SEBASTIAN!"
+    chr "СЕБАСТЬЯН!"
+
+# game/v1/scene13.rpy:102
+translate russian v1s13_f3357614:
+
+    # seb "I'm coming!"
+    seb "Я иду!"
+
+# game/v1/scene13.rpy:112
+translate russian v1s13_32f1ec20:
+
+    # seb "Very funny. I'm glad you're back, man. Really, I kinda missed you guys more than I thought I would."
+    seb "Очень смешно. Я рад, что ты вернулся, чувак. Правда, я скучал по тебе больше, чем думал."
+
+# game/v1/scene13.rpy:122
+translate russian v1s13_b6bbd25e:
+
+    # seb "Yep, you too."
+    seb "Да, тебе тоже."
+

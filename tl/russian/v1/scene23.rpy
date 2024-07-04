@@ -1186,3 +1186,671 @@ translate russian v1s23_6796d345:
 
     # cl "In one of the shots, Chris and I will pose together with the caption #presidentialStatus."
     cl "На одном из снимков мы с Крисом будем позировать вместе с подписью #presidentialStatus."
+# TODO: Translation updated at 2024-07-03 10:01
+
+# game/v1/scene23.rpy:27
+translate russian v1s23_f4ccf359:
+
+    # chr "Hey, [name]."
+    chr "Привет, [name]."
+
+# game/v1/scene23.rpy:37
+translate russian v1s23_cfdc031d:
+
+    # chr "Just enjoying the sunset, is all."
+    chr "Просто наслаждаюсь закатом, вот и всё."
+
+# game/v1/scene23.rpy:47
+translate russian v1s23_88242339:
+
+    # chr "Yeah..."
+    chr "Ага..."
+
+# game/v1/scene23.rpy:49
+translate russian v1s23_6420fae3:
+
+    # chr "Sometimes, taking a moment to relax despite having so much shit to do... is what you need to do most."
+    chr "Иногда находишь момент, чтобы расслабиться, несмотря на то, что у меня слишком много дел."
+
+# game/v1/scene23.rpy:59
+translate russian v1s23_8a892264:
+
+    # chr "Dammit... I knew I spent too much time around that boomer while we were away..."
+    chr "Проклятье... Я знал, что провел слишком много времени рядом с этим бумером, пока нас не было..."
+
+# game/v1/scene23.rpy:69
+translate russian v1s23_751930f2:
+
+    # chr "I just wish I learned that lesson sooner rather than later."
+    chr "Жаль только, что я не усвоил этот урок раньше."
+
+# game/v1/scene23.rpy:81
+translate russian v1s23_ebde9e58:
+
+    # chr "Chloe? You're here because of Chloe, right?"
+    chr "Хлоя? Ты здесь из-за Хлои, верно?"
+
+# game/v1/scene23.rpy:91
+translate russian v1s23_a3aa11be:
+
+    # chr "News travels fast when it comes to stuff like this, man."
+    chr "Новости распространяются быстро, когда речь идет о таких вещах."
+
+# game/v1/scene23.rpy:93
+translate russian v1s23_d125f363:
+
+    # chr "Everyone is on the lookout for the next scoop of drama these days."
+    chr "В наши дни все находятся в поисках очередной драматической сенсации."
+
+# game/v1/scene23.rpy:103
+translate russian v1s23_af796356:
+
+    # chr "For some, maybe not. But, when you're dating her biggest enemy, it may be a bit difficult."
+    chr "Для некоторых, возможно, нет. Но когда ты встречаешься с её главным врагом, это может быть немного сложно."
+
+# game/v1/scene23.rpy:113
+translate russian v1s23_5962f6a9:
+
+    # chr "Exactly."
+    chr "Именно."
+
+# game/v1/scene23.rpy:115
+translate russian v1s23_7973ed89:
+
+    # chr "Supporting Chloe was pretty much the last straw for her. But I live by doing what's right, not what I prefer."
+    chr "Поддержка Хлои станет для неё последней каплей. Я живу, делая то, что правильно, а не то, что мне нравится или хочется."
+
+# game/v1/scene23.rpy:129
+translate russian v1s23_f90ee276:
+
+    # chr "I try to be. Chloe should be here-"
+    chr "Я стараюсь. Хлоя должна быть здесь..."
+
+# game/v1/scene23.rpy:139
+translate russian v1s23_271807c9:
+
+    # chr "I don't think you get what's at stake here. Chloe-"
+    chr "Я не думаю, что ты понимаешь, о чём идет речь. Хлоя-"
+
+# game/v1/scene23.rpy:147
+translate russian v1s23_eb8185c9:
+
+    # ch "HEY GUYS!"
+    ch "ЭЙ, РЕБЯТА!"
+
+# game/v1/scene23.rpy:162
+translate russian v1s23_3e9d96e7:
+
+    # chr "Speaking of the devil."
+    chr "Кстати, о дьяволе."
+
+# game/v1/scene23.rpy:167
+translate russian v1s23_07b36738:
+
+    # ch "What?"
+    ch "What?"
+
+# game/v1/scene23.rpy:172
+translate russian v1s23_d79c9966:
+
+    # chr "I was just saying your name as you came running."
+    chr "Я только произнёс твоё имя, как ты прибежала."
+
+# game/v1/scene23.rpy:177
+translate russian v1s23_5e332cb8:
+
+    # ch "Oh. That's why I felt my ears burning..."
+    ch "Ох. Вот почему я почувствовала, что мои уши горят..."
+
+# game/v1/scene23.rpy:182
+translate russian v1s23_0c253bf5:
+
+    # ch "Have you guys gotten started on talking about things?"
+    ch "Вы, ребята, уже начали говорить о разных вещах?"
+
+# game/v1/scene23.rpy:192
+translate russian v1s23_25b4669c:
+
+    # ch "Good, I wanted to be here."
+    ch "Хорошо, я хотела быть здесь."
+
+# game/v1/scene23.rpy:197
+translate russian v1s23_f9416c32:
+
+    # chr "Now look, Chloe... I did agree to help you, but I didn't specify how involved or supportive I'd be."
+    chr "А теперь послушай, Хлоя... Я действительно согласился помочь вам, но не уточнил, насколько я буду вовлечен в вашу поддержку."
+
+# game/v1/scene23.rpy:199
+translate russian v1s23_ec0bd902:
+
+    # chr "Putting my head out there in full support of you means that the Wolves must all be convinced."
+    chr "Прежде чем, заявить о полной вашей поддержке, мне нужно, чтобы все Волки должны быть убеждены."
+
+# game/v1/scene23.rpy:201
+translate russian v1s23_bfc66d73:
+
+    # chr "Or else we'll have a divided frat with similar issues to what you have now."
+    chr "Иначе мы получим разделённое братство с теми же проблемами, что и у вас сейчас."
+
+# game/v1/scene23.rpy:206
+translate russian v1s23_f534d064:
+
+    # ch "I understand that, and that's why I was hoping that after we all talked, you could make a clearer decision."
+    ch "Я понимаю, и именно поэтому я надеялась, что после того, как мы все поговорим, вы сможете принять более конкретное решение."
+
+# game/v1/scene23.rpy:211
+translate russian v1s23_e6b2ded2:
+
+    # chr "Great, just making sure things are clear."
+    chr "Отлично, просто хочу, чтобы всё было понятно."
+
+# game/v1/scene23.rpy:216
+translate russian v1s23_072de72d:
+
+    # ch "Of course, and it means a lot to me that you understand what it means to have a divided house. It's not fun."
+    ch "Конечно, и для меня очень важно, что ты понимаешь, что значит иметь разделенный дом. Это невесело."
+
+# game/v1/scene23.rpy:221
+translate russian v1s23_99fc64d1:
+
+    # chr "I wouldn't wish that on anyone, and as a fellow President you have my best wishes."
+    chr "Я никому не желаю такого, и как коллега-президент я желаю тебе всего наилучшего."
+
+# game/v1/scene23.rpy:226
+translate russian v1s23_b97d5850:
+
+    # ch "Thank you. After this plan and my re-election, hopefully the Chicks will be back!"
+    ch "Спасибо, после этого плана и моего переизбрания, надеюсь, Чикс вернутся!"
+
+# game/v1/scene23.rpy:236
+translate russian v1s23_e284d82e:
+
+    # ch "Ha, thanks. Now, rather than just having the support of the Wolves for namesake, I'd like to really show our unity."
+    ch "Ха, спасибо. Теперь, вместо того, чтобы просто заручиться поддержкой Волков, я бы хотела продемонстрировать наше единство."
+
+# game/v1/scene23.rpy:241
+translate russian v1s23_eb359ec1:
+
+    # chr "How do you propose we do that?"
+    chr "Как ты предлагаешь это сделать?"
+
+# game/v1/scene23.rpy:246
+translate russian v1s23_d797b35f:
+
+    # ch "We've decided that we will pull off a major photoshoot."
+    ch "Мы решили, что устроим масштабную фотосессию."
+
+# game/v1/scene23.rpy:251
+translate russian v1s23_e41f20bf:
+
+    # chr "Photoshoots are expensive, especially with a lot of people."
+    chr "Фотосессии стоят дорого, особенно с большим количеством людей."
+
+# game/v1/scene23.rpy:272
+translate russian v1s23_25150a71:
+
+    # chr "Chloe knows hard and well that when it comes to these things, nothing can be done like an amateur."
+    chr "Хлоя хорошо знает, что когда дело доходит до таких вещей, ничего нельзя делать по-дилетантски."
+
+# game/v1/scene23.rpy:277
+translate russian v1s23_dc886264:
+
+    # ch "Doing a professional shoot will cost us some money, but before we start talking about the bill, let me at least show you what I'd like to order."
+    ch "Профессиональная съёмка обойдется нам недешево, но прежде чем мы начнем обсуждать счёт, позволь мне хотя бы показать вам, что я хочу заказать."
+
+# game/v1/scene23.rpy:282
+translate russian v1s23_613009ff:
+
+    # chr "Of course, go on."
+    chr "Конечно, продолжай."
+
+# game/v1/scene23.rpy:287
+translate russian v1s23_a17c5f71:
+
+    # ch "So, this is what I'm thinking."
+    ch "Вот что я думаю."
+
+# game/v1/scene23.rpy:289
+translate russian v1s23_a90d133a:
+
+    # ch "Let's have members from the Chicks and Wolves get together and pose in front of a white backdrop making us the centerpiece."
+    ch "Давайте попросим членов Чикс и Волков собраться вместе позировать на белом фоне, чтобы мы были в центре внимания."
+
+# game/v1/scene23.rpy:291
+translate russian v1s23_ee4775ae:
+
+    # ch "In one of the shots, Chris and I will pose together with the caption #presidentialStatus."
+    ch "На одном из снимков мы с Крисом будем позировать вместе с надписью #PresidentStatus."
+
+# game/v1/scene23.rpy:303
+translate russian v1s23_41c135d7:
+
+    # ch "That's true... A lot of the girls are already stressed about choosing sides so, yeah. Just you and I then, Chris."
+    ch "Это правда... Многие девушки уже напряжены выбором стороны, так что, да. Тогда только ты и я, Крис."
+
+# game/v1/scene23.rpy:308
+translate russian v1s23_671256af:
+
+    # chr "Any props in mind or is there a theme? If seeing us together is the only thing, I can think of better ways to get you more votes."
+    chr "Есть реквизит на примете или какая-то тема? Если единственное, что нужно - это увидеть нас вместе, я могу придумать лучшие способы получить больше голосов."
+
+# game/v1/scene23.rpy:313
+translate russian v1s23_d63b55db:
+
+    # ch "I'm glad you asked, hehe..."
+    ch "Я рад, что ты спросил, хе-хе..."
+
+# game/v1/scene23.rpy:316
+translate russian v1s23_4c2cb050:
+
+    # ch "A really good friend of mine is willing to let us shoot with her for a fee, but with her we'll get to pose with a real life wolf!"
+    ch "Моя очень хорошая подруга готова позволить нам сниматься с ней за определенную плату, с ней мы сможем позировать с настоящим волком!"
+
+# game/v1/scene23.rpy:321
+translate russian v1s23_451960f0:
+
+    # chr "Are you guys... serious?"
+    chr "Вы, ребята... серьезно?"
+
+# game/v1/scene23.rpy:331
+translate russian v1s23_389e1e61:
+
+    # ch "Ha, that's what I was thinking too. We'd not only be getting support from the SVC Wolves, but giving support to the Wolf Sanctuary as well."
+    ch "Ха, я тоже об этом подумала. Мы бы не только получили поддержку от Волков SVC, но и оказали бы поддержку Волчьему Заповеднику."
+
+# game/v1/scene23.rpy:336
+translate russian v1s23_8e6d5c1c:
+
+    # chr "Sheesh..."
+    chr "Ну и ну..."
+
+# game/v1/scene23.rpy:341
+translate russian v1s23_493277ef:
+
+    # ch "It'd give the Wolves a really good look, Chris."
+    ch "Это придаст Волкам очень хороший вид, Крис."
+
+# game/v1/scene23.rpy:343
+translate russian v1s23_b7999193:
+
+    # ch "The Apes are always looked at as the tough guys, right? But this..."
+    ch "На Приматов всегда смотрят как на крутых парней, верно? Но это..."
+
+# game/v1/scene23.rpy:345
+translate russian v1s23_0feeff18:
+
+    # ch "This would change that."
+    ch "Это изменит положение."
+
+# game/v1/scene23.rpy:350
+translate russian v1s23_c0436221:
+
+    # chr "You guys are approaching this with a lot of respect for the Wolves and me."
+    chr "Вы, ребята, подходите к этому с большим уважением к Волкам и ко мне."
+
+# game/v1/scene23.rpy:352
+translate russian v1s23_85ec8494:
+
+    # chr "I won't lie though, I thought you'd come here trying to squeeze whatever you could out of us, regardless of what it made us look like."
+    chr "Не буду врать, я думал, что вы придёте сюда, пытаясь выжать из нас всё, что можно, независимо от того, как мы будем выглядеть."
+
+# game/v1/scene23.rpy:357
+translate russian v1s23_08eba80c:
+
+    # ch "Chris, I'd never do that."
+    ch "Крис. Я бы никогда этого не сделала."
+
+# game/v1/scene23.rpy:359
+translate russian v1s23_220e578a:
+
+    # ch "The whole reason I want your support is because I believe the Wolves are a well-respected frat and deserving of a brotherhood title."
+    ch "Причина, по которой я хочу получить твою поддержку, заключается в том, что я считаю Волков уважаемым и заслуживающим звания братства."
+
+# game/v1/scene23.rpy:364
+translate russian v1s23_4b579c3f:
+
+    # chr "Ha! If kissing ass was a profession, you'd be making a really good salary, Chloe."
+    chr "Ха! Если бы целование задниц было профессией, ты бы получала очень хорошую зарплату, Хлоя."
+
+# game/v1/scene23.rpy:374
+translate russian v1s23_263bd536:
+
+    # ch "Ugh, asshole! I'm being serious."
+    ch "Тьфу, засранец! Я серьёзно."
+
+# game/v1/scene23.rpy:379
+translate russian v1s23_a9c56f0b:
+
+    # chr "You know what?"
+    chr "Знаешь что?"
+
+# game/v1/scene23.rpy:384
+translate russian v1s23_07b36738_1:
+
+    # ch "What?"
+    ch "Что?"
+
+# game/v1/scene23.rpy:392
+translate russian v1s23_65059f17:
+
+    # chr "I'm gonna back you a hundred percent."
+    chr "Я поддержу тебя на сто процентов."
+
+# game/v1/scene23.rpy:396
+translate russian v1s23_95b304d5:
+
+    # chr "I'm gonna back you halfway."
+    chr "Я поддержу тебя на половину."
+
+# game/v1/scene23.rpy:401
+translate russian v1s23_cd16b8cb:
+
+    # ch "Wait, what?!"
+    ch "Подожди, что?!"
+
+# game/v1/scene23.rpy:407
+translate russian v1s23_7e340740:
+
+    # chr "All of it."
+    chr "Всё это."
+
+# game/v1/scene23.rpy:409
+translate russian v1s23_e1be43aa:
+
+    # chr "Half of everything."
+    chr "Половину от всего."
+
+# game/v1/scene23.rpy:411
+translate russian v1s23_d8777a1c:
+
+    # chr "The photoshoot, the fee for the wolf, everything. The Wolves have got half of it all."
+    chr "Фотосессия, гонорар за волка, всё. Волки позаботятся о вас."
+
+# game/v1/scene23.rpy:422
+translate russian v1s23_1263b6b2:
+
+    # chr "The photoshoot, the fee for the wolf, everything. The Wolves have got you covered."
+    chr "Фотосессия, гонорар за волка, всё. Волки дадут вам половину всего этого."
+
+# game/v1/scene23.rpy:430
+translate russian v1s23_c78494c0:
+
+    # ch "Chris... You're joking, right?"
+    ch "Крис... Ты шутишь, да?"
+
+# game/v1/scene23.rpy:432
+translate russian v1s23_d96799b3:
+
+    # ch "You're joking..."
+    ch "Ты шутишь..."
+
+# game/v1/scene23.rpy:442
+translate russian v1s23_4aa8058c:
+
+    # chr "I'm very serious. I like the plan you guys came up with, I like the respect you're giving to the Wolves, and I like you as President."
+    chr "Я очень серьёзен. Мне нравится план, который вы разработали, мне нравится уважение, которое вы оказываете Волкам, и ты мне нравишься как президент."
+
+# game/v1/scene23.rpy:458
+translate russian v1s23_224f4e0e:
+
+    # ch "Thank you so fucking much, Chris! You have no idea how helpful this is going to be."
+    ch "Спасибо тебе чертовски большое, Крис! Ты даже не представляешь, насколько это будет полезно."
+
+# game/v1/scene23.rpy:460
+translate russian v1s23_2e5ad856:
+
+    # ch "Thank you so much, Chris! This is going to help tremendously."
+    ch "Большое спасибо, Крис! Это очень поможет."
+
+# game/v1/scene23.rpy:465
+translate russian v1s23_e4d17d25:
+
+    # chr "That's what I'm-"
+    chr "Это то, что я..."
+
+# game/v1/scene23.rpy:468
+translate russian v1s23_73291752:
+
+    # ch "After a quick talk with [name], we've decided that we're gonna get this really cute plush toy Wolf to pose with."
+    ch "После короткого разговора с [name] мы решили, что купим очень милую плюшевую игрушку Волка, чтобы он позировал с ней."
+
+# game/v1/scene23.rpy:473
+translate russian v1s23_1c73457f:
+
+    # chr "I know you're joking."
+    chr "Я знаю, что ты шутишь."
+
+# game/v1/scene23.rpy:478
+translate russian v1s23_56406e57:
+
+    # ch "I'm serious! I think it'd be cute."
+    ch "Я серьёзно! Я думаю, это было бы мило."
+
+# game/v1/scene23.rpy:483
+translate russian v1s23_ddb3a745:
+
+    # chr "I agree, it would be cute. Cute isn't the kind of image I'm trying to have on the Wolves."
+    chr "Согласен, это было бы мило. Милый - это не тот образ, который я пытаюсь создать."
+
+# game/v1/scene23.rpy:488
+translate russian v1s23_84abf85f:
+
+    # ch "Maybe you're right..."
+    ch "Возможно, ты прав..."
+
+# game/v1/scene23.rpy:514
+translate russian v1s23_ddb96694:
+
+    # chr "Okay, damn, you little politician... I'm not all for the idea of it, but if you think that's our best option, I trust you."
+    chr "Ладно, чёрт, ты мелкий политикан... *Смеётся* Я не совсем за эту идею, но если ты считаешь, что это наш лучший вариант, я тебе доверяю."
+
+# game/v1/scene23.rpy:519
+translate russian v1s23_e2a745a7:
+
+    # ch "Financially I think it's best, but I also just think it's adorable."
+    ch "С финансовой точки зрения я думаю, что это лучше, но я также думаю, что это очень мило."
+
+# game/v1/scene23.rpy:529
+translate russian v1s23_bddca7f9:
+
+    # chr "*Whispers* Adorable..."
+    chr "Восхитительно..."
+
+# game/v1/scene23.rpy:540
+translate russian v1s23_96da3d5a:
+
+    # chr "We're a male fraternity, we're not pandering to a feminine audience."
+    chr "Мы - мужское братство, мы не ориентируемся на женскую аудиторию."
+
+# game/v1/scene23.rpy:545
+translate russian v1s23_fdc4a9aa:
+
+    # ch "Ha! Oh-"
+    ch "Ха! Ох-"
+
+# game/v1/scene23.rpy:547
+translate russian v1s23_b8bfd72b:
+
+    # ch "Sorry for laughing, honestly. It's just..."
+    ch "Извините за смех, честно. Просто..."
+
+# game/v1/scene23.rpy:549
+translate russian v1s23_fed0940f:
+
+    # ch "I know you're not some fruity fraternity and everyone else knows that too."
+    ch "Я знаю, что вы не какое-то фруктовое братство, и все остальные тоже это знают."
+
+# game/v1/scene23.rpy:559
+translate russian v1s23_436acf6b:
+
+    # ch "This entire photoshoot is for the Chicks to show our support of the Wolves, as we get the same in return."
+    ch "Вся эта фотосессия предназначена для того, чтобы Чикс показали нашу поддержку Волкам, так как мы получаем то же самое в ответ."
+
+# game/v1/scene23.rpy:561
+translate russian v1s23_acf4c558:
+
+    # ch "I mean... Imagine how cute it'd be seeing all the girls walk around with little wolf plushies."
+    ch "Я имею в виду... Представь, как мило было бы видеть всех девочек с маленькими плюшевыми волками."
+
+# game/v1/scene23.rpy:566
+translate russian v1s23_601715a4:
+
+    # chr "Hmm... You're not wrong... That's pretty damn cute."
+    chr "Хм... Ты не ошибаешься... Это чертовски мило."
+
+# game/v1/scene23.rpy:576
+translate russian v1s23_67d75540:
+
+    # chr "You two are something else, really."
+    chr "Вы двое - это что-то иное, правда."
+
+# game/v1/scene23.rpy:584
+translate russian v1s23_f2bab668:
+
+    # chr "Honestly, I wish we were taken a bit more seriously than posing with toys, but..."
+    chr "Честно говоря, я бы хотел, чтобы нас воспринимали немного серьезнеё, чем позирование с игрушками, но..."
+
+# game/v1/scene23.rpy:586
+translate russian v1s23_020e6cc0:
+
+    # chr "I see the vision you guys have and I support the trust and respect that comes with this alliance. So, this is what I'm gonna do."
+    chr "Я вижу, какое видение есть у вас, ребята, и я поддерживаю доверие и уважение, которые приходят с этим союзом. Так что вот что я собираюсь сделать."
+
+# game/v1/scene23.rpy:588
+translate russian v1s23_95b304d5_1:
+
+    # chr "I'm gonna back you halfway."
+    chr "Я поддержу вас на половину."
+
+# game/v1/scene23.rpy:593
+translate russian v1s23_cd16b8cb_1:
+
+    # ch "Wait, what?!"
+    ch "Подожди, что?!"
+
+# game/v1/scene23.rpy:598
+translate russian v1s23_e1be43aa_1:
+
+    # chr "Half of everything."
+    chr "Половина от всего."
+
+# game/v1/scene23.rpy:602
+translate russian v1s23_d8777a1c_1:
+
+    # chr "The photoshoot, the fee for the wolf, everything. The Wolves have got half of it all."
+    chr "Фотосессия, гонорар за волка, всё. Волки дадут вам половину всего этого."
+
+# game/v1/scene23.rpy:612
+translate russian v1s23_72b492c3:
+
+    # ch "You're joking...?"
+    ch "Ты шутишь...?"
+
+# game/v1/scene23.rpy:617
+translate russian v1s23_4aa8058c_1:
+
+    # chr "I'm very serious. I like the plan you guys came up with, I like the respect you're giving to the Wolves, and I like you as President."
+    chr "Я очень серьёзен. Мне нравится план, который вы разработали, мне нравится уважение, которое вы оказываете Волкам, и ты мне нравишься как президент."
+
+# game/v1/scene23.rpy:632
+translate russian v1s23_2e5ad856_1:
+
+    # ch "Thank you so much, Chris! This is going to help tremendously."
+    ch "Большое спасибо, Крис! Это очень поможет."
+
+# game/v1/scene23.rpy:637
+translate russian v1s23_e4d17d25_1:
+
+    # chr "That's what I'm-"
+    chr "Это то, что я..."
+
+# game/v1/scene23.rpy:642
+translate russian v1s23_dd49d16a:
+
+    # chr "Overall, I hope you guys know through and through that I'm on board with supporting you and this campaign."
+    chr "В целом, я надеюсь, что вы, ребята, до конца понимаете, что я поддерживаю вас и эту кампанию."
+
+# game/v1/scene23.rpy:644
+translate russian v1s23_8dc60f2a:
+
+    # chr "However, I don't wanna be in a photoshoot with a wolf plushie."
+    chr "Однако я не хочу участвовать в фотосессии с плюшевым волком."
+
+# game/v1/scene23.rpy:656
+translate russian v1s23_50c88656:
+
+    # chr "Don't change the plan because of me, it's really not a bad idea, but I don't wanna do it with you guys."
+    chr "Не меняйте план из-за меня, это действительно неплохая идея, но я не хочу делать это с вами, ребята."
+
+# game/v1/scene23.rpy:660
+translate russian v1s23_0366e5c6:
+
+    # chr "I wish you luck with the campaign, of course, and I want the best for you, but this isn't the move for the Wolves or myself."
+    chr "Я, конечно, желаю вам удачи в кампании и хочу для вас самого лучшего, но это не тот шаг, который нужен ни Волкам, ни мне."
+
+# game/v1/scene23.rpy:662
+translate russian v1s23_dbbc09b5:
+
+    # chr "Maybe something else will come up later on and I can help you out."
+    chr "Возможно, позже появится что-то ещё, и я смогу вам помочь."
+
+# game/v1/scene23.rpy:667
+translate russian v1s23_69863744:
+
+    # ch "*Sighs* I understand... I will make sure it blows up though."
+    ch "*Вздох* Понимаю... Но я позабочусь о том, чтобы он реализовался."
+
+# game/v1/scene23.rpy:672
+translate russian v1s23_2807dd1b:
+
+    # ch "When the Wolves' recruiting numbers are doubled next year, you better be thanking me."
+    ch "Когда в следующем году число рекрутов в Волках удвоится, поблагодарите меня."
+
+# game/v1/scene23.rpy:677
+translate russian v1s23_4ae566ef:
+
+    # chr "Ha, we'll see."
+    chr "Хаха, посмотрим."
+
+# game/v1/scene23.rpy:682
+translate russian v1s23_4d40c336:
+
+    # ch "Thanks for talking with me. I know it's-"
+    ch "Спасибо, что поговорил с нами. Я знаю, это..."
+
+# game/v1/scene23.rpy:691
+translate russian v1s23_85ef966f:
+
+    # chr "Oh, you can get that, bro."
+    chr "О, ты можешь это понять, бро."
+
+# game/v1/scene23.rpy:705
+translate russian v1s23_3d336b9d:
+
+    # ch "Really, it's fine."
+    ch "Правда, все в порядке."
+
+# game/v1/scene23.rpy:716
+translate russian v1s23_6d0fc86b:
+
+    # ch "You can check your phone and I'll catch up with you guys later. I have some calls to make, anyway."
+    ch "Ты можешь проверить свой телефон, я догоню тебя позже. Мне нужно сделать несколько звонков."
+
+# game/v1/scene23.rpy:721
+translate russian v1s23_fcccbbe4:
+
+    # chr "Have a good-"
+    chr "Всего доброго."
+
+# game/v1/scene23.rpy:731
+translate russian v1s23_3dca1cb8:
+
+    # chr "Okay then."
+    chr "Хорошо тогда."
+
+# game/v1/scene23.rpy:741
+translate russian v1s23_cbdfab5c:
+
+    # chr "Sounds good, man. Thanks for the chat."
+    chr "Звучит неплохо, чувак. Спасибо за беседу."
+

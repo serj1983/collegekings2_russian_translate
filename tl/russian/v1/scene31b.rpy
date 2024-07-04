@@ -1373,3 +1373,383 @@ translate russian v1s31b_33943194:
     # gr "You're a fucking joke."
     gr "Ты гребаный шутник."
 
+# TODO: Translation updated at 2024-07-03 10:01
+
+# game/v1/scene31b.rpy:32
+translate russian v1s31b_e36d8f24:
+
+    # ch "Hey..."
+    ch "Привет..."
+
+# game/v1/scene31b.rpy:42
+translate russian v1s31b_0b34f974:
+
+    # ch "Yeah, it just feels weird..."
+    ch "Да, просто это странно..."
+
+# game/v1/scene31b.rpy:52
+translate russian v1s31b_70fd365a:
+
+    # ch "Well, yeah... it won't be hard at all."
+    ch "Ну, да... Это будет совсем не сложно."
+
+# game/v1/scene31b.rpy:57
+translate russian v1s31b_098a5c32:
+
+    # ch "But... I have something I wanted to say and I hope it doesn't come out wrong or anything."
+    ch "Но... Я хочу кое-что сказать, и я надеюсь, что это не прозвучит неправильно или что-то в этом роде."
+
+# game/v1/scene31b.rpy:77
+translate russian v1s31b_22585f52:
+
+    # ch "I wanna try to seduce Grayson on my own."
+    ch "Я хочу попробовать соблазнить Грейсона."
+
+# game/v1/scene31b.rpy:87
+translate russian v1s31b_e4b5924d:
+
+    # ch "No, I mean like, I wanna go in the room with him on my own."
+    ch "Нет, я имею в виду, что я хочу пойти с ним в комнату одна."
+
+# game/v1/scene31b.rpy:89
+translate russian v1s31b_b7080e65:
+
+    # ch "I think that's the only way it'll work."
+    ch "Я думаю, это единственный способ, который сработает."
+
+# game/v1/scene31b.rpy:115
+translate russian v1s31b_ee825c7a:
+
+    # ch "That's not-"
+    ch "Это не..."
+
+# game/v1/scene31b.rpy:125
+translate russian v1s31b_31f68ed5:
+
+    # ch "I know how this sounds, [name], but I think it's the only way this plan is going to work."
+    ch "Я знаю, как это звучит, [name], но я думаю, что только так этот план может сработать."
+
+# game/v1/scene31b.rpy:136
+translate russian v1s31b_f4dcd405:
+
+    # ch "Trust me, this is not about what I want."
+    ch "Доверься мне, дело не в том, чего я хочу."
+
+# game/v1/scene31b.rpy:138
+translate russian v1s31b_0f1aaa49:
+
+    # ch "This plan has to work, [name]."
+    ch "Этот план должен сработать, [name]."
+
+# game/v1/scene31b.rpy:143
+translate russian v1s31b_db277dc9:
+
+    # ch "I know Grayson too well."
+    ch "Я слишком хорошо знаю Грейсона."
+
+# game/v1/scene31b.rpy:145
+translate russian v1s31b_9928a430:
+
+    # ch "Or, I guess... we know each other too well."
+    ch "Или, наверное... Мы слишком хорошо знаем друг друга."
+
+# game/v1/scene31b.rpy:150
+translate russian v1s31b_3f52dac1:
+
+    # ch "If you were there, he'd know something was up. No matter how drunk he is."
+    ch "Если бы ты был там, он бы понял, что что-то не так. Неважно, насколько он пьян."
+
+# game/v1/scene31b.rpy:173
+translate russian v1s31b_ae4a09a7:
+
+    # ch "Thank you."
+    ch "Спасибо."
+
+# game/v1/scene31b.rpy:194
+translate russian v1s31b_ff2d93bd:
+
+    # ch "*Sighs* Okay, I understand."
+    ch "Хорошо, я понимаю."
+
+# game/v1/scene31b.rpy:204
+translate russian v1s31b_8bb643b3:
+
+    # ch "Yeah, I get it."
+    ch "Да, я понимаю."
+
+# game/v1/scene31b.rpy:209
+translate russian v1s31b_2bebdb40:
+
+    # ch "Let's go ahead and get inside. I'm pretty sure Aubrey is already here."
+    ch "Давайте пройдем внутрь. Я уверена, что Обри уже здесь."
+
+# game/v1/scene31b.rpy:259
+translate russian v1s31b_306f4988:
+
+    # ch "Uh, hey, guys."
+    ch "Привет, ребята."
+
+# game/v1/scene31b.rpy:294
+translate russian v1s31b_f71f329e:
+
+    # ch "Where's Cameron?"
+    ch "Где Кэмерон?"
+
+# game/v1/scene31b.rpy:355
+translate russian v1s31b_95900f21:
+
+    # ch "If you say so!"
+    ch "Если ты так говоришь!"
+
+# game/v1/scene31b.rpy:381
+translate russian v1s31b_beca7a3a:
+
+    # ch "So, I wanted to-"
+    ch "Итак, я бы хотела..."
+
+# game/v1/scene31b.rpy:391
+translate russian v1s31b_af9bedb2:
+
+    # ch "*Sighs*"
+    ch "*Вздыхает*"
+
+# game/v1/scene31b.rpy:416
+translate russian v1s31b_587d5c2e:
+
+    # ch "There's some things I wanna talk about, but yeah. We can chill for now."
+    ch "Есть некоторые вещи, о которых я хочу поговорить, но да. Мы можем пока расслабиться."
+
+# game/v1/scene31b.rpy:474
+translate russian v1s31b_3785c10d:
+
+    # ch "I knew you were gonna do this..."
+    ch "Я знала, что ты это сделаешь..."
+
+# game/v1/scene31b.rpy:491
+translate russian v1s31b_1785592d:
+
+    # ch "I was a focused student."
+    ch "Я была сосредоточенным студентом."
+
+# game/v1/scene31b.rpy:501
+translate russian v1s31b_2b2bada0:
+
+    # ch "Yeah... Not like I used to be."
+    ch "Да... Но не так, как раньше."
+
+# game/v1/scene31b.rpy:544
+translate russian v1s31b_87cb8caa:
+
+    # ch "Well..."
+    ch "Хорошо..."
+
+# game/v1/scene31b.rpy:556
+translate russian v1s31b_7b90f989:
+
+    # ch "Grayson!"
+    ch "Грейсон!"
+
+# game/v1/scene31b.rpy:611
+translate russian v1s31b_faf56f8e:
+
+    # ch "She's got a point..."
+    ch "Она права..."
+
+# game/v1/scene31b.rpy:626
+translate russian v1s31b_acb8b9bb:
+
+    # ch "He isn't, no."
+    ch "Он не такой, нет."
+
+# game/v1/scene31b.rpy:631
+translate russian v1s31b_ca8efc71:
+
+    # ch "That's something I remember clearly. One time Gray popped off on Mr. Lee and got manhandled real quick."
+    ch "Это я помню отчетливо. Однажды Грэй набросился на мистера Ли, и он с ним быстро расправился."
+
+# game/v1/scene31b.rpy:646
+translate russian v1s31b_563f4482:
+
+    # ch "Ha... Calling you what?"
+    ch "Ха... Как я тебя называю?"
+
+# game/v1/scene31b.rpy:661
+translate russian v1s31b_02c4a120:
+
+    # ch "I didn't even notice I called you that, sorry. Force of habit I guess, since I'm looking at you."
+    ch "Я даже не заметила, что назвала тебя так, извини. Наверное, по привычке, раз уж я на тебя смотрю."
+
+# game/v1/scene31b.rpy:727
+translate russian v1s31b_3504710e:
+
+    # ch "What?!"
+    ch "Что?!"
+
+# game/v1/scene31b.rpy:774
+translate russian v1s31b_67fd6b25:
+
+    # ch "Glad you guys are hitting it off, but, umm..."
+    ch "Рада, что у вас всё наладилось, но..."
+
+# game/v1/scene31b.rpy:779
+translate russian v1s31b_d075b2cb:
+
+    # ch "Is it okay if we go talk for a second?"
+    ch "Ничего, если мы поболтаем секунду?"
+
+# game/v1/scene31b.rpy:790
+translate russian v1s31b_d64d0686:
+
+    # ch "Yeah, just us."
+    ch "Да, только мы."
+
+# game/v1/scene31b.rpy:800
+translate russian v1s31b_af9bedb2_1:
+
+    # ch "*Sighs*"
+    ch "*Вздыхает*"
+
+# game/v1/scene31b.rpy:936
+translate russian v1s31b_85e36260:
+
+    # ch "So, it's official."
+    ch "Итак, это официально."
+
+# game/v1/scene31b.rpy:956
+translate russian v1s31b_5f2c155b:
+
+    # ch "Grayson, oh my god, stop! We literally just talked, that was it."
+    ch "Грейсон, о боже, остановись! Мы просто поговорили, и всё."
+
+# game/v1/scene31b.rpy:966
+translate russian v1s31b_a14ba51d:
+
+    # ch "*Sighs* Let's go, [name]."
+    ch "*Вздох* Пойдем, [name]."
+
+# game/v1/scene31b.rpy:976
+translate russian v1s31b_922222ff:
+
+    # ch "You're enjoying yourself."
+    ch "Ты получаешь удовольствие."
+
+# game/v1/scene31b.rpy:1008
+translate russian v1s31b_1a4221b3:
+
+    # ch "Very, he actually listened. Maybe it was because he was high, I don't know, but I'll take it."
+    ch "Очень, он правда выслушал меня. Может быть, это было потому, что он был под кайфом, я не знаю."
+
+# game/v1/scene31b.rpy:1022
+translate russian v1s31b_99a65c23:
+
+    # ch "A little flirting but nothing more than that. It was honestly a lot easier than I thought."
+    ch "Немного флирта, но не более того. Честно говоря, всё оказалось намного проще, чем я думала."
+
+# game/v1/scene31b.rpy:1032
+translate russian v1s31b_8609d0af:
+
+    # ch "*Sighs* No, [name], I didn't touch him..."
+    ch "*Вздох* Нет, [name], я его не трогала..."
+
+# game/v1/scene31b.rpy:1047
+translate russian v1s31b_d6ce5419:
+
+    # ch "Thanks again for trusting me, and for helping me."
+    ch "Ещё раз спасибо, что доверяешь мне и помогаешь."
+
+# game/v1/scene31b.rpy:1057
+translate russian v1s31b_c26e683a:
+
+    # ch "Me too."
+    ch "Я тоже."
+
+# game/v1/scene31b.rpy:1070
+translate russian v1s31b_820c43ce:
+
+    # ch "Goodnight, [name]."
+    ch "Спокойной ночи, [name]."
+
+# game/v1/scene31b.rpy:1085
+translate russian v1s31b_e72f9a51:
+
+    # ch "See you soon."
+    ch "До скорой встречи."
+
+# game/v1/scene31b.rpy:1107
+translate russian v1s31b_c09a8b5d:
+
+    # ch "Well, us and [name]."
+    ch "Ну, мы с [имя]."
+
+# game/v1/scene31b.rpy:1150
+translate russian v1s31b_c6fc9384:
+
+    # ch "I wanted to talk to you about my presidential race."
+    ch "Я хотела поговорить с тобой о моей президентской гонке."
+
+# game/v1/scene31b.rpy:1170
+translate russian v1s31b_0878a5be:
+
+    # ch "[name] has been helping me a lot throughout this entire process and I wanted him here."
+    ch "[name] очень помогал мне на протяжении всего этого процесса, и я хотела, чтобы он был здесь."
+
+# game/v1/scene31b.rpy:1172
+translate russian v1s31b_6f9fe822:
+
+    # ch "But to be honest Grayson, considering our history together I thought that it might be easy for us to work together again."
+    ch "Если честно, Грейсон, учитывая нашу совместную историю, я подумала, что нам будет легко снова работать вместе."
+
+# game/v1/scene31b.rpy:1177
+translate russian v1s31b_b96e90ad:
+
+    # ch "You know... Like we used to."
+    ch "Знаешь... Как раньше."
+
+# game/v1/scene31b.rpy:1187
+translate russian v1s31b_f3e252a7:
+
+    # ch "And we can do more, again. If we're working together on this campaign."
+    ch "И мы можем сделать больше, снова. Если мы будем работать вместе над этой кампанией."
+
+# game/v1/scene31b.rpy:1202
+translate russian v1s31b_5b16391a:
+
+    # ch "I want this to be the start of something great between the Chicks and the Apes."
+    ch "Я хочу, чтобы это стало началом чего-то великого, между Чиксами и Приматами."
+
+# game/v1/scene31b.rpy:1222
+translate russian v1s31b_07b36738:
+
+    # ch "What?"
+    ch "Что?"
+
+# game/v1/scene31b.rpy:1244
+translate russian v1s31b_f3c2f424:
+
+    # ch "Grayson, I'm-"
+    ch "Грейсон, я..."
+
+# game/v1/scene31b.rpy:1254
+translate russian v1s31b_9273d3a5:
+
+    # ch "Gray-"
+    ch "Грей-"
+
+# game/v1/scene31b.rpy:1264
+translate russian v1s31b_af9bedb2_2:
+
+    # ch "*Sighs*"
+    ch "*Вздыхает*"
+
+# game/v1/scene31b.rpy:1320
+translate russian v1s31b_00d7ce36:
+
+    # ch "Argh! I swear, I hate him! I don't even know why I try."
+    ch "Агх! Клянусь, я его ненавижу! Я даже не знаю, почему я пробую."
+
+# game/v1/scene31b.rpy:1330
+translate russian v1s31b_43ca4528:
+
+    # ch "No, it's fine. This was a mistake. Goodnight."
+    ch "Нет, всё в порядке. Это была ошибка. Спокойной ночи."
+

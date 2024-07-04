@@ -1336,3 +1336,281 @@ translate russian strings:
     old "Whistle instead"
     new "Насвистеть вместо этого"
 
+# TODO: Translation updated at 2024-07-03 10:01
+
+# game/v2/scene28.rpy:38
+translate russian v2s28_43ce7f3c:
+
+    # pen "We've just been talking about you!"
+    pen "Мы только что говорили о тебе!"
+
+# game/v2/scene28.rpy:79
+translate russian v2s28_015a2e2d:
+
+    # pen "Yeah, I mean..."
+    pen "Да, скажу..."
+
+# game/v2/scene28.rpy:84
+translate russian v2s28_15b095d0:
+
+    # pen "It's great to hear that you two have a good thing going."
+    pen "Мне приятно, что у вас двоих всё хорошо."
+
+# game/v2/scene28.rpy:94
+translate russian v2s28_357e8ee0:
+
+    # pen "No, really. That's extremely romantic. Going to a lagoon like that?"
+    pen "Нет, правда. Это так романтично. Может поедем в лагуну?"
+
+# game/v2/scene28.rpy:104
+translate russian v2s28_4e883a65:
+
+    # pen "Well, whoever's idea it was... nice work. My best friends deserve the best."
+    pen "Кто бы это ни придумал... отличная работа. Мои лучшие друзья заслуживают самого лучшего."
+
+# game/v2/scene28.rpy:118
+translate russian v2s28_03f380c5:
+
+    # pen "Ha, yep! My two closest friends are dating, eeeeep!"
+    pen "Ха, да! Двое моих самых близких друзей встречаются, иииип!"
+
+# game/v2/scene28.rpy:123
+translate russian v2s28_163f8a33:
+
+    # pen "I think I deserve a pat on the back for playing matchmaker, don't you think?"
+    pen "Думаю, что заслуживаю похлопывания по спине за то, что играю роль свахи, вам не кажется?"
+
+# game/v2/scene28.rpy:140
+translate russian v2s28_aa103cdf:
+
+    # pen "Nothing! She's a real catch, [name]!"
+    pen "Ничего! Она настоящая находка, [name]!"
+
+# game/v2/scene28.rpy:155
+translate russian v2s28_d3ad6c74:
+
+    # pen "Hey, yeah... our glasses are empty!"
+    pen "Эй... наши бокалы пусты!"
+
+# game/v2/scene28.rpy:165
+translate russian v2s28_2d377b19:
+
+    # pen "More drinks!"
+    pen "Наливай!"
+
+# game/v2/scene28.rpy:182
+translate russian v2s28_fbdaeba0:
+
+    # pen "Libations, boy! Get 'em!"
+    pen "Выпьем, мальчики! Давай!"
+
+# game/v2/scene28.rpy:187
+translate russian v2s28_f9b9c112:
+
+    # pen "Go!"
+    pen "Давай!"
+
+# game/v2/scene28.rpy:208
+translate russian v2s28_7e2a133f:
+
+    # pen "Ugh! Jenny!"
+    pen "Ух! Дженни!"
+
+# game/v2/scene28.rpy:223
+translate russian v2s28_25c0f904:
+
+    # pen "Stop it, you two..."
+    pen "Прекратите, вы двое..."
+
+# game/v2/scene28.rpy:268
+translate russian v2s28_2d377b19_1:
+
+    # pen "More drinks!"
+    pen "Больше выпивки!"
+
+# game/v2/scene28.rpy:289
+translate russian v2s28_e1255eb4:
+
+    # pen "Yeah, I can't actually remember who it is today... Lauren, I think?"
+    pen "Да, я не могу вспомнить, кто это... Лорен, кажется?"
+
+# game/v2/scene28.rpy:294
+translate russian v2s28_e576326c:
+
+    # pen "Or wait, the blonde one? Ah... who knows."
+    pen "Или, постой, та блондинка? Ах... кто знает."
+
+# game/v2/scene28.rpy:304
+translate russian v2s28_5e4b7120:
+
+    # pen "These shots have gone straight to my head!"
+    pen "Эти кадры запали в мою голову!"
+
+# game/v2/scene28.rpy:314
+translate russian v2s28_01863149:
+
+    # pen "So? Spill it [name]! Who's your current prey?"
+    pen "Ну что? Выкладывай [name]! Кто твоя добыча?"
+
+# game/v2/scene28.rpy:329
+translate russian v2s28_3d5cfc08:
+
+    # pen "Haven't you got a gazelle in your sights?"
+    pen "Разве у тебя нет газели на прицеле?"
+
+# game/v2/scene28.rpy:346
+translate russian v2s28_3376ceaa:
+
+    # pen "Yeah, boooo!"
+    pen "Да, бууу!"
+
+# game/v2/scene28.rpy:366
+translate russian v2s28_6d5a5e5e:
+
+    # pen "Hell no!"
+    pen "Нет, черт возьми!"
+
+# game/v2/scene28.rpy:381
+translate russian v2s28_2d377b19_2:
+
+    # pen "More drinks!"
+    pen ""
+
+# game/v2/scene28.rpy:844
+translate russian v2s28_6589eb62:
+
+    # pen "Yeah, I'm sobering up over here!"
+    pen "Больше выпивки!"
+
+# game/v2/scene28.rpy:854
+translate russian v2s28_83b4d0a6:
+
+    # pen "It better not be water, [name]!"
+    pen "Лучше бы это была не вода, [name]!"
+
+# game/v2/scene28.rpy:864
+translate russian v2s28_abc99697:
+
+    # pen "He lies!"
+    pen "Он лжёт!"
+
+# game/v2/scene28.rpy:904
+translate russian v2s28_12bc687c:
+
+    # pen "*Gags* That's two!"
+    pen "*Давится* Это два!"
+
+# game/v2/scene28.rpy:914
+translate russian v2s28_140aea10:
+
+    # pen "And..."
+    pen "И..."
+
+# game/v2/scene28.rpy:924
+translate russian v2s28_5ce850c5:
+
+    # pen "What's next?!"
+    pen "Что дальше?!"
+
+# game/v2/scene28.rpy:944
+translate russian v2s28_97c48b03:
+
+    # pen "Well, that was a nice surprise..."
+    pen "Что ж, это приятный сюрприз..."
+
+# game/v2/scene28.rpy:959
+translate russian v2s28_898be983:
+
+    # pen "Why blame anything?"
+    pen "Зачем что-то обвинять?"
+
+# game/v2/scene28.rpy:1004
+translate russian v2s28_768f72ce:
+
+    # pen "Okay, lovebirds!"
+    pen "Так, голубки!"
+
+# game/v2/scene28.rpy:1009
+translate russian v2s28_a3f95b2c:
+
+    # pen "That was impulsive... I think someone's had enough to drink."
+    pen "Это было импульсивно... Думаю, кто-то достаточно выпил."
+
+# game/v2/scene28.rpy:1059
+translate russian v2s28_b2490ad5:
+
+    # pen "Oh, shit! They'll be closing in a few minutes. We should probably try to beat the rush."
+    pen "Вот, дерьмо! Они закрываются через несколько минут."
+
+# game/v2/scene28.rpy:1076
+translate russian v2s28_44908b97:
+
+    # pen "Same... I could fall asleep right now. *Giggles*"
+    pen "Тоже... Я могу заснуть прямо здесь. *Хихикает*"
+
+# game/v2/scene28.rpy:1092
+translate russian v2s28_aaeebd84:
+
+    # pen "Hey, [name]. Come here for a sec?"
+    pen "Привет, [name]. Подойдешь на секунду?"
+
+# game/v2/scene28.rpy:1102
+translate russian v2s28_717cb8c8:
+
+    # pen "I just wanted to say..."
+    pen "Я просто хотела сказать..."
+
+# game/v2/scene28.rpy:1107
+translate russian v2s28_48d26c64:
+
+    # pen "I'm really happy that you've been having a good time with Jenny."
+    pen "Я очень рада, что ты хорошо проводишь время с Дженни."
+
+# game/v2/scene28.rpy:1112
+translate russian v2s28_7de0798d:
+
+    # pen "I thought there was something more between you and I, and if there was, just..."
+    pen "Я думала, что между нами есть что-то большее, и если это и было, то просто..."
+
+# game/v2/scene28.rpy:1117
+translate russian v2s28_e2dad50f:
+
+    # pen "Jenny's awesome and I know you'll be happy with her."
+    pen "Дженни потрясающая, и я знаю, что ты будешь счастлив с ней."
+
+# game/v2/scene28.rpy:1132
+translate russian v2s28_79aa4514:
+
+    # pen "We're good."
+    pen "Всё хорошо."
+
+# game/v2/scene28.rpy:1206
+translate russian v2s28_982bdf35:
+
+    # pen "What shall we sing?"
+    pen "Что мы будем петь?"
+
+# game/v2/scene28.rpy:1216
+translate russian v2s28_905e1b07:
+
+    # pen "Go on, then!"
+    pen "Напевай!"
+
+# game/v2/scene28.rpy:1238
+translate russian v2s28_1b2bd78b:
+
+    # pen "Good one, grandpa!"
+    pen "Отлично, дедуля!"
+
+# game/v2/scene28.rpy:1261
+translate russian v2s28_07d1a145:
+
+    # pen "That's not singing!"
+    pen "Это не пение!"
+
+# game/v2/scene28.rpy:1286
+translate russian v2s28_2c1f60f4:
+
+    # pen "Wow, you're so talented..."
+    pen "Вау, ты такой талантливый..."
+

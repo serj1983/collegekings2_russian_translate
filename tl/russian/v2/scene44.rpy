@@ -622,3 +622,161 @@ translate russian strings:
     old "I think I know"
     new "Думаю, я знаю"
 
+# TODO: Translation updated at 2024-07-03 10:01
+
+# game/v2/scene44.rpy:71
+translate russian v2s44_continue_8ca33b02:
+
+    # pen "Hey, Amber!"
+    pen "Привет, Эмбер!"
+
+# game/v2/scene44.rpy:81
+translate russian v2s44_continue_b83ba651:
+
+    # pen "Techie?"
+    pen "Привет, Технарь."
+
+# game/v2/scene44.rpy:91
+translate russian v2s44_continue_44092a65:
+
+    # pen "Oh! Yeah, of course. What can I do to help?"
+    pen "Ох! Да, конечно. Что я могу сделать?"
+
+# game/v2/scene44.rpy:101
+translate russian v2s44_continue_3b27488b:
+
+    # pen "Okay, I'll try but-"
+    pen "Хорошо, я попробую, но..."
+
+# game/v2/scene44.rpy:111
+translate russian v2s44_continue_103b557c:
+
+    # pen "I'm not sure I like that nickna-"
+    pen "Не уверена, что мне по душе это прозви-"
+
+# game/v2/scene44.rpy:187
+translate russian v2s44_continue_8455abf3:
+
+    # pen "Is that seriously my name now?"
+    pen "Ты меня серьёзно так называешь?"
+
+# game/v2/scene44.rpy:197
+translate russian v2s44_continue_ae8cc03d:
+
+    # pen "Right, okay."
+    pen "Ладно, хорошо."
+
+# game/v2/scene44.rpy:207
+translate russian v2s44_continue_11c99a8c:
+
+    # pen "Oh, hi [name]! You're playing detective too, huh?"
+    pen "Ох, привет, [name]! Ты что, тоже теперь детектив?"
+
+# game/v2/scene44.rpy:217
+translate russian v2s44_continue_bdbb4e85:
+
+    # pen "You cracked what at dawn?"
+    pen "С самого утра?"
+
+# game/v2/scene44.rpy:232
+translate russian v2s44_continue_6d3892fc:
+
+    # pen "Well, Nora hasn't posted on Kiwii since we landed, so that was a bit of a dead end."
+    pen "Ну, Нора не писала в Киви с тех пор, как мы приземлились, так что это тупик."
+
+# game/v2/scene44.rpy:242
+translate russian v2s44_continue_823ed034:
+
+    # pen "However..."
+    pen "Впрочем..."
+
+# game/v2/scene44.rpy:247
+translate russian v2s44_continue_80419012:
+
+    # pen "I sent friend requests to her family members and some of them accepted. One of them, her aunt?"
+    pen "Я попросилась в друзья к членам её семьи, и некоторые из них согласились. Одна из них, её тётя."
+
+# game/v2/scene44.rpy:257
+translate russian v2s44_continue_8ca719c4:
+
+    # pen "She said something that might help."
+    pen "Она рассказала кое-что, что может помочь."
+
+# game/v2/scene44.rpy:267
+translate russian v2s44_continue_6ed66fc5:
+
+    # pen "Mhmm. Looks like she posted a photo on the day we got back from Europe."
+    pen "Мхмм. Похоже, она разместила фотографию в день нашего возвращения из Европы."
+
+# game/v2/scene44.rpy:269
+translate russian v2s44_continue_61d11b9a:
+
+    # pen "It's a selfie of her and Nora, and the caption says..."
+    pen "Это селфи с ней и Норой, а подпись гласит..."
+
+# game/v2/scene44.rpy:276
+translate russian v2s44_continue_df0e0294:
+
+    # pen "\"Was so nice to see my baby niece today... she never stays for long, but it's always perfect <3 See you soon, Nora Bora!\""
+    pen "\"Было так приятно увидеть сегодня мою маленькую племянницу.... Она никогда не остаётся надолго, но это всегда прекрасно <3 До скорой встречи, Нора Бора!\""
+
+# game/v2/scene44.rpy:295
+translate russian v2s44_continue_8db40d89:
+
+    # pen "I think her whole family are huge nature freaks. There's pictures of them camping, fishing, you name it."
+    pen "Думаю, вся её семья помешана на природе. Есть фотографии, где они на кемпинге, на рыбалке и всё такое прочее."
+
+# game/v2/scene44.rpy:321
+translate russian v2s44_continue_5aa47dcf:
+
+    # pen "Sadly, not much."
+    pen "К сожалению, не так много."
+
+# game/v2/scene44.rpy:323
+translate russian v2s44_continue_48691215:
+
+    # pen "Oh... um... uh, no."
+    pen "Ох... Эмм... Ну... Нет."
+
+# game/v2/scene44.rpy:325
+translate russian v2s44_continue_aa6597f5:
+
+    # pen "I didn't find a lot of pictures with Nora, strangely enough."
+    pen "Как ни странно, фотографий с Норой не так уж и много."
+
+# game/v2/scene44.rpy:327
+translate russian v2s44_continue_cdb30bed:
+
+    # pen "But most of her relatives are from this area, so if she's with them, she's probably not too far away."
+    pen "Но большинство её родственников из этого района, так что, если она с ними, она, вероятно, недалеко."
+
+# game/v2/scene44.rpy:343
+translate russian v2s44_continue_c6330051:
+
+    # pen "Well, it looks like she was in a relationship before Chris."
+    pen "Похоже, что у неё были отношения до Криса."
+
+# game/v2/scene44.rpy:345
+translate russian v2s44_continue_566f3881:
+
+    # pen "Nora's still friends with that guy on Kiwii, so I thought I'd send him a request as well-"
+    pen "Нора всё ещё дружит с тем парнем в Киви, так что я решила послать ему запрос тоже-"
+
+# game/v2/scene44.rpy:359
+translate russian v2s44_continue_ed50e6fd:
+
+    # pen "But he hasn't added me yet so I couldn't look much further. I only know he's a local here to San Vallejo."
+    pen "Но он ещё не добавил меня в друзья, так что я не могу копать дальше. Знаю только, что он здесь, в Сан Вальехо."
+
+# game/v2/scene44.rpy:371
+translate russian v2s44_continue_52f3d2ab:
+
+    # pen "Well, there you go. *Giggles*"
+    pen "Вот как-то так. *Хихикает*"
+
+# game/v2/scene44.rpy:386
+translate russian v2s44_continue_34f32910:
+
+    # pen "Anytime detectives. Good luck!"
+    pen "В любое время, детективы. Удачи!"
+

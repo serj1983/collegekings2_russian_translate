@@ -211,3 +211,59 @@ translate russian v1s43a_e365ba85:
     # pe "Let's go, then."
     pe "Тогда пошли."
 
+# TODO: Translation updated at 2024-07-03 10:01
+
+# game/v1/scene43a.rpy:30
+translate russian v1s43a_e7d73c3b:
+
+    # pen "What?! I do not! Stop it, [name]."
+    pen "Что?! Нет! Прекрати, [name]."
+
+# game/v1/scene43a.rpy:42
+translate russian v1s43a_4ad2d74f:
+
+    # pen "Oh my-"
+    pen "О мой-"
+
+# game/v1/scene43a.rpy:44
+translate russian v1s43a_0e3a1c72:
+
+    # pen "Stop! So embarrassing."
+    pen "Стоп! Так стыдно."
+
+# game/v1/scene43a.rpy:49
+translate russian v1s43a_56cc979c:
+
+    # pen "Please never bring that up again."
+    pen "Пожалуйста, никогда больше не поднимай эту тему."
+
+# game/v1/scene43a.rpy:59
+translate russian v1s43a_7631e55a:
+
+    # pen "[name]!"
+    pen "[name]!"
+
+# game/v1/scene43a.rpy:69
+translate russian v1s43a_13d5b8f7:
+
+    # pen "You're not funny."
+    pen "Ты не смешон."
+
+# game/v1/scene43a.rpy:79
+translate russian v1s43a_52272262:
+
+    # pen "You wouldn't do that."
+    pen "Ты бы не стал этого делать."
+
+# game/v1/scene43a.rpy:130
+translate russian v1s43a_d3b23961:
+
+    # pen "Good news? Bad news?"
+    pen "Хорошие новости? Плохие новости?"
+
+# game/v1/scene43a.rpy:145
+translate russian v1s43a_8bc6a6ed:
+
+    # pen "Let's go, then."
+    pen "Тогда пойдем."
+

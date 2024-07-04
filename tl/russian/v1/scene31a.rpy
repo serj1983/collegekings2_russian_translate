@@ -777,3 +777,95 @@ translate russian v1s31a_0afe4962:
     # ca "Ha... All right."
     ca "Ха... Хорошо."
 
+# TODO: Translation updated at 2024-07-03 10:01
+
+# game/v1/scene31a.rpy:249
+translate russian v1s31a_2ef91b54:
+
+    # ch "Hey, you two."
+    ch "Эй, вы двое."
+
+# game/v1/scene31a.rpy:259
+translate russian v1s31a_cfdd59f9:
+
+    # ch "Yeah, you're out here because they're being annoying in there. You're welcome. I wanted to talk."
+    ch "Да, ты здесь, потому что они тебя там раздражают. Пожалуйста. Я хочу поговорить."
+
+# game/v1/scene31a.rpy:274
+translate russian v1s31a_d1e7353c:
+
+    # ch "Please?"
+    ch "Пожалуйста?"
+
+# game/v1/scene31a.rpy:318
+translate russian v1s31a_76e7b765:
+
+    # ch "Because you know me, Cam."
+    ch "Потому что ты знаешь меня, Кэм."
+
+# game/v1/scene31a.rpy:328
+translate russian v1s31a_389c159e:
+
+    # ch "*Scoffs*"
+    ch "*Смешок*"
+
+# game/v1/scene31a.rpy:378
+translate russian v1s31a_6754cf7a:
+
+    # ch "Don't think too hard, this is a favor for you and the Apes just as much as it's a favor for me."
+    ch "Не думай слишком много, это услуга для тебя и Приматов в той же степени, что и для меня."
+
+# game/v1/scene31a.rpy:383
+translate russian v1s31a_c387a6f3:
+
+    # ch "That's why it's called an alliance."
+    ch "Вот почему он будет называться альянсом."
+
+# game/v1/scene31a.rpy:439
+translate russian v1s31a_16edfce2:
+
+    # ch "No different than you would for anything else, just tell him what's best for the Apes... Be honest."
+    ch "Не отличайся от других, просто скажи ему, что лучше для Приматов... Будь честен."
+
+# game/v1/scene31a.rpy:449
+translate russian v1s31a_6cd4e640:
+
+    # ch "Cameron."
+    ch "Кэмерон."
+
+# game/v1/scene31a.rpy:459
+translate russian v1s31a_191145e8:
+
+    # ch "We never talk much but we do know each other very well."
+    ch "Мы никогда много не разговаривали, но очень хорошо знаем друг друга."
+
+# game/v1/scene31a.rpy:461
+translate russian v1s31a_0ebfbe4c:
+
+    # ch "I know you well enough to know exactly what your aspirations are and so all I'll say is this..."
+    ch "Я знаю тебя достаточно хорошо, чтобы точно знать, каковы твои устремления, поэтому я скажу лишь следующее..."
+
+# game/v1/scene31a.rpy:466
+translate russian v1s31a_129ac29d:
+
+    # ch "If you back me in my campaign, I'll back you in any race you plan to take on. And I mean any."
+    ch "Если ты поддержишь меня в моей кампании, я поддержу тебя в любой гонке, в которой ты запланируешь принять участие. Я имею в виду любую."
+
+# game/v1/scene31a.rpy:476
+translate russian v1s31a_acc92d2e:
+
+    # ch "Your actions say it all. You're a natural leader."
+    ch "Твои действия говорят сами за себя. Ты - прирожденный лидер."
+
+# game/v1/scene31a.rpy:503
+translate russian v1s31a_73a610ea:
+
+    # ch "Thank you! *Squeals* Thank you so much, Cameron."
+    ch "Спасибо! *Визг* Спасибо тебе большое, Кэмерон."
+
+# game/v1/scene31a.rpy:513
+translate russian v1s31a_f12e91d6:
+
+    # ch "I'm off to talk to a few more people. Thanks for the nice chat! I appreciate it."
+    ch "Пойду поговорю ещё с несколькими людьми. Спасибо за приятную беседу! Я ценю это."
+

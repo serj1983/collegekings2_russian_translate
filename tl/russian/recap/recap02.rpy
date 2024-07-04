@@ -1133,3 +1133,11 @@ translate russian recap_samantha_questions_bbdd205c:
     # u "But then I found out she ended up in the hospital after going off on her own and taking drugs with random people!"
     u "Но потом я узнал, что она попала в больницу после того, как ушла в себя и принимала наркотики с различными людьми!"
 
+# TODO: Translation updated at 2024-07-03 10:01
+
+translate russian strings:
+
+    # game/recap/recap02.rpy:532
+    old "Continue relationship"
+    new "Продолжить отношения"
+

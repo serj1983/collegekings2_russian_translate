@@ -413,3 +413,173 @@ translate russian v1s21_26e7ae07:
     # cl "We can call it that, if you want."
     cl "Мы можем назвать это так, если хочешь."
 
+# TODO: Translation updated at 2024-07-03 10:01
+
+# game/v1/scene21.rpy:12
+translate russian v1s21_988ef472:
+
+    # ch "[name]!"
+    ch "[name]!"
+
+# game/v1/scene21.rpy:17
+translate russian v1s21_6d30db41:
+
+    # ch "[name]! Wait up!"
+    ch "[name]! Подожди!"
+
+# game/v1/scene21.rpy:37
+translate russian v1s21_adda31ef:
+
+    # ch "No, no, nothing's wrong. *Panting*"
+    ch "Нет, нет, всё в порядке. *Дыхание*"
+
+# game/v1/scene21.rpy:39
+translate russian v1s21_1e48cdd4:
+
+    # ch "Are you busy right now?"
+    ch "Ты сейчас занят?"
+
+# game/v1/scene21.rpy:49
+translate russian v1s21_e7a10ef2:
+
+    # ch "Okay, well..."
+    ch "Ладно, хорошо..."
+
+# game/v1/scene21.rpy:51
+translate russian v1s21_9fac9615:
+
+    # ch "When I left the library earlier, I couldn't help but feel like I didn't really translate how thankful I am for all of your help."
+    ch "Когда я уходила из библиотеки, я не могла отделаться от ощущения, что не передала, насколько я благодарна тебе за твою помощь."
+
+# game/v1/scene21.rpy:61
+translate russian v1s21_5112d8c2:
+
+    # ch "You're not only there for me in private but now in public as well. That's something I can't thank you enough for."
+    ch "Ты помогаешь мне не только наедине, но теперь и на публике. За это я не могу не выразить тебе свою благодарность."
+
+# game/v1/scene21.rpy:63
+translate russian v1s21_fb95b5d2:
+
+    # ch "A lot of people tend to avoid hanging out with me because of rumors or preconceived notions that float around. But..."
+    ch "Многие люди, которых я знаю, избегают общаться со мной из-за слухов и предвзятых мнений, которые ходят вокруг. Но..."
+
+# game/v1/scene21.rpy:73
+translate russian v1s21_aa19e6f8:
+
+    # ch "You don't care what people say. And that's what I appreciate the most."
+    ch "Тебе всё равно, что говорят люди. И это то, что я ценю больше всего."
+
+# game/v1/scene21.rpy:102
+translate russian v1s21_a5506315:
+
+    # ch "Aw."
+    ch "Оу."
+
+# game/v1/scene21.rpy:112
+translate russian v1s21_f2638719:
+
+    # ch "You're the most amazing person I've ever met. You know that?"
+    ch "Ты самый удивительный человек, которого я когда-либо встречала. Ты знаешь это?"
+
+# game/v1/scene21.rpy:122
+translate russian v1s21_4202efd5:
+
+    # ch "You know, I think I need to apologize in advance."
+    ch "Знаешь, я думаю, мне нужно заранее извиниться."
+
+# game/v1/scene21.rpy:132
+translate russian v1s21_4c69844b:
+
+    # ch "With the campaign being so competitive, I'm gonna have a lot less time than what we're used to."
+    ch "Поскольку кампания настолько конкурентная, у меня будет гораздо меньше времени, к чему мы привыкли."
+
+# game/v1/scene21.rpy:134
+translate russian v1s21_32ece740:
+
+    # ch "We'll have less time together, you know?"
+    ch "У нас будет меньше времени вместе, понимаешь?"
+
+# game/v1/scene21.rpy:153
+translate russian v1s21_069300fa:
+
+    # ch "*Sighs* You really are the best."
+    ch "*Вздох* Ты действительно лучший."
+
+# game/v1/scene21.rpy:163
+translate russian v1s21_c2fc5e51:
+
+    # ch "For what it's worth, I have some time right now..."
+    ch "Если уж на то пошло, у меня сейчас есть немного времени..."
+
+# game/v1/scene21.rpy:173
+translate russian v1s21_d38e03d0:
+
+    # ch "Yeah... I think I may have a nice idea to kick off our campaign with as well."
+    ch "Да... Думаю, у меня тоже есть хорошая идея для начала нашей кампании."
+
+# game/v1/scene21.rpy:183
+translate russian v1s21_6c914629:
+
+    # ch "Hmm..."
+    ch "Хм..."
+
+# game/v1/scene21.rpy:188
+translate russian v1s21_a7897ec9:
+
+    # ch "*Whispers* Let me show you."
+    ch "*Шёпотом* Давай я тебе покажу."
+
+# game/v1/scene21.rpy:213
+translate russian v1s21_40086d3e:
+
+    # ch "No one ever comes back here, you know?"
+    ch "Никто никогда сюда не возвращается, понимаешь?"
+
+# game/v1/scene21.rpy:215
+translate russian v1s21_9f10f141:
+
+    # ch "I used to sit out here and study everyday after class during my first couple of years on campus."
+    ch "Я сидела здесь и занималась каждый день после занятий в первые пару лет моего пребывания в кампусе."
+
+# game/v1/scene21.rpy:217
+translate russian v1s21_e198e986:
+
+    # ch "One of the very few places on campus where I know I won't be bothered."
+    ch "Одно из немногих мест в кампусе, где я знаю, что меня не побеспокоят."
+
+# game/v1/scene21.rpy:227
+translate russian v1s21_c419a658:
+
+    # ch "Ha."
+    ch "Ха."
+
+# game/v1/scene21.rpy:232
+translate russian v1s21_52bc4cc5:
+
+    # ch "We can call it that, if you want."
+    ch "Мы можем назвать это так, если хочешь."
+
+# game/v1/scene21.rpy:260
+translate russian v1s21_56ad358a:
+
+    # ch "Hm? Is something wrong?"
+    ch "Хм? Что-то не так?"
+
+# game/v1/scene21.rpy:294
+translate russian v1s21_a765c797:
+
+    # ch "I've never been with a man like you, but I'm sure as hell happy that I am."
+    ch "Я никогда не была с таким мужчиной, как ты, но я чертовски счастлива, что это так."
+
+# game/v1/scene21.rpy:308
+translate russian v1s21_272a321a:
+
+    # ch "Thank you, baby. So much."
+    ch "Спасибо, малыш. Это, так много."
+
+# game/v1/scene21.rpy:318
+translate russian v1s21_b4679fa4:
+
+    # ch "I'll meet you there soon, okay?"
+    ch "Скоро встретимся, хорошо?"
+

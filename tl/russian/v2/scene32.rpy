@@ -570,3 +570,35 @@ translate russian strings:
     old "Right window"
     new "Правое окно"
 
+# TODO: Translation updated at 2024-07-03 10:01
+
+# game/v2/scene32.rpy:88
+translate russian v2s32_cfaf6451:
+
+    # ch "[name]? Why are you throwing stones at my window?"
+    ch "[name]? Почему ты бросаешь камни в моё окно?"
+
+# game/v2/scene32.rpy:103
+translate russian v2s32_b5c92329:
+
+    # ch "Get her attention by... breaking her window?"
+    ch "Привлечь её внимание... разбив окно?"
+
+# game/v2/scene32.rpy:116
+translate russian v2s32_b6c07b2e:
+
+    # ch "You're trying to be romantic?"
+    ch "Ты пытаешься быть романтичным?"
+
+# game/v2/scene32.rpy:136
+translate russian v2s32_0e485089:
+
+    # ch "Okay. Well, you go have fun while I'm working hard on my campaign."
+    ch "Хорошо. Ну, иди развлекайся, пока я работаю над своей кампанией."
+
+# game/v2/scene32.rpy:142
+translate russian v2s32_dcb56a28:
+
+    # ch "Aw, her very own Romeo! Have a nice time."
+    ch "О, ты как Ромео! Желаю приятно провести время.."
+

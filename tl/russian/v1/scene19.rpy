@@ -237,3 +237,113 @@ translate russian v1s19_continue_b98e7096:
     # cl "Now let's get out there and win, okay?"
     cl "А теперь давай выйдем и победим, хорошо?"
 
+# TODO: Translation updated at 2024-07-03 10:01
+
+# game/v1/scene19.rpy:32
+translate russian v1s19_89f4707c:
+
+    # ch "Took you long enough! Ready to get started?"
+    ch "Это заняло у тебя достаточно много времени! Готов приступить к работе?"
+
+# game/v1/scene19.rpy:58
+translate russian v1s19_e413704c:
+
+    # ch "I'm sorry [name], I'm just really focused and anxious to get started considering the Lindsey parade that's been taking place all day."
+    ch "Извини [name], я просто очень сосредоточена и мне не терпится начать, учитывая парад Линдси, который проходил весь день."
+
+# game/v1/scene19.rpy:68
+translate russian v1s19_9396cd92:
+
+    # ch "Ha, thanks. Should we get started, then?"
+    ch "Ха, спасибо. Тогда может начнем?"
+
+# game/v1/scene19.rpy:78
+translate russian v1s19_8c14e9f6:
+
+    # ch "Okay, so here's my plan..."
+    ch "Ладно, вот мой план..."
+
+# game/v1/scene19.rpy:83
+translate russian v1s19_ccd02f78:
+
+    # ch "The first phase of my campaign is to re-establish old loyalties. The first time I was elected, people loved me, and I need to remind them why."
+    ch "Первый этап моей кампании - восстановление старой лояльности. Когда я была избрана в первый раз, люди полюбили меня, и мне нужно напомнить им, почему."
+
+# game/v1/scene19.rpy:85
+translate russian v1s19_1ec1cc03:
+
+    # ch "So, here's what I'm thinking for phase one."
+    ch "Итак, вот что я думаю о первой фазе."
+
+# game/v1/scene19.rpy:137
+translate russian v1s19_continue_13917254:
+
+    # ch "Getting the Apes to side with us could take a lot of convincing, but..."
+    ch "Убедить Приматов встать на нашу сторону может потребовать много усилий, но..."
+
+# game/v1/scene19.rpy:139
+translate russian v1s19_continue_6579b189:
+
+    # ch "If we manage to pull it off, a Chicks and Apes alliance would make for an interesting future of the Chicks."
+    ch "Если нам удастся это провернуть, альянс Чикс и Приматов станет интересной особенностью Чикс."
+
+# game/v1/scene19.rpy:141
+translate russian v1s19_continue_57d47e89:
+
+    # ch "I know Chris trusts me, so I'm pretty sure we've already got the Wolves on our side. Guess we'll find out, though..."
+    ch "Я знаю, что Крис доверяет мне, так что я почти уверен, что Волки уже на нашей стороне. Хотя, думаю, мы это выясним..."
+
+# game/v1/scene19.rpy:143
+translate russian v1s19_continue_fed9f263:
+
+    # ch "Hmm, okay..."
+    ch "Хм, хорошо..."
+
+# game/v1/scene19.rpy:148
+translate russian v1s19_continue_cca815bb:
+
+    # ch "These are your choices, remember that. So, be sure you're there to help me when the time comes, okay?"
+    ch "Это твой выбор, помни об этом. Так что будь уверен, что ты будешь рядом, чтобы помочь мне, когда придет время, хорошо?"
+
+# game/v1/scene19.rpy:158
+translate russian v1s19_continue_527e08a3:
+
+    # ch "Ewww, that sounds so weird coming from you."
+    ch "Фуууу, это звучит так странно от тебя."
+
+# game/v1/scene19.rpy:168
+translate russian v1s19_continue_8281860c:
+
+    # ch "Okay, okay, fine."
+    ch "Ладно, ладно, хорошо."
+
+# game/v1/scene19.rpy:178
+translate russian v1s19_continue_9db58b79:
+
+    # ch "Just ask, [name], we've got stuff to do."
+    ch "Просто спроси, [name], у нас есть чем заняться."
+
+# game/v1/scene19.rpy:188
+translate russian v1s19_continue_60f234c5:
+
+    # ch "Ugh, I told her we'd handle it. Everything's fine, the school just makes a big fucking deal if you don't get forms in on time."
+    ch "Я сказала ей, что мы с этим разберемся. Всё в порядке, просто школа устраивает большой скандал, если ты не сдаёшь формы вовремя."
+
+# game/v1/scene19.rpy:198
+translate russian v1s19_continue_b461b939:
+
+    # ch "Just trust me when I say I know what I'm doing, okay?"
+    ch "Просто поверь мне, когда я говорю, что знаю, что делаю, хорошо?"
+
+# game/v1/scene19.rpy:208
+translate russian v1s19_continue_77225c4c:
+
+    # ch "But thanks for caring about Aubrey, she's probably just exhausted."
+    ch "Но спасибо за заботу об Обри, она, наверное, просто устала."
+
+# game/v1/scene19.rpy:210
+translate russian v1s19_continue_2ee773e4:
+
+    # ch "Now let's get out there and win, okay?"
+    ch "А теперь давай выйдем и победим, хорошо?"
+

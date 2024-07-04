@@ -399,3 +399,179 @@ translate russian v1s19a_8dedfa2c:
     # u "Ha, just like in the movies."
     u "Ха, прямо как в кино."
 
+# TODO: Translation updated at 2024-07-03 10:01
+
+# game/v1/scene19a.rpy:12
+translate russian v1s19a_011819ee:
+
+    # ch "I really think this is the most solid plan."
+    ch "Я правда думаю, что это самый надежный план."
+
+# game/v1/scene19a.rpy:23
+translate russian v1s19a_15d272bb:
+
+    # ch "Especially since I basically already have the Wolves' support, I feel confident about this."
+    ch "Тем более, что у меня уже есть поддержка Волков, я чувствую себя уверенней."
+
+# game/v1/scene19a.rpy:25
+translate russian v1s19a_00b82fd2:
+
+    # ch "So, yeah, I'll set everything up and will let you know when it's ready."
+    ch "Так что, да, я всё подготовлю и дам тебе знать, когда всё будет готово."
+
+# game/v1/scene19a.rpy:36
+translate russian v1s19a_0362ff7d:
+
+    # ch "How did what come about?"
+    ch "Как это получилось?"
+
+# game/v1/scene19a.rpy:46
+translate russian v1s19a_eb746617:
+
+    # ch "Oh.. That's simple."
+    ch "О... Всё просто."
+
+# game/v1/scene19a.rpy:51
+translate russian v1s19a_35cb7e5f:
+
+    # ch "Chris and I share the same principles when it comes to leadership and loyalty."
+    ch "Мы с Крисом разделяем одни и те же принципы, когда речь идет о лидерстве и преданности."
+
+# game/v1/scene19a.rpy:53
+translate russian v1s19a_b38d2c73:
+
+    # ch "You can't blame all of the issues on the leader, give up on them, throw them away, and think that'll change things."
+    ch "Нельзя сваливать все проблемы на лидера, отказываясь и отбрасывая их, думая, что это изменит ситуацию."
+
+# game/v1/scene19a.rpy:58
+translate russian v1s19a_5dae9024:
+
+    # ch "You have to work on improving the leadership that's already comfortably in place."
+    ch "Ты должен работать над улучшением руководства, которое уже комфортно работает."
+
+# game/v1/scene19a.rpy:68
+translate russian v1s19a_9853a4ad:
+
+    # ch "Well, no... I mean, we're pretty close."
+    ch "Ну, нет... Я имею в виду, мы довольно близки."
+
+# game/v1/scene19a.rpy:78
+translate russian v1s19a_e5dd650f:
+
+    # ch "I already know what you're gonna say."
+    ch "Я уже знаю, что ты скажешь, хаха."
+
+# game/v1/scene19a.rpy:83
+translate russian v1s19a_e3aaa5ee:
+
+    # ch "Whatever's happening between Chris and Nora is their business..."
+    ch "Что бы ни происходило между Крисом и Норой, это их дело..."
+
+# game/v1/scene19a.rpy:85
+translate russian v1s19a_c5938ef1:
+
+    # ch "And I think because I don't get involved as much as others, we have this unspoken, respectful relationship, you know?"
+    ch "И я думаю, что поскольку я не так сильно вовлечена в процесс, как другие, у нас есть эти негласные соответствующие отношения, понимаешь?"
+
+# game/v1/scene19a.rpy:95
+translate russian v1s19a_d15eef58:
+
+    # ch "Exactly, and though Chris may support me as a leader, it doesn't mean all of the Wolves will want to..."
+    ch "Именно, и хотя Крис может поддержать меня как лидера, это не значит, что все Волки захотят..."
+
+# game/v1/scene19a.rpy:97
+translate russian v1s19a_cc2bfe6d:
+
+    # ch "That's where a little favor from my favorite guy comes in."
+    ch "Вот тут-то и приходит на помощь небольшая услуга от моего любимого парня."
+
+# game/v1/scene19a.rpy:107
+translate russian v1s19a_d3351580:
+
+    # ch "Am I asking you for too much?"
+    ch "Я слишком много прошу?"
+
+# game/v1/scene19a.rpy:117
+translate russian v1s19a_2ae612d9:
+
+    # ch "Okay good. I was nervous for a second..."
+    ch "Хорошо, хорошо. Я на секунду занервничала..."
+
+# game/v1/scene19a.rpy:127
+translate russian v1s19a_5671e967:
+
+    # ch "I was wondering if you could talk to Chris about the Wolves actively supporting me."
+    ch "Я хотела спросить, не мог бы ты поговорить с Крисом о том, чтобы Волки более активней поддерживали меня."
+
+# game/v1/scene19a.rpy:137
+translate russian v1s19a_72b1bf5f:
+
+    # ch "Rooting for and actively supporting are two very different things."
+    ch "Болеть за и активно поддерживать - две совершенно разные вещи."
+
+# game/v1/scene19a.rpy:142
+translate russian v1s19a_4f769ebf:
+
+    # ch "I need the Wolves' help on a grand scale if I want to beat Lindsey."
+    ch "Мне нужна помощь Волков в делах большого масштаба, если я хочу победить Линдси."
+
+# game/v1/scene19a.rpy:147
+translate russian v1s19a_266eb1e8:
+
+    # ch "And honestly, when it comes to Imre, he's had a crush on me for as long as I can remember."
+    ch "И если честно, когда речь заходит об Имре, он влюблен в меня столько, сколько я себя помню."
+
+# game/v1/scene19a.rpy:149
+translate russian v1s19a_e2f2bdbc:
+
+    # ch "When I called him this morning he picked up right away and was way too excited to help..."
+    ch "Когда я позвонила ему сегодня утром, он сразу же взял трубку и был очень рад помочь..."
+
+# game/v1/scene19a.rpy:159
+translate russian v1s19a_23ee7ea5:
+
+    # ch "So, do you think you can talk to Chris about this? Today?"
+    ch "Как ты думаешь, ты сможешь поговорить об этом с Крисом? Сегодня?"
+
+# game/v1/scene19a.rpy:172
+translate russian v1s19a_29698320:
+
+    # ch "Perfect! Thank you so so so much, [name]."
+    ch "Отлично! Большое спасибо, [name]."
+
+# game/v1/scene19a.rpy:187
+translate russian v1s19a_3c9bb42c:
+
+    # ch "Perfect! Thank you so much, [name]. This means the world to me."
+    ch "Отлично! Большое спасибо, [name]. Это очень важно для меня."
+
+# game/v1/scene19a.rpy:202
+translate russian v1s19a_d17a2454:
+
+    # ch "*Sighs* Yeah, I get it. His head isn't in the right space around you. Smart thinking."
+    ch "*Вздох* Да, я понимаю. Его голова находится не в том пространстве, где ты находишься. Умное мышление."
+
+# game/v1/scene19a.rpy:220
+translate russian v1s19a_b09d6902:
+
+    # ch "*Screams* AH!"
+    ch "*Кричит* АХ!"
+
+# game/v1/scene19a.rpy:230
+translate russian v1s19a_d9184b3f:
+
+    # ch "That scared me!"
+    ch "Это испугало меня!"
+
+# game/v1/scene19a.rpy:240
+translate russian v1s19a_458662d9:
+
+    # ch "Cliche library kids."
+    ch "Клише для детей из библиотеки."
+
+# game/v1/scene19a.rpy:250
+translate russian v1s19a_14edcea4:
+
+    # ch "Right. Well, I need to be on my way. Thanks again for helping me with the plan."
+    ch "Да. Ну, мне пора в путь. Еще раз спасибо, что помог мне с планом."
+

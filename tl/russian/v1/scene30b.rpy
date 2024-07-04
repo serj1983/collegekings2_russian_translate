@@ -427,3 +427,125 @@ translate russian strings:
     old "A vote for me is a vote for The Chicks AND a vote for The Wolves :) #TheChicksWhoCriedWolves #Vote4ChloeVote4Wolves"
     new "Голос за меня - это голос за Чикс и голос за Волков :) #TheChicksWhoCriedWolves #Vote4ChloeVote4Wolves"
 
+# TODO: Translation updated at 2024-07-03 10:01
+
+# game/v1/scene30b.rpy:17
+translate russian v1s30b_3bdbd0bd:
+
+    # ch "All right... Let's get a good look at these."
+    ch "Хорошо... Давай рассмотрим их как следует."
+
+# game/v1/scene30b.rpy:27
+translate russian v1s30b_eb4e4d0e:
+
+    # ch "I do. I also think this helps the campaign a lot."
+    ch "Да. Я также думаю, что это очень поможет моей кампании."
+
+# game/v1/scene30b.rpy:29
+translate russian v1s30b_60d15a92:
+
+    # ch "Of the two frats, the Wolves are way more respected than the Apes and so..."
+    ch "Из двух братств Волки пользуются большим уважением, чем Приматы, и поэтому..."
+
+# game/v1/scene30b.rpy:31
+translate russian v1s30b_a2a15ffe:
+
+    # ch "Just strategically speaking, this helps a lot."
+    ch "В стратегическом плане это очень поможет."
+
+# game/v1/scene30b.rpy:41
+translate russian v1s30b_402ea025:
+
+    # ch "My posing definitely isn't as good as Aubrey's, though."
+    ch "Хотя моё позирование не такое хорошее, как у Обри."
+
+# game/v1/scene30b.rpy:51
+translate russian v1s30b_1dc0d23e:
+
+    # ch "I know more about Aubrey than most."
+    ch "Я знаю об Обри больше, чем многие."
+
+# game/v1/scene30b.rpy:61
+translate russian v1s30b_7524cbf5:
+
+    # ch "Exactly, and hopefully she chooses to stay on after we win."
+    ch "Именно, и надеюсь, что она решит остаться после нашей победы."
+
+# game/v1/scene30b.rpy:71
+translate russian v1s30b_86e356d0:
+
+    # ch "Glad you think so. Now..."
+    ch "Рада, что ты так думаешь. Теперь..."
+
+# game/v1/scene30b.rpy:74
+translate russian v1s30b_b899bb93:
+
+    # ch "I'm not sure how these will be perceived, you know? What with us having a fake wolf. But I still think the pictures are really good."
+    ch "Не уверена, как они будут восприняты и всё такое? Учитывая, что у нас есть фальшивый волк, но я все равно думаю, что фотографии очень хорошие."
+
+# game/v1/scene30b.rpy:78
+translate russian v1s30b_b57f1ce5:
+
+    # ch "I know the entire school is gonna be off the wall about these photos."
+    ch "Знаю, вся школа будет вне себя от радости из-за этой фотографии, хаха."
+
+# game/v1/scene30b.rpy:91
+translate russian v1s30b_864a31ea:
+
+    # ch "Which one is your favorite?"
+    ch "Какая из них тебе нравится?"
+
+# game/v1/scene30b.rpy:120
+translate russian v1s30b_2c48f49d:
+
+    # ch "Good call. I'm gonna post that one on Kiwii, then."
+    ch "Хорошее решение. Тогда размещу её тогда на Kiwii."
+
+# game/v1/scene30b.rpy:130
+translate russian v1s30b_4f5529f6:
+
+    # ch "Well, I'll definitely include \"#presidentialStatus\". Then something about voting for me."
+    ch "Что ж, я обязательно включу \"#PresidentialStatus\". Потом что-то насчет голосования за меня."
+
+# game/v1/scene30b.rpy:145
+translate russian v1s30b_bd702721:
+
+    # ch "Exactly."
+    ch "Точно."
+
+# game/v1/scene30b.rpy:155
+translate russian v1s30b_1c141990:
+
+    # ch "Something else?"
+    ch "Что-то другое?"
+
+# game/v1/scene30b.rpy:165
+translate russian v1s30b_17a8ac6b:
+
+    # ch "I guess that makes sense, considering it's an alliance announcement as well as a good pic for my feed."
+    ch "Думаю, это имеет смысл, учитывая, что это объявление альянса, а также хорошая картинка для моей ленты."
+
+# game/v1/scene30b.rpy:175
+translate russian v1s30b_fbdc699f:
+
+    # ch "You're right! That's perfect, [name]."
+    ch "Ты прав! Это идеально."
+
+# game/v1/scene30b.rpy:185
+translate russian v1s30b_c74d5b49:
+
+    # ch "Well, this has been a lot better than I had imagined. I'm off to get it all set in stone."
+    ch "Это оказалось намного лучше, чем я могла себе представить. Я ухожу, чтобы всё оформить."
+
+# game/v1/scene30b.rpy:187
+translate russian v1s30b_a19e318a:
+
+    # ch "Thanks again for everything."
+    ch "Ещё раз спасибо за всё."
+
+# game/v1/scene30b.rpy:197
+translate russian v1s30b_a439a1d2:
+
+    # ch "Okay!"
+    ch "Окей!"
+

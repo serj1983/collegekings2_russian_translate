@@ -371,3 +371,65 @@ translate russian v1s34_9563343b:
     # u "I thought I'd let you pick."
     u "Я подумал, что позволю тебе выбрать."
 
+# TODO: Translation updated at 2024-07-03 10:01
+
+# game/v1/scene34.rpy:88
+translate russian v1s34_5e4e837d:
+
+    # pen "H-hello?"
+    pen "А-алло?"
+
+# game/v1/scene34.rpy:110
+translate russian v1s34_a8317b7d:
+
+    # pen "Nope, not at all..."
+    pen "Нет, вовсе нет..."
+
+# game/v1/scene34.rpy:112
+translate russian v1s34_af9c1161:
+
+    # pen "I'm actually wide awake."
+    pen "Вообще-то я уже проснулась."
+
+# game/v1/scene34.rpy:122
+translate russian v1s34_a8dc1ef1:
+
+    # pen "R-right now?"
+    pen "П-прямо сейчас?"
+
+# game/v1/scene34.rpy:132
+translate russian v1s34_364bbb74:
+
+    # pen "Well, okay, sure. Um..."
+    pen "Ну, хорошо, конечно. Эм..."
+
+# game/v1/scene34.rpy:137
+translate russian v1s34_8f4266ca:
+
+    # pen "Where to?"
+    pen "Куда?"
+
+# game/v1/scene34.rpy:152
+translate russian v1s34_nsfwSkipLabel1_350f79a6:
+
+    # pen "How about that really nice place, on Stevenson?"
+    pen "Как насчет того места на Стивенсон?"
+
+# game/v1/scene34.rpy:165
+translate russian v1s34_nsfwSkipLabel1_1fbb7993:
+
+    # pen "Nope! They stay open pretty late."
+    pen "Нет! Они работают допоздна."
+
+# game/v1/scene34.rpy:175
+translate russian v1s34_nsfwSkipLabel1_13864ef2:
+
+    # pen "Yes. Sounds perfect."
+    pen "Да. Звучит превосходно."
+
+# game/v1/scene34.rpy:185
+translate russian v1s34_nsfwSkipLabel1_19c3bb1d:
+
+    # pen "Bye."
+    pen "Пока."
+

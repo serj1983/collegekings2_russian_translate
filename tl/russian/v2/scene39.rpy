@@ -1080,3 +1080,71 @@ translate russian strings:
     old "Don't risk it"
     new "Не рисковать"
 
+# TODO: Translation updated at 2024-07-03 10:01
+
+# game/v2/scene39.rpy:52
+translate russian v2s39_c5466d4c:
+
+    # seb "Holy shit, so many choices. This is gonna be lit!"
+    seb "Чёрт возьми, столько всего. Это будет бомбезно!"
+
+# game/v2/scene39.rpy:62
+translate russian v2s39_bfecf6a3:
+
+    # seb "I could get used to it. What a life!"
+    seb "Я могу к такому и привыкнуть. Вот это жизнь!"
+
+# game/v2/scene39.rpy:95
+translate russian v2s39_173402cb:
+
+    # seb "Mocktails, like cocktails, but no buzz?"
+    seb "Моктейли, это как коктейли, но без алкоголя?"
+
+# game/v2/scene39.rpy:199
+translate russian v2s39_c0b2b1a5:
+
+    # seb "Are you kidding? The Wolves looked into booking this place."
+    seb "Ты шутишь? Волки подумывали о том, чтобы забронировать это место."
+
+# game/v2/scene39.rpy:209
+translate russian v2s39_b1fbd348:
+
+    # seb "Oh, yeah. I was on the phone for hours with these people trying to get a cheaper price. It's close to a thousand bucks."
+    seb "Ну да. Я часами разговаривал по телефону с этими людьми, пытаясь получить более низкую цену. А это почти тысяча баксов."
+
+# game/v2/scene39.rpy:212
+translate russian v2s39_5615a018:
+
+    # seb "But since it's mocktails instead, I guess it might be cheaper?"
+    seb "Но из-за моктейлей, я думаю, цена была бы ниже."
+
+# game/v2/scene39.rpy:299
+translate russian v2s39_b12e6ddb:
+
+    # seb "If it's about your campaign, you know you've got my support."
+    seb "Если это о твоей кампании, знай, что у тебя есть моя поддержка."
+
+# game/v2/scene39.rpy:397
+translate russian v2s39_2f52a743:
+
+    # seb "I can't really comment. I don't know her well, we don't talk much. So technically, nothing."
+    seb "Мне практически нечего сказать. Я не очень хорошо её знаю, мы мало разговариваем. Так что технически - ничего."
+
+# game/v2/scene39.rpy:407
+translate russian v2s39_7213b3e4:
+
+    # seb "I mean, again, not much. I guess I may have nothing to say about Chloe, but at least a couple of good things to list about you."
+    seb "Опять же, не так уж много. Наверное, мне нечего сказать о Хлое, зато можно припомнить парочку твоих хороших дел."
+
+# game/v2/scene39.rpy:780
+translate russian v2s39_stop_lindsey_1d3981e9:
+
+    # seb "Jeez, Lindsey..."
+    seb "Боже, Линдси..."
+
+# game/v2/scene39.rpy:790
+translate russian v2s39_stop_lindsey_d65f2a63:
+
+    # seb "It's not like you to say something like that. Come on..."
+    seb "Это не похоже на тебя. Перестань..."
+

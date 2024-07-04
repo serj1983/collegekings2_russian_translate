@@ -839,3 +839,323 @@ translate russian v1s43c_a4579e6f:
     # u "(What the...)"
     u "(Что за...)"
 
+# TODO: Translation updated at 2024-07-03 10:01
+
+# game/v1/scene43c.rpy:11
+translate russian v1s43c_8dcf1f6c:
+
+    # pen "Honestly, I don't even need to read the pages."
+    pen "Честно говоря, мне даже не нужно читать страницы."
+
+# game/v1/scene43c.rpy:23
+translate russian v1s43c_b7b0314e:
+
+    # pen "I already knew we were doing this because of the syllabus, so I prepared the skit already."
+    pen "Я уже знала, что мы будем это делать, потому что это было в учебном плане, так что я уже подготовила сценку."
+
+# game/v1/scene43c.rpy:33
+translate russian v1s43c_e6b85b2a:
+
+    # pen "Just like that. Did you have any ideas for it, though?"
+    pen "Вот так. У тебя были какие-то идеи?"
+
+# game/v1/scene43c.rpy:53
+translate russian v1s43c_26138a67:
+
+    # pen "Ooh, that sounds fun, yeah!"
+    pen "О, это звучит забавно, да!"
+
+# game/v1/scene43c.rpy:63
+translate russian v1s43c_b3167c92:
+
+    # pen "Ha, right..."
+    pen "Ха, точно..."
+
+# game/v1/scene43c.rpy:69
+translate russian v1s43c_1bb8615b:
+
+    # pen "Did I hear you say you want to end it with a kiss?"
+    pen "Я слышала, ты сказал, что хочешь закончить всё поцелуем?"
+
+# game/v1/scene43c.rpy:79
+translate russian v1s43c_41d5ea2b:
+
+    # pen "You sure you're not just trying to steal a kiss in the middle of class?"
+    pen "Ты уверен, что не пытаешься украсть поцелуй посреди урока?"
+
+# game/v1/scene43c.rpy:94
+translate russian v1s43c_e8c8ffa5:
+
+    # pen "Wow, okay. Big talker."
+    pen "Вау, хорошо. Большой болтун."
+
+# game/v1/scene43c.rpy:99
+translate russian v1s43c_d595ad17:
+
+    # pen "It's settled then, romantic scene it is."
+    pen "Тогда всё решено, романтическая сцена состоялась."
+
+# game/v1/scene43c.rpy:110
+translate russian v1s43c_df18f44c:
+
+    # pen "So, you wanna fight me?"
+    pen "Так ты хочешь со мной драться?"
+
+# game/v1/scene43c.rpy:120
+translate russian v1s43c_f8c84e9a:
+
+    # pen "Hmm, okay... Let's roll with it, I guess."
+    pen "Хм, ладно... Давай с этим закончим, я думаю."
+
+# game/v1/scene43c.rpy:130
+translate russian v1s43c_31193b38:
+
+    # pen "So, let's try and base it off of some actual history, since it's a history class."
+    pen "Итак, давай попробуем основываться на реальной истории, поскольку это урок истории."
+
+# game/v1/scene43c.rpy:140
+translate russian v1s43c_c40fcb49:
+
+    # pen "We'll be the king and queen of England and we'll do the scene that you said."
+    pen "Мы будем королем и королевой Англии и разыграем сцену, о которой ты сказал."
+
+# game/v1/scene43c.rpy:150
+translate russian v1s43c_013153bf:
+
+    # pen "Perfect."
+    pen "Отлично."
+
+# game/v1/scene43c.rpy:155
+translate russian v1s43c_6461d29c:
+
+    # pen "All right, let's improv for a bit and see where it takes us."
+    pen "Хорошо, давай немного поимпровизируем и посмотрим, куда это нас приведёт."
+
+# game/v1/scene43c.rpy:165
+translate russian v1s43c_4201ae2b:
+
+    # pen "*British accent* Good morning, love! How was the hunt?"
+    pen "*Британский акцент* Доброе утро, милый! Как прошла охота?"
+
+# game/v1/scene43c.rpy:175
+translate russian v1s43c_37a1477d:
+
+    # pen "*British accent* I didn't mean the hunt for food, I meant the hunt for traitors."
+    pen "*Британский акцент* Я имел в виду не охоту за едой, а охоту за предателями."
+
+# game/v1/scene43c.rpy:177
+translate russian v1s43c_73783430:
+
+    # pen "*British accent* We need to find those who wish to destroy our society and remove them as a threat."
+    pen "*Британский акцент* Мы должны найти тех, кто хочет разрушить наше общество, и устранить их как угрозу."
+
+# game/v1/scene43c.rpy:192
+translate russian v1s43c_e325349e:
+
+    # pen "*Whispers* Are you saying that as part of the script or as an actual comment?"
+    pen "*Шёпотом* Ты говоришь это как часть сценария или это реальный вопрос?"
+
+# game/v1/scene43c.rpy:202
+translate russian v1s43c_93036361:
+
+    # pen "*Whispers* Oh, okay, I'll change it. Ahem..."
+    pen "*Шёпотом* О, хорошо, я изменю это. Кхм..."
+
+# game/v1/scene43c.rpy:207
+translate russian v1s43c_e028fe43:
+
+    # pen "*British accent* We have to banish the traitors from our walls. Either they are with us or they are moved far, far away from us."
+    pen "*Британский акцент* Мы должны изгнать предателей из наших стен. Либо они с нами, либо они ушли далеко-далеко от нас."
+
+# game/v1/scene43c.rpy:217
+translate russian v1s43c_59bfccf9:
+
+    # pen "*British accent* Very well. Now, shall we enjoy some dinner for this evening before we deliver our plans to the troops?"
+    pen "*Британский акцент* Очень хорошо. Теперь, может, поужинаем этим вечером, прежде чем донести наши планы до войск?"
+
+# game/v1/scene43c.rpy:232
+translate russian v1s43c_44093e38:
+
+    # pen "*British accent* The meal they're serving tonight is supposed to be one to die for."
+    pen "*Британский акцент* Блюдо, которое они подают сегодня, должно быть просто незабываемым."
+
+# game/v1/scene43c.rpy:242
+translate russian v1s43c_340c5c0b:
+
+    # pen "*British accent* Guess we'll find out, hm?"
+    pen "*Британский акцент* Полагаю, мы узнаем, хм?"
+
+# game/v1/scene43c.rpy:262
+translate russian v1s43c_b366b7de:
+
+    # pen "*British accent* So, how was your meal?"
+    pen "*Британский акцент* Ну, как тебе ужин?"
+
+# game/v1/scene43c.rpy:272
+translate russian v1s43c_c53914ad:
+
+    # pen "*British accent* I hope so."
+    pen "*Британский акцент* Надеюсь, что так."
+
+# game/v1/scene43c.rpy:277
+translate russian v1s43c_e4fbc8b8:
+
+    # pen "*British accent* Because it's the last meal you'll ever have with me."
+    pen "*Британский акцент* Потому что это последний ужин со мной."
+
+# game/v1/scene43c.rpy:287
+translate russian v1s43c_66a429dc:
+
+    # pen "*British accent* You heard me clear. I've been made aware of your outings with Lady Brittle, you slag."
+    pen "*Британский акцент* Ты ясно меня услышал. Мне стало известно о твоих похождениях с леди Бриттл, развратник."
+
+# game/v1/scene43c.rpy:299
+translate russian v1s43c_1e029ea9:
+
+    # pen "*British accent* So, you continue to lie? *Scoffs*"
+    pen "*Британский акцент* Итак, вы продолжаете лгать? *Насмехается*"
+
+# game/v1/scene43c.rpy:315
+translate russian v1s43c_5c5d167c:
+
+    # pen "*Whispers* [name]...?"
+    pen "*Шепотом* [name]...?"
+
+# game/v1/scene43c.rpy:325
+translate russian v1s43c_9d87b4f4:
+
+    # pen "*Whispers* Just play along! Ahem..."
+    pen "*Шёпотом* Просто подыграй! Кхм..."
+
+# game/v1/scene43c.rpy:331
+translate russian v1s43c_19af179e:
+
+    # pen "*British accent* Prove it, then."
+    pen "*Британский акцент* Тогда докажи это."
+
+# game/v1/scene43c.rpy:341
+translate russian v1s43c_a57e8831:
+
+    # pen "*British accent* Very well, then... on the night before last, at what time did General Pines leave to go to his quarters?"
+    pen "*Британский акцент* Очень хорошо, тогда... Позавчера вечером, в какое время генерал Пайнс ушёл в свою каюту?"
+
+# game/v1/scene43c.rpy:351
+translate russian v1s43c_6c12ff4e:
+
+    # pen "..."
+    pen "..."
+
+# game/v1/scene43c.rpy:361
+translate russian v1s43c_128dcf3e:
+
+    # pen "*British accent* That... that's exactly what the general's wife said..."
+    pen "*Британский акцент* Это... Именно так сказала жена генерала..."
+
+# game/v1/scene43c.rpy:371
+translate russian v1s43c_7922d72c:
+
+    # pen "*British accent* My accusation was misplaced, yes, but sadly... it wasn't the worst thing I've done tonight."
+    pen "*Британский акцент* Мое обвинение было неуместным, да, но, к сожалению... Это было не самое худшее, что я сделала сегодня."
+
+# game/v1/scene43c.rpy:381
+translate russian v1s43c_039c3653:
+
+    # pen "*British accent* My love, I'm so sorry... *Sniffles*"
+    pen "*Британский акцент* Моя любовь, мне так жаль... *Насмехается*"
+
+# game/v1/scene43c.rpy:406
+translate russian v1s43c_bfa96cb8:
+
+    # pen "*British accent* For my sins, I will join you."
+    pen "*Британский акцент* За свои грехи я присоединюсь к тебе."
+
+# game/v1/scene43c.rpy:421
+translate russian v1s43c_0f9bc787:
+
+    # pen "*British accent* And now I have poisoned us both, my darling."
+    pen "*Британский акцент* А теперь я отравила нас обоих, мой дорогой."
+
+# game/v1/scene43c.rpy:431
+translate russian v1s43c_7fae8924:
+
+    # pen "*British accent* That may be true, but the insanity stems from the love I have for you."
+    pen "*Британский акцент* Это может быть правдой, но безумие проистекает из любви, которую я испытываю к тебе."
+
+# game/v1/scene43c.rpy:441
+translate russian v1s43c_9ec5e3d9:
+
+    # pen "*British accent* We be only concerned with the now, my King."
+    pen "*Британский акцент* Нас волнует только настоящее, мой король."
+
+# game/v1/scene43c.rpy:461
+translate russian v1s43c_ef81c1b1:
+
+    # pen "*British accent* I will see you on the other side, my love."
+    pen "*Британский акцент* Я увижу тебя на другой стороне, любовь моя."
+
+# game/v1/scene43c.rpy:467
+translate russian v1s43c_f6763a79:
+
+    # pen "*British accent* Goodbye, be free, and... *sniffles* I'm sorry..."
+    pen "*Британский акцент* Прощай, будь свободен, и... *Шмыгает носом* Прости..."
+
+# game/v1/scene43c.rpy:474
+translate russian v1s43c_ab8068aa:
+
+    # pen "And... SCENE!"
+    pen "И... СЦЕНА!"
+
+# game/v1/scene43c.rpy:489
+translate russian v1s43c_c4e2a1c9:
+
+    # pen "Gotta make it seem as real as possible, right?"
+    pen "Нужно, чтобы все выглядело как можно реальнее, верно?"
+
+# game/v1/scene43c.rpy:495
+translate russian v1s43c_dab6097a:
+
+    # pen "No need for words, you dirty slag. Ole Brittle has sworn on her life and children that her accusations are true... and you dare say she's a liar?!"
+    pen "Не нужно слов, грязный развратник. Оле Бриттл поклялась своей жизнью и детьми, что её обвинения правдивы... и ты смеешь говорить, что она лгунья?!"
+
+# game/v1/scene43c.rpy:505
+translate russian v1s43c_bdbab8d2:
+
+    # pen "I won't hear anymore of this. I'm finished."
+    pen "Я больше не буду это слушать. Я закончила."
+
+# game/v1/scene43c.rpy:532
+translate russian v1s43c_c08fc834:
+
+    # pen "I've saved our kingdom, my darling. I've killed the true snake by simply cutting off the head."
+    pen "Я спасла наше королевство, мой дорогой. Я убила настоящую змею, отрезав ей голову."
+
+# game/v1/scene43c.rpy:552
+translate russian v1s43c_1d33bfd1:
+
+    # pen "Goodnight, my former king."
+    pen "Спокойной ночи, мой бывший король."
+
+# game/v1/scene43c.rpy:557
+translate russian v1s43c_ab8068aa_1:
+
+    # pen "And... SCENE!"
+    pen "И... СЦЕНА!"
+
+# game/v1/scene43c.rpy:572
+translate russian v1s43c_6e7787c5:
+
+    # pen "Anything can be a fun if you're doing it with the right person."
+    pen "Всё может быть весело, если ты делаешь это с правильным человеком."
+
+# game/v1/scene43c.rpy:582
+translate russian v1s43c_38f91147:
+
+    # pen "Yes, sirrrrrr. I need to run, anyway. Don't forget our scene by next week!"
+    pen "Да, сэррррррр. Мне всё равно нужно бежать, не забудь нашу сцену к следующей неделе!"
+
+# game/v1/scene43c.rpy:592
+translate russian v1s43c_f00b1ead:
+
+    # pen "Good, see ya!"
+    pen "Хорошо, увидимся!"
+

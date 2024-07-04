@@ -897,3 +897,53 @@ translate russian v1s43b_3bd922ae:
     # ri "Okay, then. Sure."
     ri "Хорошо, тогда. Ладно."
 
+# TODO: Translation updated at 2024-07-03 10:01
+
+# game/v1/scene43b.rpy:266
+translate russian v1s43b_61ae8359:
+
+    # pen "You and me?"
+    pen "Я и ты?"
+
+# game/v1/scene43b.rpy:277
+translate russian v1s43b_05a73e72:
+
+    # pen "No, no, no. You..."
+    pen "Нет, нет, нет. Ты и я."
+
+# game/v1/scene43b.rpy:282
+translate russian v1s43b_c6b00015:
+
+    # pen "*Whispers* And me."
+    pen "*Шепотом* И я."
+
+# game/v1/scene43b.rpy:285
+translate russian v1s43b_6955bfa8:
+
+    # pen "No, no, no. You and me."
+    pen "Нет, нет, нет. Ты и я."
+
+# game/v1/scene43b.rpy:295
+translate russian v1s43b_70992239:
+
+    # pen "Yay."
+    pen "Ура."
+
+# game/v1/scene43b.rpy:314
+translate russian v1s43b_cd03c158:
+
+    # pen "Ooh, this sounds fun."
+    pen "О, будет забавно."
+
+# game/v1/scene43b.rpy:370
+translate russian v1s43b_9d724d1f:
+
+    # pen "Ready to go?"
+    pen "Готов?"
+
+# game/v1/scene43b.rpy:380
+translate russian v1s43b_17416b1c:
+
+    # pen "We can just go sit outside on the stairs and work, if that's cool."
+    pen "Мы можем посидеть снаружи на лестнице и поработать, если ты не против."
+

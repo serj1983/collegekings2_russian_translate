@@ -220,3 +220,23 @@ translate russian strings:
     old "Favorite? I'm not so sure."
     new "Любимые? Не уверен."
 
+# TODO: Translation updated at 2024-07-03 10:01
+
+# game/v2/scene27.rpy:179
+translate russian v2s27_d8f868dc:
+
+    # pen "Yeah, [name]! Don't be a boring old man for once! You can go slipper shopping tomorrow."
+    pen "Да, [name]! Не будь таким скучным старичком! Ты можешь сходить за белыми тапочками завтра."
+
+# game/v2/scene27.rpy:189
+translate russian v2s27_2d52da03:
+
+    # pen "You're coming out drinking with us! That's final!"
+    pen "Ты идешь пить с нами! Это окончательно!"
+
+# game/v2/scene27.rpy:201
+translate russian v2s27_184695e1:
+
+    # pen "We'll text you the details."
+    pen "Мы пришлем тебе детали."
+

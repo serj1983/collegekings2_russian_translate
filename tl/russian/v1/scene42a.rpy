@@ -287,3 +287,113 @@ translate russian v1s42a_26158b00:
     # u "All right, all right! I'm coming."
     u "Ладно, ладно! Иду."
 
+# TODO: Translation updated at 2024-07-03 10:01
+
+# game/v1/scene42a.rpy:22
+translate russian v1s42a_f8a17f84:
+
+    # pen "Best sleep I've had in a long time."
+    pen "Лучший сон, который у меня был за долгое время."
+
+# game/v1/scene42a.rpy:32
+translate russian v1s42a_b6681a84:
+
+    # pen "I had a pretty good pillow."
+    pen "У меня была очень хорошая подушка."
+
+# game/v1/scene42a.rpy:42
+translate russian v1s42a_54d4a8a1:
+
+    # pen "I wanted to mention that I'm sorry for last night."
+    pen "Я хочу сказать, что прошу прощения за вчерашний вечер."
+
+# game/v1/scene42a.rpy:52
+translate russian v1s42a_8ad2bf3f:
+
+    # pen "For getting you all dressed up and making you take me out on a date."
+    pen "За то, что нарядила тебя и заставила пригласить меня на свидание."
+
+# game/v1/scene42a.rpy:62
+translate russian v1s42a_829c9ac3:
+
+    # pen "And then bringing you home and not doing anything..."
+    pen "А потом привести тебя домой и ничего не делать..."
+
+# game/v1/scene42a.rpy:64
+translate russian v1s42a_30ea7398:
+
+    # pen "I'm sure you were looking forward to something special."
+    pen "Я уверена, что вы ждали чего-то особенного."
+
+# game/v1/scene42a.rpy:74
+translate russian v1s42a_187d17ec:
+
+    # pen "I mean, I was looking forward to our night together as well, but I got so tired and comfy while we were cuddling. I must have fallen asleep."
+    pen "Хочу сказать, что я с нетерпением ждала нашей ночи вместе, но я так устала и мне было так комфортно, пока мы обнимались. Наверное, я заснула."
+
+# game/v1/scene42a.rpy:92
+translate russian v1s42a_b9129efc:
+
+    # pen "Really?"
+    pen "Правда?"
+
+# game/v1/scene42a.rpy:102
+translate russian v1s42a_7d20c189:
+
+    # pen "Our next night together will be a night to remember."
+    pen "Наша следующая ночь вместе будет незабываемой."
+
+# game/v1/scene42a.rpy:112
+translate russian v1s42a_5ecee4d1:
+
+    # pen "Yes. Yes it is."
+    pen "Да, это оно."
+
+# game/v1/scene42a.rpy:125
+translate russian v1s42a_269acde9:
+
+    # pen "Yeah, my bad. Sorry."
+    pen "Да, я виновата. Извини."
+
+# game/v1/scene42a.rpy:135
+translate russian v1s42a_63710df5:
+
+    # pen "Good."
+    pen "Хорошо."
+
+# game/v1/scene42a.rpy:145
+translate russian v1s42a_eb41b6a6:
+
+    # pen "Class?"
+    pen "Занятия?"
+
+# game/v1/scene42a.rpy:155
+translate russian v1s42a_f44d4790:
+
+    # pen "Oh my god! I got distracted and completely forgot. Are we late?"
+    pen "Боже мой! Я совсем забыла. Мы опоздываем?"
+
+# game/v1/scene42a.rpy:165
+translate russian v1s42a_75119906:
+
+    # pen "Good, because I don't wanna be late."
+    pen "Хорошо, потому что я не хочу опоздывать."
+
+# game/v1/scene42a.rpy:185
+translate russian v1s42a_a8bbadae:
+
+    # pen "Sorry that I actually attempt to look presentable."
+    pen "Извини, что я пытаюсь выглядеть презентабельно."
+
+# game/v1/scene42a.rpy:195
+translate russian v1s42a_6af29ff4:
+
+    # pen "Oh, nothing."
+    pen "Ох, ничего."
+
+# game/v1/scene42a.rpy:205
+translate russian v1s42a_c69a4dbb:
+
+    # pen "C'mon, slow poke!"
+    pen "Да ладно, не торопись!"
+

@@ -574,7 +574,7 @@ translate russian v2s43_b19f79f2:
 translate russian v2s43_164bbac6:
 
     # ch "I swear, man! She could have gone away camping for all I know. I really have no idea. You gotta believe me."
-    ch "лянусь, чувак! Насколько я знаю, она могла отправиться в поход. Я действительно понятия не имею. Ты должен мне поверить."
+    ch "Клянусь, чувак! Насколько я знаю, она могла отправиться в поход. Я действительно понятия не имею. Ты должен мне поверить."
 
 # game/v2/scene43.rpy:581
 translate russian v2s43_a8edf4a7:
@@ -1059,4 +1059,240 @@ translate russian strings:
     # game/v2/scene43.rpy:910
     old "Don't kick table"
     new "Не пинать"
+
+# TODO: Translation updated at 2024-07-03 10:01
+
+# game/v2/scene43.rpy:367
+translate russian v2s43_d87f722c:
+
+    # chr "Hey, guys? What's with all the yelling...?"
+    chr "Эй? Что за крики...?"
+
+# game/v2/scene43.rpy:377
+translate russian v2s43_b291a688:
+
+    # chr "W-what's going on? Why are you acting weird?"
+    chr "Ч-что здесь происходит? Почему вы себя так странно ведёте."
+
+# game/v2/scene43.rpy:397
+translate russian v2s43_8e9cfbe8:
+
+    # chr "Of what?"
+    chr "До сути чего?"
+
+# game/v2/scene43.rpy:407
+translate russian v2s43_57e21a2b:
+
+    # chr "Oh. I don't have anything to say about Nora."
+    chr "Ох. Мне нечего сказать о Норе."
+
+# game/v2/scene43.rpy:417
+translate russian v2s43_116baf35:
+
+    # chr "Huh?"
+    chr "Чего?"
+
+# game/v2/scene43.rpy:420
+translate russian v2s43_0d0fa613:
+
+    # chr "What do you mean, [name]?"
+    chr "Что это значит, [name]?"
+
+# game/v2/scene43.rpy:422
+translate russian v2s43_e8460edb:
+
+    # chr "What are you talking about?"
+    chr "О чём ты говоришь?"
+
+# game/v2/scene43.rpy:434
+translate russian v2s43_a86dec15:
+
+    # chr "No."
+    chr "Нет."
+
+# game/v2/scene43.rpy:458
+translate russian v2s43_a86dec15_1:
+
+    # chr "No."
+    chr "Нет."
+
+# game/v2/scene43.rpy:500
+translate russian v2s43_c86fec97:
+
+    # chr "I don't think she's with either parent. Happy now?"
+    chr "Не думаю, что она с кем-то из родителей. Теперь счастлива?"
+
+# game/v2/scene43.rpy:512
+translate russian v2s43_ed207102:
+
+    # chr "She wanted to be alone after we broke up. I'm respecting that wish."
+    chr "Она хотела побыть одна после того, как мы расстались. Я уважаю её желание."
+
+# game/v2/scene43.rpy:514
+translate russian v2s43_62037adf:
+
+    # chr "And I suggest you should respect that too."
+    chr "И вы тоже должны."
+
+# game/v2/scene43.rpy:529
+translate russian v2s43_a086d2a5:
+
+    # chr "I've already said that I'm respecting her by not telling anyone anything."
+    chr "Я уже сказал, что уважаю её решение и никому ничего не расскажу."
+
+# game/v2/scene43.rpy:541
+translate russian v2s43_5497bdca:
+
+    # chr "Why are you acting so weird? Listen, I don't know where she is. She could have gone camping for all I know."
+    chr "Почему вы ведёте себя так странно? Слушайте, я не знаю, где она. Насколько я знаю, она могла пойти в поход."
+
+# game/v2/scene43.rpy:543
+translate russian v2s43_2df8aa4f:
+
+    # chr "Just wait until she comes back. She's fine. I swear she's fine."
+    chr "Просто подождите, пока она вернётся. Она в порядке. Клянусь, она в порядке."
+
+# game/v2/scene43.rpy:556
+translate russian v2s43_999c04cd:
+
+    # chr "No, she wanted to be alone, like I just said."
+    chr "Нет, она хотела побыть одна, как я только что сказал."
+
+# game/v2/scene43.rpy:573
+translate russian v2s43_538b0396:
+
+    # chr "I swear, man! She could have gone away camping for all I know. I really have no idea. You gotta believe me."
+    chr "Клянусь, чувак! Насколько я знаю, она могла отправиться в поход. Я действительно понятия не имею. Ты должен мне поверить."
+
+# game/v2/scene43.rpy:586
+translate russian v2s43_25dfda90:
+
+    # chr "What? No!"
+    chr "Что? Нет!"
+
+# game/v2/scene43.rpy:603
+translate russian v2s43_b40b7821:
+
+    # chr "Why are you talking like this? I seriously don't know! Maybe she went camping or something..."
+    chr "Почему ты так говоришь? Я серьёзно не знаю! Может, она отправилась в поход или что-то в этом роде..."
+
+# game/v2/scene43.rpy:639
+translate russian v2s43_4b8e865f:
+
+    # chr "What the hell is wrong with you?"
+    chr "Да что с тобой такое?"
+
+# game/v2/scene43.rpy:641
+translate russian v2s43_b5d4f0b5:
+
+    # chr "Did you start taking improv classes or some shit? I don't fucking know where she is, [name]."
+    chr "Ты начал брать уроки импровизации или что? Блядь, да не знаю я, где она, [name]."
+
+# game/v2/scene43.rpy:651
+translate russian v2s43_1ba98e0a:
+
+    # chr "Um... she has an aunt."
+    chr "Эмм... У неё есть тётя."
+
+# game/v2/scene43.rpy:663
+translate russian v2s43_da6245a4:
+
+    # chr "Her aunt... Oh yeah! Sometimes her aunt will rent out her dad's cabin."
+    chr "Её тётя... Да! Иногда её тётя сдаёт в аренду коттедж её отца."
+
+# game/v2/scene43.rpy:667
+translate russian v2s43_12ac799e:
+
+    # chr "And there, that answers your question about other properties, too. Can you leave me alone now?"
+    chr "И это также отвечает на ваш вопрос о другой собственности. Вы можете оставить меня в покое?"
+
+# game/v2/scene43.rpy:696
+translate russian v2s43_7a5cb687:
+
+    # chr "I don't know if they're close, but I think she lives nearby. And no, I'm not sure where."
+    chr "Я не знаю, близки ли они, но я думаю, что она живёт неподалеку. И нет, я не уверен, где именно."
+
+# game/v2/scene43.rpy:711
+translate russian v2s43_8ad01873:
+
+    # chr "I don't think she would go to her dad's house."
+    chr "Не думаю, что она пошла бы в дом своего отца."
+
+# game/v2/scene43.rpy:723
+translate russian v2s43_29362c9e:
+
+    # chr "She pretty much hates him. That's the last place she'd go."
+    chr "Она его просто ненавидит. Туда она пошла бы в последнюю очередь."
+
+# game/v2/scene43.rpy:736
+translate russian v2s43_3337e399:
+
+    # chr "Yeah, I think she lives close to campus, but no idea where."
+    chr "Да, я думаю, она живёт недалеко от кампуса, но понятия не имею где."
+
+# game/v2/scene43.rpy:761
+translate russian v2s43_087eb883:
+
+    # chr "Yeah, I think so. I don't know where you can find her though."
+    chr "Думаю, да. Но я не знаю, где её найти."
+
+# game/v2/scene43.rpy:771
+translate russian v2s43_5f718e0f:
+
+    # chr "What?"
+    chr "Чего?"
+
+# game/v2/scene43.rpy:783
+translate russian v2s43_2796eb61:
+
+    # chr "I doubt it. She hates her dad."
+    chr "Сомневаюсь. Она ненавидит своего отца."
+
+# game/v2/scene43.rpy:804
+translate russian v2s43_14225760:
+
+    # chr "I think she is. She lives nearby, I know that much, but I swear I don't know any more than that."
+    chr "Думаю, да. Она живёт неподалеку, и больше я ничего не знаю, клянусь."
+
+# game/v2/scene43.rpy:814
+translate russian v2s43_5f718e0f_1:
+
+    # chr "What?"
+    chr "Что?"
+
+# game/v2/scene43.rpy:831
+translate russian v2s43_0a06c1c6:
+
+    # chr "She hates her dad. She wouldn't go to him."
+    chr "Она ненавидит своего отца и вряд ли пошла бы к нему."
+
+# game/v2/scene43.rpy:841
+translate russian v2s43_e7cf9dc1:
+
+    # chr "What the hell are you on today? Is this a prank? Am I on camera right now?"
+    chr "Да какого хрена с вами сегодня происходит? Это что, розыгрыш? Меня сейчас снимают на камеру?"
+
+# game/v2/scene43.rpy:851
+translate russian v2s43_cf44a958:
+
+    # chr "Jobs? What jobs?"
+    chr "Работе? Какой работе?"
+
+# game/v2/scene43.rpy:861
+translate russian v2s43_3d16f4f3:
+
+    # chr "I have nothing else to say!"
+    chr "Мне больше нечего сказать!"
+
+# game/v2/scene43.rpy:876
+translate russian v2s43_5971ce0d:
+
+    # chr "It's not intriguing. I have nothing to say."
+    chr "Никакой интриги. Мне нечего сказать."
+
+# game/v2/scene43.rpy:878
+translate russian v2s43_d4e433b7:
+
+    # chr "I have no idea what drugs you are on but you both need to get help. I'm getting the hell out of here."
+    chr "Я понятия не имею, чем вы обдолбались, но вам обоим нужна помощь. Валите отсюда."
 

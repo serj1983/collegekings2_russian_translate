@@ -34,7 +34,7 @@ translate russian v2s38_1e27f698:
 translate russian v2s38_b5881888:
 
     # u "Well well, nice of you to join us, Grayson."
-    u ""
+    u "Ну-ну, как мило, что ты присоединился к нам, Грейсон."
 
 # game/v2/scene38.rpy:84
 translate russian v2s38_5f8f5cfc:
@@ -64,7 +64,7 @@ translate russian v2s38_5ec6a5e0:
 translate russian v2s38_d5c82af8:
 
     # u "Hey, Sebastian. Good to see you."
-    u ""
+    u "Привет, Себастьян. Рад тебя видеть."
 
 # game/v2/scene38.rpy:106
 translate russian v2s38_677e8d5f:
@@ -82,7 +82,7 @@ translate russian v2s38_d5e85e08:
 translate russian v2s38_afe09ddd:
 
     # u "I'm glad you're looking forward to it."
-    u ""
+    u "Я рад, что ты этого ждёшь."
 
 # game/v2/scene38.rpy:116
 translate russian v2s38_d2d027a9:
@@ -1041,4 +1041,126 @@ translate russian strings:
     # game/v2/scene38.rpy:710
     old "Ask a question"
     new "Задать вопрос"
+
+# TODO: Translation updated at 2024-07-03 10:01
+
+# game/v2/scene38.rpy:92
+translate russian v2s38_0f328957:
+
+    # seb "Hey, [name]!"
+    seb "Привет, [name]!"
+
+# game/v2/scene38.rpy:106
+translate russian v2s38_ff62f47c:
+
+    # seb "Are you kidding, bro? When Lindsey said we're going clubbing, for free, in a limo... You being here is just a cherry on top!"
+    seb "Ты шутишь, бро? Когда Линдси сказала, что мы собираемся в клуб, на халяву, в лимузине... То, что ты здесь, - это просто вишенка на торте!"
+
+# game/v2/scene38.rpy:108
+translate russian v2s38_e1423ff7:
+
+    # seb "Yeah, you too. It's not often that we get to hang out without Chris and Grayson pushing us to throw down."
+    seb "Да, и я. Не часто нам удаётся потусоваться без того, чтобы Крис и Грейсон не подталкивали нас к драке."
+
+# game/v2/scene38.rpy:345
+translate russian v2s38_a75861ab:
+
+    # seb "I've been working so hard on things with the Wolves lately. This night out is seriously needed."
+    seb "В последнее время я задолбался разгребать дела в братстве. Этот ночной выезд действительно необходим."
+
+# game/v2/scene38.rpy:370
+translate russian v2s38_9630b383:
+
+    # seb "You're telling me."
+    seb "Можешь не рассказывать."
+
+# game/v2/scene38.rpy:375
+translate russian v2s38_890bf8cc:
+
+    # seb "I wonder what careers we'll all end up having."
+    seb "Интересно, какая карьера у нас у всех в конечном итоге сложится."
+
+# game/v2/scene38.rpy:414
+translate russian v2s38_be04fd53:
+
+    # seb "Yeah, Autumn will be fine... But the rest of us, well... He might be right."
+    seb "Да, с Отми всё будет в порядке... А вот с остальными, ну... Он может оказаться прав."
+
+# game/v2/scene38.rpy:440
+translate russian v2s38_d215e997:
+
+    # seb "What the hell is an Uncle Ricky...? You're going to put him in cheese?"
+    seb "Что за дядя Рикки?... Зачем ты собираешься поместить его в сыр?"
+
+# game/v2/scene38.rpy:569
+translate russian v2s38_7c4cb9f0:
+
+    # seb "Is it possible to live without sex?"
+    seb "Возможно ли прожить без секса?"
+
+# game/v2/scene38.rpy:579
+translate russian v2s38_188c1cae:
+
+    # seb "Really, Autumn? I'm genuinely surprised, I could set you up if you're ever interested, you're a babe."
+    seb "Серьёзно, Отэм? Я искренне удивлён! Я могу устроить тебе встречу, если ты когда-нибудь заинтересуешься, ты же красотка."
+
+# game/v2/scene38.rpy:668
+translate russian v2s38_1dd1543d:
+
+    # seb "Have you ever been in a relationship?"
+    seb "У тебя когда-нибудь были отношения?"
+
+# game/v2/scene38.rpy:678
+translate russian v2s38_a23bc8d7:
+
+    # seb "Man, that must be difficult."
+    seb "Блин, это, должно быть, тяжело."
+
+# game/v2/scene38.rpy:767
+translate russian v2s38_3b6f8467:
+
+    # seb "Wait... Really?"
+    seb "Погоди... Серьёзно?"
+
+# game/v2/scene38.rpy:819
+translate russian v2s38_c7aa51a1:
+
+    # seb "Whatever you decide, just know there'll be guys lining up to take you out on a first date."
+    seb "Что бы ты ни решила, просто знай, что парни выстроятся в очередь, чтобы пригласить тебя на первое свидание."
+
+# game/v2/scene38.rpy:834
+translate russian v2s38_1e4ca85e:
+
+    # seb "Linds! Quit fucking saying that to so many people!"
+    seb "Линдс! Нафига ты выдала мою тайну стольким людям!"
+
+# game/v2/scene38.rpy:854
+translate russian v2s38_52ff3b3d:
+
+    # seb "I'm lactose-intolerant! I made a mistake, okay?"
+    seb "У меня непереносимость лактозы! Я совершил ошибку, ясно?"
+
+# game/v2/scene38.rpy:856
+translate russian v2s38_9cd86da2:
+
+    # seb "I'm not proud of what my body does."
+    seb "Я не могу приказывать своему организму."
+
+# game/v2/scene38.rpy:876
+translate russian v2s38_65e5b50d:
+
+    # seb "*Sighs*"
+    seb "*Вздох*"
+
+# game/v2/scene38.rpy:920
+translate russian v2s38_e7b5db4f:
+
+    # seb "Damn, [name]. How do I get your reputation?"
+    seb "Чёрт, [name]. Откуда у тебя такая репутация?"
+
+# game/v2/scene38.rpy:964
+translate russian v2s38_bb776748:
+
+    # seb "Let's get our groove on, baby!"
+    seb "Давай оторвёмся, детка!"
 

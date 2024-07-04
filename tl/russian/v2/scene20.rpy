@@ -358,3 +358,215 @@ translate russian v2s20_d0b02948:
     # u "Yeah, that's him all right. You could say he has a strong moral code."
     u "Да, это точно он. Можно сказать, что у него строгий моральный кодекс."
 
+# TODO: Translation updated at 2024-07-03 10:01
+
+# game/v2/scene20.rpy:22
+translate russian v2s20_8f9a94b6:
+
+    # ch "Hey, [name]. Come take a seat. Let's get started."
+    ch "Привет, [name]. Присаживайся. Начнём."
+
+# game/v2/scene20.rpy:47
+translate russian v2s20_9a933454:
+
+    # ch "Of course, haha. Sorry! My mind is just like, completely focused on this meeting with the Dean."
+    ch "Конечно, хаха. Прости! Мои мысли сосредоточены на встрече с деканом."
+
+# game/v2/scene20.rpy:63
+translate russian v2s20_44fb0df8:
+
+    # ch "So, I've booked a meeting room and we'll head there when Mr. Lee arrives."
+    ch "Итак, я забронировала комнату для переговоров, и мы отправимся туда, когда прибудет мистер Ли."
+
+# game/v2/scene20.rpy:65
+translate russian v2s20_fb7f2869:
+
+    # ch "When Ms. Rose arrives, we can head over to the meeting room I booked."
+    ch "Когда мисс Роуз придёт, мы отправимся в комнату для переговоров, которую я забронировала."
+
+# game/v2/scene20.rpy:79
+translate russian v2s20_9205b70b:
+
+    # ch "Thanks, so here's my game plan so far... I've written down some notes."
+    ch "Спасибо, вот мой план на данный момент... Я записала некоторые мысли."
+
+# game/v2/scene20.rpy:83
+translate russian v2s20_4f068244:
+
+    # ch "We already have a good idea what Mr. Lee is all about. He likes professionalism and manners."
+    ch "Мы уже имеем представление о том, что представляет из себя мистер Ли. Он профессионал и любит манеры."
+
+# game/v2/scene20.rpy:85
+translate russian v2s20_a073eabd:
+
+    # ch "He's very detail-orientated and likes to talk about his philosophy on life..."
+    ch "Он ориентирован на детали и любит говорить о своей жизненной философии..."
+
+# game/v2/scene20.rpy:87
+translate russian v2s20_d7e0a1a9:
+
+    # ch "I've also written down some notes for the meeting."
+    ch "Я также набрасала некоторые заметки по встрече."
+
+# game/v2/scene20.rpy:91
+translate russian v2s20_a8d9e74b:
+
+    # ch "Basically, Ms. Rose is all about the girls. She loves to support other women, to help them reach their goals, etc..."
+    ch "По сути, мисс Роуз - это всё для девушек. Она любит поддерживать других женщин, помогать им достигать своих целей и т.д..."
+
+# game/v2/scene20.rpy:93
+translate russian v2s20_92cd49a5:
+
+    # ch "So personally, I think she'll like the idea of reduced tuition for all Chicks."
+    ch "Поэтому, я считаю, что ей понравится идея снизить плату за обучение для всех девчонок."
+
+# game/v2/scene20.rpy:95
+translate russian v2s20_2bfe7d01:
+
+    # ch "She's big into women being independent and the Chicks being a positive influence."
+    ch "Она очень любит, когда женщины независимы, а Чикс оказывают положительное влияние."
+
+# game/v2/scene20.rpy:97
+translate russian v2s20_ec5092bf:
+
+    # ch "So I think she'll like that I'm being ambitious for the good of everyone here."
+    ch "Думаю, ей понравится, что я проявляю амбициозность ради всеобщего блага."
+
+# game/v2/scene20.rpy:111
+translate russian v2s20_e28b5ade:
+
+    # ch "Exactly, right. So, what he hates are things like lying and cheating. Not being honest with Mr. Lee will always backfire..."
+    ch "Точно, точно. Значит, он ненавидит такие вещи, как ложь и обман. Если не быть честным с мистером Ли, это приведет к обратному результату..."
+
+# game/v2/scene20.rpy:113
+translate russian v2s20_6e3c4576:
+
+    # ch "Also, I know she's hung out with the Dean outside of campus."
+    ch "Также я знаю, что она общается с деканом за пределами кампуса."
+
+# game/v2/scene20.rpy:115
+translate russian v2s20_64ad92bf:
+
+    # ch "So as a close friend of the Dean, gaining Ms. Rose's signature should give us a huge chance of success."
+    ch "Поэтому, как близкий друг декана, получение подписи г-жи Роуз даст нам огромный шанс на успех."
+
+# game/v2/scene20.rpy:126
+translate russian v2s20_8c253f4d:
+
+    # ch "He's going to want to hear our true motives behind getting reduced tuition for all the Chicks."
+    ch "Он захочет услышать наши истинные мотивы, по которым мы хотим добиться снижения платы за обучение для всех Чикс."
+
+# game/v2/scene20.rpy:128
+translate russian v2s20_dac8e380:
+
+    # ch "And it must make sense for the college too, that's huge. So, we'll need to explain how the Chicks benefit SVC."
+    ch "И для колледжа это тоже должно иметь смысл, это очень важно. Итак, нам нужно ему объяснить, как Чикс приносят пользу SVC."
+
+# game/v2/scene20.rpy:138
+translate russian v2s20_aa98194a:
+
+    # ch "We just need to be sure that we don't say anything to annoy him or piss him off."
+    ch "Нам нужно быть уверенными в том, что мы не скажем ничего такого, что сможет его раздражать или вывести из себя."
+
+# game/v2/scene20.rpy:140
+translate russian v2s20_0854d326:
+
+    # ch "Make sure we present only the best points of our proposal, no wasting time."
+    ch "Нужно постараться, что бы представить ему только лучшую сторону нашего предложения."
+
+# game/v2/scene20.rpy:150
+translate russian v2s20_a4f7c1ff:
+
+    # ch "Oh my God, shh! Come on, we need to focus."
+    ch "Боже мой, шшш! Давай, нам нужно сосредоточиться."
+
+# game/v2/scene20.rpy:158
+translate russian v2s20_e1f29aee:
+
+    # ch "*Sighs* I just hope my issues with Nora don't work against us here..."
+    ch "*Вздыхает* Просто надеюсь, что мои проблемы с Норой не будут работать против нас..."
+
+# game/v2/scene20.rpy:168
+translate russian v2s20_205bfa6a:
+
+    # ch "I can see Ms. Rose bringing her up in the conversation, because she's a Chick, and her stepdaughter..."
+    ch "Я знаю, что мисс Роуз поднимет её в разговоре, потому что она Чикс, а ещё и её падчерица..."
+
+# game/v2/scene20.rpy:170
+translate russian v2s20_080eb729:
+
+    # ch "But I'd like to make sure we avoid that. This isn't about Nora. So, whatever you do, don't mention her."
+    ch "Но я хочу убедиться, что мы избежим этого. Речь не о Норе. Поэтому, не упоминай её."
+
+# game/v2/scene20.rpy:180
+translate russian v2s20_7c4bf844:
+
+    # ch "Also, something that Ms. Rose doesn't like is selfishness. I think that's been obvious since her split from Mr. Rose."
+    ch "Кроме того, мисс Роуз не нравится эгоизм. Думаю, это очевидно с тех пор, как она рассталась с мистером Роузом."
+
+# game/v2/scene20.rpy:182
+translate russian v2s20_6bf0b53a:
+
+    # ch "She hates the idea of men being large and in charge when it comes to her occupation..."
+    ch "Она ненавидит мысль о том, что мужчины должны быть главными во всём, когда речь идет о её профессии..."
+
+# game/v2/scene20.rpy:194
+translate russian v2s20_7da6be1e:
+
+    # ch "Are you blushing? What's going on?"
+    ch "Ты покраснел? Что происходит?"
+
+# game/v2/scene20.rpy:204
+translate russian v2s20_acc76f2b:
+
+    # ch "Just tread carefully and make sure you don't interrupt either of us or sound like you're mansplaining anything."
+    ch "Просто будь осторожен, не перебивай никого из нас и не говори так, будто ты понимаешь лучше других."
+
+# game/v2/scene20.rpy:214
+translate russian v2s20_fe5f28c4:
+
+    # ch "Oh yeah. Totally. Right..."
+    ch "О да. Конечно. Точно..."
+
+# game/v2/scene20.rpy:224
+translate russian v2s20_ba5486ea:
+
+    # ch "Shh... She'll be here any minute. We have to focus."
+    ch "Шшш... Она будет с минуты на минуту. Мы должны сосредоточиться."
+
+# game/v2/scene20.rpy:234
+translate russian v2s20_a9b4ec2f:
+
+    # ch "Lastly, with Dean Harrison we focus on improving the school."
+    ch "Наконец, вместе с деканом Харрисоном мы поработаем над улучшением школы."
+
+# game/v2/scene20.rpy:239
+translate russian v2s20_c6e6e47c:
+
+    # ch "She's been on this whole crusade against the sororities. And the frats too."
+    ch "Она участвовала в этом крестовом походе против женских обществ. И против братств тоже."
+
+# game/v2/scene20.rpy:241
+translate russian v2s20_5f7d7c7d:
+
+    # ch "So we need to convince her that helping the Chicks is good for SVC. And that we'll give back to the community or whatever."
+    ch "Так что нам нужно убедить её, что помощь Чикс - это хорошо для SVC. И это мы вернем это обществу или что-то в этом роде."
+
+# game/v2/scene20.rpy:246
+translate russian v2s20_67bb979c:
+
+    # ch "Do you think we should take this cheat sheet with us? Or would that ruin everything?"
+    ch "Как думаешь, стоит нам взять эти записи с собой? Или это всё испортит?"
+
+# game/v2/scene20.rpy:266
+translate russian v2s20_c6b47bb0:
+
+    # ch "Just don't look at it too much, it might seem like you're not paying attention."
+    ch "Только не смотри в них всё время, будет казаться, что ты не обращаешь внимания не собеседника."
+
+# game/v2/scene20.rpy:283
+translate russian v2s20_23534d75:
+
+    # ch "Okay Mr. Confident. I trust you."
+    ch "Хорошо, мистер Уверенность. Я доверюсь тебе."
+

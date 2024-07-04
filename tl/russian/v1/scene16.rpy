@@ -505,3 +505,209 @@ translate russian v1s16_d6818f12:
     # cl "*Whispering* Plus, the President always needs an assistant, and if it's my job to, you know, take care of you, while also running the sorority..."
     cl "*Шёпотом* Плюс, президенту всегда нужен помощник, и если это моя работа, знаешь, заботиться о тебе, одновременно управляя женским обществом..."
 
+# TODO: Translation updated at 2024-07-03 10:01
+
+# game/v1/scene16.rpy:22
+translate russian v1s16_8f2333c0:
+
+    # ch "There you are! Are you seeing what I'm seeing?!"
+    ch "Вот ты где! Ты видишь то, что вижу я?!"
+
+# game/v1/scene16.rpy:32
+translate russian v1s16_33c32555:
+
+    # ch "\"Serious\" isn't even close."
+    ch "\"Серьёзно\" - это мягко сказано."
+
+# game/v1/scene16.rpy:55
+translate russian v1s16_569f5aeb:
+
+    # ch "Ugh. I thought we'd get back and have a chance to get comfortable first, but I literally walked into a pro-Lindsey campus."
+    ch "Ух. Я думала, что когда мы вернемся, я смогу комфортно подготовиться, но я буквально вошла в кампус сторонников Линдси."
+
+# game/v1/scene16.rpy:65
+translate russian v1s16_522f4993:
+
+    # ch "I didn't have a choice. I just wanted to go home and sleep last night, yet I was up for hours being a part of non-stop sorority bickering."
+    ch "У меня не было шанса. Прошлой ночью я хотела пойти домой и поспать, но я не спала несколько часов, участвуя в безостановочной перебранке сестер."
+
+# game/v1/scene16.rpy:75
+translate russian v1s16_f4f66e1f:
+
+    # ch "Really, [name]? About all of this, obviously!"
+    ch "Серьёзно, [name]? Обо всём этом, очевидно!"
+
+# game/v1/scene16.rpy:77
+translate russian v1s16_9e74c094:
+
+    # ch "Like, this is low-key bullshit."
+    ch "Это каое-то низкопробное дерьмо."
+
+# game/v1/scene16.rpy:89
+translate russian v1s16_206178e7:
+
+    # ch "That's where it gets even fucking worse, 'cause I thought the same thing."
+    ch "Вот тут становится ещё хуже, потому что я думала то же самое."
+
+# game/v1/scene16.rpy:91
+translate russian v1s16_2b6fa857:
+
+    # ch "Come to find out that this shit has been up for at least a week. She's been having people work for her while we were away."
+    ch "Выяснилось, что всё это длится уже как минимум неделю. Пока нас не было, на неё работали люди."
+
+# game/v1/scene16.rpy:101
+translate russian v1s16_29339afe:
+
+    # ch "Like, what the actual fuck!? Am I missing something?!"
+    ch "Какого хрена!? Я что-то упустила?!"
+
+# game/v1/scene16.rpy:103
+translate russian v1s16_d3a4749a:
+
+    # ch "I have to win this race! She can't just, fuck everything up all because she doesn't trust me!"
+    ch "Я должна выиграть эту гонку! Она не может просто всё испортить, потому что не доверяет мне!"
+
+# game/v1/scene16.rpy:113
+translate russian v1s16_cbe12b8d:
+
+    # ch "I need a lot of help if I'm going to beat her, [name]. It won't be as easy as I thought."
+    ch "Мне нужна помощь, если я хочу победить её, [name]. Это будет не так легко, как я думала."
+
+# game/v1/scene16.rpy:115
+translate russian v1s16_ffb05d3e:
+
+    # ch "Chris has pretty much promised that the Wolves will side with me so that's a blessing, but the main person I need support from is you."
+    ch "Крис пообещал, что Волки будут на моей стороне, так что это благословение, но главный человек, от которого мне нужна поддержка, - это ты."
+
+# game/v1/scene16.rpy:125
+translate russian v1s16_8fd0215e:
+
+    # ch "I know I've asked you before, but this time I need a final answer. Are you going to help me with this campaign so I can beat Lindsey?"
+    ch "Я знаю, что уже спрашивала тебя раньше, но в этот раз мне нужен окончательный ответ. Ты поможешь мне с кампанией, чтобы я смогла победить Линдси?"
+
+# game/v1/scene16.rpy:130
+translate russian v1s16_3236deaa:
+
+    # ch "I remember how you said you'd support me before, but..."
+    ch "Я помню, как ты говорил, что поддержишь меня раньше, но..."
+
+# game/v1/scene16.rpy:135
+translate russian v1s16_91ca9f5b:
+
+    # ch "If you'd be willing to help me win, I'd be so grateful..."
+    ch "Если ты готов помочь мне выиграть, я буду очень благодарна..."
+
+# game/v1/scene16.rpy:137
+translate russian v1s16_3db5407e:
+
+    # ch "I'd do anything to thank you."
+    ch "Я сделаю всё, чтобы отблагодарить тебя."
+
+# game/v1/scene16.rpy:143
+translate russian v1s16_a8fbff02:
+
+    # ch "I can think of a few rewards already."
+    ch "Я уже могу придумать несколько вознаграждений."
+
+# game/v1/scene16.rpy:153
+translate russian v1s16_0054842a:
+
+    # ch "*Whispering* Plus, the President always needs an assistant, and if it's my job to, you know, take care of you, while also running the sorority..."
+    ch "*Шёпотом* Плюс, президенту всегда нужен помощник, и если это моя работа, знаешь, заботиться о тебе, одновременно управляя женским обществом..."
+
+# game/v1/scene16.rpy:155
+translate russian v1s16_fe595e30:
+
+    # ch "*Whispering* I might end up needing someone to help me with all of that... and all of you."
+    ch "*Шёпотом* Мне может понадобиться кто-то, кто поможет мне со всем этим... и со всеми вами."
+
+# game/v1/scene16.rpy:157
+translate russian v1s16_a6cbb5e4:
+
+    # ch "*Whispering* Following me?"
+    ch "*Шёпотом* Последуешь за мной?"
+
+# game/v1/scene16.rpy:167
+translate russian v1s16_9a5635cb:
+
+    # ch "So, what's your answer? Will you help me try to win this campaign?"
+    ch "Итак, твой ответ? Поможешь мне выиграть эту кампанию?"
+
+# game/v1/scene16.rpy:195
+translate russian v1s16_47131a95:
+
+    # ch "THANK YOU, THANK YOU, THANK YOU!"
+    ch "СПАСИБО, СПАСИБО, СПАСИБО!"
+
+# game/v1/scene16.rpy:200
+translate russian v1s16_718af497:
+
+    # ch "Thank you so much, [name]."
+    ch "Большое спасибо, [name]."
+
+# game/v1/scene16.rpy:210
+translate russian v1s16_d77bb797:
+
+    # ch "Meet me in the library after your class. We have lots to discuss!"
+    ch "Встретимся в библиотеке после занятий, нам есть что обсудить!"
+
+# game/v1/scene16.rpy:259
+translate russian v1s16_1287c0b1:
+
+    # ch "You can't spare a little time to help me out with any of this?"
+    ch "Ты не можешь выкроить ни грамма времени, чтобы помочь мне?"
+
+# game/v1/scene16.rpy:270
+translate russian v1s16_f3656738:
+
+    # ch "What do you mean you don't have time?! You have time to fuck me, but no time to talk?"
+    ch "Что значит, у тебя нет времени?! У тебя есть время трахать меня, но нет времени поговорить?"
+
+# game/v1/scene16.rpy:280
+translate russian v1s16_6aeed30c:
+
+    # ch "I just don't see how you could choose not to help me."
+    ch "Я просто не понимаю, как ты мог отказаться мне помочь."
+
+# game/v1/scene16.rpy:290
+translate russian v1s16_0761ea91:
+
+    # ch "It's fine, really."
+    ch "Просто, отлично."
+
+# game/v1/scene16.rpy:292
+translate russian v1s16_cf110424:
+
+    # ch "I'll remember how busy you are the next time you want to \"hang out\"."
+    ch "Я запомню это, когда в следующий раз ты захочешь потусоваться."
+
+# game/v1/scene16.rpy:308
+translate russian v1s16_327aca88:
+
+    # ch "I'm always having to do things on my own."
+    ch "Мне всегда приходится всё делать самой."
+
+# game/v1/scene16.rpy:318
+translate russian v1s16_8f4ba83c:
+
+    # ch "Don't be."
+    ch "Не надо."
+
+# game/v1/scene16.rpy:320
+translate russian v1s16_55b10b55:
+
+    # ch "With or without your help I'm winning this thing."
+    ch "С твоей помощью или без тебя я выиграю эту компанию."
+
+# game/v1/scene16.rpy:322
+translate russian v1s16_d29c5782:
+
+    # ch "I wanted your help because I appreciate your opinion, but also because I thought it'd be nice to spend time together."
+    ch "Мне нужна была твоя помощь, потому что я ценю твоё мнение, а также потому, что я подумала, что было бы здорово провести время вместе."
+
+# game/v1/scene16.rpy:324
+translate russian v1s16_a40d7c28:
+
+    # ch "But since you don't have time, I'll leave you be. See you later."
+    ch "Но раз у тебя нет времени, я оставлю тебя. Увидимся позже."
+
